@@ -3417,7 +3417,9 @@
   a) pięciodobowego biochemicznego zapotrzebowania tlenu (BZT5) - 4,28 zł,
   b) chemicznego zapotrzebowania tlenu - 1,71 zł,
   c) zawiesiny ogólnej - 0,52 zł,
-  d) sumy chlorków i siarczanów (Cl+SO4) - 0,050 zł;
+  d) sumy chlorków i siarczanów (Cl+SO4):
+    – 0,10 zł - dla zakładów odprowadzających ścieki o zwiększonym zasoleniu,
+    – 0,05 zł - dla pozostałych ścieków;
 9) za wprowadzanie ścieków do wód lub do ziemi w formie opłaty zmiennej za 1 kg substancji wprowadzanych ze ściekami do wód lub do ziemi dla:
   a) fenoli lotnych - 45,55 zł,
   b) heksachlorocykloheksanu (HCH), tetrachlorometanu (czterochlorku węgla - CCl4), pentachlorofenolu (PCP), aldryny, dieldryny, endryny, izodryny, heksachlorobenzenu (HCB), heksachlorobutadienu (HCBD), trichlorometanu (chloroformu - CHCl3), 1,2-dichloroetanu (EDC), trichloroetylenu (TRI), tetrachloroetylenu (nadchloroetylenu - PER), trichlorobenzenu (TCB), rtęci, kadmu, cynku, miedzi, niklu, chromu, ołowiu, arsenu, wanadu i srebra - 124,56 zł;
