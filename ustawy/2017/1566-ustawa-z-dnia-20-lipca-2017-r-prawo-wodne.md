@@ -3224,6 +3224,22 @@
     b) znak decyzji,
     c) datę udzielenia pozwolenia wodnoprawnego,
     d) datę obowiązywania pozwolenia wodnoprawnego.
+16c. Podmiot obowiązany do ponoszenia opłat za usługi wodne za pobór wód do celów, o których mowa w art. 270 ust. 2 pkt 4, jest obowiązany przekazywać Wodom Polskim deklaracje kwartalne o ilości energii cieplnej wyprodukowanej lub pobranej w instalacji do chłodzenia lub ogrzewania, wyrażonej w MWh, zgodnie ze wzorem zamieszczonym w Biuletynie Informacji Publicznej na stronie podmiotowej Wód Polskich, w terminie 14 dni od dnia, w którym upływa dzień przypadający na koniec każdego kwartału.
+16d. Deklaracja, o której mowa w ust. 16c, zawiera:
+  1) oznaczenie podmiotu składającego deklarację, określające:
+    a) nazwę,
+    b) REGON,
+    c) adres siedziby,
+    d) numer telefonu,
+    e) adres e-mail;
+  2) określenie pompy ciepła lub akumulatora ciepła warstwy wodonośnej, którego dotyczy deklaracja;
+  3) określenie ilości energii cieplnej wyprodukowanej lub pobranej w instalacji;
+  4) określenie kwartału, za który jest składana deklaracja;
+  5) dane dotyczące pozwolenia wodnoprawnego:
+    a) oznaczenie organu właściwego do wydania pozwolenia wodnoprawnego,
+    b) znak decyzji,
+    c) datę udzielenia pozwolenia wodnoprawnego,
+    d) datę obowiązywania pozwolenia wodnoprawnego.
 17. Wysokość opłat, o których mowa w ust. 1-7 i 9, ustalają Wody Polskie oraz przekazują podmiotom obowiązanym do ponoszenia opłat za usługi wodne, w formie informacji, zawierającej także sposób obliczenia tej opłaty.
 18. Podmiot obowiązany do ponoszenia opłat za usługi wodne wnosi opłatę na rachunek bankowy Wód Polskich w terminie 14 dni od dnia, w którym doręczono mu informację, o której mowa w ust. 17.
 19. Jeżeli podmiot obowiązany do ponoszenia opłat za usługi wodne zaniechał wykonania obowiązku, o którym mowa w ust. 18, właściwy organ Wód Polskich określa wysokość opłaty w drodze decyzji.
