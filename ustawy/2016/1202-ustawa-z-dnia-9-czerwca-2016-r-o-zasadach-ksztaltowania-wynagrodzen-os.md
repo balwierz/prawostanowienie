@@ -26,20 +26,7 @@
   6) walnym zgromadzeniu - należy przez to rozumieć walne zgromadzenie lub zgromadzenie wspólników;
   7) spółce - należy przez to rozumieć spółkę, z której akcji wykonują uprawnienia podmioty uprawnione do wykonywania praw udziałowych;
   8) spółce publicznej - należy przez to rozumieć spółkę, w której co najmniej jedna akcja jest zdematerializowana w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2014 r. poz. 94, z późn. zm.), z wyjątkiem spółki, której akcje zostały zarejestrowane na podstawie art. 5a ust. 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi;
-  9) spółce realizującej misję publiczną - należy przez to rozumieć:
-    a) spółkę, której przedmiot działalności albo cel działania został określony ustawą, w szczególności:
-      – jednostkę publicznej radiofonii i telewizji,
-      – spółkę zarządzającą lotniskiem użytku publicznego w rozumieniu art. 54 ust. 2 ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze (Dz. U. z 2016 r. poz. 605 i 904),
-      – operatora systemu przesyłowego, operatora systemu dystrybucyjnego, operatora systemu magazynowania, operatora systemu skraplania gazu ziemnego, operatora systemu połączonego oraz operatora sieci transportowej dwutlenku węgla w rozumieniu odpowiednio art. 3 pkt 24-28a ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2012 r. poz. 1059, z późn. zm.),
-      – spółkę, o której mowa w art. 5 ust. 2 ustawy z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2016 r. poz. 471),
-      – spółkę zarządzającą specjalną strefą ekonomiczną w rozumieniu ustawy z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2015 r. poz. 282 oraz z 2016 r. poz. 1020),
-      – zarządcę infrastruktury w rozumieniu art. 4 pkt 7 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2015 r. poz. 1297, 1741, 1753, 1777 i 1893 oraz z 2016 r. poz. 542),
-      – Zarządcę Rozliczeń Spółka Akcyjna, o której mowa w ustawie z dnia 29 czerwca 2007 r. o zasadach pokrywania kosztów powstałych u wytwórców w związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. poz. 905, z późn. zm.),
-      – Korporację Ubezpieczeń Kredytów Eksportowych Spółka Akcyjna, o której mowa w ustawie z dnia 7 lipca 1994 r. o gwarantowanych przez Skarb Państwa ubezpieczeniach eksportowych (Dz. U. z 2016 r. poz. 714 i 888),
-      – podmiot zarządzający portem morskim w rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2010 r. poz. 179 oraz z 2015 r. poz. 1569 i 1642),
-    b) Polski Fundusz Rozwoju Spółka Akcyjna z siedzibą w Warszawie,
-    c) Agencję Rozwoju Przemysłu Spółka Akcyjna z siedzibą w Warszawie,
-    d) Polską Agencję Informacji i Inwestycji Zagranicznych Spółka Akcyjna z siedzibą w Warszawie;
+  9) spółce realizującej misję publiczną - należy przez to rozumieć spółkę, o której mowa w art. 2 pkt 8 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. poz. 2259);
   10) spółce realizującej zadania publiczne - należy przez to rozumieć spółkę, na którą ustawa albo statut nakłada dodatkowe obowiązki w zakresie realizacji celów publicznych, o których mowa w art. 6 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2015 r. poz. 1774 i 1777 oraz z 2016 r. poz. 65);
   11) podstawie wymiaru - należy przez to rozumieć wysokość przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego.
 
@@ -53,7 +40,7 @@
 **Art. 3.**
 1. Kandydat na członka organu nadzorczego wskazany przez podmiot uprawniony do wykonywania praw udziałowych składa podmiotowi uprawnionemu do wykonywania praw udziałowych oświadczenie o przyjęciu obowiązku kształtowania w spółce wynagrodzeń członków organu zarządzającego zgodnie z ustawą.
 2. Obowiązek kształtowania w spółce wynagrodzeń członków organu zarządzającego zgodnie z ustawą członek organu nadzorczego wskazany przez podmiot uprawniony do wykonywania praw udziałowych realizuje poprzez wykonywanie uprawnień wynikających z przepisów prawa oraz postanowień statutu dotyczących organu nadzorczego, w szczególności przy podejmowaniu uchwał.
-3. Minister właściwy do spraw Skarbu Państwa określa, w drodze rozporządzenia, wzór oświadczenia, o którym mowa w ust. 1, uwzględniając potrzebę skutecznej realizacji obowiązku kształtowania w spółce wynagrodzeń członków organu zarządzającego zgodnie z ustawą.
+3. Prezes Rady Ministrów określa, w drodze rozporządzenia, wzór oświadczenia, o którym mowa w ust. 1, uwzględniając potrzebę skutecznej realizacji obowiązku kształtowania w spółce wynagrodzeń członków organu zarządzającego zgodnie z ustawą.
 
 **Art. 4.**
 1. Projekt uchwały w sprawie zasad kształtowania wynagrodzeń członków organu zarządzającego oraz projekt uchwały w sprawie kształtowania wynagrodzeń członków organu zarządzającego, zwane dalej „uchwałami w sprawie wynagrodzeń”, przewidują, że wynagrodzenie całkowite członka organu zarządzającego składa się z części stałej, stanowiącej wynagrodzenie miesięczne podstawowe, określonej kwotowo, oraz części zmiennej, stanowiącej wynagrodzenie uzupełniające za rok obrotowy spółki.
@@ -101,7 +88,9 @@
   7) realizacja inwestycji, z uwzględnieniem w szczególności skali, stopy zwrotu, innowacyjności, terminowości realizacji;
   8) zmiana pozycji rynkowej spółki, liczonej jako udział w rynku lub według innych kryteriów lub relacji z kontrahentami oznaczonymi jako kluczowi według określonych kryteriów;
   9) realizacja prowadzonej polityki kadrowej i wzrost zaangażowania pracowników.
-7. Dla spółek będących przedsiębiorcami dominującymi, w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184, 1618 i 1634), sporządzających skonsolidowane sprawozdania finansowe na podstawie przepisów o rachunkowości, uwzględnienie skali działalności spółki, o której mowa w ust. 2, oraz cele, o których mowa w ust. 6, przyjmuje się dla spółki dominującej i podmiotów od niej zależnych wszystkich szczebli w taki sposób, jakby grupa kapitałowa stanowiła jeden podmiot. W każdym przypadku jako odrębny cel, warunkujący możliwość otrzymania części zmiennej wynagrodzenia, stanowiącej wynagrodzenie uzupełniające za rok obrotowy spółki, określa się ukształtowanie i stosowanie zasad wynagradzania członków organów zarządzających i nadzorczych podmiotów zależnych odpowiadających zasadom określonym w ustawie.
+7. Dla spółek będących przedsiębiorcami dominującymi, w rozumieniu art. 4 pkt 3 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2015 r. poz. 184, 1618 i 1634 oraz z 2016 r. poz. 1823), sporządzających skonsolidowane sprawozdania finansowe na podstawie przepisów o rachunkowości, uwzględnienie skali działalności spółki, o której mowa w ust. 2, oraz cele, o których mowa w ust. 6, przyjmuje się dla spółki dominującej i podmiotów od niej zależnych wszystkich szczebli w taki sposób, jakby grupa kapitałowa stanowiła jeden podmiot. W każdym przypadku jako odrębny cel, warunkujący możliwość otrzymania części zmiennej wynagrodzenia, stanowiącej wynagrodzenie uzupełniające za rok obrotowy spółki, określa się:
+  1) ukształtowanie i stosowanie zasad wynagradzania członków organów zarządzających i nadzorczych podmiotów zależnych odpowiadających zasadom określonym w ustawie;
+  2) realizację obowiązków, o których mowa w art. 17-20, art. 22 i art. 23 ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym
 8. Projekty uchwał w sprawie wynagrodzeń wyznaczają cele zarządcze, wagi tych celów, a także obiektywne i mierzalne kryteria ich realizacji i rozliczania. Projekt uchwały w sprawie zasad kształtowania wynagrodzeń członków organu zarządzającego może ponadto przewidywać, że uszczegółowienia celów, wag i kryteriów, o których mowa w zdaniu pierwszym, dokona organ lub podmiot określający wynagrodzenie członka organu zarządzającego i zawierający z tym członkiem umowę o świadczenie usług zarządzania.
 9. Projekty uchwał w sprawie wynagrodzeń zawierają postanowienia przewidujące, że wynagrodzenie uzupełniające członka organu zarządzającego, o którym mowa w ust. 5, przysługuje po zatwierdzeniu sprawozdania zarządu z działalności spółki oraz sprawozdania finansowego spółki za ubiegły rok obrotowy oraz udzieleniu temu członkowi organu zarządzającego absolutorium z wykonania przez niego obowiązków przez walne zgromadzenie.
 
@@ -160,6 +149,11 @@
   1) realizowanej przez państwo polityki zdrowotnej, naukowej, kulturalnej, transportowej, energetycznej, obronnej, rolnej, regionalnej lub zagranicznej lub
   2) sektora gospodarki, w ramach którego prowadzą działalność, ze względu na przedmiot prowadzonej działalności, liczbę zatrudnionych pracowników, osiągany roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych lub sumy aktywów ich bilansu
 - mając na względzie konieczność racjonalnego gospodarowania środkami publicznymi.
+
+**Art. 12a.**
+1. Kto uporczywie uchyla się od wykonania ciążącego na nim z mocy niniejszej ustawy obowiązku podejmowania działań mających na celu ukształtowanie i stosowanie w spółce zasad wynagradzania członków organu zarządzającego i członków organu nadzorczego, o którym mowa w art. 2 ust. 1,
+   podlega grzywnie.
+2. Postępowanie w sprawach, o których mowa w ust. 1, toczy się na podstawie przepisów ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. z 2016 r. poz. 1749, 1948 i 2138).
 
 **Art. 13.** W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z 2008 r. poz. 1458, z 2009 r. poz. 1375, z 2010 r. poz. 1228 oraz z 2015 r. poz. 1635) w art. 2 pkt 9 otrzymuje brzmienie:
 
