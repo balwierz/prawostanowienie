@@ -41,7 +41,7 @@
 8. Minister właściwy do spraw gospodarki morskiej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
   1) wzór certyfikatu wydawanego przez organ, o którym mowa w ust. 1 pkt 1,
   2) wzór certyfikatu wydawanego przez organ, o którym mowa w ust. 1 pkt 2
-- mając na względzie zakres niezbędnych danych oraz konieczność zapewnienia prawidłowości prowadzonej dokumentacji dla celów kontroli skarbowej lub podatkowej.
+mając na względzie zakres niezbędnych danych oraz konieczność zapewnienia prawidłowości prowadzonej dokumentacji dla celów kontroli celno-skarbowej lub podatkowej.
 
 **Art. 5.**
 1. Podstawą opodatkowania zryczałtowanym podatkiem jest przychód należny ze sprzedaży statku lub przebudowy statku osiągnięty w roku podatkowym, z wyłączeniem podatku od towarów i usług.
@@ -87,7 +87,7 @@
 **Art. 13.**
 1. Przedsiębiorca okrętowy jest obowiązany za każdy miesiąc roku podatkowego obliczać zryczałtowany podatek od przychodu należnego, o którym mowa w art. 5 ust. 1, i wpłacać ten podatek, bez wezwania, na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego wskazany w art. 11 wykonuje swoje zadania, w terminie do 20. dnia każdego miesiąca za miesiąc poprzedni, a za ostatni miesiąc roku podatkowego - w terminie złożenia zeznania, o którym mowa w ust. 2.
 2. Przedsiębiorca okrętowy jest obowiązany złożyć w urzędzie skarbowym, o którym mowa w ust. 1, zeznanie, według ustalonego wzoru, o wysokości zryczałtowanego podatku od przychodu należnego, o którym mowa w art. 5 ust. 1, za dany rok podatkowy do końca pierwszego miesiąca następnego roku podatkowego.
-3. Zryczałtowany podatek wynikający z zeznania, o którym mowa w ust. 2, jest podatkiem należnym za dany rok podatkowy, chyba że właściwy organ podatkowy lub właściwy organ kontroli skarbowej wyda decyzję, w której określi inną wysokość podatku.
+3. Zryczałtowany podatek wynikający z zeznania, o którym mowa w ust. 2, jest podatkiem należnym za dany rok podatkowy, chyba że właściwy organ podatkowy wyda decyzję, w której określi inną wysokość podatku.
 
 **Art. 14.** Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, wzory:
 1) oświadczenia,
