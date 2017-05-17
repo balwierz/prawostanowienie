@@ -173,6 +173,7 @@
   6) wykonywanie czynności w sprawach z zakresu prawa pracy w stosunku do dyrektora szkoły lub placówki.
 2. W celu wykonywania zadań wymienionych w ust. 1 organy prowadzące szkoły i placówki, o których mowa w art. 8 ust. 2 pkt 2 i 3 oraz ust. 4-13, mogą tworzyć jednostki obsługi ekonomiczno-administracyjnej szkół i placówek lub organizować wspólną obsługę administracyjną, finansową i organizacyjną prowadzonych szkół i placówek, o której mowa w ust. 1 pkt 4.
 3. Minister Obrony Narodowej może udzielić organowi prowadzącemu szkołę, w związku z realizacją zobowiązań Rzeczypospolitej Polskiej wynikających z ratyfikowanych umów międzynarodowych w dziedzinie obronności, których stroną jest Rzeczpospolita Polska, dotacji celowej na dofinansowanie zadań bieżących lub inwestycyjnych.
+3a. Minister Obrony Narodowej może udzielić organowi prowadzącemu szkołę, która prowadzi działalność dydaktyczno-wychowawczą w dziedzinie obronności państwa, dotacji celowej na dofinansowanie zadań bieżących lub inwestycyjnych.
 4. Obowiązek zapewnienia wykonywania czynności, o których mowa w ust. 1 pkt 4, nie dotyczy organów prowadzących szkoły i placówki, które na podstawie art. 2 ust. 1 pkt 2 oraz ust. 4 ustawy z dnia 29 września 1994 r. o rachunkowości, nie są obowiązane do stosowania zasad rachunkowości określonych tą ustawą.
 
 **Art. 11.**
