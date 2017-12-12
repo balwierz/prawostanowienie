@@ -2385,7 +2385,8 @@
   23) planują utrzymywanie śródlądowych dróg wodnych, z wyłączeniem śródlądowych dróg wodnych o szczególnym znaczeniu transportowym;
   24) współdziałają z wojewodami w zakresie opracowywania wojewódzkiego planu zarządzania kryzysowego;
   25) podejmują działania mające na celu bilansowanie ilościowe i jakościowe wód powierzchniowych i podziemnych;
-  26) podejmują działania mające na celu zapewnienie na potrzeby ludności, przemysłu oraz rolnictwa wody w odpowiedniej ilości i jakości.
+  26) podejmują działania mające na celu zapewnienie na potrzeby ludności, przemysłu oraz rolnictwa wody w odpowiedniej ilości i jakości;
+  27) pełnią funkcję organu regulacyjnego, o którym mowa w art. 27a ust. 1 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2017 r. poz. 328, 1566 i 2180).
 4. Zarządy zlewni wykonują następujące zadania Wód Polskich:
   1) z uwzględnieniem przepisów art. 397 ust. 3 prowadzą sprawy dotyczące:
     a) decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 188 ust. 3 i 5, art. 190 ust. 2, 13 i 14, art. 191 ust. 1 i 3, art. 226 ust. 4, art. 237 ust. 3 pkt 1, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 281 ust. 7, art. 310 ust. 7, art. 311 ust. 6 oraz w art. 469 ust. 3,
@@ -2423,7 +2424,7 @@
   2) wytwarzanie energii w elektrowniach wodnych;
   3) prowadzenie działalności edukacyjnej i turystycznej związanej z gospodarką wodną;
   4) świadczenie usług w zakresie towarowego i pasażerskiego transportu wodnego;
-  5) inną działalność związaną z gospodarką wodną.
+  5) inną działalność związaną z gospodarką wodną, z wyłączeniem działalności gospodarczej w zakresie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków.
 7. W celu realizacji zadań, o których mowa w ust. 2-5, Wody Polskie są uprawnione do wykorzystywania danych zgromadzonych w systemie ewidencji producentów oraz ewidencji gospodarstw rolnych, o którym mowa w przepisach ustawy z dnia 18 grudnia 2003 r. o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
 8. Agencja Restrukturyzacji i Modernizacji Rolnictwa udostępnia nieodpłatnie Wodom Polskim dane, o których mowa w ust. 7.
 9. Wody Polskie sporządzają programy:
@@ -5166,12 +5167,12 @@
 3) w art. 109 w ust. 3 pkt 9 otrzymuje brzmienie:
 
 **Art. 490.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2017 r. poz. 888 i 1086) wprowadza się następujące zmiany:
-1) w art. 9a w ust. 1 pkt 9 otrzymuje brzmienie:
+1) (uchylony)
 2) w art. 10a w ust. 1 pkt 4 otrzymuje brzmienie:
 3) w art. 11:
   a) w ust. 1:
     – pkt 2 i 3 otrzymują brzmienie:
-    – w pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 w brzmieniu:
+    – (uchylony)
   b) ust. 2 otrzymuje brzmienie:
 
 **Art. 491.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2016 r. poz. 486, 1948 i 2260 oraz z 2017 r. poz. 730, 935 i 1475) wprowadza się następujące zmiany:
@@ -5793,7 +5794,7 @@
 5. Do dnia wejścia w życie aktów prawa miejscowego wydanych na podstawie art. 382 ust. 7 niniejszej ustawy dotychczasowe decyzje wydane na podstawie art. 107 ust. 6 ustawy uchylanej w art. 573 zachowują moc i mogą być zmieniane na podstawie tych przepisów.
 
 **Art. 566.**
-1. Przepisy wykonawcze wydane na podstawie art. 34g, art. 38a ust. 1, 3 i 7, art. 38l ust. 2, art. 45 ust. 1 pkt 1, 3 i 4, art. 45 ust. 2, art. 45a ust. 1, art. 50 ust. 1 i 3, art. 57 ust. 2, art. 64 ust. 2d, art. 66 ust. 1, art. 66a ust. 4, art. 78 ust. 3, art. 88j ust. 1, art. 88n ust. 3c, art. 95 ust. 3, art. 111 ust. 2, art. 114 ust. 5, art. 121, art. 132 ust. 10 oraz art. 155b ust. 1 ustawy uchylanej w art. 573 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 48 ust. 1, art. 49, art. 51 ust. 4, art. 53 ust. 1 i 4, art. 74 ust. 1, art. 99 ust. 1 i 2, art. 100 ust. 1, art. 114, art. 126, art. 174 ust. 1, art. 178 ust. 2, art. 189 ust. 9, art. 193 ust. 3, art. 194 ust. 7, art. 210 ust. 1, art. 251 ust. 6, art. 322 ust. 1, art. 350 ust. 1, art. 387 ust. 3 oraz art. 413 niniejszej ustawy, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane.
+1. Przepisy wykonawcze wydane na podstawie art. 34g, art. 38a ust. 1, 3 i 7, art. 38l ust. 2, art. 45 ust. 1 pkt 1, 3 i 4, art. 45 ust. 2, art. 45a ust. 1, art. 50 ust. 1 i 3, art. 57 ust. 2, art. 64 ust. 2d, art. 66 ust. 1, art. 66a ust. 4, art. 78 ust. 3, art. 88j ust. 1, art. 88n ust. 3c, art. 95 ust. 3, art. 111 ust. 2, art. 121, art. 132 ust. 10 oraz art. 155b ust. 1 ustawy uchylanej w art. 573 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 48 ust. 1, art. 49, art. 51 ust. 4, art. 53 ust. 1 i 4, art. 74 ust. 1, art. 99 ust. 1 i 2, art. 100 ust. 1, art. 114, art. 126, art. 174 ust. 1, art. 178 ust. 2, art. 189 ust. 9, art. 193 ust. 3, art. 194 ust. 7, art. 210 ust. 1, art. 251 ust. 6, art. 322 ust. 1, art. 350 ust. 1, art. 387 ust. 3 oraz art. 413 niniejszej ustawy, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane.
 2. Przepisy wykonawcze wydane na podstawie art. 88h ust. 13 oraz art. 114 ust. 5 ustawy uchylanej w art. 573 zachowują moc do dnia 22 grudnia 2021 r. i mogą być zmieniane.
 3. Przepisy wykonawcze wydane na podstawie art. 61l ust. 8, art. 61o ust. 8 oraz art. 61s ust. 11 ustawy uchylanej w art. 573 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 154 ust. 8, art. 157 ust. 8 oraz art. 161 ust. 11.
 4. Przepisy wykonawcze wydane na podstawie art. 13 ust. 9 ustawy uchylanej w art. 573 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 6d ust. 26 ustawy zmienianej w art. 481 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 18 miesięcy od dnia wejścia w życie niniejszej ustawy, i mogą być zmieniane.
