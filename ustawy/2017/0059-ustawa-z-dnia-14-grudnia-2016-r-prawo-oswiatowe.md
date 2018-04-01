@@ -475,7 +475,7 @@
 7. Uczeń spełniający obowiązek szkolny lub obowiązek nauki poza szkołą, a także rodzic takiego ucznia, może korzystać ze wsparcia szkoły, której dyrektor wydał zezwolenie, o którym mowa w ust. 1, obejmującego:
   1) prawo uczestniczenia w szkole w zajęciach, o których mowa w art. 109 ust. 1 pkt 2, 3 i 5-7;
   2) zapewnienie dostępu do:
-    a) podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych, o którym mowa w art. 22ac ustawy o systemie oświaty, oraz
+    a) podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych, o którym mowa w art. 54 ust. 1 ustawy o finansowaniu zadań oświatowych, oraz
     b) pomocy dydaktycznych służących realizacji podstawy programowej znajdujących się w zasobach szkoły - w porozumieniu z dyrektorem tej szkoły;
   3) udział w konsultacjach umożliwiających przygotowanie do rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4.
 8. Cofnięcie zezwolenia, o którym mowa w ust. 1, następuje:
