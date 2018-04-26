@@ -2687,7 +2687,7 @@
   2) sposób rozporządzenia nieruchomością;
   3) uzasadnienie gospodarcze czynności prawnej;
   4) wpływ czynności prawnej na wykonywanie zadań statutowych Wód Polskich;
-  5) wartość nieruchomości oszacowaną przez rzeczoznawcę majątkowego.
+  5) (uchylony)
 7. Minister właściwy do spraw gospodarki wodnej wyraża zgodę, o której mowa w ust. 4, biorąc pod uwagę wpływ rozporządzenia nieruchomością na wykonywanie zadań statutowych Wód Polskich, konieczność osiągnięcia dobrego stanu wód oraz konieczność osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
 8. Czynność prawna dokonana z naruszeniem przepisów ust. 4 jest nieważna.
 
@@ -5656,7 +5656,9 @@
 3. Urządzenie melioracji wodnych wykonane przez właściciela gruntów przed dniem wejścia w życie ustawy i niezgłoszone do ewidencji, o której mowa w art. 70 ust. 3 ustawy uchylanej w art. 573, właściciel tego urządzenia zgłasza właściwemu dyrektorowi zarządu zlewni Wód Polskich, w terminie 12 miesięcy od dnia wejścia w życie ustawy, w celu wpisania do ewidencji melioracji wodnych.
 
 **Art. 545.**
-1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji o środowiskowych uwarunkowaniach wydawanych na podstawie ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2017 r. poz. 1405 i 1566) oraz decyzji, przed wydaniem których przeprowadza się ponowną ocenę oddziaływania na środowisko, stosuje się przepisy niniejszej ustawy oraz ustawy zmienianej w art. 509 w brzmieniu nadanym niniejszą ustawą.
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji o środowiskowych uwarunkowaniach oraz w sprawach oceny oddziaływania przedsięwzięcia na środowisko w ramach postępowania w sprawie wydania albo zmiany decyzji, o których mowa w art. 72 ust. 1 pkt 1, 10, 14 i 18 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2017 r. poz. 1405, 1566 i 1999), stosuje się przepisy obowiązujące przed dniem 1 stycznia 2018 r.
+1a. Przepisy art. 64 ust. 2 pkt 3, art. 74 ust. 1 pkt 5, art. 77 ust. 2 pkt 3, art. 80 ust. 2, art. 81 ust. 3 oraz art. 90 ust. 1b ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko stosuje się w brzmieniu nadanym niniejszą ustawą.
+1b. Do decyzji o środowiskowych uwarunkowaniach oraz decyzji, przed wydaniem której jest przeprowadzana ponowna ocena oddziaływania na środowisko, o których mowa w ust. 1, przepisu art. 428 nie stosuje się.
 2. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących ustalenia linii brzegu stosuje się przepisy dotychczasowe.
 3. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących pozwoleń na budowę, zgłoszeń, o których mowa w art. 30 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. z 2017 r. poz. 1332 i 1529), a także decyzji wydawanych na podstawie:
   1) ustawy z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych (Dz. U. z 2017 r. poz. 1496 i 1566),
