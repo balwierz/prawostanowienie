@@ -1956,7 +1956,7 @@
 
 **Art. 170.**
 1. Prowadzenie szkoły lub placówki, zespołu, o którym mowa w art. 182, oraz innej formy wychowania przedszkolnego nie jest działalnością gospodarczą.
-2. Działalność oświatowa nieobejmująca prowadzenia szkoły, placówki, zespołu, o którym mowa w art. 182, lub innej formy wychowania przedszkolnego może być podejmowana na zasadach określonych w przepisach ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, 1948, 1997 i 2255).
+2. Działalność oświatowa nieobejmująca prowadzenia szkoły, placówki, zespołu, o którym mowa w art. 182, lub innej formy wychowania przedszkolnego może być podejmowana na zasadach określonych w przepisach ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców (Dz. U. poz. 646).
 3. Podmiot prowadzący działalność oświatową, o której mowa w ust. 2, jest obowiązany poinformować osobę korzystającą z tej działalności, a w przypadku osoby niepełnoletniej - jej rodziców, że działalność ta nie stanowi prowadzenia szkoły, placówki, zespołu, o którym mowa w art. 182, lub innej formy wychowania przedszkolnego.
 
 **Art. 171.** Podmiot prowadzący działalność oświatową, o której mowa w art. 170 ust. 2, jest obowiązany zapewnić bezpieczne i higieniczne warunki nauki, wychowania i opieki osobom korzystającym z tej działalności, w szczególności opiekę nad osobami niepełnoletnimi.
