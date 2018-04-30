@@ -4,7 +4,7 @@
 
 **Art. 1.**
 1. Ustawa określa zasady dotyczące ograniczenia handlu oraz wykonywania czynności związanych z handlem w placówkach handlowych w niedziele i święta oraz w dniu 24 grudnia i w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy.
-2. Przepisy ustawy stosuje się do przedsiębiorców w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2017 r. poz. 2168, 2290 i 2486 oraz z 2018 r. poz. 107) wykonujących zarobkową działalność handlową.
+2. Przepisy ustawy stosuje się do przedsiębiorców w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców (Dz. U. poz. 646) wykonujących zarobkową działalność handlową.
 
 **Art. 2.** Wzakresie nieuregulowanym w ustawie do wykonywania pracy przez pracowników w placówkach handlowych w niedziele i święta stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138 i 305).
 
