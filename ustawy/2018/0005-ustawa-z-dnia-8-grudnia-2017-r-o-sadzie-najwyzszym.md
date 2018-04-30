@@ -520,7 +520,7 @@
 
 **Art. 83.**
 § 1. Jeżeli w orzecznictwie sądów powszechnych, sądów wojskowych lub Sądu Najwyższego ujawnią się rozbieżności w wykładni przepisów prawa będących podstawą ich orzekania, Pierwszy Prezes Sądu Najwyższego lub Prezes Sądu Najwyższego może, w celu zapewnienia jednolitości orzecznictwa, przedstawić wniosek o rozstrzygnięcie zagadnienia prawnego Sądowi Najwyższemu w składzie 7 sędziów lub innym odpowiednim składzie.
-§ 2. Z wnioskiem, o którym mowa w § 1, mogą wystąpić również Prokurator Generalny, Rzecznik Praw Obywatelskich oraz, w zakresie swojej właściwości, Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej, Rzecznik Praw Dziecka, Rzecznik Praw Pacjenta, Przewodniczący Rady Dialogu Społecznego, Przewodniczący Komisji Nadzoru Finansowego i Rzecznik Finansowy.
+§ 2. Z wnioskiem, o którym mowa w § 1, mogą wystąpić również Prokurator Generalny, Rzecznik Praw Obywatelskich oraz, w zakresie swojej właściwości, Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej, Rzecznik Praw Dziecka, Rzecznik Praw Pacjenta, Przewodniczący Rady Dialogu Społecznego, Przewodniczący Komisji Nadzoru Finansowego, Rzecznik Finansowy i Rzecznik Małych i Średnich Przedsiębiorców.
 
 **Art. 84.** Postanowienie o przedstawieniu zagadnienia prawnego oraz uchwała Sądu Najwyższego wymagają pisemnego uzasadnienia.
 
@@ -550,7 +550,7 @@
   2) orzeczenie w sposób rażący narusza prawo przez błędną jego wykładnię lub niewłaściwe zastosowanie,
   3) zachodzi oczywista sprzeczność istotnych ustaleń sądu z treścią zebranego w sprawie materiału dowodowego
 - a orzeczenie nie może być uchylone lub zmienione w trybie innych nadzwyczajnych środków zaskarżenia.
-§ 2. Skargę nadzwyczajną może wnieść Prokurator Generalny, Rzecznik Praw Obywatelskich oraz, w zakresie swojej właściwości, Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej, Rzecznik Praw Dziecka, Rzecznik Praw Pacjenta, Przewodniczący Komisji Nadzoru Finansowego, Rzecznik Finansowy i Prezes Urzędu Ochrony Konkurencji i Konsumentów.
+§ 2. Skargę nadzwyczajną może wnieść Prokurator Generalny, Rzecznik Praw Obywatelskich oraz, w zakresie swojej właściwości, Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej, Rzecznik Praw Dziecka, Rzecznik Praw Pacjenta, Przewodniczący Komisji Nadzoru Finansowego, Rzecznik Finansowy, Rzecznik Małych i Średnich Przedsiębiorców i Prezes Urzędu Ochrony Konkurencji i Konsumentów.
 § 3. Skargę nadzwyczajną wnosi się w terminie 5 lat od dnia uprawomocnienia się zaskarżonego orzeczenia, a jeżeli od orzeczenia została wniesiona kasacja albo skarga kasacyjna - w terminie roku od dnia ich rozpoznania. Niedopuszczalne jest uwzględnienie skargi nadzwyczajnej na niekorzyść oskarżonego wniesionej po upływie roku od dnia uprawomocnienia się orzeczenia, a jeżeli od orzeczenia została wniesiona kasacja albo skarga kasacyjna - po upływie 6 miesięcy od dnia jej rozpoznania.
 § 4. Jeżeli od uprawomocnienia się zaskarżonego orzeczenia upłynęło 5 lat, a orzeczenie wywołało nieodwracalne skutki prawne lub przemawiają za tym zasady lub wolności i prawa człowieka i obywatela określone w Konstytucji, Sąd Najwyższy może ograniczyć się do stwierdzenia wydania zaskarżonego orzeczenia z naruszeniem prawa oraz wskazania okoliczności, z powodu których wydał takie rozstrzygnięcie.
 
