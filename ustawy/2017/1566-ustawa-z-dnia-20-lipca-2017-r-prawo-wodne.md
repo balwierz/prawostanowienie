@@ -1023,7 +1023,7 @@
   1) nakazać usunięcie w określonym terminie nieprawidłowości stwierdzonych w trakcie kontroli lub
   2) ustalić obowiązek uiszczenia opłaty, o której mowa w ust. 4, oraz jej wysokość.
 2. Decyzje, o których mowa w ust. 1, podlegają natychmiastowemu wykonaniu.
-3. Do podmiotów prowadzących produkcję rolną oraz działalność, o których mowa w art. 102 ust. 1, niebędących przedsiębiorcami w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2016 r. poz. 1829, 1948, 1997 i 2255 oraz z 2017 r. poz. 460 i 819), przepisy rozdziału 5 tej ustawy stosuje się odpowiednio.
+3. Do podmiotów prowadzących produkcję rolną oraz działalność, o których mowa w art. 102 ust. 1, niebędących przedsiębiorcami w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców (Dz. U. poz. 646), przepisy rozdziału 5 tej ustawy stosuje się odpowiednio.
 4. Podmioty prowadzące produkcję rolną oraz działalność, o których mowa w art. 102 ust. 1, ponoszą opłatę za:
   1) stosowanie nawozów niezgodnie z przepisami wydanymi na podstawie art. 106 ust. 4;
   2) przechowywanie odchodów zwierzęcych niezgodnie z przepisami wydanymi na podstawie art. 106 ust. 4;
@@ -2419,7 +2419,7 @@
   8) zapewniają oznakowanie szlaków żeglownych na śródlądowych drogach wodnych;
   9) zapewniają należyty stan techniczny, obsługi i bezpieczeństwa budowli hydrotechnicznych będących własnością Skarbu Państwa, z wyłączeniem budowli, w stosunku do których minister właściwy do spraw żeglugi śródlądowej reprezentuje Skarb Państwa i wykonuje prawa właścicielskie Skarbu Państwa;
   10) dokonują odczytu wskazań przyrządów pomiarowych, stosownie do art. 272 ust. 14 i art. 275 ust. 10.
-6. Wody Polskie mogą wykonywać działalność gospodarczą na zasadach określonych w przepisach ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, polegającą na wykonywaniu działań w zakresie gospodarki wodnej obejmujących:
+6. Wody Polskie mogą wykonywać działalność gospodarczą na zasadach określonych w przepisach ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, polegającą na wykonywaniu działań w zakresie gospodarki wodnej obejmujących:
   1) projektowanie, wykonywanie, utrzymywanie i eksploatację urządzeń wodnych;
   2) wytwarzanie energii w elektrowniach wodnych;
   3) prowadzenie działalności edukacyjnej i turystycznej związanej z gospodarką wodną;
@@ -3785,7 +3785,7 @@
 6. Kontrolę, o której mowa w art. 335 ust. 1, można przeprowadzić bez udziału kontrolowanego lub osoby przez niego upoważnionej, w obecności innego pracownika kontrolowanego lub w obecności przywołanego świadka, którym powinien być funkcjonariusz publiczny.
 7. Funkcjonariusz publiczny ma obowiązek uczestniczyć w kontroli, o której mowa w ust. 6.
 8. W odniesieniu do kontroli przedsiębiorcy, przepisy ust. 6 i 7 stosuje się w przypadkach, o których mowa w ust. 4.
-9. W zakresie nieuregulowanym w niniejszym rozdziale, w odniesieniu do kontroli przedsiębiorcy, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.
+9. W zakresie nieuregulowanym w niniejszym rozdziale, w odniesieniu do kontroli przedsiębiorcy, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców.
 
 **Art. 338.** Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wzór legitymacji służbowej, o której mowa w art. 337 ust. 1, mając na uwadze zapewnienie możliwości identyfikacji organu wykonującego kontrolę i wykonujących kontrolę.
 
