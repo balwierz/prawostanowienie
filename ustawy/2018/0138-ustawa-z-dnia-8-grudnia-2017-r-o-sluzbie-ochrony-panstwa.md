@@ -343,7 +343,7 @@
 
 **Art. 47.**
 1. Przedsiębiorca telekomunikacyjny, operator pocztowy oraz usługodawca świadczący usługi drogą elektroniczną są obowiązani do zapewnienia, na własny koszt, warunków technicznych i organizacyjnych umożliwiających prowadzenie przez SOP kontroli operacyjnej.
-2. Usługodawca świadczący usługi drogą elektroniczną będący mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2017 r. poz. 2168, 2290 i 2486 oraz z 2018 r. poz. 107) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez SOP kontroli operacyjnej stosownie do posiadanej infrastruktury.
+2. Usługodawca świadczący usługi drogą elektroniczną będący mikroprzedsiębiorcą lub małym przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców (Dz. U. poz. 646) zapewnia warunki techniczne i organizacyjne umożliwiające prowadzenie przez SOP kontroli operacyjnej stosownie do posiadanej infrastruktury.
 
 **Art. 48.**
 1. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Komendant SOP przekazuje Prokuratorowi Generalnemu wszystkie materiały zgromadzone podczas stosowania kontroli operacyjnej. W postępowaniu przed sądem w odniesieniu do tych materiałów stosuje się odpowiednio przepis art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
