@@ -14,7 +14,7 @@
   4) przedsiębiorcy okrętowym - oznacza to:
     a) osobę fizyczną, osobę prawną i spółkę komandytowo-akcyjną, mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
     b) wspólnika spółki cywilnej, spółki jawnej i spółki komandytowej, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej,
-    c) przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. z 2015 r. poz. 584, z późn. zm.)
+    c) przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 649)
   - prowadzących na terytorium Rzeczypospolitej Polskiej działalność polegającą na budowie statku lub przebudowie statku;
   5) statku - oznacza to jednostkę pływającą używaną do żeglugi morskiej lub śródlądowej, o długości kadłuba powyżej 5 metrów, podlegającą nadzorowi technicznemu uznanej organizacji, o której mowa w ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281), jak również morską platformę wiertniczą lub produkcyjną.
 2. Kwota wyrażona w euro wskazana w ust. 1 pkt 3 lit. a jest przeliczana na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wydania certyfikatu stwierdzającego przebudowę statku.
