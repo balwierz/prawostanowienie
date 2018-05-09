@@ -35,6 +35,8 @@
 § 2. Kolegium Sądu Najwyższego włącza projekt dochodów i wydatków związanych z funkcjonowaniem Izby Dyscyplinarnej, w brzmieniu uchwalonym przez zgromadzenie sędziów Izby Dyscyplinarnej, do projektu dochodów i wydatków Sądu Najwyższego.
 § 3. W zakresie wykonywania budżetu Sądu Najwyższego Pierwszemu Prezesowi Sądu Najwyższego przysługują uprawnienia ministra właściwego do spraw finansów publicznych.
 § 4. W zakresie wykonywania budżetu Sądu Najwyższego związanego z funkcjonowaniem Izby Dyscyplinarnej uprawnienia ministra właściwego do spraw finansów publicznych przysługują Prezesowi Sądu Najwyższego kierującemu pracą Izby Dyscyplinarnej.
+§ 5. Przeniesienia wydatków skutkujące zmniejszeniem wydatków związanych z funkcjonowaniem Izby Dyscyplinarnej wymagają zgody Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej.
+§ 6. Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej wykonuje budżet Sądu Najwyższego w zakresie związanym z funkcjonowaniem Izby Dyscyplinarnej.
 
 **Art. 8.** Z uwzględnieniem przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948 oraz z 2017 r. poz. 935) oraz ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922) Sąd Najwyższy niezwłocznie publikuje wydane przez siebie orzeczenie, a po sporządzeniu jego uzasadnienia - również uzasadnienie orzeczenia, w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego.
 
@@ -57,15 +59,15 @@
 § 2. Do podjęcia uchwały Zgromadzenia Ogólnego Sędziów Sądu Najwyższego w sprawie wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, wymagana jest obecność co najmniej 2/3 liczby sędziów każdej z izb. Jeżeli uchwały nie podjęto ze względu na brak wymaganego kworum, do podjęcia uchwały na kolejnym posiedzeniu wymagana jest obecność co najmniej 3/5 liczby sędziów Sądu Najwyższego.
 § 3. Każdy sędzia uczestniczący w głosowaniu może oddać tylko jeden głos. Głosowanie jest tajne.
 § 4. Kandydatami na stanowisko Pierwszego Prezesa Sądu Najwyższego wybranymi przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego są kandydaci, którzy uzyskali największą liczbę głosów. Jeżeli 2 lub więcej kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego uzyskało równą liczbę głosów, w wyniku czego nie jest możliwe wybranie 5 kandydatów, przeprowadza się ponowne głosowanie z udziałem tylko tych kandydatów. Przepis § 3 stosuje się.
-§ 5. Niezwłocznie po wybraniu kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, Przewodniczący Zgromadzenia Ogólnego Sędziów Sądu Najwyższego przekazuje Prezydentowi Rzeczypospolitej Polskiej uchwałę, o której mowa w § 2, wraz z protokołem głosowania.
+§ 5. Niezwłocznie po wybraniu kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, sędzia przewodniczący Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego albo inna osoba wskazana przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego przekazuje Prezydentowi Rzeczypospolitej Polskiej uchwałę, o której mowa w § 2, wraz z protokołem głosowania.
 
 **Art. 14.**
 § 1. Pierwszy Prezes Sądu Najwyższego kieruje pracami Sądu Najwyższego i reprezentuje Sąd Najwyższy na zewnątrz, w szczególności:
   1) powołuje i odwołuje, na wniosek Prezesa Sądu Najwyższego kierującego pracą danej izby, przewodniczących wydziałów w tej izbie;
   2) reprezentuje Sąd Najwyższy przed Trybunałem Konstytucyjnym lub w pracach komisji sejmowych i senackich albo wyznacza inną osobę reprezentującą Sąd Najwyższy;
-  3) przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów na stanowisko Prezesa Sądu Najwyższego, wybranych przez zgromadzenie sędziów izby Sądu Najwyższego;
+  3) opiniuje i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów na stanowisko Prezesa Sądu Najwyższego, wybranych przez zgromadzenie sędziów izby Sądu Najwyższego;
   4) opiniuje oświadczenia o woli dalszego pełnienia urzędu na stanowisku sędziego Sądu Najwyższego przez osoby, które ukończyły 65. rok życia;
-  5) przedstawia Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego projekt informacji, o której mowa w art. 5 § 1 zdanie pierwsze;
+  5) opiniuje i przedstawia Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego projekt informacji, o której mowa w art. 5 § 1 zdanie pierwsze;
   6) określa, po zasięgnięciu opinii Kolegium Sądu Najwyższego, w drodze zarządzenia, regulamin Kancelarii Pierwszego Prezesa Sądu Najwyższego, organizację i zakres działania sekretariatów sądowych oraz innych jednostek administracyjnych w Sądzie Najwyższym, regulamin Biura Studiów i Analiz Sądu Najwyższego, a także regulamin pracy i wynagradzania pracowników Sądu Najwyższego niebędących sędziami;
   7) wykonuje określone w ustawie czynności związane z wyborem ławników Sądu Najwyższego;
   8) wykonuje inne czynności określone w ustawie, regulaminie Sądu Najwyższego i innych aktach normatywnych.
@@ -73,7 +75,7 @@
 
 **Art. 15.**
 § 1. Prezes Sądu Najwyższego kieruje pracą danej izby.
-§ 2. Prezes Sądu Najwyższego jest powoływany przez Prezydenta Rzeczypospolitej Polskiej, po zasięgnięciu opinii Pierwszego Prezesa Sądu Najwyższego, na trzyletnią kadencję spośród 3 kandydatów przedstawionych przez zgromadzenie sędziów izby Sądu Najwyższego i może zostać ponownie powołany tylko dwukrotnie. Osoba powołana na stanowisko Prezesa Sądu Najwyższego może zajmować to stanowisko tylko do czasu przejścia w stan spoczynku, przeniesienia w stan spoczynku albo wygaśnięcia stosunku służbowego sędziego Sądu Najwyższego.
+§ 2. Prezes Sądu Najwyższego jest powoływany przez Prezydenta Rzeczypospolitej Polskiej, po zasięgnięciu opinii Pierwszego Prezesa Sądu Najwyższego, na trzyletnią kadencję spośród 3 kandydatów wybranych przez zgromadzenie sędziów izby Sądu Najwyższego i może zostać ponownie powołany tylko dwukrotnie. Osoba powołana na stanowisko Prezesa Sądu Najwyższego może zajmować to stanowisko tylko do czasu przejścia w stan spoczynku, przeniesienia w stan spoczynku albo wygaśnięcia stosunku służbowego sędziego Sądu Najwyższego.
 § 3. Do kandydatów na stanowisko Prezesa Sądu Najwyższego oraz ich wyboru przez zgromadzenie sędziów izby Sądu Najwyższego przepisy art. 12 § 2 i art. 13 stosuje się odpowiednio.
 
 **Art. 16.**
@@ -406,7 +408,7 @@
 
 **Art. 61.**
 § 1. Liczbę ławników Sądu Najwyższego ustala Kolegium Sądu Najwyższego.
-§ 2. Ławników Sądu Najwyższego wybiera Senat w głosowaniu tajnym.
+§ 2. Ławników wybiera Senat w głosowaniu jawnym.
 § 3. Kadencja ławników Sądu Najwyższego trwa 4 lata kalendarzowe następujące po roku, w którym dokonano wyborów. Funkcja ławnika Sądu Najwyższego wybranego w trakcie kadencji wygasa z upływem kadencji ogółu ławników Sądu Najwyższego.
 § 4. Po upływie kadencji ławnik Sądu Najwyższego może brać udział jedynie w rozpoznawaniu sprawy rozpoczętej wcześniej z jego udziałem, do czasu jej zakończenia.
 § 5. Wybory ławników Sądu Najwyższego odbywają się najpóźniej w październiku roku kalendarzowego, w którym upływa kadencja dotychczasowych ławników Sądu Najwyższego.
@@ -468,7 +470,7 @@
 § 1. Sądami dyscyplinarnymi w sprawach dyscyplinarnych sędziów Sądu Najwyższego są:
   1) w pierwszej instancji - Sąd Najwyższy w składzie 2 sędziów Izby Dyscyplinarnej i 1 ławnika Sądu Najwyższego;
   2) w drugiej instancji - Sąd Najwyższy w składzie 3 sędziów Izby Dyscyplinarnej i 2 ławników Sądu Najwyższego.
-§ 2. Ławników Sądu Najwyższego do orzekania w sprawach dyscyplinarnych wyznacza każdorazowo do sprawy Pierwszy Prezes Sądu Najwyższego.
+§ 2. (uchylony)
 
 **Art. 74.** Rzecznika Dyscyplinarnego Sądu Najwyższego i jego zastępcę wybiera Kolegium Sądu Najwyższego na okres 4 lat.
 
@@ -561,7 +563,7 @@
 § 4. Skarga nadzwyczajna nie jest dopuszczalna w sprawach o wykroczenia i wykroczenia skarbowe.
 
 **Art. 91.**
-§ 1. W przypadku uwzględnienia skargi nadzwyczajnej, Sąd Najwyższy uchyla zaskarżone orzeczenie w całości lub w części i stosownie do wyników rozprawy orzeka co do istoty sprawy albo przekazuje sprawę do ponownego rozpoznania właściwemu sądowi, w razie potrzeby uchylając także orzeczenie sądu pierwszej instancji, albo umarza postępowanie. Sąd Najwyższy oddala skargę nadzwyczajną, jeżeli stwierdzi brak podstawy do uchylenia zaskarżonego orzeczenia.
+§ 1. W przypadku uwzględnienia skargi nadzwyczajnej, Sąd Najwyższy uchyla zaskarżone orzeczenie w całości lub w części i stosownie do wyników postępowania orzeka co do istoty sprawy albo przekazuje sprawę do ponownego rozpoznania właściwemu sądowi, w razie potrzeby uchylając także orzeczenie sądu pierwszej instancji, albo umarza postępowanie. Sąd Najwyższy oddala skargę nadzwyczajną, jeżeli stwierdzi brak podstawy do uchylenia zaskarżonego orzeczenia.
 § 2. Jeżeli Sąd Najwyższy przy rozpatrywaniu skargi nadzwyczajnej uzna, że przyczyną naruszenia przez orzeczenie zasad lub wolności i praw człowieka i obywatela, określonych w Konstytucji, jest niezgodność ustawy z Konstytucją, występuje z pytaniem prawnym do Trybunału Konstytucyjnego. Sąd Najwyższy może zawiesić postępowanie z urzędu jeżeli rozstrzygnięcie sprawy zależy od wyniku postępowania toczącego się przed Trybunałem Konstytucyjnym.
 
 **Art. 92.** Sąd Najwyższy może zażądać sporządzenia uzasadnienia, jeżeli nie zawiera go zaskarżone orzeczenie.
@@ -791,11 +793,16 @@
 § 1. Sędziowie Sądu Najwyższego, którzy do dnia wejścia w życie niniejszej ustawy ukończyli 65. rok życia albo ukończą 65. rok życia w okresie trzech miesięcy od dnia wejścia w życie niniejszej ustawy, z dniem następującym po upływie trzech miesięcy od dnia wejścia w życie niniejszej ustawy przechodzą w stan spoczynku, chyba że w terminie miesiąca od dnia wejścia w życie niniejszej ustawy złożą oświadczenie i zaświadczenie, o których mowa w art. 37 § 1, a Prezydent Rzeczypospolitej Polskiej wyrazi zgodę na dalsze zajmowanie stanowiska sędziego Sądu Najwyższego. Przepisy art. 37 § 2-4 stosuje się odpowiednio.
 § 2. W terminie sześciu miesięcy od dnia wejścia w życie niniejszej ustawy sędzia Sądu Najwyższego może przejść w stan spoczynku, składając za pośrednictwem Pierwszego Prezesa Sądu Najwyższego oświadczenie Prezydentowi Rzeczypospolitej Polskiej.
 § 3. Z dniem wejścia w życie niniejszej ustawy sędziowie orzekający w Izbie Wojskowej przechodzą w stan spoczynku.
-§ 4. Jeżeli w przypadku wystąpienia okoliczności, o której mowa w § 1, dojdzie do konieczności wyboru Pierwszego Prezesa Sądu Najwyższego lub Prezesa Sądu Najwyższego, do czasu objęcia stanowiska przez wybranego prezesa Prezydent Rzeczypospolitej Polskiej powierzy kierowanie izbą lub Sądem Najwyższym wskazanemu sędziemu Sądu Najwyższego. Zgromadzenie Ogólne Sędziów Sądu Najwyższego niezwłocznie wybiera i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów, o których mowa w art. 12 § 1, po obsadzeniu 110 stanowisk sędziowskich w Sądzie Najwyższym. Zgromadzenie sędziów izby Sądu Najwyższego wybiera i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów, o których mowa w art. 15 § 2, po powołaniu przez Prezydenta Rzeczypospolitej Polskiej Pierwszego Prezesa Sądu Najwyższego.
+§ 4. Jeżeli stanowisko Pierwszego Prezesa Sądu Najwyższego lub Prezesa Sądu Najwyższego zostanie zwolnione po wejściu w życie niniejszej ustawy, Prezydent Rzeczypospolitej Polskiej powierzy kierowanie Sądem Najwyższym lub izbą wskazanemu sędziemu Sądu Najwyższego do czasu powołania Pierwszego Prezesa Sądu Najwyższego lub Prezesa Sądu Najwyższego spośród kandydatów wybranych w trybie § 5.
+§ 5. Zgromadzenie Ogólne Sędziów Sądu Najwyższego wybiera i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów, o których mowa w art. 12 § 1, niezwłocznie po obsadzeniu 110 stanowisk sędziów Sądu Najwyższego. Zgromadzenie sędziów izby Sądu Najwyższego wybiera i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów, o których mowa w art. 15 § 2, po powołaniu przez Prezydenta Rzeczypospolitej Polskiej Pierwszego Prezesa Sądu Najwyższego.
 
-**Art. 112.** Pierwszy regulamin wydany na podstawie art. 4, nie wymaga zaopiniowania przez Kolegium Sądu Najwyższego.
+**Art. 111a.** Sędzia Sądu Najwyższego, któremu w trybie określonym w art. 111 § 4 Prezydent Rzeczypospolitej Polskiej powierzył kierowanie Sądem Najwyższym lub izbą, wykonuje obowiązki i uprawnienia Pierwszego Prezesa Sądu Najwyższego lub Prezesa Sądu Najwyższego określone w ustawie.
 
-**Art. 113.** Postępowania w przedmiocie powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy podlegają umorzeniu, chyba że Krajowa Rada Sądownictwa przedstawiła Prezydentowi Rzeczypospolitej Polskiej wniosek o powołanie sędziego do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego.
+**Art. 112.** W okresie 12 miesięcy od dnia wejścia w życie niniejszej ustawy przepisy wydane na podstawie art. 4 nie wymagają zaopiniowania przez Kolegium Sądu Najwyższego.
+
+**Art. 112a.** W okresie 12 miesięcy od dnia wejścia w życie niniejszej ustawy Prezydent Rzeczypospolitej Polskiej może obwieszczać w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” liczbę wolnych stanowisk sędziów przewidzianych do objęcia w poszczególnych izbach Sądu Najwyższego bez zasięgnięcia opinii Pierwszego Prezesa Sądu Najwyższego.
+
+**Art. 113.** Postępowania w przedmiocie powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy podlegają umorzeniu, chyba że Krajowa Rada Sądownictwa przedstawiła Prezydentowi Rzeczypospolitej Polskiej sędziego do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego.
 
 **Art. 114.** Minister Sprawiedliwości na wniosek sędziego kierującego Sądem Najwyższym lub izbą Sądu Najwyższego, wskazanego przez Prezydenta Rzeczypospolitej Polskiej w trybie określonym w art. 111 § 4, może delegować sędziego sądu powszechnego z co najmniej 10-letnim stażem pracy do pełnienia obowiązków w Sądzie Najwyższym.
 
@@ -852,9 +859,9 @@
 § 4. Pierwsza kadencja ławników Sądu Najwyższego rozpoczyna się w dniu złożenia ślubowania przez ławników Sądu Najwyższego i kończy się z dniem 31 grudnia 2021 r.
 
 **Art. 127.**
-§ 1. Do dnia rozpoczęcia pierwszej kadencji ławników Sądu Najwyższego obowiązki ławników Sądu Najwyższego wykonują ławnicy wskazani przez Pierwszego Prezesa Sadu Najwyższego spośród ławników Sądu Okręgowego w Warszawie oraz Sądu Okręgowego Warszawa-Praga w Warszawie, którzy zgłosili gotowość orzekania w Sądzie Najwyższym. Uprawnienia Pierwszego Prezesa Sądu Najwyższego w zakresie wyboru ławników orzekających w postępowaniach określonych w art. 27 § 1 pkt 1 wykonuje sędzia kierujący Izbą Dyscyplinarną wskazany przez Prezydenta Rzeczypospolitej Polskiej na podstawie art. 111 § 4.
-§ 2. W dniu następującym po dniu wejścia w życie niniejszej ustawy Prezes Sądu Okręgowego w Warszawie oraz Prezes Sądu Okręgowego Warszawa - Praga w Warszawie zawiadamiają ławników Sądu Okręgowego w Warszawie oraz Sądu Okręgowego Warszawa - Praga w Warszawie o możliwości orzekania przez nich w postępowaniach dyscyplinarnych w Sądzie Najwyższym. W terminie 30 dni od dnia wejścia w życie niniejszej ustawy ławnicy sądów okręgowych wskazani w zdaniu pierwszym mogą zgłosić gotowość orzekania w sprawach dyscyplinarnych Pierwszemu Prezesowi Sądu Najwyższego.
-§ 3. Wyznaczając ławników, o których mowa w § 1, Pierwszy Prezes Sądu Najwyższego współdziała z Prezesem Sądu Okręgowego w Warszawie oraz Prezesem Sądu Okręgowego Warszawa - Praga w Warszawie, tak aby nie doszło do zakłócenia czynności z udziałem tych ławników prowadzonych odpowiednio w Sądzie Okręgowym w Warszawie oraz Sądzie Okręgowym Warszawa - Praga w Warszawie.
+§ 1. Do dnia rozpoczęcia pierwszej kadencji ławników Sądu Najwyższego obowiązki ławników Sądu Najwyższego wykonują ławnicy wskazani przez Pierwszego Prezesa Sądu Najwyższego albo sędziego Sądu Najwyższego, któremu w trybie określonym w art. 111 § 4 Prezydent Rzeczypospolitej Polskiej powierzył kierowanie Sądem Najwyższym, spośród ławników Sądu Okręgowego w Warszawie oraz Sądu Okręgowego Warszawa-Praga w Warszawie, którzy zgłosili gotowość orzekania w Sądzie Najwyższym. Uprawnienia Pierwszego Prezesa Sądu Najwyższego albo sędziego Sądu Najwyższego, któremu w trybie określonym w art. 111 § 4 Prezydent Rzeczypospolitej Polskiej powierzył kierowanie Sądem Najwyższym w zakresie wskazania ławników orzekających w postępowaniach określonych w art. 27 § 1 pkt 1 wykonuje sędzia, o którym mowa w art. 130.
+§ 2. W dniu następującym po dniu wejścia w życie niniejszej ustawy Prezes Sądu Okręgowego w Warszawie oraz Prezes Sądu Okręgowego Warszawa - Praga w Warszawie zawiadamiają ławników Sądu Okręgowego w Warszawie oraz Sądu Okręgowego Warszawa - Praga w Warszawie o możliwości orzekania przez nich w postępowaniach dyscyplinarnych w Sądzie Najwyższym. W terminie 30 dni od dnia wejścia w życie niniejszej ustawy ławnicy sądów okręgowych wskazani w zdaniu pierwszym mogą zgłosić gotowość orzekania w sprawach dyscyplinarnych Pierwszemu Prezesowi Sądu Najwyższego albo sędziemu Sądu Najwyższego, któremu w trybie określonym w art. 111 § 4 Prezydent Rzeczypospolitej Polskiej powierzył kierowanie Sądem Najwyższym.
+§ 3. Wyznaczając ławników, o których mowa w § 1, Pierwszy Prezes Sądu Najwyższego albo sędzia Sądu Najwyższego, któremu w trybie określonym w art. 111 § 4 Prezydent Rzeczypospolitej Polskiej powierzył kierowanie Sądem Najwyższym, oraz sędzia, o którym mowa w art. 130, współdziałają z Prezesem Sądu Okręgowego w Warszawie oraz Prezesem Sądu Okręgowego Warszawa - Praga w Warszawie, tak aby nie doszło do zakłócenia czynności z udziałem tych ławników prowadzonych odpowiednio w Sądzie Okręgowym w Warszawie oraz Sądzie Okręgowym Warszawa - Praga w Warszawie.
 § 4. Do ławników, o których mowa w § 1, przepis art. 63 § 6 stosuje się odpowiednio.
 § 5. Po rozpoczęciu kadencji ławników Sądu Najwyższego, ławnik, o którym mowa w § 1, może brać udział jedynie w rozpoznawaniu sprawy rozpoczętej wcześniej z jego udziałem, do czasu jej zakończenia.
 
@@ -869,7 +876,7 @@
 
 **Art. 130.** Do dnia powołania Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej obowiązki tego prezesa wykonuje najstarszy wiekiem sędzia powołany na stanowisko sędziego Sądu Najwyższego orzekającego w Izbie Dyscyplinarnej.
 
-**Art. 131.** Do dnia obsadzenia wszystkich stanowisk sędziów Sądu Najwyższego w Izbie Dyscyplinarnej, sędziego z innej izby nie przenosi się na stanowisko w tej izbie.
+**Art. 131.** Sędziowie zajmujący w dniu wejścia w życie niniejszej ustawy stanowiska w innych izbach Sądu Najwyższego mogą zostać przeniesieni na stanowiska w Izbie Dyscyplinarnej. Do dnia obsadzenia po raz pierwszy wszystkich stanowisk sędziów Sądu Najwyższego w Izbie Dyscyplinarnej, sędzia zajmujący stanowisko w innej izbie Sądu Najwyższego składa wniosek o przeniesienie na stanowisko w Izbie Dyscyplinarnej do Krajowej Rady Sądownictwa, po uzyskaniu zgody Pierwszego Prezesa Sądu Najwyższego oraz Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej oraz izby, w której zajmuje stanowisko sędzia składający wniosek o przeniesienie. Do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego w Izbie Dyscyplinarnej, do dnia obsadzenia po raz pierwszy wszystkich stanowisk w tej izbie, powołuje Prezydent Rzeczypospolitej Polskiej, na wniosek Krajowej Rady Sądownictwa.
 
 **Art. 132.** Niezwłocznie, nie później jednak niż w terminie 2 lat od wejścia w życie niniejszej ustawy, Sąd Najwyższy opublikuje w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego orzeczenia wraz z uzasadnieniami wydane przez Sąd Najwyższy przed wejściem w życie niniejszej ustawy.
 
