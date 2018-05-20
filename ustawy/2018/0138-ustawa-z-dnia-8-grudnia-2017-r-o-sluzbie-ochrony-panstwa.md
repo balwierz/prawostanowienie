@@ -5,8 +5,8 @@
 **Art. 1.** Ustawa określa:
 1) zadania i uprawnienia Służby Ochrony Państwa, zwanej dalej „SOP”, oraz zasady jej organizacji;
 2) obowiązki osób ochranianych;
-3) zakres oraz sposób ochrony Sejmu i Senatu oraz obiektów służących Prezydentowi Rzeczypospolitej Polskiej oraz członkom Rady Ministrów, a także placówek zagranicznych Rzeczypospolitej Polskiej;
-4) zadania i uprawnienia Straży Marszałkowskiej oraz zasady jej organizacji.
+3) zakres oraz sposób ochrony obiektów służących Prezydentowi Rzeczypospolitej Polskiej oraz członkom Rady Ministrów, a także placówek zagranicznych Rzeczypospolitej Polskiej;
+4) (uchylony)
 
 **Art. 2.**
 1. SOP jest jednolitą, umundurowaną, uzbrojoną formacją wykonującą zadania z zakresu ochrony osób i obiektów oraz rozpoznawania i zapobiegania skierowanym przeciw nim przestępstwom.
@@ -23,7 +23,7 @@
   f) placówek zagranicznych Rzeczypospolitej Polskiej wskazanych w decyzji, o której mowa w art. 4 ust. 8;
 2) rozpoznawanie i zapobieganie przestępstwom przeciwko Rzeczypospolitej Polskiej, przestępstwom przeciwko życiu lub zdrowiu, przestępstwom przeciwko bezpieczeństwu powszechnemu, przestępstwom przeciwko bezpieczeństwu w komunikacji, przestępstwom przeciwko wolności, przestępstwom przeciwko czci i nietykalności cielesnej, przestępstwom przeciwko porządkowi publicznemu, zamachom i czynnej napaści skierowanym przeciwko osobom, o których mowa w pkt 1 lit. a-d, oraz przeciwko bezpieczeństwu obiektów, o których mowa w pkt 1 lit. e, z wyłączeniem dotyczących tych obiektów przestępstw przeciwko ochronie informacji;
 3) rozpoznawanie, zapobieganie i wykrywanie popełnianych przez funkcjonariuszy SOP, zwanych dalej „funkcjonariuszami”, i pracowników SOP przestępstw określonych w art. 228, art. 229, art. 231, art. 265 i art. 266 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20), zwanej dalej „Kodeksem karnym”, w związku z wykonywaniem obowiązków służbowych, a także, w zakresie wynikającym z art. 11j ust. 1 pkt 1-3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.), funkcjonariuszy i pracowników Policji i Straży Granicznej lub strażaków i pracowników Państwowej Straży Pożarnej;
-4) prowadzenie rozpoznania pirotechniczno-radiologicznego obiektów Sejmu i Senatu.
+4) (uchylony)
 
 **Art. 4.**
 1. Minister właściwy do spraw wewnętrznych, z zachowaniem przepisów o ochronie informacji niejawnych, podejmuje decyzję o objęciu ochroną osób, o których mowa w art. 3 pkt 1 lit. d.
@@ -32,7 +32,7 @@
 4. Komendant SOP, z zachowaniem przepisów o ochronie informacji niejawnych, określa dla każdej z osób, o których mowa w art. 3 pkt 1 lit. a-d, poziom zagrożenia, biorąc pod uwagę posiadane informacje dotyczące przewidywanych i bezpośrednich zagrożeń względem każdej z tych osób oraz zajmowane przez nie stanowisko. Poziom jest określany jako niski, umiarkowany, wysoki albo bardzo wysoki.
 5. Komendant SOP, z zachowaniem przepisów o ochronie informacji niejawnych, podejmuje decyzję o zakresie ochrony osób, o których mowa w art. 3 pkt 1 lit. a-d, i informuje o tym ministra właściwego do spraw wewnętrznych.
 6. Ochronę Prezydenta Rzeczypospolitej Polskiej oraz obiektów jemu służących realizuje wyodrębniona w tym celu komórka organizacyjna SOP.
-7. Minister właściwy do spraw wewnętrznych, z zachowaniem przepisów o ochronie informacji niejawnych, podejmuje decyzję o zakresie prowadzenia rozpoznania pirotechniczno-radiologicznego obiektów, o których mowa w art. 3 pkt 4, w uzgodnieniu z Szefem Kancelarii Sejmu i Szefem Kancelarii Senatu.
+7. (uchylony)
 8. Prezes Rady Ministrów w przypadkach uzasadnionych względami bezpieczeństwa, z zachowaniem przepisów o ochronie informacji niejawnych, może podjąć decyzję o objęciu ochroną placówek zagranicznych Rzeczypospolitej Polskiej, o których mowa w art. 3 pkt 1 lit. f, jeżeli zapewnienie ochrony placówek zagranicznych w inny sposób okaże się lub może okazać się niewystarczające. Decyzja jest podejmowana na wniosek ministra właściwego do spraw zagranicznych, po uzyskaniu opinii ministra właściwego do spraw wewnętrznych, z uwzględnieniem sił i środków pozostających w dyspozycji SOP, oceny zagrożenia tych obiektów oraz możliwego zakresu i sposobu zapewnienia ochrony.
 9. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
   1) zakres wykonywania przez funkcjonariuszy zadań, o których mowa w ust. 8,
@@ -102,7 +102,7 @@
 1) organizowanie ochrony oraz działań, o których mowa w art. 3;
 2) prowadzenie polityki kadrowej;
 3) określanie oraz zapewnienie realizacji programu szkolenia funkcjonariuszy i doskonalenia zawodowego pracowników, a także zapewnianie właściwych warunków i sposobu szkolenia;
-4) współdziałanie z centralnymi organami administracji rządowej podległymi ministrowi właściwemu do spraw wewnętrznych, jednostkami organizacyjnymi podporządkowanymi, podległymi lub nadzorowanymi przez ministra właściwego do spraw wewnętrznych lub Ministra Obrony Narodowej oraz innymi organami administracji rządowej i samorządu terytorialnego w zakresie zadań realizowanych przez SOP i te organy;
+4) współdziałanie z centralnymi organami administracji rządowej podległymi ministrowi właściwemu do spraw wewnętrznych, jednostkami organizacyjnymi podporządkowanymi, podległymi lub nadzorowanymi przez ministra właściwego do spraw wewnętrznych lub Ministra Obrony Narodowej, Szefa Kancelarii Sejmu oraz innymi organami administracji rządowej i samorządu terytorialnego w zakresie zadań realizowanych przez SOP i te organy;
 5) współdziałanie z organami i służbami innych państw oraz organizacjami międzynarodowymi na podstawie umów i porozumień oraz odrębnych przepisów;
 6) zapewnienie przestrzegania dyscypliny służbowej przez funkcjonariuszy;
 7) określanie oraz zapewnienie przestrzegania zasad etyki zawodowej funkcjonariuszy.
@@ -286,7 +286,7 @@
 4. Korzystanie z uprawnień, o których mowa w ust. 3, następuje na zasadach i w trybie określonych dla funkcjonariuszy.
 
 **Art. 39.**
-1. Komendant SOP, w celu realizacji zadań określonych w art. 3 pkt 1 i 4, może zarządzić zastosowanie urządzeń uniemożliwiających telekomunikację na określonym obszarze przez czas niezbędny do wykonywania czynności przez SOP, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
+1. Komendant SOP, w celu realizacji zadań określonych w art. 3 pkt 1, może zarządzić zastosowanie urządzeń uniemożliwiających telekomunikację na określonym obszarze przez czas niezbędny do wykonywania czynności przez SOP, z uwzględnieniem konieczności minimalizacji skutków braku możliwości korzystania z usług telekomunikacyjnych.
 2. O zastosowaniu urządzeń, o których mowa w ust. 1, Komendant SOP niezwłocznie informuje Prezesa Urzędu Komunikacji Elektronicznej.
 
 **Art. 40.**
@@ -583,10 +583,10 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 - mając na względzie zapewnienie sprawnego przebiegu postępowania kwalifikacyjnego oraz wyłonienia osób spełniających wymogi do pełnienia służby w SOP.
 
 **Art. 70.**
-1. Funkcjonariusz Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Więziennej, Służby Celno-Skarbowej lub Centralnego Biura Antykorupcyjnego może być na własną prośbę przeniesiony do służby w SOP, jeżeli wykazuje predyspozycje do jej pełnienia.
-2. Funkcjonariusza, o którym mowa w ust. 1, do służby w SOP przenosi Komendant SOP w porozumieniu odpowiednio z Komendantem Głównym Policji, Komendantem Głównym Straży Granicznej, Komendantem Głównym Państwowej Straży Pożarnej, Szefem Agencji Bezpieczeństwa Wewnętrznego, Szefem Agencji Wywiadu, Szefem Służby Wywiadu Wojskowego, Szefem Służby Kontrwywiadu Wojskowego, Dyrektorem Generalnym Służby Więziennej, Szefem Krajowej Administracji Skarbowej lub Szefem Centralnego Biura Antykorupcyjnego, za zgodą ministra właściwego do spraw wewnętrznych.
+1. Funkcjonariusz Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Więziennej, Służby Celno-Skarbowej lub Centralnego Biura Antykorupcyjnego może być na własną prośbę przeniesiony do służby w SOP, jeżeli wykazuje predyspozycje do jej pełnienia.
+2. Funkcjonariusza, o którym mowa w ust. 1, do służby w SOP przenosi Komendant SOP w porozumieniu odpowiednio z Komendantem Głównym Policji, Komendantem Głównym Straży Granicznej, Szefem Kancelarii Sejmu, Komendantem Głównym Państwowej Straży Pożarnej, Szefem Agencji Bezpieczeństwa Wewnętrznego, Szefem Agencji Wywiadu, Szefem Służby Wywiadu Wojskowego, Szefem Służby Kontrwywiadu Wojskowego, Dyrektorem Generalnym Służby Więziennej, Szefem Krajowej Administracji Skarbowej lub Szefem Centralnego Biura Antykorupcyjnego, za zgodą ministra właściwego do spraw wewnętrznych.
 3. W przypadku braku porozumienia Komendanta SOP z właściwym komendantem funkcjonariusza Policji, Straży Granicznej lub Państwowej Straży Pożarnej, w przypadkach uzasadnionych potrzebami organizacyjnymi lub kadrowymi, do służby w SOP może przenieść minister właściwy do spraw wewnętrznych.
-4. Funkcjonariusz Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Więziennej, Służby Celno-Skarbowej lub Centralnego Biura Antykorupcyjnego przeniesiony do służby w SOP zachowuje ciągłość służby.
+4. Funkcjonariusz Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Więziennej, Służby Celno-Skarbowej lub Centralnego Biura Antykorupcyjnego przeniesiony do służby w SOP zachowuje ciągłość służby.
 5. Funkcjonariuszowi przenoszonemu w trybie, o którym mowa w ust. 1, nie przysługuje odprawa ani inne należności przewidziane dla funkcjonariuszy odchodzących ze służby.
 6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
   1) szczegółowy sposób i tryb prowadzenia postępowania w stosunku do funkcjonariuszy, o których mowa w ust. 1,
@@ -982,7 +982,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 2. O przywróceniu stopnia orzeka przełożony właściwy do mianowania na ten stopień. O przywróceniu stopnia podporucznika oraz stopnia generała orzeka Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych.
 
 **Art. 127.**
-1. Osobę przyjmowaną do służby i posiadającą stopień wojskowy lub stopień uzyskany w Biurze Ochrony Rządu, Policji, Straży Granicznej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej, Służbie Celno-Skarbowej mianuje się na stopień obowiązujący w SOP, równorzędny z posiadanym stopniem.
+1. Osobę przyjmowaną do służby i posiadającą stopień wojskowy lub stopień uzyskany w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Służbie Więziennej, Służbie Celno-Skarbowej mianuje się na stopień obowiązujący w SOP, równorzędny z posiadanym stopniem.
 2. Przy przyjmowaniu osób posiadających stopnie, o których mowa w ust. 1, na równorzędne stopnie funkcjonariuszy mianuje Komendant SOP. Przy przyjmowaniu osób posiadających stopień w korpusie generałów na równorzędny stopień mianuje funkcjonariusza minister właściwy do spraw wewnętrznych.
 3. Rada Ministrów określi, w drodze rozporządzenia, równorzędność stopni w formacjach, o których mowa w ust. 1, mając na względzie zapewnienie adekwatności tych stopni w służbach, o których mowa w ust. 1, oraz w odniesieniu do żołnierzy zawodowych.
 
@@ -1080,7 +1080,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   1) brak przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym,
   2) istnienie przeciwwskazań zdrowotnych do służby na określonym stanowisku służbowym
 - w warunkach służby opisanych w skierowaniu na badanie.
-11. Od orzeczenia lekarskiego funkcjonariuszowi i Komendantowi SOP przysługuje odwołanie w terminie 7 dni od dnia otrzymania orzeczenia.
+11. Od orzeczenia lekarskiego funkcjonariuszowi, Komendantowi SOP oraz jego zastępcom przysługuje odwołanie w terminie 7 dni od dnia otrzymania orzeczenia.
 12. Odwołanie od orzeczenia lekarskiego wraz z uzasadnieniem wnosi się na piśmie za pośrednictwem lekarza, który wydał to orzeczenie, do:
   1) wojewódzkiego ośrodka medycyny pracy właściwego ze względu na miejsce pełnienia służby funkcjonariusza;
   2) poradni medycyny pracy podmiotów leczniczych utworzonych i nadzorowanych przez ministra właściwego do spraw wewnętrznych, jeżeli orzeczenie wydał lekarz poradni badań profilaktycznych podmiotu leczniczego utworzonego i nadzorowanego przez ministra właściwego do spraw wewnętrznych;
@@ -1323,7 +1323,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 **Art. 164.** Uposażenie jest płatne miesięcznie z góry w pierwszym dniu roboczym.
 
 **Art. 165.**
-1. Do wysługi lat, od której jest uzależniony wzrost uposażenia według stanowiska służbowego, zalicza się czynną służbę w SOP, czynną służbę wojskową oraz służbę w Biurze Ochrony Rządu, Policji, Straży Granicznej, Państwowej Straży Pożarnej, Służbie Więziennej, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego oraz Służbie Celno-Skarbowej.
+1. Do wysługi lat, od której jest uzależniony wzrost uposażenia według stanowiska służbowego, zalicza się czynną służbę w SOP, czynną służbę wojskową oraz służbę w Biurze Ochrony Rządu, Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służbie Więziennej, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnym Biurze Antykorupcyjnym, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego oraz Służbie Celno-Skarbowej.
 2. Do wysługi lat, o której mowa w ust. 1, zalicza się również inne okresy służby lub pracy wykonywanej przed powołaniem funkcjonariusza do służby, zaliczane na podstawie przepisów prawa pracy.
 3. Funkcjonariuszowi, który ukończył studia w szkole wyższej, zalicza się do wysługi lat, o której mowa w ust. 1, również okres tych studiów wyższych, nie dłuższy jednak od programowego czasu trwania studiów.
 
@@ -1503,7 +1503,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 1. Funkcjonariuszowi przeniesionemu do służby w innej miejscowości, który w poprzednim miejscu pełnienia służby zajmuje lokal mieszkalny przydzielony decyzją administracyjną lub posiada lokal mieszkalny, dom jednorodzinny lub dom mieszkalno-pensjonatowy uzyskany w związku z przyznaną pomocą finansową, może być przydzielony lokal mieszkalny w nowym miejscu pełnienia służby, jeżeli zwolni wcześniej przydzielony lokal mieszkalny lub zwróci przyznaną pomoc finansową.
 2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
   1) tryb przydzielania lokalu mieszkalnego w przypadkach, o których mowa w ust. 1,
-  2) sposób i tryb zwracania udzielonej pomocy finansowej oraz zwalniania zajmowanych lokali mieszkalnych lub domów określonych w ust. 1, uwzględniając przesłanki uzasadniające przydział lokalu mieszkalnego funkcjonariuszowi przeniesionemu do służby w innej miejscowości,
+  2) sposób i tryb zwracania udzielonej pomocy finansowej oraz zwalniania zajmowanych lokali mieszkalnych określonych w ust. 1, uwzględniając przesłanki uzasadniające przydział lokalu mieszkalnego funkcjonariuszowi przeniesionemu do służby w innej miejscowości,
   3) sposób postępowania w przypadku, gdy funkcjonariusz ten skorzystał z pomocy finansowej na uzyskanie lokalu mieszkalnego,
   4) rodzaje dokumentów potwierdzających zwolnienie przez funkcjonariusza lokalu mieszkalnego dotychczas zajmowanego oraz zwrot udzielonej pomocy finansowej na uzyskanie lokalu mieszkalnego lub domu
 - mając na względzie zapewnienie sprawnej procedury przyznawania i zwracania lokali mieszkalnych oraz pomocy finansowej na uzyskanie lokalu, a także dokumentowania postępowania w tych sprawach.
@@ -1563,7 +1563,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 190.**
 1. W razie śmierci funkcjonariusza pozostałej po nim rodzinie przysługują, niezależnie od zasiłku pogrzebowego, odprawa pośmiertna w wysokości określonej zgodnie z przepisami art. 187 ust. 1-3, liczonej na dzień zgonu, oraz należności, o których mowa w art. 188 ust. 1 pkt 2.
-2. Odprawa oraz należności, o których mowa w ust. 1, przysługują małżonkowi, który w dniu śmierci funkcjonariusza pozostawał z nim we wspólności małżeńskiej, a w razie braku małżonka - dzieciom, wnukom, rodzeństwu i rodzicom, jeżeli w dniu śmierci funkcjonariusza spełniali warunki wymagane do uzyskania renty rodzinnej określone przepisami ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2018 r. poz. 132 i 138).
+2. Odprawa oraz należności, o których mowa w ust. 1, przysługują małżonkowi, który w dniu śmierci funkcjonariusza pozostawał z nim we wspólności małżeńskiej, a w razie braku małżonka - dzieciom, wnukom, rodzeństwu i rodzicom, jeżeli w dniu śmierci funkcjonariusza spełniali warunki wymagane do uzyskania renty rodzinnej określone przepisami ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2018 r. poz. 132, 138 i 730).
 3. Komendant SOP przyznaje należności, o których mowa w ust. 1, w przypadku zaginięcia funkcjonariusza. Zaginięcie funkcjonariusza oraz związek tego zaginięcia ze służbą stwierdza minister właściwy do spraw wewnętrznych w drodze decyzji.
 
 **Art. 191.**
@@ -1632,7 +1632,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 197.**
 1. Doręczenie zaświadczenia lekarskiego odbywa się z wykorzystaniem profilu informacyjnego, o którym mowa w art. 58 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, na zasadach określonych w tej ustawie. Komendant SOP wykorzystuje lub tworzy profil informacyjny płatnika składek, o którym mowa w art. 58 ust. 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
-2. Wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, zaświadczenie lekarskie, o którym mowa w art. 55a ust. 7 tej ustawy, albo zaświadczenie wystawione przez lekarza na zwykłym druku w przypadkach, o których mowa w art. 193 ust. 2 pkt 5 lit. b i c oraz w art. 195 pkt 1, funkcjonariusz jest obowiązany dostarczyć przełożonemu w terminie 7 dni od dnia ich otrzymania.
+2. Wydruk zaświadczenia lekarskiego, o którym mowa w art. 55a ust. 6 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa, zaświadczenie lekarskie, o którym mowa w art. 55a ust. 7 tej ustawy, albo zaświadczenie wystawione przez lekarza na zwykłym druku w przypadkach, o których mowa w art. 194 ust. 2 pkt 5 lit. b i c oraz w art. 196 pkt 1, funkcjonariusz jest obowiązany dostarczyć przełożonemu w terminie 7 dni od dnia ich otrzymania.
 3. Zaświadczenie jednostki organizacyjnej publicznej służby krwi albo decyzję, o której mowa w art. 196 pkt 5, funkcjonariusz jest obowiązany dostarczyć właściwemu przełożonemu w terminie 7 dni od dnia ich otrzymania.
 4. Oświadczenie o wystąpieniu okoliczności, o których mowa w art. 194 ust. 2 pkt 5 lit. a, funkcjonariusz jest obowiązany złożyć przełożonemu w terminie 7 dni od dnia ich zaistnienia.
 5. W przypadku niedopełnienia obowiązków, o których mowa w ust. 2-4, nieobecność w służbie w okresie przebywania na zwolnieniu lekarskim uznaje się za nieobecność nieusprawiedliwioną, chyba że niedostarczenie zaświadczenia, oświadczenia albo decyzji nastąpiło z przyczyn niezależnych od funkcjonariusza.
@@ -2042,62 +2042,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 245.** Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy tryb wykonywania czynności związanych z postępowaniem dyscyplinarnym w stosunku do funkcjonariuszy, w tym obieg dokumentów związanych z postępowaniem dyscyplinarnym, sposób prostowania błędów pisarskich i rachunkowych oraz innych oczywistych omyłek, oraz określi wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie sprawność prowadzonego postępowania.
 
-## Rozdział 10 — Ochrona Sejmu i Senatu
-
-**Art. 246.**
-1. Ochrona Sejmu i Senatu polega na:
-  1) ochronie terenów, obiektów i urządzeń pozostających w zarządzie Kancelarii Sejmu i zarządzie Kancelarii Senatu;
-  2) zapewnianiu w zakresie niezastrzeżonym dla SOP i Żandarmerii Wojskowej bezpieczeństwa osób przebywających na terenach i w obiektach, o których mowa w pkt 1, oraz w miejscach odbywania posiedzeń Zgromadzenia Narodowego, Sejmu i Senatu;
-  3) kontroli uprawnień do przebywania na terenach i w obiektach, o których mowa w pkt 1, oraz wydawaniu przepustek uprawniających do przebywania na tych terenach i w tych obiektach, a także zapewnianiu w tych miejscach porządku;
-  4) wykonywaniu zarządzeń porządkowych Marszałka Sejmu wydanych na podstawie regulaminu Sejmu;
-  5) współuczestnictwie w prowadzeniu działań w zakresie rozpoznania pirotechniczno-radiologicznego w obiektach, o których mowa w pkt 1, oraz podejmowaniu działań zmierzających do neutralizacji zagrożeń w tych obiektach;
-  6) wykrywanie urządzeń podsłuchowych na terenach, w obiektach i w urządzeniach, o których mowa w pkt 1;
-  7) wykonywaniu, zgodnie z odrębnymi przepisami, zadań w dziedzinie obrony cywilnej, a także ochrony przeciwpożarowej;
-  8) konwojowaniu wartości pieniężnych, mienia i dokumentów.
-2. Zadania w zakresie ochrony Sejmu i Senatu wykonują strażnicy Straży Marszałkowskiej, umundurowanej formacji podległej Marszałkowi Sejmu.
-3. Strażnicy Straży Marszałkowskiej wykonują również zadania reprezentacyjne, w szczególności w ceremoniale powitań i pożegnań podczas wizyt parlamentarnych oraz asystach honorowych.
-4. Podczas wykonywania zadań, o których mowa w ust. 3, strażnicy Straży Marszałkowskiej mogą występować z bronią paradną.
-5. Marszałek Sejmu określi, w drodze zarządzenia, rodzaje broni paradnej przysługującej strażnikom Straży Marszałkowskiej oraz jej wzory, a także przypadki występowania z tą bronią.
-6. Marszałek Sejmu może, w drodze zarządzenia, nadać Straży Marszałkowskiej sztandar oraz określić jego wzór.
-7. Ochrona Senatu jest wykonywana przez Straż Marszałkowską w zakresie ustalonym przez Marszałka Sejmu z Marszałkiem Senatu.
-
-**Art. 247.**
-1. Strażnikiem Straży Marszałkowskiej może być osoba posiadająca obywatelstwo polskie, korzystająca z pełni praw publicznych, posiadająca co najmniej wykształcenie średnie lub średnie branżowe, niekarana za popełnienie przestępstwa, ciesząca się nieposzlakowaną opinią, posiadająca zdolność fizyczną oraz psychiczną do wykonywania zadań strażnika Straży Marszałkowskiej, dopuszczona do posiadania broni palnej i mająca uregulowany stosunek do służby wojskowej.
-2. Osoba posiadająca kwalifikacje pożarnicze uzyskane na podstawie ustawy z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2017 r. poz. 1204, 1321 i 1567 oraz z 2018 r. poz. 106) nie musi spełniać wymogu dopuszczenia do posiadania broni palnej.
-3. Przyjęcie kandydata do pracy w Straży Marszałkowskiej poprzedza się postępowaniem kwalifikacyjnym, na które składa się:
-  1) przyjęcie kwestionariusza osobowego, a także dokumentów potwierdzających wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu;
-  2) przeprowadzenie rozmowy kwalifikacyjnej;
-  3) ustalenie zdolności fizycznej i psychicznej do pracy w Straży Marszałkowskiej;
-  4) przeprowadzenie testu sprawności fizycznej;
-  5) sprawdzenie w ewidencjach, rejestrach i kartotekach prawdziwości danych zawartych w kwestionariuszu osobowym kandydata do pracy.
-4. Szef Kancelarii Sejmu może wyrazić zgodę na zatrudnienie na stanowisku strażnika Straży Marszałkowskiej przez okres nie dłuższy niż 15 miesięcy osoby, która nie spełnia wymogu dopuszczenia do posiadania broni palnej lub posiadania kwalifikacji pożarniczych, o których mowa w ust. 2.
-5. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia:
-  1) tryb przeprowadzania postępowania kwalifikacyjnego dla kandydatów na strażników Straży Marszałkowskiej, zakres, sposób i termin przeprowadzania testu sprawności fizycznej oraz sposób sprawdzania wymogów posiadania obywatelstwa polskiego, korzystania z pełni praw publicznych i niekaralności za popełnienie przestępstwa,
-  2) zakres, sposób i termin przeprowadzania testu sprawności fizycznej strażników Straży Marszałkowskiej oraz skład i organizację zespołu oceniającego ten test
-- mając na względzie specyfikę zadań związanych z ochroną Sejmu i Senatu oraz kategorie wiekowe i płeć strażników Straży Marszałkowskiej.
-6. Strażnicy Straży Marszałkowskiej oraz kandydaci na strażników Straży Marszałkowskiej podlegają obowiązkowym badaniom psychologicznym.
-7. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia, zakres i tryb przeprowadzania badań psychologicznych osób, o których mowa w ust. 6, oraz podmioty uprawnione do przeprowadzania badań psychologicznych, uwzględniając potrzebę prawidłowego stwierdzenia przez psychologa istnienia lub braku przeciwskazań psychologicznych do wykonywania czynności strażnika Straży Marszałkowskiej.
-
-**Art. 248.** Koszty przeprowadzania postępowania kwalifikacyjnego, o którym mowa w art. 247, ponosi Kancelaria Sejmu.
-
-**Art. 249.**
-1. Przy wykonywaniu zadań w zakresie ochrony, o której mowa w art. 246, strażnikom Straży Marszałkowskiej:
-  1) przysługują odpowiednio uprawnienia funkcjonariuszy określone w art. 21 pkt 1-3, 5 i 6, stosowane w okolicznościach i na warunkach określonych w niniejszej ustawie;
-  2) przysługuje prawo użycia lub wykorzystania środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, pkt 2 lit. a, pkt 3-5, 7, pkt 12 lit. a i pkt 13 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, w przypadkach, o których mowa w art. 11 pkt 1-6 i 8-14 tej ustawy.
-2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a-c i e, pkt 2, pkt 3 lit. a i pkt 4 lit. a oraz w art. 47 pkt 1, pkt 2 lit. a, pkt 3 i 5-7 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, strażnicy Straży Marszałkowskiej mogą użyć broni palnej lub ją wykorzystać.
-3. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
-4. W zakresie zasad dopuszczenia strażników Straży Marszałkowskiej do posiadania broni stosuje się przepis art. 30 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2017 r. poz. 1839 oraz z 2018 r. poz. 106).
-5. Strażnik Straży Marszałkowskiej podczas wykonywania czynności służbowych korzysta z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych.
-6. Strażnik Straży Marszałkowskiej podczas wykonywania czynności służbowych jest obowiązany nosić umundurowanie oraz odznakę strażnika.
-7. Komendant Straży Marszałkowskiej może w uzasadnionych przypadkach zezwolić strażnikowi na wykonywanie czynności służbowych w ubiorze cywilnym.
-8. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefa Kancelarii Sejmu, określi, w drodze rozporządzenia, rodzaje, wzory, kolory i normy umundurowania oraz odznak i oznak strażnika Straży Marszałkowskiej, sposób noszenia umundurowania, orderów, odznaczeń, medali, odznak i oznak, uwzględniając tradycyjne elementy ubioru oraz odznaki stosowane przez Straż Marszałkowską, okoliczności, w których strażnik Straży Marszałkowskiej występuje w poszczególnych rodzajach umundurowania, oraz dbając o zapewnienie estetyki i praktyczności wykorzystania umundurowania w różnych warunkach pogodowych.
-
-**Art. 250.**
-1. Straż Marszałkowska jako komórka organizacyjna Kancelarii Sejmu jest bezpośrednio nadzorowana przez Szefa Kancelarii Sejmu.
-2. Strażą Marszałkowską kieruje Komendant Straży Marszałkowskiej przy pomocy zastępców. Komendant Straży Marszałkowskiej i jego zastępcy są powoływani i odwoływani przez Szefa Kancelarii Sejmu.
-3. Organizację wewnętrzną i szczegółowy tryb działania Straży Marszałkowskiej określi, w drodze zarządzenia, Marszałek Sejmu.
-4. Do Straży Marszałkowskiej w zakresie zasad posiadania broni stosuje się odpowiednio przepisy art. 29 oraz art. 31 ust. 1 ustawy z dnia 21 maja 1999 r. o broni i amunicji.
-5. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, warunki posiadania, ewidencjonowania i przechowywania przez Straż Marszałkowską broni palnej oraz środków przymusu bezpośredniego, z uwzględnieniem specyfiki działania Straży Marszałkowskiej oraz sposobów uniemożliwienia dostępu do broni oraz tych środków osobom trzecim.
+## Rozdział 10
 
 ## Rozdział 11 — Zmiany w przepisach
 
