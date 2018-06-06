@@ -63,6 +63,7 @@
 2. W ustawie budżetowej corocznie przeznacza się na realizację koordynacji, o której mowa w art. 8 ust. 2, środki finansowe w kwocie nie większej niż 70 mln zł.
 3. Środki na realizację koordynacji, o której mowa w art. 8 ust. 2, minister właściwy do spraw rodziny przekazuje wojewodom na ich wniosek.
 4. Wojewoda przekazuje środki, o których mowa w ust. 3, wójtom, burmistrzom lub prezydentom miast na podstawie zawartej umowy.
+5. Środki Funduszu Pracy przekazane wójtom, burmistrzom lub prezydentom miast na realizację koordynacji, o której mowa w art. 8 ust. 2, stanowią dochód gminy, o którym mowa w art. 8 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2017 r. poz. 1453, 2203 i 2260 oraz z 2018 r. poz. 317).
 
 **Art. 10.**
 1. Z tytułu urodzenia się żywego dziecka, posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3, przyznaje się, na to dziecko, jednorazowe świadczenie w wysokości 4000 zł.
@@ -89,7 +90,7 @@
   2) opieki, w tym paliatywnej lub rehabilitacji dzieci posiadających zaświadczenie, o którym mowa w art. 4 ust. 3;
   3) wsparcia dla kobiet w ciąży i ich rodzin w przypadku ciąży powikłanej;
   4) pomocy w zabezpieczeniu szczególnych potrzeb, w tym mieszkaniowych, rodzin z dzieckiem posiadającym zaświadczenie, o którym mowa w art. 4 ust. 3.
-3. Program może być również skierowany do rodzin z dzieckiem legitymującym się orzeczeniem o niepełnosprawności albo orzeczeniem o lekkim lub umiarkowanym lub znacznym stopniu niepełnosprawności określonym w przepisach o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz do dzieci i młodzieży posiadających odpowiednio opinię o potrzebie wczesnego wspomagania rozwoju dziecka, orzeczenie o potrzebie kształcenia specjalnego lub orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o których mowa w przepisach ustawy o systemie oświaty, i ich rodzin.
+3. Program może być również skierowany do rodzin z dzieckiem legitymującym się orzeczeniem o niepełnosprawności albo orzeczeniem o lekkim lub umiarkowanym lub znacznym stopniu niepełnosprawności określonym w przepisach o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz do dzieci i młodzieży posiadających odpowiednio opinię o potrzebie wczesnego wspomagania rozwoju dziecka, orzeczenie o potrzebie kształcenia specjalnego lub orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o których mowa w przepisach ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2018 r. poz. 996 i 1000), i ich rodzin.
 
 **Art. 13.**
 1. Monitoring realizacji ustawy sprawuje wojewoda właściwy ze względu na miejsce zamieszkania kobiety w ciąży oraz dziecka uprawnionego do wsparcia.
