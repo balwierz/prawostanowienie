@@ -241,7 +241,7 @@
 2. Dla osób, o których mowa w ust. 1, tajemnica Prokuratorii Generalnej stanowi tajemnicę zawodową w rozumieniu przepisów odrębnych.
 3. Obowiązek zachowania tajemnicy, o którym mowa w ust. 1, trwa również po ustaniu zatrudnienia lub pełnienia członkostwa w organach, o których mowa w ust. 1 pkt 5 i 6.
 4. Zwolnienie z obowiązku zachowania tajemnicy, o którym mowa w ust. 1, określają odrębne przepisy.
-5. Obowiązek zachowania tajemnicy nie dotyczy informacji udostępnianych na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2016 r. poz. 299, 615 i 1948) w zakresie określonym tymi przepisami.
+5. Obowiązek zachowania tajemnicy nie dotyczy informacji udostępnianych na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - w zakresie określonym tymi przepisami.
 
 ## Rozdział 5 — Organizacja Prokuratorii Generalnej i Urzędu Prokuratorii Generalnej
 
