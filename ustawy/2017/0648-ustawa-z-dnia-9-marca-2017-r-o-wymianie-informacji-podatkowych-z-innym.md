@@ -19,6 +19,7 @@
 5) ustawie o podatku dochodowym od osób fizycznych - rozumie się przez to ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032 i 2048 oraz z 2017 r. poz. 60 i 528);
 6) ustawie o podatku dochodowym od osób prawnych - rozumie się przez to ustawę z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888, 1926, 1933 i 1948 oraz z 2017 r. poz. 60 i 624);
 7) ustawie - Ordynacja podatkowa - rozumie się przez to ustawę z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201);
+7a) ustawie o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu - rozumie się przez to ustawę z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723);
 8) właściwym organie - rozumie się przez to właściwą w sprawach podatkowych władzę danego państwa;
 9) zagranicznym zakładzie - rozumie się przez to zagraniczny zakład, o którym mowa w art. 4a pkt 11 ustawy o podatku dochodowym od osób prawnych.
 
@@ -26,7 +27,8 @@
 
 **Art. 4.**
 1. Organy administracji publicznej oraz instytucje finansowe wymienione w art. 182 ustawy - Ordynacja podatkowa, na pisemne żądanie ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej lub jego upoważnionego przedstawiciela, są obowiązane do udzielenia informacji podatkowych w razie wystąpienia właściwego organu w zakresie i na zasadach określonych w dziale II lub wynikających z ratyfikowanych umów o unikaniu podwójnego opodatkowania i innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska.
-2. Żądanie, o którym mowa w ust. 1, oznacza się klauzulą „Tajemnica skarbowa”, a jego przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone” w rozumieniu przepisów o ochronie informacji niejawnych.
+1a. W celu realizacji zadań związanych z wymianą informacji podatkowych instytucje obowiązane wymienione w art. 2 ust. 1 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na pisemne żądanie ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej lub jego upoważnionego przedstawiciela, są obowiązane do udzielenia informacji gromadzonych na potrzeby realizacji obowiązków związanych ze stosowaniem środków bezpieczeństwa finansowego wynikających z tej ustawy.
+2. Żądania, o których mowa w ust. 1 i 1a, oznacza się klauzulą „Tajemnica skarbowa”, a ich przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone” w rozumieniu przepisów o ochronie informacji niejawnych.
 
 **Art. 5.**
 1. Właściwym organem Rzeczypospolitej Polskiej w sprawach wymiany informacji podatkowych z innymi państwami jest Szef Krajowej Administracji Skarbowej i w tym zakresie przysługują mu uprawnienia organu podatkowego.
@@ -195,7 +197,7 @@
       – która zawarła z danym państwem porozumienie w sprawie lokalizacji jej siedziby lub inne podobne porozumienie,
       – której dochód nie przynosi korzyści osobom prywatnym,
     b) podmioty będące własnością organizacji międzynarodowej, o której mowa w lit. a;
-  20) osobie kontrolującej - rozumie się przez to beneficjenta rzeczywistego, o którym mowa w art. 2 pkt 1a ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2016 r. poz. 299, 615 i 1948);
+  20) osobie kontrolującej - rozumie się przez to beneficjenta rzeczywistego, o którym mowa w art. 2 ust. 2 pkt 1 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
   21) osobie raportowanej - rozumie się przez to osobę z państwa uczestniczącego oraz osobę z państwa trzeciego inną niż:
     a) spółka kapitałowa, której akcje są przedmiotem regularnego obrotu na co najmniej jednym uznanym rynku papierów wartościowych,
     b) spółka będąca podmiotem powiązanym spółki określonej w lit. a,
