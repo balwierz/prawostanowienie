@@ -824,7 +824,7 @@
   2) po dwóch przedstawicieli:
     a) rady pedagogicznej,
     b) rady rodziców,
-  3) po jednym przedstawicielu zakładowych organizacji związkowych będących jednostkami organizacyjnymi organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego albo jednostkami organizacyjnymi organizacji związkowych wchodzących w skład organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, zrzeszających nauczycieli, przy czym przedstawiciel ten nie może być zatrudniony w szkole lub placówce, której konkurs dotyczy
+  3) po jednym przedstawicielu organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, wyłonionym spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych organizacji związkowych wchodzących w skład reprezentatywnych organizacji związkowych, zrzeszających nauczycieli, obejmujących swoim zakresem działania szkołę lub placówkę, w której konkurs się odbywa
 - z zastrzeżeniem ust. 15.
 15. Łączna liczba przedstawicieli organów, o których mowa w ust. 14 pkt 1, nie może być mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3.
 16. Jeżeli w składzie komisji konkursowej łączna liczba przedstawicieli organów, o których mowa w ust. 14 pkt 1, byłaby mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3, liczbę przedstawicieli tych organów zwiększa się proporcjonalnie, tak aby ich łączna liczba nie była mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3.
@@ -922,6 +922,7 @@
 
 **Art. 73.**
 1. Uchwały rady pedagogicznej są podejmowane zwykłą większością głosów w obecności co najmniej połowy jej członków.
+1a. Uchwały rady pedagogicznej podejmowane w sprawach związanych z osobami pełniącymi funkcje kierownicze w szkole lub placówce lub w sprawach związanych z opiniowaniem kandydatów na takie stanowiska podejmowane są w głosowaniu tajnym.
 2. Rada pedagogiczna ustala regulamin swojej działalności. Zebrania rady pedagogicznej są protokołowane.
 3. Osoby biorące udział w zebraniu rady pedagogicznej są obowiązane do nieujawniania spraw poruszanych na zebraniu rady pedagogicznej, które mogą naruszać dobra osobiste uczniów lub ich rodziców, a także nauczycieli i innych pracowników szkoły lub placówki.
 
