@@ -1291,19 +1291,18 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   2) efektów pracy funkcjonariusza;
   3) opinii służbowej poprzedzającej ustalenie wysokości dodatku specjalnego.
 4. Wysokość dodatku specjalnego funkcjonariusza, który uzyskał opinię służbową zawierającą ogólną ocenę bardzo dobrą albo wzorową, nie może być niższa niż 5% uposażenia zasadniczego.
-5. Wysokość dodatku uzasadnionego szczególnymi kwalifikacjami, warunkami lub miejscem pełnienia służby nie może przekroczyć 20% uposażenia zasadniczego.
+5. Łączna wysokość dodatku specjalnego oraz dodatku uzasadnionego szczególnymi kwalifikacjami, warunkami lub miejscem pełnienia służby nie może przekroczyć 75% uposażenia zasadniczego.
 6. Komendant SOP ustala wysokość dodatku specjalnego funkcjonariusza na wniosek kierownika komórki organizacyjnej SOP, w której funkcjonariusz pełni służbę, a kierownikom komórek organizacyjnych SOP i ich zastępcom bezpośrednio.
 7. Minister właściwy do spraw wewnętrznych ustala wysokość dodatku specjalnego Komendantowi SOP-funkcjonariuszowi bezpośrednio, a jego zastępcom-funkcjonariuszom na wniosek Komendanta SOP.
-8. Odpowiednio Komendant SOP i minister właściwy do spraw wewnętrznych ustala wysokość dodatku specjalnego na okres 6 miesięcy w terminach:
-  1) od dnia 1 stycznia do dnia 30 czerwca danego roku;
-  2) od dnia 1 lipca do dnia 31 grudnia danego roku.
+8. Odpowiednio Komendant SOP i minister właściwy do spraw wewnętrznych ustala wysokość dodatku specjalnego na okres 1 roku od dnia 1 sierpnia do dnia 31 lipca następnego roku.
+8a. Funkcjonariuszowi przyjętemu do służby albo przeniesionemu do służby wysokość dodatku specjalnego ustala się na okres od dnia przyjęcia do służby albo przeniesienia do służby do dnia 31 lipca najwcześniej następującego po dniu przyjęcia do służby albo przeniesienia do służby.
 9. Ustalenie wysokości dodatku specjalnego następuje w drodze decyzji. Wydanie decyzji nie jest wymagane w sytuacji, gdy wysokość dodatku specjalnego nie ulega zmianie.
 10. Odpowiednio Komendant SOP i minister właściwy do spraw wewnętrznych w uzasadnionych przypadkach, a w szczególności w przypadku:
   1) popełnienia przez funkcjonariusza przewinienia dyscyplinarnego oraz naruszenia zasad etyki zawodowej funkcjonariuszy,
   2) niewywiązywania się przez funkcjonariusza z realizacji zadań służbowych,
   3) znacznego obniżenia efektywności pracy funkcjonariusza
-- obniża wysokość dodatku specjalnego przed upływem sześciomiesięcznego okresu, na który został ustalony.
-11. Odpowiednio Komendant SOP i minister właściwy do spraw wewnętrznych w przypadku popełnienia przez funkcjonariusza przestępstwa lub przestępstwa skarbowego obniża wysokość dodatku specjalnego przed upływem sześciomiesięcznego okresu.
+- obniża wysokość dodatku specjalnego przed upływem okresu, na który został ustalony.
+11. Odpowiednio Komendant SOP i minister właściwy do spraw wewnętrznych w przypadku popełnienia przez funkcjonariusza przestępstwa lub przestępstwa skarbowego obniża wysokość dodatku specjalnego przed upływem okresu, na który został ustalony.
 12. Odpowiednio Komendant SOP i minister właściwy do spraw wewnętrznych może ustalić wyższą wysokość dodatku specjalnego przed upływem sześciomiesięcznego okresu, na który został ustalony, jeżeli jest to uzasadnione charakterem i efektami bieżąco realizowanych zadań lub wykonywaniem przez funkcjonariusza czynności wykraczających poza zakres jego obowiązków służbowych.
 13. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, rodzaj oraz wysokość dodatku uzasadnionego szczególnymi kwalifikacjami, warunkami lub miejscem pełnienia służby, uwzględniając przesłanki przyznania dodatku oraz okoliczności uzasadniające jego podwyższanie, obniżanie i cofanie.
 14. Przeciętne uposażenie funkcjonariuszy stanowi wielokrotność kwoty bazowej, której wysokość ustaloną według odrębnych zasad określa ustawa budżetowa.
@@ -2586,17 +2585,17 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 - zostaną zmienione w celu dostosowania do niniejszej ustawy w terminie 12 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 390.**
-1. W latach 2018-2027 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy wynosi 3 346 258 tys. zł, z tym że w poszczególnych latach limit wynosi:
-  1) w 2018 r. - 228 409 tys. zł;
-  2) w 2019 r. - 352 520 tys. zł;
-  3) w 2020 r. - 316 859 tys. zł;
-  4) w 2021 r. - 334 941 tys. zł;
-  5) w 2022 r. - 341 637 tys. zł;
-  6) w 2023 r. - 327 224 tys. zł;
-  7) w 2024 r. - 367 967 tys. zł;
-  8) w 2025 r. - 373 828 tys. zł;
-  9) w 2026 r. - 347 098 tys. zł;
-  10) w 2027 r. - 355 775 tys. zł.
+1. W latach 2018-2027 maksymalny limit wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy wynosi 3 673 180 tys. zł, z tym że w poszczególnych latach limit wynosi w:
+  1) 2018 r. - 245 269 tys. zł;
+  2) 2019 r. - 382 931 tys. zł;
+  3) 2020 r. - 349 825 tys. zł;
+  4) 2021 r. - 369 674 tys. zł;
+  5) 2022 r. - 376 934 tys. zł;
+  6) 2023 r. - 362 555 tys. zł;
+  7) 2024 r. - 403 298 tys. zł;
+  8) 2025 r. - 409 159 tys. zł;
+  9) 2026 r. - 382 429 tys. zł;
+  10) 2027 r. - 391 106 tys. zł.
 2. Minister właściwy do spraw wewnętrznych nadzoruje wykorzystanie limitu wydatków, o których mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku IV kwartału - według stanu na dzień 20 listopada danego roku.
 3. W przypadku zagrożenia lub przekroczenia przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego w ust. 1 oraz w przypadku, gdy w okresie od początku roku kalendarzowego do dnia ostatniej oceny, o której mowa w ust. 2, część limitu rocznego przypadającego proporcjonalnie na ten okres zostanie przekroczona co najmniej o 10%, stosuje się mechanizm korygujący polegający na zmniejszeniu wydatków budżetu państwa będących skutkiem finansowym niniejszej ustawy, związanych z wydatkami logistycznymi.
 4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 3, jest Komendant SOP.
