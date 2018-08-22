@@ -891,6 +891,11 @@
 2. Obowiązek przekazania informacji o rachunkach raportowanych za lata 2016 i 2017 obejmuje rachunki posiadane przez osoby z państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b i c, wpisanych na listę ogłaszaną w obwieszczeniu, o którym mowa w ust. 3.
 3. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 30 czerwca 2017 r., listę państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b i c, objętych obowiązkiem raportowania za lata 2016 i 2017.
 
+**Art. 99a.**
+1. Obowiązek przekazania informacji o rachunkach raportowanych za rok 2017 obejmuje rachunki posiadane przez osoby z państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b i c, objętych obowiązkiem raportowania i wpisanych na uzupełniającą listę państw uczestniczących ogłaszaną za rok 2017 w obwieszczeniu, o którym mowa w ust. 3.
+2. Informacje, o których mowa w ust. 1, raportująca instytucja finansowa, o której mowa w art. 24 ust. 1 pkt 44, przekazuje do dnia 31 sierpnia 2018 r.
+3. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, uzupełniającą listę państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b i c, innych niż wpisane na listę ogłoszoną na podstawie art. 99 ust. 3, objętych i nieobjętych obowiązkiem raportowania za rok 2017.
+
 **Art. 100.** Warunek określony w art. 31 ust. 2 pkt 6 lit. b uznaje się za spełniony, jeżeli wskazane w nim procedury zostaną wdrożone przez instytucję finansową, o której mowa w art. 24 ust. 1 pkt 8, do dnia 30 kwietnia 2017 r.
 
 **Art. 101.**
