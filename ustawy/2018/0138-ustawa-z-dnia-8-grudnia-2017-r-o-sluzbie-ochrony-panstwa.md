@@ -485,14 +485,16 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 **Art. 63.**
 1. W związku z wykonywaniem zadań wymienionych w art. 3 SOP zapewnia ochronę form i metod realizacji zadań, informacji oraz własnych obiektów i danych identyfikujących funkcjonariuszy.
 2. Przy wykonywaniu czynności operacyjno-rozpoznawczych funkcjonariusze mogą posługiwać się dokumentami, które uniemożliwiają ustalenie danych identyfikujących funkcjonariusza oraz środków, którymi posługują się przy wykonywaniu zadań służbowych.
+2a. Przy wykonywaniu czynności operacyjno-rozpoznawczych funkcjonariusze mogą posługiwać się środkami identyfikacji elektronicznej zawierającymi dane inne niż dane identyfikujące funkcjonariusza.
 3. Nie popełnia przestępstwa:
-  1) kto poleca sporządzenie lub kieruje sporządzeniem dokumentów, o których mowa w ust. 2;
-  2) kto sporządza dokumenty, o których mowa w ust. 2;
-  3) kto udziela pomocy w sporządzeniu dokumentów, o których mowa w ust. 2;
-  4) funkcjonariusz, jeżeli dokumentami, o których mowa w ust. 2, posługuje się przy wykonywaniu czynności operacyjno-rozpoznawczych.
+  1) kto poleca sporządzenie lub kieruje sporządzeniem dokumentów lub wydawaniem środków identyfikacji elektronicznej, o których mowa w ust. 2 i 2a;
+  2) kto sporządza dokumenty lub wydaje środki identyfikacji elektronicznej, o których mowa w ust. 2 i 2a;
+  3) kto udziela pomocy w sporządzeniu dokumentów lub wydawaniu środków identyfikacji elektronicznej, o których mowa w ust. 2 i 2a;
+  4) funkcjonariusz, jeżeli dokumentami lub środkami identyfikacji elektronicznej, o których mowa w ust. 2 i 2a, posługuje się przy wykonywaniu czynności operacyjno-rozpoznawczych;
+  5) kto wydaje środki identyfikacji elektronicznej, o których mowa w ust. 2a, funkcjonariuszowi, lub dopuszcza do uwierzytelnienia z wykorzystaniem takiego środka identyfikacji elektronicznej w swoim systemie identyfikacji elektronicznej.
 4. Uprawnione organy, służby i instytucje państwowe, jak również organy jednostek samorządu terytorialnego, na pisemny wniosek Komendanta SOP, stosownie do zakresu tego wniosku, wydają dokumenty i znaki identyfikujące funkcjonariuszom mającym posługiwać się nimi jako funkcjonariusze lub pracownicy tych organów, służb lub instytucji, bądź też, w granicach swojej właściwości, udzielają niezbędnej pomocy w zakresie wydawania przedmiotowych dokumentów.
 5. W przypadku gdy nie zwrócono się o to do organów, służb lub instytucji określonych w ust. 4, organem uprawnionym do wydawania dokumentów, o których mowa w ust. 2, jest Komendant SOP.
-6. Organem uprawnionym do prowadzenia ewidencji dokumentów, o których mowa w ust. 2, jest Komendant SOP.
+6. Organem uprawnionym do prowadzenia ewidencji dokumentów, o których mowa w ust. 2 i 2a, jest Komendant SOP.
 7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
   1) tryb wydawania dokumentów, o których mowa w ust. 2,
   2) sposób posługiwania się dokumentami, o których mowa w ust. 2, a także ich przechowywania i ewidencji,
