@@ -219,7 +219,7 @@
 
 **Art. 36.**
 1. Dane służące do składania podpisu elektronicznego są udzielane radcom i referendarzom po złożeniu stosownego wniosku za pośrednictwem Prezesa Prokuratorii Generalnej.
-2. Dopuszcza się również komunikowanie się radcy i referendarza z sądem przy wykorzystaniu kwalifikowanego podpisu elektronicznego albo podpisu potwierdzonego profilem zaufanym ePUAP.
+2. Dopuszcza się również komunikowanie się radcy i referendarza z sądem przy wykorzystaniu kwalifikowanego podpisu elektronicznego albo podpisu zaufanego.
 
 **Art. 37.** Prezes Rady Ministrów określi, w drodze rozporządzenia, zakres i tryb współdziałania Prokuratorii Generalnej i Prezesa Prokuratorii Generalnej przy wykonywaniu zadań z organami władzy publicznej, państwowymi osobami prawnymi, osobami zastępowanymi, państwowymi jednostkami organizacyjnymi nieposiadającymi osobowości prawnej oraz organami jednostek samorządu terytorialnego i innymi podmiotami, którym powierzono wykonywanie zadań publicznych na podstawie ustaw lub porozumień, w tym w szczególności zakres czynności wykonywanych w ramach współdziałania przez Prokuratorię Generalną i te podmioty, terminy wykonywania tych czynności oraz wymieniane informacje i dokumenty, mając na względzie zapewnienie należytej ochrony praw i interesów Rzeczypospolitej Polskiej lub osób zastępowanych, sprawności postępowania w tym dostępu Prokuratorii Generalnej do niezbędnych informacji i dokumentów, a także wymogi wynikające z przepisów dotyczących właściwych postępowań.
 
