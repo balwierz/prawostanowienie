@@ -22,7 +22,7 @@
     – kontrolowanie ponad połowy głosów przypadających na akcje wyemitowane przez to przedsiębiorstwo,
     – prawo do powoływania ponad połowy członków organu zarządzającego lub nadzorczego przedsiębiorstwa
     – jeżeli umowa koncesji jest zawierana w celu wykonywania jednego z rodzajów działalności sektorowej,
-  c) podmiot inny niż określony w lit. a i b, jeżeli umowa koncesji jest zawierana w celu wykonywania jednego z rodzajów działalności sektorowej, a działalność ta jest wykonywana na podstawie praw szczególnych lub praw wyłącznych innych niż prawa, o których mowa w art. 3 ust. 2 Prawa zamówień publicznych.
+  c) podmiot inny niż określony w lit. a i b, jeżeli umowa koncesji jest zawierana w celu wykonywania jednego z rodzajów działalności sektorowej, a działalność ta jest wykonywana na podstawie praw szczególnych lub praw wyłącznych, o których mowa w art. 3 ust. 2 Prawa zamówień publicznych.
 
 **Art. 3.**
 1. Na podstawie umowy koncesji zamawiający powierza koncesjonariuszowi wykonanie robót budowlanych lub świadczenie usług i zarządzanie tymi usługami za wynagrodzeniem.
@@ -118,7 +118,7 @@
 **Art. 8.**
 1. Zamawiający nie może dzielić przedmiotu umowy koncesji, jeżeli podział ten skutkowałby wyłączeniem stosowania przepisów ustawy, chyba że jest to uzasadnione ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych.
 2. W przypadku gdy proponowane wykonanie obiektu budowlanego lub świadczenie usług i zarządzanie usługami może skutkować zawarciem odrębnych umów koncesji, przy zawarciu każdej z tych umów przyjmuje się, że szacunkową wartością każdej z nich jest łączna szacunkowa wartość tych umów.
-3. W przypadku gdy łączna wartość odrębnych części przedmiotu umowy koncesji jest równa lub przekracza kwotę określoną w przepisach wydanych na podstawie art. 18 ust. 2, przepisy ustawy stosuje się do zawarcia umowy koncesji dotyczącej każdej z tych części.
+3. W przypadku gdy łączna wartość odrębnych części przedmiotu umowy koncesji jest równa lub przekracza kwotę wskazaną w art. 4, przepisy ustawy stosuje się do zawarcia umowy koncesji dotyczącej każdej z tych części.
 
 **Art. 9.**
 1. Jeżeli przedmiot umowy koncesji obejmuje wykonanie robót budowlanych oraz świadczenie usług, do zawarcia umowy koncesji stosuje się przepisy dotyczące tego rodzaju koncesji, który odpowiada głównemu przedmiotowi danej koncesji.
@@ -128,7 +128,7 @@
 **Art. 10.**
 1. Jeżeli przedmiot umowy koncesji można podzielić, w szczególności ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych, zamawiający może zawrzeć odrębne umowy, których przedmiotem będą poszczególne odrębne części, stosując do zawarcia każdej z umów koncesji przepisy właściwe dla tych części z uwagi na ich charakterystyczne cechy, albo zawrzeć jedną umowę koncesji.
 2. Jeżeli przedmiot umowy koncesji obejmuje:
-  1) części, do których mają zastosowanie przepisy ustawy, oraz zamówienia publiczne udzielane przez zamawiających, o których mowa w art. 3 ust. 1 pkt 1-3a i 5 Prawa zamówień publicznych, oraz zamówienia, o których mowa w art. 132 ust. 1 Prawa zamówień publicznych, których szacunkowa wartość jest równa lub przekracza kwotę określoną w przepisach wydanych na podstawie art. 18 ust. 2, stosuje się przepisy Prawa zamówień publicznych;
+  1) części, do których mają zastosowanie przepisy ustawy, oraz zamówienia publiczne udzielane na zasadach ogólnych lub zamówienia sektorowe, w rozumieniu Prawa zamówień publicznych, których wartość jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 Prawa zamówień publicznych, stosuje się przepisy Prawa zamówień publicznych;
   2) części, z których co najmniej jedna część jest objęta art. 346 Traktatu o funkcjonowaniu Unii Europejskiej, do zawarcia tej umowy koncesji nie stosuje się przepisów ustawy, jeżeli zawarcie jednej umowy koncesji jest uzasadnione ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych;
   3) część, która stanowi zamówienie, o którym mowa w art. 131a ust. 1 Prawa zamówień publicznych, do udzielenia którego stosuje się przepisy Prawa zamówień publicznych, do zawarcia takiej umowy stosuje się przepisy ustawy albo przepisy Prawa zamówień publicznych, zgodnie z wyborem zamawiającego, jeżeli zawarcie jednej umowy koncesji jest uzasadnione ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych;
   4) części, które obejmują umowy koncesji, służące prowadzeniu działalności sektorowej oraz umowy koncesji, które są objęte art. 346 Traktatu o funkcjonowaniu Unii Europejskiej, do zawarcia umowy koncesji nie stosuje się przepisów ustawy;
@@ -137,10 +137,11 @@
   7) części, do których mają zastosowanie przepisy ustawy, oraz części inne niż wymienione w pkt 1-6, jeżeli zamawiający zawiera jedną umowę, zastosowanie mają przepisy ustawy.
 3. Zamawiający nie może w celu uniknięcia stosowania przepisów ustawy łączyć przedmiotu umowy koncesji z przedmiotem objętym art. 346 Traktatu o funkcjonowaniu Unii Europejskiej lub będącym zamówieniem, o którym mowa w art. 131a ust. 1 Prawa zamówień publicznych.
 4. W przypadku umowy koncesji, której przedmiot obejmuje różne rodzaje działalności i nie jest możliwe określenie głównego przedmiotu umowy, do zawarcia umowy stosuje się przepisy:
-  1) Prawa zamówień publicznych, jeżeli jeden z rodzajów działalności dotyczy zamówień publicznych udzielanych przez zamawiających, o których mowa w art. 3 ust. 1 pkt 1-3a i 5 Prawa zamówień publicznych, a drugi rodzaj działalności dotyczy umowy koncesji, do zawarcia której stosuje się przepisy ustawy;
+  1) Prawa zamówień publicznych, jeżeli jeden z rodzajów działalności dotyczy zamówień publicznych udzielanych na zasadach ogólnych, a drugi rodzaj działalności dotyczy umowy koncesji, do której stosuje się przepisy ustawy;
   2) ustawy, jeżeli jeden z rodzajów działalności dotyczy:
-    a) umowy koncesji, a drugi nie dotyczy zamówień publicznych udzielanych przez zamawiających, o których mowa w art. 3 ust. 1 pkt 1-3a i 5 Prawa zamówień publicznych, lub zamówień, o których mowa w art. 132 ust. 1 Prawa zamówień publicznych,
-    b) umowy koncesji, a drugi dotyczy umowy koncesji, do której nie stosuje się przepisów ustawy.
+    a) umowy koncesji, a drugi nie dotyczy zamówień publicznych udzielanych na zasadach ogólnych lub zamówień sektorowych,
+    b) umowy koncesji, a drugi dotyczy umowy koncesji, do której nie stosuje się przepisów ustawy;
+  3) ustawy dotyczące koncesji innych niż koncesje służące prowadzeniu działalności sektorowej, jeżeli jeden z rodzajów działalności dotyczy takich koncesji, a drugi dotyczy koncesji służącej prowadzeniu działalności sektorowej.
 5. Zamawiający nie może w celu uniknięcia stosowania przepisów ustawy zawierać jednej umowy koncesji lub kilku odrębnych umów koncesji.
 
 **Art. 11.** Jeżeli przedmiot umowy koncesji, który nie może być podzielony, w szczególności ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych, obejmuje części:
@@ -184,7 +185,7 @@
   2) zamieszcza w Biuletynie Zamówień Publicznych.
 2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, kwoty wartości umów koncesji, od których uzależniony jest obowiązek przekazywania ogłoszeń Urzędowi Publikacji Unii Europejskiej, mając na względzie obowiązujące w tym zakresie przepisy prawa Unii Europejskiej.
 3. Zamawiający przygotowuje ogłoszenia zgodnie ze wzorami standardowych formularzy określonymi w rozporządzeniu wykonawczym Komisji (UE) 2015/1986 z dnia 11 listopada 2015 r. ustanawiającym standardowe formularze do publikacji ogłoszeń w dziedzinie zamówień publicznych i uchylającym rozporządzenie wykonawcze (UE) nr 842/2011 (Dz. Urz. UE L 296 z 12.11.2015, str. 1).
-4. Zamawiający przekazuje ogłoszenia Urzędowi Publikacji Unii Europejskiej zgodnie z formatem i procedurami elektronicznego przesyłania ogłoszeń wskazanymi na stronie internetowej, o której mowa w ust. 2 załącznika IX do dyrektywy 2014/23/UE.
+4. Zamawiający przekazuje ogłoszenia Urzędowi Publikacji Unii Europejskiej zgodnie z formatem i procedurami elektronicznego przesyłania ogłoszeń wskazanymi na stronie internetowej, o której mowa w ust. 2 załącznika IX do dyrektywy 2014/23/UE, jeżeli szacunkowa wartość umowy koncesji jest równa lub przekracza kwotę określoną w przepisach wydanych na podstawie ust. 2.
 5. Zamawiający zamieszcza ogłoszenia w Biuletynie Zamówień Publicznych za pomocą formularzy umieszczonych na stronie internetowej Urzędu Zamówień Publicznych.
 6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzory ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych, mając na względzie zakres wymaganych ustawą informacji, które musi zawierać treść ogłoszenia, oraz wartość umowy koncesji.
 
