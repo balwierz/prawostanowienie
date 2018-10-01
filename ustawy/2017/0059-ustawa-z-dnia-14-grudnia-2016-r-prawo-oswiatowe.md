@@ -557,7 +557,7 @@
 **Art. 45.**
 1. Szkoła lub placówka może realizować eksperyment pedagogiczny, który polega na modyfikacji istniejących lub wdrożeniu nowych działań w procesie kształcenia, przy zastosowaniu nowatorskich rozwiązań programowych, organizacyjnych, metodycznych lub wychowawczych, w ramach których są modyfikowane warunki, organizacja zajęć edukacyjnych lub zakres treści nauczania, w szczególności określone w art. 14 ust. 1 pkt 3-5.
 2. Celem eksperymentu pedagogicznego realizowanego w szkole lub placówce jest rozwijanie kompetencji i wiedzy uczniów oraz nauczycieli.
-3. Eksperyment pedagogiczny jest przeprowadzany pod opieką jednostki naukowej.
+3. Eksperyment pedagogiczny jest przeprowadzany pod opieką podmiotu, o którym mowa w art. 7 ust. 1 pkt 1, 2 i 4-8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668), zwanego dalej „jednostką naukową”.
 4. Eksperyment pedagogiczny realizowany w szkole lub placówce nie może prowadzić do zmiany typu szkoły lub rodzaju placówki.
 5. Eksperyment pedagogiczny nie może naruszać uprawnień ucznia do bezpłatnej nauki, wychowania i opieki w zakresie ustalonym w niniejszej ustawie, ustawie o systemie oświaty oraz ustawie o finansowaniu zadań oświatowych, a także w zakresie uzyskania wiadomości i umiejętności niezbędnych do ukończenia danego typu szkoły oraz warunków i sposobu przeprowadzania egzaminów, określonych w odrębnych przepisach.
 6. Postępowanie rekrutacyjne do szkół, placówek lub oddziałów, w których jest przeprowadzany eksperyment pedagogiczny, odbywa się na podstawie przepisów ustawy. Minister, udzielając zgody, o której mowa w ust. 8, może także wyrazić zgodę na inne zasady postępowania rekrutacyjnego.
