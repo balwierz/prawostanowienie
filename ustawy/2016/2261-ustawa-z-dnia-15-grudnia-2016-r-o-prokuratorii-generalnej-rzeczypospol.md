@@ -371,7 +371,7 @@
 2. Radcą może być osoba, która:
   1) posiada obywatelstwo polskie;
   2) korzysta z pełni praw cywilnych i obywatelskich;
-  3) posiada dyplom ukończenia wyższych studiów prawniczych w Rzeczypospolitej Polskiej lub dyplom potwierdzający ukończenie wyższych studiów prawniczych za granicą uznany w Rzeczypospolitej Polskiej na podstawie art. 191a ust. 1 ustawy z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym (Dz. U. z 2016 r. poz. 1842, 1933, 2169 i 2260) albo dyplom potwierdzający ukończenie wyższych studiów prawniczych za granicą uznany za równoważny z polskim dyplomem potwierdzającym uzyskanie tytułu zawodowego magistra na podstawie umowy międzynarodowej albo w drodze nostryfikacji;
+  3) posiada dyplom ukończenia studiów na kierunku prawo w Rzeczypospolitej Polskiej lub dyplom potwierdzający ukończenie wyższych studiów prawniczych za granicą, o którym mowa w art. 326 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668), albo dyplom ukończenia wyższych studiów prawniczych za granicą uznany za równoważny polskiemu dyplomowi potwierdzającemu uzyskanie tytułu zawodowego magistra zgodnie z art. 327 ust. 1 tej ustawy;
   4) posiada uprawnienia radcy prawnego, adwokata lub notariusza albo zajmowała stanowisko sędziego sądu powszechnego, sędziego sądu wojskowego lub sędziego sądu administracyjnego, asesora sądowego albo stanowisko prokuratora;
   5) nie była karana za umyślne przestępstwo lub przestępstwo skarbowe albo nieumyślne przestępstwo przeciwko obrotowi gospodarczemu;
   6) jest nieskazitelnego charakteru i swoim dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania zawodu radcy.
