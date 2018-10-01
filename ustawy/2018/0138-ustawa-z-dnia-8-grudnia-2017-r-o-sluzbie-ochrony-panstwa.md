@@ -532,8 +532,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   6) dyrektora generalnego, dyrektorów biur oraz kierowników oddziałów regionalnych „Polskiej Agencji Prasowej - Spółka Akcyjna”;
   7) nadawców w rozumieniu art. 4 pkt 5 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2017 r. poz. 1414 i 2111);
   8) redaktorów naczelnych, dziennikarzy lub osób prowadzących działalność wydawniczą, o których mowa w ustawie z dnia 26 stycznia 1984 r. - Prawo prasowe (Dz. U. poz. 24, z późn. zm.);
-  9) rektorów, prorektorów i kierowników podstawowych jednostek organizacyjnych w publicznych i niepublicznych szkołach wyższych;
-  10) członków Rady Głównej Nauki i Szkolnictwa Wyższego, Polskiej Komisji Akredytacyjnej i Centralnej Komisji do Spraw Stopni i Tytułów.
+  9) rektorów;
+  10) członków Rady Głównej Nauki i Szkolnictwa Wyższego, Polskiej Komisji Akredytacyjnej i Rady Doskonałości Naukowej.
 2. Komendant SOP w celu realizacji zadań SOP może po uzyskaniu zgody ministra właściwego do spraw wewnętrznych wyrazić zgodę na korzystanie z tajnej współpracy z osobami, o których mowa w ust. 1 pkt 7 i 8, jeżeli jest to uzasadnione względami bezpieczeństwa ochranianych osób lub obiektów.
 
 **Art. 67.**
@@ -1235,8 +1235,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 4. Komendant SOP może także udzielić urlopu okolicznościowego funkcjonariuszowi do załatwienia ważnych spraw osobistych albo w innych przypadkach zasługujących na szczególne uwzględnienie. Czas trwania tego urlopu okolicznościowego może wynosić od 1 do 5 dni roboczych w roku kalendarzowym.
 
 **Art. 154.**
-1. Komendant SOP udziela płatnego urlopu szkoleniowego funkcjonariuszowi, który uzyskał zezwolenie na pobieranie nauki lub odbywanie studiów wyższych, studiów wyższych trzeciego stopnia lub studiów podyplomowych i naukę tę pobiera lub odbywa studia, jak również uzyskał zezwolenie na wszczęcie przewodu doktorskiego lub postępowania habilitacyjnego, a także na odbycie specjalizacji medycznej, aplikacji radcowskiej lub legislacyjnej.
-2. Urlop szkoleniowy jest przeznaczony na przygotowanie się do egzaminów i ich złożenie, przygotowanie pracy dyplomowej, przygotowanie i złożenie egzaminu dyplomowego, specjalizacyjnego, egzaminów doktorskich, obrony rozprawy doktorskiej lub przeprowadzenie rozmowy o osiągnięciach naukowych, o której mowa w art. 18a ust. 10 ustawy z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki (Dz. U. z 2017 r. poz. 1789).
+1. Komendant SOP udziela płatnego urlopu szkoleniowego funkcjonariuszowi, który uzyskał zezwolenie na pobieranie nauki, odbywanie studiów wyższych lub studiów podyplomowych lub kształcenie w szkole doktorskiej i naukę tę pobiera, odbywa studia lub kształcenie, jak również uzyskał zezwolenie na wszczęcie postępowania w sprawie nadania stopnia doktora lub stopnia doktora habilitowanego, a także na odbycie specjalizacji medycznej, aplikacji radcowskiej lub legislacyjnej.
+2. Urlop szkoleniowy jest przeznaczony na przygotowanie się do egzaminów i ich złożenie, przygotowanie pracy dyplomowej, przygotowanie i złożenie egzaminu dyplomowego, specjalizacyjnego, egzaminów doktorskich, przygotowanie się do obrony rozprawy doktorskiej lub kolokwium habilitacyjnego.
 
 **Art. 155.** Komendant SOP udziela funkcjonariuszowi, o którym mowa w art. 154 ust. 1, zwolnienia z całości lub części dnia służby na udział w zajęciach obowiązkowych.
 
@@ -1244,7 +1244,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 1) w celu przygotowania się do egzaminu wstępnego i jego złożenia - 7 dni;
 2) w szkołach wyższych, w każdym roku studiów wyższych - 21 dni;
 3) dla funkcjonariuszy pobierających naukę w szkołach pomaturalnych i na studiach podyplomowych w celu przygotowania się do egzaminu końcowego i jego złożenia - 14 dni;
-4) w celu przygotowania się do złożenia egzaminów doktorskich i obrony rozprawy doktorskiej lub przygotowania się do postępowania habilitacyjnego - 28 dni;
+4) w celu przygotowania się do złożenia egzaminów doktorskich, obrony rozprawy doktorskiej lub kolokwium habilitacyjnego - 28 dni;
 5) w celu przygotowania się i złożenia egzaminu radcowskiego - 30 dni;
 6) w celu przygotowania się i złożenia egzaminu po zakończeniu aplikacji legislacyjnej - 14 dni;
 7) w celu przygotowania się i złożenia egzaminu kończącego specjalizację medyczną - 30 dni.
