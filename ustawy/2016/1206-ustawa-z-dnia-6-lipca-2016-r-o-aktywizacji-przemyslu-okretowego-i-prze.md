@@ -17,6 +17,9 @@
     c) przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 649)
   - prowadzących na terytorium Rzeczypospolitej Polskiej działalność polegającą na budowie statku lub przebudowie statku;
   5) statku - oznacza to jednostkę pływającą używaną do żeglugi morskiej lub śródlądowej, o długości kadłuba powyżej 5 metrów, podlegającą nadzorowi technicznemu uznanej organizacji, o której mowa w ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281), jak również morską platformę wiertniczą lub produkcyjną.
+  6) przedsiębiorstwie w spadku - oznacza to przedsiębiorstwo w spadku, o którym mowa w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej (Dz. U. poz. 1629), zwanej dalej „ustawą o zarządzie sukcesyjnym”;
+  7) zarządzie sukcesyjnym - oznacza to zarząd sukcesyjny w rozumieniu ustawy o zarządzie sukcesyjnym;
+  8) zmarłym przedsiębiorcy - oznacza to zmarłego przedsiębiorcę, o którym mowa w art. 1 ustawy o zarządzie sukcesyjnym.
 2. Kwota wyrażona w euro wskazana w ust. 1 pkt 3 lit. a jest przeliczana na złote według średniego kursu euro ogłaszanego przez Narodowy Bank Polski obowiązującego w dniu wydania certyfikatu stwierdzającego przebudowę statku.
 3. Rokiem podatkowym przedsiębiorcy okrętowego jest rok kalendarzowy, a w przypadku przedsiębiorcy okrętowego będącego podatnikiem podatku dochodowego od osób prawnych - rok podatkowy przyjęty dla celów tego podatku.
 
@@ -67,6 +70,11 @@ mając na względzie zakres niezbędnych danych oraz konieczność zapewnienia p
 1. Okres opodatkowania przedsiębiorcy okrętowego zryczałtowanym podatkiem wynosi 3 kolejne lata podatkowe.
 2. W okresie opodatkowania nie jest możliwa zmiana formy opodatkowania.
 3. W przypadku zakończenia działalności w zakresie budowy statku lub przebudowy statku w okresie opodatkowania ponowny wybór opodatkowania zryczałtowanym podatkiem może nastąpić nie wcześniej niż po upływie roku podatkowego, licząc od końca roku podatkowego, w którym przedsiębiorca okrętowy zakończył tę działalność.
+4. Jeżeli w okresie opodatkowania zmarł przedsiębiorca okrętowy, podatnikiem zryczałtowanego podatku w okresie od otwarcia spadku do dnia wygaśnięcia:
+  1) zarządu sukcesyjnego albo
+  2) uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano zgłoszenia, o którym mowa w art. 12 ust. 1c ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2017 r. poz. 869 i 2491 oraz z 2018 r. poz. 106, 650, 771 i 1629)
+- nie dłużej jednak niż do końca okresu opodatkowania, jest przedsiębiorstwo w spadku.
+5. Przedsiębiorstwo w spadku kontynuuje opodatkowanie zryczałtowanym podatkiem na zasadach, jakie obowiązywały zmarłego przedsiębiorcę.
 
 **Art. 9.**
 1. Przedsiębiorca okrętowy opodatkowany zryczałtowanym podatkiem ustala wysokość przychodu należnego, o którym mowa w art. 5 ust. 1, na podstawie ksiąg podatkowych prowadzonych zgodnie z odrębnymi przepisami.
@@ -88,6 +96,8 @@ mając na względzie zakres niezbędnych danych oraz konieczność zapewnienia p
 1. Przedsiębiorca okrętowy jest obowiązany za każdy miesiąc roku podatkowego obliczać zryczałtowany podatek od przychodu należnego, o którym mowa w art. 5 ust. 1, i wpłacać ten podatek, bez wezwania, na rachunek urzędu skarbowego, przy pomocy którego naczelnik urzędu skarbowego wskazany w art. 11 wykonuje swoje zadania, w terminie do 20. dnia każdego miesiąca za miesiąc poprzedni, a za ostatni miesiąc roku podatkowego - w terminie złożenia zeznania, o którym mowa w ust. 2.
 2. Przedsiębiorca okrętowy jest obowiązany złożyć w urzędzie skarbowym, o którym mowa w ust. 1, zeznanie, według ustalonego wzoru, o wysokości zryczałtowanego podatku od przychodu należnego, o którym mowa w art. 5 ust. 1, za dany rok podatkowy do końca pierwszego miesiąca następnego roku podatkowego.
 3. Zryczałtowany podatek wynikający z zeznania, o którym mowa w ust. 2, jest podatkiem należnym za dany rok podatkowy, chyba że właściwy organ podatkowy wyda decyzję, w której określi inną wysokość podatku.
+
+**Art. 13a.** Przepisy art. 9-11 i art. 13 obowiązane jest stosować odpowiednio przedsiębiorstwo w spadku.
 
 **Art. 14.** Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, wzory:
 1) oświadczenia,
