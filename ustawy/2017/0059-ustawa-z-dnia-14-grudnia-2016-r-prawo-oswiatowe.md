@@ -512,6 +512,7 @@
     a) 24. rok życia - w przypadku uczniów z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna,
     b) 25. rok życia - w przypadku uczestników zajęć rewalidacyjno-wychowawczych;
   3) zwrot kosztów przejazdu ucznia, o którym mowa w pkt 1 i 2, oraz jego opiekuna do szkoły lub ośrodka, wymienionych w pkt 1 i 2, na zasadach określonych w umowie zawartej między wójtem (burmistrzem, prezydentem miasta) a rodzicami, jeżeli dowożenie i opiekę zapewniają rodzice.
+4a. Gmina może zorganizować dzieciom i młodzieży niepełnosprawnej, których kształcenie i wychowanie odbywa się na podstawie art. 127, bezpłatny transport i opiekę w czasie przewozu do szkoły ponadpodstawowej oraz ośrodka, o którym mowa w art. 2 pkt 7, również w przypadkach, w których nie ma takiego obowiązku.
 5. Rada gminy, z uwzględnieniem ust. 1 i 2, ustala plan sieci publicznych szkół podstawowych prowadzonych przez gminę, a także określa granice obwodów publicznych szkół podstawowych, z wyjątkiem specjalnych, mających siedzibę na obszarze gminy, z zastrzeżeniem art. 88 ust. 2. W przypadku publicznych szkół podstawowych prowadzonych przez inne organy, określenie granic ich obwodów następuje w uzgodnieniu z tymi organami. Uchwała rady gminy podlega ogłoszeniu w wojewódzkim dzienniku urzędowym.
 6. Rada gminy, podejmując uchwałę, o której mowa w ust. 5, dąży do tego, aby szkoły podstawowe były szkołami:
   1) o pełnej strukturze organizacyjnej;
