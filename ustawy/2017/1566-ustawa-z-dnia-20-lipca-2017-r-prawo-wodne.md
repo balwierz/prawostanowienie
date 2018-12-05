@@ -940,7 +940,7 @@
   3) koniecznością redukcji substancji szczególnie szkodliwych w miejscu ich powstawania, gdy nie jest możliwe ich usunięcie w mechaniczno-biologicznych procesach oczyszczania.
 
 **Art. 101.**
-1. Zakłady pobierające wodę oraz przeznaczające ścieki do rolniczego wykorzystania są obowiązane prowadzić pomiary ilości pobranej wody oraz ilości i jakości ścieków oraz prowadzić ewidencję dokonywanych pomiarów.
+1. Zakłady pobierające wodę, przeznaczające ścieki do rolniczego wykorzystania oraz wprowadzające ścieki do wód lub do ziemi są obowiązane prowadzić pomiary ilości pobranej wody oraz ilości i jakości ścieków oraz prowadzić ewidencję dokonywanych pomiarów.
 2. Zakłady wprowadzające ścieki do wód lub do ziemi mogą, w pozwoleniu wodnoprawnym, zostać obowiązane do prowadzenia pomiarów jakości wód powierzchniowych powyżej i poniżej miejsca zrzutu ścieków oraz wód podziemnych, a także prowadzenia ewidencji dokonywanych pomiarów, jeżeli zachodzi potrzeba zapewnienia możliwości utrzymania dobrego stanu wód lub jego niepogarszania oraz osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
 3. Zakłady pobierające wodę w ilości większej niż 100 m3 na dobę są obowiązane do dokonywania ciągłego pomiaru ilości pobieranej wody oraz prowadzenia ewidencji dokonywanych pomiarów.
 
@@ -3316,7 +3316,7 @@
   1) przyrządy pomiarowe lub systemy pomiarowe służące do pomiaru ilości pobieranych wód podziemnych i wód powierzchniowych;
   2) przyrządy pomiarowe lub systemy pomiarowe służące do pomiaru ilości ścieków wprowadzanych do wód lub do ziemi, jeżeli wprowadzają do wód lub do ziemi ścieki w ilości średniej dobowej powyżej 0,01 m3/s;
   3) przyrządy pomiarowe lub systemy pomiarowe służące do pomiaru temperatury na wlocie do ujęcia wody oraz na wylocie do odbiornika dla wód z systemów chłodzenia elektrowni lub elektrociepłowni.
-2. Podmioty korzystające z usług wodnych, wprowadzające do wód lub do ziemi ścieki w ilości średniej dobowej wyższej niż 0,01 m3/s, zapewniają pobieranie próbek przez akredytowane laboratoria, o których mowa w przepisach ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, oraz dokonują badania jakości ścieków w tych laboratoriach.
+2. Podmioty korzystające z usług wodnych, wprowadzające ścieki do wód lub do ziemi zapewniają pobieranie próbek przez akredytowane laboratoria, o których mowa w przepisach ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, oraz dokonują badania jakości ścieków w tych laboratoriach.
 3. Do ustalenia ilości pobranych wód powierzchniowych lub wód podziemnych oraz ilości lub temperatury wprowadzanych ścieków używa się przyrządów pomiarowych podlegających prawnej kontroli metrologicznej w rozumieniu przepisów ustawy z dnia 11 maja 2001 r. - Prawo o miarach.
 4. Do ustalenia ilości wprowadzanych do wód lub do ziemi wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni oraz ich temperatury stosuje się systemy pomiarowe umożliwiające wyznaczenie tych parametrów.
 5. Wody Polskie wyposażają podmioty korzystające z usług wodnych w przyrządy pomiarowe, o których mowa w ust. 1, z wyłączeniem przypadków, w których:
