@@ -678,7 +678,7 @@
   2) wydaje decyzje administracyjne w sprawach określonych w ustawie;
   3) współdziała z radami oświatowymi powołanymi na podstawie art. 78;
   4) wykonuje zadania organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579 i 2138) w stosunku do:
-    a) organów jednostek samorządu terytorialnego - w sprawach szkół publicznych, zakładanych i prowadzonych przez osoby prawne i fizyczne, oraz szkół i placówek niepublicznych,
+    a) organów jednostek samorządu terytorialnego - w sprawach publicznych szkół i placówek, zakładanych i prowadzonych przez osoby prawne i osoby fizyczne, oraz niepublicznych szkół i placówek,
     b) dyrektorów szkół - w sprawach z zakresu obowiązku szkolnego i obowiązku nauki oraz w sprawach skreślenia uczniów z listy uczniów;
   5) realizuje politykę oświatową państwa, a także współdziała z organami jednostek samorządu terytorialnego w tworzeniu i realizowaniu odpowiednio regionalnej i lokalnej polityki oświatowej, zgodnych z polityką oświatową państwa;
   6) opracowuje programy wykorzystania środków na dofinansowanie doskonalenia nauczycieli, wyodrębnionych w budżecie wojewody, po zasięgnięciu opinii związków zawodowych, reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego;
