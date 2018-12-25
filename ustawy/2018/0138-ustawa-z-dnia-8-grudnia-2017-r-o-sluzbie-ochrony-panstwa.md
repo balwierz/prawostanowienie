@@ -147,17 +147,27 @@
   c) usunięcia pojazdu z miejsca postoju,
   d) usunięcia innych urządzeń lub oddania ich do depozytu;
 2) legitymować osoby w celu ustalenia ich tożsamości, a w szczególności identyfikacji osób, które mogą stworzyć bezpośrednie zagrożenie dla osób lub obiektów, o których mowa w art. 3 pkt 1, podlegających ochronie SOP;
-3) dokonywać kontroli osobistej, a także przeglądać zawartość bagaży i sprawdzać ładunki i pomieszczenia oraz środki transportu, w sytuacjach, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób lub obiektów, o których mowa w art. 3 pkt 1;
-4) dokonywać kontroli bezpieczeństwa osób wchodzących na teren obiektów, o których mowa w art. 3 pkt 1 lit. e, i środków transportu lądowego, powietrznego lub wodnego służących do przewozu osób ochranianych, tras ich przejazdu, pojazdów, bagaży, przesyłek, pomieszczeń, obiektów, obszaru w formie:
+3) dokonywać kontroli osobistej polegającej na sprawdzeniu zawartości odzieży i obuwia osoby kontrolowanej oraz przedmiotów, które znajdują się na jej ciele, włącznie z żądaniem zdjęcia odzieży i obuwia oraz sprawdzeniu jamy ustnej, nosa, uszu i włosów osoby kontrolowanej, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 3 pkt 1;
+3a) przeglądać zawartość bagaży i sprawdzać ładunki poprzez manualne sprawdzenie ładunków i elementów konstrukcyjnych bagaży oraz znajdujących się w nich przedmiotów lub sprawdzenie bagaży i ładunków z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób i obiektów, o których mowa w art. 3 pkt 1;
+3b) sprawdzać pomieszczenia oraz środki transportu z wykorzystaniem urządzeń i sprzętu specjalistycznego lub psa służbowego, jeżeli jest to niezbędne dla zapewnienia bezpieczeństwa ochranianych osób lub obiektów, o których mowa w art. 3 pkt 1;
+4) dokonywać kontroli bezpieczeństwa osób wchodzących na teren obiektów i placówek, o których mowa w art. 3 pkt 1 lit. e i f, a także na teren innych wydzielonych przez SOP stref bezpieczeństwa, oraz środków transportu lądowego, powietrznego lub wodnego służących do przewozu osób ochranianych, tras ich przejazdu, pojazdów, bagaży, przesyłek, obiektów lub obszaru w formie:
   a) kontroli manualnej lub
   b) sprawdzenia za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych lub
   c) sprawdzenia biochemicznego lub
-  d) sprawdzenia z wykorzystaniem psów służbowych
-- w zakresie niezbędnym do realizacji zadań, o których mowa w art. 3 pkt 1 lit. a-d;
+  d) sprawdzenia z wykorzystaniem psa służbowego
+- w zakresie niezbędnym do realizacji zadań, o których mowa w art. 3 pkt 1 lit. a-e;
 5) ujmować osoby stwarzające bezpośrednie zagrożenie życia lub zdrowia ludzkiego, a także zagrożenie dla chronionego mienia w celu niezwłocznego oddania tych osób Policji lub innym właściwym organom;
 6) żądać niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz jednostek gospodarczych prowadzących działalność w zakresie użyteczności publicznej; wymienione instytucje, organy i jednostki są obowiązane, w zakresie swojego działania, do udzielenia tej pomocy;
 7) zwracać się o niezbędną pomoc do innych jednostek gospodarczych i organizacji społecznych, jak również zwracać się w nagłych wypadkach do każdej osoby o udzielenie doraźnej pomocy;
 8) obserwować i rejestrować przy użyciu środków technicznych obraz zdarzeń w miejscach publicznych, a w przypadku czynności operacyjno-rozpoznawczych i administracyjno-porządkowych wykonywanych na podstawie ustawy - również rejestrować dźwięk towarzyszący tym zdarzeniom, a także obserwować i rejestrować przy użyciu środków technicznych obraz zdarzeń w obiektach ochranianych lub wokół tych obiektów, w uzgodnieniu z ich administratorami, oraz w miejscach zamieszkania osób ochranianych w zakresie uzgodnionym z tymi osobami i niezbędnym do realizacji zadań, o których mowa w art. 3 pkt 1-3.
+
+**Art. 21a.**
+1. Sprawdzenia, o którym mowa w art. 21 pkt 3, można dokonać w formie:
+  1) kontroli manualnej lub
+  2) sprawdzenia za pomocą środków technicznych niezbędnych do wykrywania materiałów i urządzeń niebezpiecznych, lub
+  3) sprawdzenia biochemicznego, lub
+  4) sprawdzenia z wykorzystaniem psa służbowego.
+2. Kontrola bezpieczeństwa, o której mowa w art. 21 pkt 4, polega na sprawdzeniu zawartości odzieży i obuwia osoby oraz przedmiotów, które znajdują się na jej ciele, włącznie z żądaniem zdjęcia odzieży i obuwia, sprawdzeniu jamy ustnej, nosa, uszu i włosów osoby, przeglądaniu zawartości jej bagaży lub sprawdzaniu ładunków oraz znajdujących się w nich przedmiotów.
 
 **Art. 22.**
 1. Funkcjonariusz nie wykonuje uprawnień, o których mowa w art. 21 pkt 3-5, w stosunku do:
@@ -168,8 +178,11 @@
 3. O podjęciu działań, o których mowa w ust. 2, wobec osób, o których mowa w ust. 1 pkt 1 i 2, należy niezwłocznie powiadomić urząd obsługujący ministra właściwego do spraw zagranicznych, a wobec osób, o których mowa w ust. 1 pkt 3, odpowiednio Marszałka Sejmu i Marszałka Senatu, Pierwszego Prezesa Sądu Najwyższego lub Prokuratora Generalnego.
 
 **Art. 23.**
-1. Czynności, o których mowa w art. 21, powinny być wykonywane w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte.
-2. Na sposób prowadzenia czynności, o których mowa w art. 21, przysługuje zażalenie do miejscowo właściwego prokuratora w terminie 7 dni od dnia dokonania czynności. Do zażalenia stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904 i 2405 oraz z 2018 r. poz. 5 i 106), zwanej dalej „Kodeksem postępowania karnego”, dotyczące postępowania odwoławczego.
+1. Czynności, o których mowa w art. 21, powinny być wykonywane w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której zostają podjęte, oraz w zakresie niezbędnym w danych okolicznościach do zrealizowania celu dokonywanej czynności.
+2. Po przeprowadzeniu czynności, o których mowa w art. 21, funkcjonariusz poucza osobę, wobec której dokonano czynności, o prawie złożenia zażalenia, o którym mowa odpowiednio w ust. 3 lub 4.
+3. Na sposób prowadzenia czynności, o których mowa w art. 21 pkt 1, 2 i 3b-8, przysługuje zażalenie do właściwego miejscowo prokuratora w terminie 7 dni od dnia dokonania czynności. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. z 2018 r. poz. 1987 i 2399), zwanej dalej „Kodeksem postępowania karnego”.
+4. W celu zbadania zasadności, legalności i prawidłowości dokonania czynności, o których mowa w art. 21 pkt 3 i 3a, przysługuje zażalenie do sądu rejonowego właściwego ze względu na miejsce przeprowadzania czynności w terminie 7 dni od dokonania czynności. Do zażalenia stosuje się odpowiednio przepisy rozdziału 50 Kodeksu postępowania karnego.
+5. Zażalenie, o którym mowa w ust. 4, składa się za pośrednictwem komórki organizacyjnej SOP, w której pełni służbę funkcjonariusz SOP, który dokonał czynności, o których mowa w art. 21 pkt 3 lub 3a. Komórka organizacyjna SOP, o której mowa w zdaniu pierwszym, jest obowiązana do niezwłocznego przekazania zażalenia sądowi rejonowemu właściwemu ze względu na miejsce przeprowadzania czynności.
 
 **Art. 24.**
 1. Funkcjonariusz, przystępując do czynności służbowych, o których mowa w art. 21 pkt 1-7, jest obowiązany:
@@ -196,7 +209,13 @@
 
 **Art. 26.**
 1. Osoba, która ma być poddana kontroli osobistej, może żądać obecności przy tej czynności osoby wskazanej przez siebie oraz osoby przybranej przez prowadzącego czynności, jeżeli obecność tych osób nie utrudni lub nie uniemożliwi dokonania kontroli.
-2. Kontroli osobistej powinny dokonywać, w miarę możliwości, osoby tej samej płci w pomieszczeniu niedostępnym na czas kontroli dla osób postronnych.
+2. Kontroli osobistej dokonuje funkcjonariusz tej samej płci, co osoba kontrolowana, w miejscu niedostępnym w czasie wykonywania kontroli dla osób postronnych.
+3. W przypadku gdy kontrola osobista musi być dokonana niezwłocznie, w szczególności ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego lub mienia, może jej dokonać funkcjonariusz płci odmiennej niż osoba kontrolowana, a także może ona zostać dokonana w miejscu niespełniającym warunku określonego w ust. 2.
+4. Funkcjonariusz dokonujący kontroli osobistej, poza czynnościami, o których mowa w art. 24:
+  1) legitymuje osobę kontrolowaną oraz inne osoby, jeżeli uczestniczą w czynności;
+  2) może wezwać osobę kontrolowaną do dobrowolnego wydania przez nią broni lub innych niebezpiecznych przedmiotów służących do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione oraz może żądać opróżnienia przez osobę kontrolowaną kieszeni, innych części odzieży lub przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych;
+  3) odbiera osobie kontrolowanej broń lub inne niebezpieczne przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione;
+  4) sprawdza czy informacje o osobie kontrolowanej, przedmiotach lub dokumentach posiadanych przez tę osobę są przetwarzane w dostępnych SOP krajowych i międzynarodowych systemach informacyjnych, w których przetwarza się informacje, w tym dane osobowe, o osobach podejrzanych o popełnienie przestępstw, osobach zaginionych lub osobach poszukiwanych w związku z ochroną bezpieczeństwa i porządku publicznego lub w których przetwarza się informacje o skradzionych lub utraconych dokumentach lub przedmiotach w celu ich odnalezienia.
 
 **Art. 27.**
 1. Przeglądanie zawartości bagażu lub sprawdzanie ładunku i pomieszczeń przeprowadza się w obecności właściciela bagażu, ładunku i pomieszczenia albo przedstawiciela przewoźnika lub spedytora, albo użytkownika pomieszczenia, a gdy jest to niemożliwe - w obecności osoby przybranej przez funkcjonariusza.
@@ -217,9 +236,19 @@
 2. Osobę ujętą funkcjonariusz niezwłocznie doprowadza do jednostki Policji lub przekazuje Policji. Funkcjonariusz niezwłocznie przekazuje Policji także odebrane osobie ujętej broń i przedmioty, o których mowa w ust. 1 pkt 2.
 
 **Art. 30.**
-1. Czynności, o których mowa w art. 26-28 oraz art. 29 ust. 1 pkt 2 i 3, dokumentuje się odpowiednio w protokole kontroli osobistej, protokole przeglądania zawartości bagażu lub protokole sprawdzenia ładunku lub ujęcia, odnotowując rodzaj, czas, miejsce i wynik czynności oraz nazwiska, imiona i funkcje osób w nich uczestniczących.
-2. W przypadku gdy przedmioty ujawnione w wyniku czynności służbowych stwarzają niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia, funkcjonariusz jest obowiązany podjąć działania zmierzające do usunięcia niebezpieczeństwa.
-3. Rada Ministrów określi, w drodze rozporządzenia, zakres informacji, w tym pouczenia o przysługujących prawach, oraz wzory protokołów, o których mowa w ust. 1, mając na względzie zapewnienie identyfikacji osób, bagaży, ładunków, pomieszczeń oraz środków transportu, wobec których dokonano czynności, oraz prawidłowe pouczenie osoby kontrolowanej albo ujętej o przysługujących jej prawach.
+1. W przypadku gdy w toku przeprowadzania czynności, o których mowa w art. 21 pkt 3-4, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub na żądanie osoby kontrolowanej złożone bezpośrednio po dokonaniu czynności, sporządza się odpowiednio protokół kontroli osobistej, protokół przeglądania zawartości bagaży i sprawdzenia ładunków lub protokół sprawdzenia pomieszczenia oraz środków transportu. Czynności, o których mowa w art. 21 pkt 5, dokumentuje się w protokole ujęcia.
+2. Protokoły, o których mowa w ust. 1, zawierają w szczególności:
+  1) oznaczenie czynności, podstawy prawnej i przyczyny jej podjęcia, jej miejsca oraz danych osoby, wobec której dokonano czynności i osób w nich uczestniczących, obejmujących w szczególności imię, nazwisko, numer PESEL lub datę urodzenia oraz rodzaj i cechy identyfikacyjne dokumentu, na podstawie którego ustalono tożsamość osoby;
+  2) datę i godzinę rozpoczęcia i zakończenia czynności;
+  3) dane funkcjonariusza dokonującego czynności obejmujące stopień, imię, nazwisko oraz nazwę komórki organizacyjnej SOP, w której pełni służbę;
+  4) przebieg czynności, oświadczenia i wnioski jej uczestników;
+  5) spis znalezionych i odebranych przedmiotów oraz w miarę potrzeby ich opis;
+  6) pouczenie osoby kontrolowanej o jej prawach;
+  7) w miarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu czynności.
+3. Jeżeli w toku przeprowadzania czynności, o których mowa w art. 21 pkt 3-5, znaleziono przedmioty mogące stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmioty, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, protokół, o którym mowa w ust. 1, przekazuje się do jednostki organizacyjnej Policji właściwej dla miejsca przeprowadzenia czynności.
+4. W przypadku gdy przedmioty ujawnione w wyniku czynności służbowych stwarzają niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia, funkcjonariusz jest obowiązany podjąć działania zmierzające do usunięcia niebezpieczeństwa.
+5. W przypadku gdy w toku przeprowadzania czynności, o których mowa w art. 21 pkt 3-4, nie znaleziono przedmiotów mogących stworzyć niebezpieczeństwo dla życia, zdrowia ludzkiego lub mienia lub przedmiotów, które służą do popełnienia czynu zabronionego pod groźbą kary lub których posiadanie jest zabronione, lub osoba poddana tym czynnościom nie zgłosiła żądania sporządzenia protokołu z dokonanych czynności, dokonanie czynności dokumentuje się w dokumentacji służbowej, odnotowując rodzaj, czas, miejsce i wynik czynności oraz imiona, nazwiska i funkcje osób w nich uczestniczących.
+6. Rada Ministrów określi, w drodze rozporządzenia, treść pouczeń o prawach przysługujących osobie kontrolowanej lub ujętej oraz wzory protokołów, o których mowa w ust. 1, mając na względzie prawidłowe pouczenie osoby kontrolowanej albo ujętej o przysługującej jej prawach oraz z uwzględnieniem niezbędnych danych osobowych osób objętych tymi czynnościami, uczestniczących w tych czynnościach oraz dokonujących tych czynności, a także informacji niezbędnych do ustalenia przebiegu i wyniku tych czynności.
 
 **Art. 31.**
 1. Osobę ujętą należy niezwłocznie poddać, w przypadku uzasadnionej potrzeby lub na jej prośbę, badaniu lekarskiemu lub udzielić jej pierwszej pomocy.
