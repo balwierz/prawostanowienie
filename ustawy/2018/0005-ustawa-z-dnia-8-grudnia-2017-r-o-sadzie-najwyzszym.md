@@ -143,7 +143,8 @@
       – z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych (Dz. U. z 2017 r. poz. 2243 i 2265 oraz z 2018 r. poz. 3 i 5),
       – z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575 oraz z 2018 r. poz. 5),
       – z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych,
-      – z dnia 28 stycznia 2016 r. - Prawo o prokuraturze (Dz. U. z 2017 r. poz. 1767 oraz z 2018 r. poz. 5);
+      – z dnia 28 stycznia 2016 r. - Prawo o prokuraturze (Dz. U. z 2017 r. poz. 1767 oraz z 2018 r. poz. 5),
+      – z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771);
   2) z zakresu prawa pracy i ubezpieczeń społecznych dotyczące sędziów Sądu Najwyższego;
   3) z zakresu przeniesienia sędziego Sądu Najwyższego w stan spoczynku.
 § 2. Izba Dyscyplinarna składa się z:
