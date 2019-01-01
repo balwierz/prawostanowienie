@@ -155,6 +155,8 @@
    podlega grzywnie.
 2. Postępowanie w sprawach, o których mowa w ust. 1, toczy się na podstawie przepisów ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. z 2016 r. poz. 1749, 1948 i 2138).
 
+**Art. 12b.** Do podmiotów, o których mowa w art. 1, stosuje się odpowiednio przepisy art. 15aa ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2018 r. poz. 1252 i 2215).
+
 **Art. 13.** W ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. poz. 1584, z 2008 r. poz. 1458, z 2009 r. poz. 1375, z 2010 r. poz. 1228 oraz z 2015 r. poz. 1635) w art. 2 pkt 9 otrzymuje brzmienie:
 
 **Art. 14.** W ustawie z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2015 r. poz. 2099) wprowadza się następujące zmiany:
