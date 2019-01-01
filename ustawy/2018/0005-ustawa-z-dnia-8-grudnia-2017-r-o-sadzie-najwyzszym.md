@@ -66,7 +66,7 @@
   1) powołuje i odwołuje, na wniosek Prezesa Sądu Najwyższego kierującego pracą danej izby, przewodniczących wydziałów w tej izbie;
   2) reprezentuje Sąd Najwyższy przed Trybunałem Konstytucyjnym lub w pracach komisji sejmowych i senackich albo wyznacza inną osobę reprezentującą Sąd Najwyższy;
   3) opiniuje i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów na stanowisko Prezesa Sądu Najwyższego, wybranych przez zgromadzenie sędziów izby Sądu Najwyższego;
-  4) opiniuje oświadczenia o woli dalszego pełnienia urzędu na stanowisku sędziego Sądu Najwyższego przez osoby, które ukończyły 65. rok życia;
+  4) (uchylony)
   5) opiniuje i przedstawia Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego projekt informacji, o której mowa w art. 5 § 1 zdanie pierwsze;
   6) określa, po zasięgnięciu opinii Kolegium Sądu Najwyższego, w drodze zarządzenia, regulamin Kancelarii Pierwszego Prezesa Sądu Najwyższego, organizację i zakres działania sekretariatów sądowych oraz innych jednostek administracyjnych w Sądzie Najwyższym, regulamin Biura Studiów i Analiz Sądu Najwyższego, a także regulamin pracy i wynagradzania pracowników Sądu Najwyższego niebędących sędziami;
   7) wykonuje określone w ustawie czynności związane z wyborem ławników Sądu Najwyższego;
@@ -104,7 +104,7 @@
 § 3. Do podjęcia uchwały zgromadzenia sędziów izby Sądu Najwyższego wymagana jest obecność co najmniej 2/3 liczby sędziów tej izby. Uchwały zapadają zwykłą większością głosów. Głosowanie jest tajne, jeżeli żądanie takie zgłosi 1 z obecnych na posiedzeniu członków zgromadzenia.
 
 **Art. 20.** W zakresie dotyczącym Izby Dyscyplinarnej oraz sędziów orzekających w Izbie Dyscyplinarnej uprawnienia Pierwszego Prezesa Sądu Najwyższego określone w:
-1) art. 14 § 1 pkt 1, 4 i 7, art. 31 § 1, art. 35 § 2, art. 36 § 6, art. 40 § 1 i 4 i art. 51 § 7 i 14 - wykonuje Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej;
+1) art. 14 § 1 pkt 1 i 7, art. 31 § 1, art. 35 § 2, art. 36 § 6, art. 40 § 1 i 4 i art. 51 § 7 i 14 - wykonuje Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej;
 2) art. 14 § 1 pkt 2 oraz art. 55 § 3 zdanie drugie - Pierwszy Prezes Sądu Najwyższego wykonuje w porozumieniu z Prezesem Sądu Najwyższego kierującym pracą Izby Dyscyplinarnej.
 
 **Art. 21.**
@@ -116,7 +116,7 @@
 § 1. Kolegium Sądu Najwyższego przygotowuje stanowisko w sprawach związanych z działalnością Sądu Najwyższego oraz współdziała z Pierwszym Prezesem Sądu Najwyższego w celu zapewnienia prawidłowego funkcjonowania Sądu Najwyższego.
 § 2. Do kompetencji Kolegium Sądu Najwyższego należy w szczególności:
   1) opiniowanie projektów aktów, o których mowa w art. 4, art. 14 § 1 pkt 6 i art. 98 § 2 i 3;
-  2) opiniowanie oświadczenia Pierwszego Prezesa Sądu Najwyższego o woli dalszego pełnienia urzędu na stanowisku sędziego Sądu Najwyższego w związku z ukończeniem 65. roku życia;
+  2) (uchylony)
   3) opiniowanie kandydatów na stanowiska kierownicze w jednostkach administracyjnych Sądu Najwyższego;
   4) uchwalanie projektu dochodów i wydatków Sądu Najwyższego;
   5) ustalanie liczby ławników Sądu Najwyższego;
@@ -235,14 +235,12 @@
 § 9. Sędzia Sądu Najwyższego, który zrzekł się pełnienia urzędu na stanowisku sędziego Sądu Najwyższego lub statusu sędziego w stanie spoczynku ma prawo uzyskać wpis na listę adwokatów lub radców prawnych albo zostać powołany na stanowisko notariusza bez konieczności spełnienia wymagań określonych w stosunku do innych sędziów w ustawie z dnia 26 maja 1982 r. - Prawo o adwokaturze, ustawie z dnia 6 lipca 1982 r. o radcach prawnych oraz ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie.
 
 **Art. 37.**
-§ 1. (uchylony)
-§ 1a. Prezydent Rzeczypospolitej Polskiej, przed wyrażeniem zgody na dalsze zajmowanie stanowiska sędziego Sądu Najwyższego, zasięga opinii Krajowej Rady Sądownictwa. Krajowa Rada Sądownictwa przekazuje Prezydentowi Rzeczypospolitej Polskiej opinię w terminie 30 dni od dnia wystąpienia przez Prezydenta Rzeczypospolitej Polskiej o przedstawienie tej opinii. W przypadku nieprzekazania opinii w terminie, o którym mowa w zdaniu drugim, uznaje się, że Krajowa Rada Sądownictwa wydała opinię pozytywną.
-§ 1b. Sporządzając opinię, o której mowa w § 1a, Krajowa Rada Sądownictwa bierze pod uwagę interes wymiaru sprawiedliwości lub ważny interes społeczny, w szczególności racjonalne wykorzystanie kadr Sądu Najwyższego lub potrzeby wynikające z obciążenia zadaniami poszczególnych izb Sądu Najwyższego.
-§ 2. Oświadczenie i zaświadczenie, o których mowa w § 1, składa się Pierwszemu Prezesowi Sądu Najwyższego, który wraz ze swoją opinią niezwłocznie przedkłada je Prezydentowi Rzeczypospolitej Polskiej. Pierwszy Prezes Sądu Najwyższego swoje oświadczenie i zaświadczenie wraz z opinią Kolegium Sądu Najwyższego składa Prezydentowi Rzeczypospolitej Polskiej.
-§ 3. Prezydent Rzeczypospolitej Polskiej może wyrazić zgodę na dalsze zajmowanie stanowiska sędziego Sądu Najwyższego w terminie 3 miesięcy od dnia otrzymania opinii Krajowej Rady Sądownictwa, o której mowa w § 1a, albo upływu terminu na przekazanie tej opinii. Niewyrażenie zgody w terminie, o którym mowa w zdaniu pierwszym jest równoznaczne z przejściem sędziego w stan spoczynku z dniem ukończenia 65. roku życia.
-   W przypadku niezakończenia postępowania związanego z dalszym zajmowaniem stanowiska sędziego Sądu Najwyższego po ukończeniu wieku, o którym mowa w § 1, sędzia pozostaje na stanowisku do czasu zakończenia tego postępowania.
-§ 4. Zgoda, o której mowa w § 1, jest udzielana na okres 3 lat, nie więcej niż dwukrotnie. Sędzia, który uzyskał zgodę na dalsze zajmowanie stanowiska sędziego Sądu Najwyższego może w każdym czasie po ukończeniu 65. roku życia przejść w stan spoczynku, składając oświadczenie Pierwszemu Prezesowi Sądu Najwyższego, który przekazuje je niezwłocznie Prezydentowi Rzeczypospolitej Polskiej. Pierwszy Prezes Sądu Najwyższego składa oświadczenie bezpośrednio Prezydentowi Rzeczypospolitej Polskiej.
-   Przepis § 3 stosuje się odpowiednio.
+§ 1. Sędzia Sądu Najwyższego przechodzi w stan spoczynku z dniem ukończenia 65. roku życia.
+§ 1a. (uchylony)
+§ 1b. (uchylony)
+§ 2. (uchylony)
+§ 3. (uchylony)
+§ 4. (uchylony)
 § 5. Sędzia Sądu Najwyższego będący kobietą może przejść w stan spoczynku z dniem ukończenia 60. roku życia, składając oświadczenie Pierwszemu Prezesowi Sądu Najwyższego, który przekazuje je niezwłocznie Prezydentowi Rzeczypospolitej Polskiej. Pierwszy Prezes Sądu Najwyższego składa oświadczenie bezpośrednio Prezydentowi Rzeczypospolitej Polskiej.
 
 **Art. 38.**
@@ -800,13 +798,13 @@
 ## Rozdział 11 — Przepisy przejściowe i dostosowujące
 
 **Art. 111.**
-§ 1. Sędziowie Sądu Najwyższego, którzy do dnia wejścia w życie niniejszej ustawy ukończyli 65. rok życia albo ukończą 65. rok życia w okresie trzech miesięcy od dnia wejścia w życie niniejszej ustawy, z dniem następującym po upływie trzech miesięcy od dnia wejścia w życie niniejszej ustawy przechodzą w stan spoczynku, chyba że w terminie miesiąca od dnia wejścia w życie niniejszej ustawy złożą oświadczenie i zaświadczenie, o których mowa w art. 37 § 1, a Prezydent Rzeczypospolitej Polskiej wyrazi zgodę na dalsze zajmowanie stanowiska sędziego Sądu Najwyższego. Przepisy art. 37 § 2-4 stosuje się odpowiednio.
-§ 1a. Sędziowie Sądu Najwyższego, którzy ukończą 65. rok życia po upływie trzech miesięcy i przed upływem dwunastu miesięcy od dnia wejścia w życie niniejszej ustawy przechodzą w stan spoczynku z upływem dwunastu miesięcy od dnia wejścia w życie niniejszej ustawy, chyba że w tym terminie złożą oświadczenie i zaświadczenie, o których mowa w art. 37 § 1, a Prezydent Rzeczypospolitej Polskiej wyrazi zgodę na dalsze zajmowanie stanowiska sędziego Sądu Najwyższego. Przepisy art. 37 § 1a-4 stosuje się odpowiednio.
-§ 1b. Sędzia Sądu Najwyższego, który ukończy 65. rok życia po upływie trzech miesięcy i przed upływem dwunastu miesięcy od dnia wejścia w życie niniejszej ustawy może przejść w stan spoczynku z dniem ukończenia 65. roku życia, składając za pośrednictwem Pierwszego Prezesa Sądu Najwyższego oświadczenie Prezydentowi Rzeczypospolitej Polskiej.
+§ 1. (uchylony)
+§ 1a. (uchylony)
+§ 1b. (uchylony)
 § 2. W terminie sześciu miesięcy od dnia wejścia w życie niniejszej ustawy sędzia Sądu Najwyższego może przejść w stan spoczynku, składając za pośrednictwem Pierwszego Prezesa Sądu Najwyższego oświadczenie Prezydentowi Rzeczypospolitej Polskiej.
 § 3. Z dniem wejścia w życie niniejszej ustawy sędziowie orzekający w Izbie Wojskowej przechodzą w stan spoczynku.
-§ 4. Jeżeli stanowisko Pierwszego Prezesa Sądu Najwyższego lub Prezesa Sądu Najwyższego zostanie zwolnione po wejściu w życie niniejszej ustawy, Prezydent Rzeczypospolitej Polskiej powierzy kierowanie Sądem Najwyższym lub izbą wskazanemu sędziemu Sądu Najwyższego do czasu powołania Pierwszego Prezesa Sądu Najwyższego lub Prezesa Sądu Najwyższego spośród kandydatów wybranych w trybie § 5.
-§ 5. Zgromadzenie Ogólne Sędziów Sądu Najwyższego wybiera i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów, o których mowa w art. 12 § 1, niezwłocznie po obsadzeniu 2/3 liczby stanowisk sędziów Sądu Najwyższego wskazanej przez Prezydenta Rzeczypospolitej Polskiej w rozporządzeniu wydanym na podstawie art. 4. Zgromadzenie sędziów izby Sądu Najwyższego wybiera i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów, o których mowa w art. 15 § 2, po powołaniu przez Prezydenta Rzeczypospolitej Polskiej Pierwszego Prezesa Sądu Najwyższego.
+§ 4. Jeżeli stanowisko Pierwszego Prezesa Sądu Najwyższego lub Prezesa Sądu Najwyższego zostanie zwolnione po wejściu w życie niniejszej ustawy, Prezydent Rzeczypospolitej Polskiej powierzy kierowanie Sądem Najwyższym lub izbą wskazanemu sędziemu Sądu Najwyższego do czasu powołania Pierwszego Prezesa Sądu Najwyższego lub Prezesa Sądu Najwyższego.
+§ 5. (uchylony)
 
 **Art. 111a.** Sędzia Sądu Najwyższego, któremu w trybie określonym w art. 111 § 4 Prezydent Rzeczypospolitej Polskiej powierzył kierowanie Sądem Najwyższym lub izbą, wykonuje obowiązki i uprawnienia Pierwszego Prezesa Sądu Najwyższego lub Prezesa Sądu Najwyższego określone w ustawie.
 
@@ -889,6 +887,10 @@
 1) art. 23 ustawy uchylanej w art. 135 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 niniejszej ustawy,
 2) art. 70 § 5 ustawy uchylanej w art. 135 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 103 § 5 niniejszej ustawy
 - nie dłużej jednak niż przez okres 12 miesięcy od dnia jej wejścia w życie.
+
+**Art. 129a.**
+§ 1. Przepis art. 37 § 1 stosuje się do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego po dniu wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507).
+§ 2. Do sędziów Sądu Najwyższego, którzy objęli stanowisko sędziego Sądu Najwyższego przed dniem wejścia w życie ustawy z dnia 21 listopada 2018 r. o zmianie ustawy o Sądzie Najwyższym (Dz. U. poz. 2507) stosuje się przepis art. 30 ustawy uchylanej w art. 135.
 
 **Art. 130.** Do dnia powołania Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej obowiązki tego prezesa wykonuje najstarszy wiekiem sędzia powołany na stanowisko sędziego Sądu Najwyższego orzekającego w Izbie Dyscyplinarnej.
 
