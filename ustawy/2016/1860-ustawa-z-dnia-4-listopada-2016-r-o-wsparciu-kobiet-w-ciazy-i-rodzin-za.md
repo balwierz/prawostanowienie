@@ -23,7 +23,7 @@
   4) dostępu do usług koordynacyjno-opiekuńczo-rehabilitacyjnych, ze szczególnym uwzględnieniem dziecka, u którego zdiagnozowano ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą jego życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu;
   5) możliwości przeprowadzenia porodu w szpitalu III poziomu referencyjnego;
   6) innych świadczeń, w tym w zakresie wspierania rodziny i pieczy zastępczej.
-3. Ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu, o których mowa w ust. 2 pkt 2-4, stwierdza w zaświadczeniu lekarz ubezpieczenia zdrowotnego, w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, posiadający specjalizację II stopnia lub tytuł specjalisty w dziedzinie: położnictwa i ginekologii, perinatologii lub neonatologii.
+3. Ciężkie i nieodwracalne upośledzenie albo nieuleczalną chorobę zagrażającą życiu, które powstały w prenatalnym okresie rozwoju dziecka lub w czasie porodu, o których mowa w ust. 2 pkt 2-4, stwierdza w zaświadczeniu lekarz ubezpieczenia zdrowotnego, w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, posiadający specjalizację II stopnia lub tytuł specjalisty w dziedzinie: położnictwa i ginekologii, perinatologii, neonatologii, neurologii dziecięcej, kardiologii dziecięcej lub chirurgii dziecięcej.
 4. Wsparcie, o którym mowa w ust. 2 pkt 3-6, jest realizowane również na zasadach określonych w przepisach odrębnych.
 
 **Art. 5.**
