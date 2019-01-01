@@ -49,18 +49,18 @@
 
 **Art. 10.** Główny Inspektor Ochrony Środowiska współpracuje z ministrem właściwym do spraw środowiska w zakresie opiniowania wniosków o uznanie za najlepszą praktykę, o których mowa w art. 8 ust. 1 rozporządzenia nr 511/2014, oraz opiniowania zmian lub aktualizacji uznanej najlepszej praktyki.
 
-**Art. 11.** Kto, wbrew obowiązkowi określonemu w art. 4 ust. 2 rozporządzenia nr 511/2014, przekazuje lub wykorzystuje zasoby genetyczne lub tradycyjną wiedzę związaną z zasobami genetycznymi bez wzajemnie uzgodnionych warunków lub niezgodnie z tymi warunkami, podlega karze pieniężnej w wysokości od 5000 zł do 50 000 zł.
+**Art. 11.** Kto, wbrew obowiązkowi określonemu w art. 4 ust. 2 rozporządzenia nr 511/2014, przekazuje lub wykorzystuje zasoby genetyczne lub tradycyjną wiedzę związaną z zasobami genetycznymi bez wzajemnie uzgodnionych warunków lub niezgodnie z tymi warunkami, podlega karze pieniężnej w wysokości od 5000 zł do 100 000 zł.
 
 **Art. 12.** Kto, wbrew obowiązkowi określonemu w:
 1) art. 4 ust. 3 rozporządzenia nr 511/2014, nie uzyskuje, nie zachowuje lub nie przekazuje kolejnym użytkownikom informacji i dokumentów, o których mowa w tym przepisie,
 2) art. 4 ust. 6 rozporządzenia nr 511/2014, nie przechowuje informacji związanych z dostępem i podziałem korzyści przez dwadzieścia lat od zakończenia okresu wykorzystania
-- podlega karze pieniężnej w wysokości od 1000 zł do 50 000 zł.
+- podlega karze pieniężnej w wysokości od 1000 zł do 100 000 zł.
 
-**Art. 13.** Kto, wbrew obowiązkowi określonemu w art. 4 ust. 5 rozporządzenia nr 511/2014, wykorzystuje zasoby genetyczne mimo nieuzyskania zezwolenia na dostęp lub jego równoważnika oraz nieustanowienia wzajemnie uzgodnionych warunków, podlega karze pieniężnej w wysokości od 10 000 zł do 100 000 zł.
+**Art. 13.** Kto, wbrew obowiązkowi określonemu w art. 4 ust. 5 rozporządzenia nr 511/2014, wykorzystuje zasoby genetyczne mimo nieuzyskania zezwolenia na dostęp lub jego równoważnika oraz nieustanowienia wzajemnie uzgodnionych warunków, podlega karze pieniężnej w wysokości od 10 000 zł do 200 000 zł.
 
-**Art. 14.** Kto, wbrew obowiązkowi określonemu w art. 7 ust. 1 rozporządzenia nr 511/2014, nie złożył oświadczenia o dołożeniu należytej staranności, podlega karze pieniężnej w wysokości od 1000 zł do 10 000 zł.
+**Art. 14.** Kto, wbrew obowiązkowi określonemu w art. 7 ust. 1 rozporządzenia nr 511/2014, nie złożył oświadczenia o dołożeniu należytej staranności, podlega karze pieniężnej w wysokości od 1000 zł do 20 000 zł.
 
-**Art. 15.** Kto, wbrew obowiązkowi określonemu w art. 7 ust. 2 rozporządzenia nr 511/2014, nie złożył oświadczenia o dołożeniu należytej staranności lub nie przedłożył informacji, o których mowa w tym przepisie, podlega karze pieniężnej w wysokości od 5000 zł do 50 000 zł.
+**Art. 15.** Kto, wbrew obowiązkowi określonemu w art. 7 ust. 2 rozporządzenia nr 511/2014, nie złożył oświadczenia o dołożeniu należytej staranności lub nie przedłożył informacji, o których mowa w tym przepisie, podlega karze pieniężnej w wysokości od 5000 zł do 100 000 zł.
 
 **Art. 16.** Karę pieniężną wymierza, w drodze decyzji, wojewódzki inspektor właściwy ze względu na miejsce zamieszkania albo siedzibę użytkownika, albo miejsce prowadzenia działalności związanej z wykorzystaniem zasobów genetycznych.
 
