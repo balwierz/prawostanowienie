@@ -42,6 +42,8 @@
 
 **Art. 6.** Do ujawnienia ministrowi właściwemu do spraw finansów publicznych, upoważnionemu przez niego organowi Krajowej Administracji Skarbowej, Szefowi Krajowej Administracji Skarbowej lub jego upoważnionemu przedstawicielowi informacji podatkowych w trybie i zakresie przewidzianych ustawą nie stosuje się przepisów ograniczających udostępnianie danych objętych tajemnicą prawnie chronioną, z wyjątkiem informacji niejawnych.
 
+**Art. 6a.** Do udostępniania informacji otrzymanych na podstawie ustawy oraz umów o unikaniu podwójnego opodatkowania, innych ratyfikowanych umów, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, a także porozumień zawartych na podstawie tych umów, nie stosuje się przepisów ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125) w zakresie, w jakim jest to niezgodne z postanowieniami tych umów lub porozumień lub przepisami ustawy.
+
 ## Dział II — Wymiana informacji podatkowych na wniosek i z urzędu z państwami członkowskimi
 
 **Art. 7.** Wymiana informacji podatkowych z państwami członkowskimi następuje na wniosek właściwego organu państwa członkowskiego lub z urzędu.
