@@ -22,7 +22,7 @@
   e) obiektów służących Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów, ministrowi właściwemu do spraw wewnętrznych oraz ministrowi właściwemu do spraw zagranicznych oraz wskazanych w decyzji ministra właściwego do spraw wewnętrznych innych obiektów stanowiących siedziby członków Rady Ministrów, zwanych dalej „siedzibami członków Rady Ministrów”, z wyłączeniem obiektów służących Ministrowi Obrony Narodowej i Ministrowi Sprawiedliwości,
   f) placówek zagranicznych Rzeczypospolitej Polskiej wskazanych w decyzji, o której mowa w art. 4 ust. 8;
 2) rozpoznawanie i zapobieganie przestępstwom przeciwko Rzeczypospolitej Polskiej, przestępstwom przeciwko życiu lub zdrowiu, przestępstwom przeciwko bezpieczeństwu powszechnemu, przestępstwom przeciwko bezpieczeństwu w komunikacji, przestępstwom przeciwko wolności, przestępstwom przeciwko czci i nietykalności cielesnej, przestępstwom przeciwko porządkowi publicznemu, zamachom i czynnej napaści skierowanym przeciwko osobom, o których mowa w pkt 1 lit. a-d, oraz przeciwko bezpieczeństwu obiektów, o których mowa w pkt 1 lit. e, z wyłączeniem dotyczących tych obiektów przestępstw przeciwko ochronie informacji;
-3) rozpoznawanie, zapobieganie i wykrywanie popełnianych przez funkcjonariuszy SOP, zwanych dalej „funkcjonariuszami”, i pracowników SOP przestępstw określonych w art. 228, art. 229, art. 231, art. 265 i art. 266 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20), zwanej dalej „Kodeksem karnym”, w związku z wykonywaniem obowiązków służbowych, a także, w zakresie wynikającym z art. 11j ust. 1 pkt 1-3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.), funkcjonariuszy i pracowników Policji i Straży Granicznej lub strażaków i pracowników Państwowej Straży Pożarnej;
+3) rozpoznawanie, zapobieganie i wykrywanie popełnianych przez funkcjonariuszy SOP, zwanych dalej „funkcjonariuszami”, i pracowników SOP przestępstw określonych w art. 228, art. 229, art. 231, art. 265 i art. 266 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2017 r. poz. 2204 oraz z 2018 r. poz. 20), zwanej dalej „Kodeksem karnym”, w związku z wykonywaniem obowiązków służbowych, a także, w zakresie wynikającym z art. 11j ust. 1 pkt 1-3 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. poz. 491, z późn. zm.), funkcjonariuszy i pracowników SOP, Policji i Straży Granicznej lub strażaków i pracowników Państwowej Straży Pożarnej;
 4) (uchylony)
 
 **Art. 4.**
@@ -55,7 +55,7 @@
 **Art. 6.**
 1. Organy administracji rządowej, samorządu terytorialnego oraz państwowe i inne jednostki organizacyjne zapewniają SOP niezbędne warunki do wykonywania zadań określonych w niniejszej ustawie.
 2. Osoby, o których mowa w art. 3 pkt 1 lit. a, b i d, przyjmujące delegacje określone w art. 3 pkt 1 lit. c oraz podmioty zarządzające lub administrujące obiektami wymienionymi w art. 3 pkt 1 lit. e i f niezwłocznie:
-  1) przekazują SOP wszelkie informacje mogące mieć wpływ na bezpieczeństwo ochranianych osób lub obiektów;
+  1) przekazują SOP wszelkie informacje, w tym dane osobowe, mogące mieć wpływ na bezpieczeństwo ochranianych osób lub obiektów;
   2) stosują się do zaleceń związanych z zapewnieniem bezpieczeństwa ochranianym osobom i obiektom, wydawanych przez SOP.
 3. Podmioty, o których mowa w ust. 2, udostępniają środki techniczne rejestrujące obraz, jeżeli takie istnieją, zapewniają dostęp do infrastruktury teleinformatycznej i technicznej obiektu, jeżeli taka istnieje, a także umożliwiają wykorzystanie środków technicznych, w tym rejestrujących obraz, będących własnością SOP.
 4. W odniesieniu do obiektów, o których mowa w art. 3 pkt 1 lit. e, środki techniki ochronnej są zapewniane przez SOP.
@@ -392,7 +392,7 @@
 
 **Art. 50.** Komendant SOP jest obowiązany do wykonania zarządzenia Sądu Okręgowego w Warszawie o zniszczeniu materiałów, o którym mowa w art. 48 ust. 4, oraz niezwłocznego, komisyjnego i protokolarnego zniszczenia materiałów, których wykorzystanie w postępowaniu karnym jest niedopuszczalne. Komendant SOP niezwłocznie informuje Prokuratora Generalnego o zniszczeniu tych materiałów.
 
-**Art. 51.** Osobie, wobec której kontrola operacyjna była stosowana, nie udostępnia się materiałów zgromadzonych podczas trwania tej kontroli. Przepis nie narusza uprawnień wynikających z art. 321 Kodeksu postępowania karnego.
+**Art. 51.** Osobie, wobec której kontrola operacyjna była stosowana, nie udostępnia się materiałów zgromadzonych podczas trwania tej kontroli.
 
 **Art. 52.**
 1. Sąd Okręgowy w Warszawie, Prokurator Generalny oraz Komendant SOP prowadzą rejestry postanowień, pisemnych zgód, wniosków i zarządzeń dotyczących kontroli operacyjnej.
@@ -425,7 +425,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 4. SOP może przekazywać informacje, w tym dane osobowe, służące zapobieganiu lub zwalczaniu przestępczości organom innych państw lub Międzynarodowej Organizacji Policji Kryminalnych - Interpol na zasadach i w trybie określonych w ustawie z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej (Dz. U. poz. 1371, z 2013 r. poz. 1650, z 2014 r. poz. 1199, z 2016 r. poz. 1948 oraz z 2018 r. poz. 106), w prawie Unii Europejskiej i w postanowieniach umów międzynarodowych, z wyłączeniem informacji uzyskanych od Agencji Bezpieczeństwa Wewnętrznego.
 5. SOP może pobierać, uzyskiwać, gromadzić, przetwarzać i wykorzystywać w celu realizacji zadań ustawowych informacje, w tym dane osobowe, o osobach, o których mowa w art. 10 ust. 1 ustawy z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych, także bez wiedzy i zgody tych osób, a także udostępniać i przekazywać te informacje uprawnionym służbom, organom lub podmiotom na zasadach i w trybie określonych w tej ustawie.
 6. Informacje, o których mowa w ust. 1-5, dotyczą osób, o których mowa w ust. 2 i 5, i mogą obejmować:
-  1) dane osobowe, o których mowa w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922), z tym że dane dotyczące kodu genetycznego obejmują informacje wyłącznie o niekodującej części DNA;
+  1) dane osobowe, o których mowa w art. 14 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125);
   2) odciski linii papilarnych;
   3) zdjęcia, szkice i opisy wizerunku;
   4) cechy i znaki szczególne, pseudonimy;
@@ -436,16 +436,12 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
     d) sposobie działania sprawcy, jego środowisku i kontaktach,
     e) sposobie zachowania się sprawcy wobec osób pokrzywdzonych.
 7. Informacji, o których mowa w ust. 2, nie pobiera się, w przypadku gdy nie mają one przydatności wykrywczej, dowodowej lub identyfikacyjnej, o ile nie służy to realizacji zadań, o których mowa w art. 3.
-8. Dane osobowe, o których mowa w ust. 2 i 3 oraz art. 40 ust. 1, z wyjątkiem danych osobowych, o których mowa w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, SOP może przetwarzać:
+8. Dane osobowe, o których mowa w ust. 2 i 3 oraz art. 40 ust. 1, z wyjątkiem danych osobowych, o których mowa w ust. 6 pkt 1, SOP może przetwarzać:
   1) w innym celu niż ten, w którym dane te zostały pobrane, uzyskane, przekazane, udostępnione lub zgromadzone - jeżeli jest to niezbędne do realizacji zadań ustawowych SOP;
   2) w celach historycznych, statystycznych lub innych naukowych - jeżeli dane te zostały zmodyfikowane w sposób uniemożliwiający przyporządkowanie numeru identyfikacyjnego albo określonych cech fizycznych, fizjologicznych, umysłowych, ekonomicznych, kulturowych lub społecznych określonej lub możliwej do zidentyfikowania osobie fizycznej albo w taki sposób, iż przyporządkowanie takie wymagałoby niewspółmiernych kosztów, czasu lub działań.
-9. Dane osobowe zebrane w celu realizacji zadań, o których mowa w art. 3, przechowuje się przez okres niezbędny do realizacji ustawowych zadań SOP. Komendant SOP dokonuje weryfikacji tych danych po zakończeniu sprawy, w ramach której zostały one wprowadzone do zbioru, a ponadto nie rzadziej niż co 5 lat od dnia uzyskania lub pobrania informacji usuwa dane, które są zbędne.
+9. (uchylony)
 10. Dane osobowe uznane za zbędne można przekształcić w sposób uniemożliwiający przyporządkowanie poszczególnych informacji osobistych lub rzeczowych określonej lub możliwej do zidentyfikowania osobie fizycznej albo w taki sposób, iż przyporządkowanie takie wymagałoby niewspółmiernych kosztów, czasu lub działań.
-11. Dane osobowe, o których mowa w ust. 9, usuwa się, jeżeli Komendant SOP powziął wiarygodną informację, że:
-  1) nie popełniono czynu stanowiącego podstawę wprowadzenia informacji do zbioru albo nie ma danych dostatecznie uzasadniających podejrzenie jego popełnienia;
-  2) zdarzenie lub okoliczność, w związku z którymi wprowadzono informacje do zbioru, nie mają znamion czynu zabronionego;
-  3) osoba, której dane dotyczą, została uniewinniona prawomocnym wyrokiem sądu;
-  4) przestały one mieć znaczenie dla realizacji zadań, o których mowa w art. 3 pkt 1-3.
+11. (uchylony)
 12. Dane osobowe ujawniające pochodzenie rasowe lub etniczne, poglądy polityczne, przekonania religijne lub filozoficzne, przynależność wyznaniową, partyjną lub związkową, dane o stanie zdrowia, nałogach lub życiu seksualnym oraz dane genetyczne i dane biometryczne osób podejrzanych o popełnienie przestępstw ściganych z oskarżenia publicznego, które nie zostały skazane za te przestępstwa, podlegają komisyjnemu i protokolarnemu zniszczeniu niezwłocznie po uprawomocnieniu się stosownego orzeczenia.
 13. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb gromadzenia, sposoby przetwarzania informacji, w tym danych osobowych, o których mowa w ust. 2 i 3, w zbiorach danych, wzory dokumentów obowiązujących przy przetwarzaniu danych oraz sposób oceny danych pod kątem ich przydatności w prowadzonych postępowaniach, uwzględniając potrzebę ochrony danych przed nieuprawnionym dostępem i przesłanki zaniechania zbierania określonych rodzajów informacji, a także konieczność dostosowania się do wymogów określonych przez organy innych państw w związku z pobieraniem lub uzyskiwaniem tych informacji.
 
@@ -477,7 +473,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 4. Sąd Okręgowy w Warszawie informuje Komendanta SOP o wyniku kontroli w terminie 30 dni od jej zakończenia.
 
 **Art. 59.**
-1. W celu zapobieżenia przestępstwom, o których mowa w art. 42 ust. 1, SOP może uzyskiwać dane:
+1. W celu realizacji zadań, o których mowa w art. 19 ust. 1 pkt 2, SOP może uzyskiwać dane:
   1) z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne,
   2) o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne,
   3) w przypadku użytkownika, który nie jest osobą fizyczną, numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
@@ -486,18 +482,9 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 2. Do udostępniania i przetwarzania danych, o których mowa w ust. 1, stosuje się przepisy art. 57 ust. 2-7.
 3. Kontroli, o której mowa w art. 58 ust. 1, nie podlega uzyskiwanie danych na podstawie ust. 1.
 
-**Art. 60.**
-1. Nadzór nad zgodnością przetwarzania danych osobowych gromadzonych przez SOP z przepisami ustawy oraz przepisami o ochronie danych osobowych sprawuje administrator bezpieczeństwa informacji.
-2. W ramach nadzoru administrator bezpieczeństwa informacji prowadzi rzetelną, obiektywną i niezależną kontrolę prawidłowości przetwarzania przez SOP danych osobowych, a w szczególności ich przechowywania, weryfikacji i usuwania.
-3. Administrator bezpieczeństwa informacji ma prawo w szczególności do:
-  1) wglądu do wszelkich dokumentów związanych z wykonywaną kontrolą;
-  2) swobodnego wstępu do pomieszczeń i obiektów kontrolowanej komórki organizacyjnej SOP;
-  3) żądania pisemnych wyjaśnień.
-4. Kierownik komórki organizacyjnej SOP, któremu administrator bezpieczeństwa informacji wydał pisemne polecenie usunięcia stwierdzonych uchybień, informuje Komendanta SOP w terminie 7 dni od dnia wydania polecenia o jego wykonaniu albo przyczynie jego niewykonania.
-5. W przypadku naruszenia przepisów niniejszej ustawy oraz przepisów o ochronie danych osobowych administrator bezpieczeństwa informacji podejmuje działania zmierzające do wyjaśnienia okoliczności tego naruszenia, zawiadamiając o tym niezwłocznie ministra właściwego do spraw wewnętrznych.
-6. Administrator bezpieczeństwa informacji przedstawia corocznie, do dnia 31 marca, ministrowi właściwemu do spraw wewnętrznych oraz Generalnemu Inspektorowi Ochrony Danych Osobowych, za pośrednictwem Komendanta SOP, sprawozdanie za poprzedni rok kalendarzowy, w którym omawia stan ochrony danych osobowych w SOP oraz wszystkie przypadki naruszenia przepisów w tym zakresie.
+**Art. 60.** (uchylony)
 
-**Art. 61.** Komendant SOP wyznacza administratora bezpieczeństwa informacji, o którym mowa w art. 36a ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych, spośród funkcjonariuszy lub pracowników SOP.
+**Art. 61.** Administratorem danych osobowych przetwarzanych przez SOP jest Komendant SOP.
 
 **Art. 62.** Kierownicy komórek organizacyjnych SOP są obowiązani współdziałać z Biurem Nadzoru Wewnętrznego, o którym mowa w ustawie z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych, w zakresie realizacji jego zadań, a w szczególności:
 1) udostępniać na wniosek Inspektora Nadzoru Wewnętrznego niezbędne uzbrojenie, wyposażenie, urządzenia i środki techniczne;
@@ -624,6 +611,9 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   2) kwalifikacje predestynujące do służby w SOP,
   3) sposób określania równorzędności okresów służby i stażu, należności oraz uzyskanych w dotychczasowych jednostkach organizacyjnych kwalifikacji zawodowych z obowiązującymi w SOP
 - mając na względzie zapewnienie prawidłowego przebiegu postępowania oraz realizacji naboru do służby w SOP w celu przeniesienia funkcjonariuszy posiadających odpowiednie kwalifikacje do wypełniania jej zadań.
+
+**Art. 70a.**
+1. SOP jest uprawniona do przetwarzania informacji, w tym danych osobowych, w zakresie niezbędnym do prowadzenia postępowań kwalifikacyjnych do służby w SOP, przenoszenia do służby w SOP oraz w zakresie wynikającym z przebiegu stosunku służbowego funkcjonariuszy SOP, także po jego ustaniu, w tym ma prawo przetwarzać dane osobowe, o których mowa w art. 9 i art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem (UE) 2016/679”, z wyłączeniem danych dotyczących kodu genetycznego oraz danych daktyloskopijnych. 2. Do przetwarzania danych osobowych, o których mowa w ust. 1, nie stosuje się art. 13 ust. 1 lit. d i e oraz art. 16 rozporządzenia (UE) 2016/679 w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania. Zabezpieczenie przetwarzania danych osobowych polega co najmniej na dopuszczeniu do ich przetwarzania wyłącznie funkcjonariuszy lub pracowników posiadających pisemne upoważnienie wydane przez administratora danych osobowych po pisemnym zobowiązaniu funkcjonariuszy lub pracowników do zachowania przetwarzanych danych w poufności.
 
 **Art. 71.** O zdolności fizycznej i psychicznej do służby w SOP orzekają komisje lekarskie podległe ministrowi właściwemu do spraw wewnętrznych.
 
