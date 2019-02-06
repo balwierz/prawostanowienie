@@ -38,9 +38,14 @@
 § 5. Przeniesienia wydatków skutkujące zmniejszeniem wydatków związanych z funkcjonowaniem Izby Dyscyplinarnej wymagają zgody Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej.
 § 6. Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej wykonuje budżet Sądu Najwyższego w zakresie związanym z funkcjonowaniem Izby Dyscyplinarnej.
 
-**Art. 8.** Z uwzględnieniem przepisów ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2016 r. poz. 1167 i 1948 oraz z 2017 r. poz. 935) oraz ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922) Sąd Najwyższy niezwłocznie publikuje wydane przez siebie orzeczenie, a po sporządzeniu jego uzasadnienia - również uzasadnienie orzeczenia, w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego.
+**Art. 8.** Sąd Najwyższy niezwłocznie publikuje wydane przez siebie orzeczenie, a po sporządzeniu jego uzasadnienia - również uzasadnienie orzeczenia, w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego.
 
 **Art. 9.** Sąd Najwyższy może wydawać zbiór swoich orzeczeń. Nazwa „Orzecznictwo Sądu Najwyższego” z oznaczeniem odpowiedniej izby podlega ochronie prawnej.
+
+**Art. 9a.**
+§ 1. Sąd Najwyższy jest administratorem danych osobowych przetwarzanych w postępowaniach sądowych.
+§ 2. Do przetwarzania danych osobowych w postępowaniach sądowych przepisów art. 15, art. 16 - w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się.
+§ 3. W związku z przetwarzaniem danych osobowych w postępowaniach sądowych wykonanie obowiązków, o których mowa w art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych w art. 13 ust. 2 rozporządzenia 2016/679 w Biuletynie Informacji Publicznej na stronie podmiotowej oraz w widocznym miejscu w budynku Sądu Najwyższego.
 
 **Art. 10.**
 § 1. W zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz. U. z 2016 r. poz. 2062, z późn. zm.).
@@ -609,6 +614,10 @@
 § 1. Sąd Najwyższy, w przypadku stwierdzenia przy rozpoznawaniu sprawy oczywistej obrazy przepisów - niezależnie od innych uprawnień - wytyka uchybienie właściwemu sądowi. Przed wytknięciem uchybienia obowiązany jest pouczyć sędziego lub sędziów wchodzących w skład sądu orzekającego o możliwości złożenia na piśmie wyjaśnień w terminie 7 dni. Stwierdzenie i wytknięcie uchybienia nie ma wpływu na rozstrzygnięcie sprawy.
 § 2. O wytknięciu uchybienia Sąd Najwyższy zawiadamia prezesa właściwego sądu.
 § 3. Sąd Najwyższy, w przypadku wytknięcia uchybienia, może zwrócić się z wnioskiem o rozpoznanie sprawy dyscyplinarnej do sądu dyscyplinarnego. Sądem dyscyplinarnym pierwszej instancji jest Sąd Najwyższy.
+
+**Art. 97a.**
+§ 1. Nadzór nad przetwarzaniem danych osobowych w postępowaniach sądowych wykonuje Krajowa Rada Sądownictwa.
+§ 2. Do nadzoru, o którym mowa w § 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych stosuje się odpowiednio.
 
 ## Rozdział 9 — Kancelaria Pierwszego Prezesa Sądu Najwyższego, Kancelaria Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej oraz Biuro Studiów i Analiz Sądu Najwyższego
 
