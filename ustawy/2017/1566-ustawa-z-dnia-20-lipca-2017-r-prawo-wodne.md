@@ -3866,6 +3866,8 @@
 2. Kontrolowany, w terminie wyznaczonym w zarządzeniu pokontrolnym, jest obowiązany powiadomić organ wykonujący kontrolę albo ministra właściwego do spraw gospodarki wodnej o realizacji zaleceń wskazanych w tym zarządzeniu.
 3. Organ wykonujący kontrolę albo minister właściwy do spraw gospodarki wodnej mogą wystąpić z wnioskiem o wszczęcie postępowania dyscyplinarnego lub innego przewidzianego prawem postępowania wobec osób odpowiedzialnych za dopuszczenie do uchybień i powiadomienie, w określonym terminie, o wynikach tego postępowania i podjętych działaniach.
 
+**Art. 341a.** Administratorem danych osobowych przetwarzanych w celu, o którym mowa w art. 1 pkt 1 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125), jest minister właściwy do spraw gospodarki wodnej lub organ wykonujący kontrolę.
+
 **Art. 342.**
 1. Organy wykonujące kontrolę oraz minister właściwy do spraw gospodarki wodnej współdziałają w wykonywaniu czynności kontrolnych z innymi organami kontroli, organami administracji publicznej, organami obrony cywilnej oraz organizacjami społecznymi.
 2. Współdziałanie, o którym mowa w ust. 1, obejmuje w szczególności:
