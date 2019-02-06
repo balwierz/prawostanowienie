@@ -256,6 +256,15 @@
 1. Trybunał sygnalizuje Sejmowi i Senatowi oraz innym organom stanowiącym prawo istnienie uchybień i luk w prawie, których usunięcie jest niezbędne do zapewnienia spójności systemu prawnego Rzeczypospolitej Polskiej.
 2. Prezes Trybunału może zwrócić się do adresata sygnalizacji o poinformowanie Trybunału o stanowisku w sprawie będącej przedmiotem sygnalizacji.
 
+**Art. 35a.**
+1. Trybunał jest administratorem danych osobowych przetwarzanych w ramach prowadzonych przez niego postępowań.
+2. Do przetwarzania danych osobowych w postępowaniach prowadzonych przez Trybunał przepisów art. 15, art. 16 - w zakresie, w jakim przepisy szczególne przewidują odrębny tryb sprostowania, oraz art. 18 i art. 19 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, nie stosuje się.
+3. W związku z przetwarzaniem danych osobowych w postępowaniach prowadzonych przez Trybunał wykonanie obowiązków, o których mowa w art. 13 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych w art. 13 ust. 2 rozporządzenia 2016/679 w Biuletynie Informacji Publicznej na stronie podmiotowej oraz w widocznym miejscu w budynku Trybunału.
+
+**Art. 35b.**
+1. Nadzór nad przetwarzaniem danych osobowych przez Trybunał w ramach prowadzonych przez niego postępowań wykonuje Krajowa Rada Sądownictwa.
+2. Do nadzoru, o którym mowa w ust. 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych stosuje się odpowiednio.
+
 **Art. 36.** W zakresie nieuregulowanym w ustawie do postępowania przed Trybunałem stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. 2016 r. poz. 1822 i 1823).
 
 ### Rozdział 2 — Składy orzekające
