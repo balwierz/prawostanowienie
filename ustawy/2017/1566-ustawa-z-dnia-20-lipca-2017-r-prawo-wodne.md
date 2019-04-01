@@ -4366,11 +4366,12 @@
   3) sposoby uzyskiwania potwierdzenia przekazania ostrzeżeń;
   4) charakterystykę stanu hydrologicznego, meteorologicznego oraz hydrogeologicznego.
 4. Wydając rozporządzenie, o którym mowa w ust. 3, minister właściwy do spraw gospodarki wodnej kieruje się względami bezpieczeństwa państwa, bezpieczeństwa ludzi i mienia oraz uwzględnia konieczność sprawnego przekazywania ostrzeżeń, prognoz, komunikatów i biuletynów w zależności od aktualnego lub prognozowanego stanu hydrologicznego, meteorologicznego lub hydrogeologicznego.
-5. Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie informacje o stanie atmosfery i hydrosfery organom władzy publicznej oraz właścicielom wód lub działającym w ich imieniu zarządcom, a także uczelniom, instytutom badawczym oraz jednostkom naukowym Polskiej Akademii Nauk.
-6. Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie zebrane informacje o stanie zasobów wód podziemnych organom władzy publicznej, a także uczelniom, instytutom badawczym oraz jednostkom naukowym Polskiej Akademii Nauk.
+5. Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie informacje o stanie atmosfery i hydrosfery organom władzy publicznej oraz właścicielom wód lub działającym w ich imieniu zarządcom, a także uczelniom, instytutom badawczym, Centrum Łukasiewicz, instytutom działającym w ramach Sieci Badawczej Łukasiewicz oraz jednostkom naukowym Polskiej Akademii Nauk.
+6. Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie zebrane informacje o stanie zasobów wód podziemnych organom władzy publicznej, a także uczelniom, instytutom badawczym, Centrum Łukasiewicz, instytutom działającym w ramach Sieci Badawczej Łukasiewicz oraz jednostkom naukowym Polskiej Akademii Nauk.
 7. Informacje, o których mowa w ust. 5 i 6, udostępnia się:
   1) organom władzy publicznej, właścicielom wód lub działającym w ich imieniu zarządcom na potrzeby wykonywania zadań ustawowych;
-  2) uczelniom, instytutom badawczym oraz jednostkom naukowym Polskiej Akademii Nauk na potrzeby badań naukowych i działalności dydaktycznej.
+  2) uczelniom, instytutom badawczym oraz jednostkom naukowym Polskiej Akademii Nauk na potrzeby badań naukowych i działalności dydaktycznej;
+  3) Centrum Łukasiewicz i instytutom działającym w ramach Sieci Badawczej Łukasiewicz na potrzeby badań naukowych.
 8. Informacje, o których mowa w ust. 5 i 6, udostępnia się na wniosek.
 
 ## Dział IX — Zgoda wodnoprawna
