@@ -33,7 +33,8 @@
 10) ustawie z dnia 24 lutego 2017 r. o inwestycjach w zakresie budowy drogi wodnej łączącej Zalew Wiślany z Zatoką Gdańską (Dz. U. poz. 820 oraz z 2018 r. poz. 1402),
 11) ustawie z dnia 7 kwietnia 2017 r. o inwestycjach w zakresie budowy lub przebudowy toru wodnego Świnoujście - Szczecin do głębokości 12,5 metra (Dz. U. poz. 990),
 12) ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym (Dz. U. poz. 1089)
-- inwestycje, o których mowa w pkt 1-12, mają pierwszeństwo przed inwestycjami mieszkaniowymi lub inwestycjami towarzyszącymi.
+13) ustawie z dnia 22 lutego 2019 r. o przygotowaniu i realizacji strategicznych inwestycji w sektorze naftowym (Dz. U. poz. 630)
+inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami mieszkaniowymi lub inwestycjami towarzyszącymi.
 
 **Art. 5.**
 1. Inwestycji mieszkaniowych lub inwestycji towarzyszących nie lokalizuje się na terenach podlegających ochronie przed lokalizowaniem lub zabudową na podstawie odrębnych przepisów, chyba że w trybie przepisów przewidujących tę ochronę inwestor uzyska zgodę na lokalizację inwestycji mieszkaniowej lub inwestycji towarzyszącej.
