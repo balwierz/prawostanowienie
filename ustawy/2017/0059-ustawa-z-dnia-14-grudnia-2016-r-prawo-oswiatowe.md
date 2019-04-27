@@ -926,6 +926,12 @@
 2. Rada pedagogiczna ustala regulamin swojej działalności. Zebrania rady pedagogicznej są protokołowane.
 3. Osoby biorące udział w zebraniu rady pedagogicznej są obowiązane do nieujawniania spraw poruszanych na zebraniu rady pedagogicznej, które mogą naruszać dobra osobiste uczniów lub ich rodziców, a także nauczycieli i innych pracowników szkoły lub placówki.
 
+**Art. 73a.**
+1. Jeżeli rada pedagogiczna nie podejmie uchwały, o której mowa w art. 70 ust. 1 pkt 2, o wynikach klasyfikacji i promocji uczniów rozstrzyga dyrektor szkoły.
+2. W przypadku gdy dyrektor szkoły nie podejmie rozstrzygnięcia, o którym mowa w ust. 1, o wynikach klasyfikacji i promocji uczniów rozstrzyga nauczyciel wyznaczony przez organ prowadzący szkołę.
+3. W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego, określone w ust. 2, wykonuje odpowiednio wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa.
+4. Dokumentację dotyczącą klasyfikacji i promocji uczniów oraz ukończenia przez nich szkoły, w przypadkach, o których mowa w ust. 1 i 2, podpisuje odpowiednio dyrektor szkoły lub nauczyciel wyznaczony przez organ prowadzący szkołę.
+
 **Art. 74.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, typy szkół i placówek, w których nie tworzy się rady pedagogicznej ze względu na specyficzną organizację pracy szkoły lub placówki.
 
 ## Rozdział 4 — Społeczne organy w systemie oświaty
