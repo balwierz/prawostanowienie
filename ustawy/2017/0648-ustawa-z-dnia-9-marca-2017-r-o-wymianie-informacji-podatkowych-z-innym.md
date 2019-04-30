@@ -68,6 +68,7 @@
 1. Wniosek właściwego organu państwa członkowskiego wszczyna postępowanie w sprawie udzielenia informacji podatkowych.
 2. Otrzymanie wniosku potwierdza się niezwłocznie, nie później jednak niż w terminie 7 dni roboczych od dnia jego otrzymania. Potwierdzenia dokonuje się za pomocą środków komunikacji elektronicznej. W przypadku braku możliwości dokonania potwierdzenia w ten sposób potwierdzenia dokonuje się w postaci papierowej.
 3. Postępowanie powinno być zakończone bez zbędnej zwłoki, nie później jednak niż w terminie 6 miesięcy od dnia otrzymania wniosku. W przypadku gdy organ posiada już żądane informacje podatkowe, ich przekazanie następuje w terminie 2 miesięcy od dnia otrzymania wniosku.
+3a. W toku postępowania mogą być przeprowadzane dowody w celu uzyskania informacji podatkowych objętych wnioskiem.
 4. W szczególnie uzasadnionych przypadkach można uzgodnić z właściwym organem państwa członkowskiego, że przekazanie informacji podatkowych nastąpi w terminach innych niż określone w ust. 3.
 5. W przypadku braku możliwości udzielenia informacji podatkowych we właściwym terminie zawiadamia się właściwy organ państwa członkowskiego, podając przyczyny uniemożliwiające dotrzymanie terminu udzielenia informacji podatkowych oraz wskazując przewidywany termin udzielenia tych informacji. Zawiadomienie powinno nastąpić niezwłocznie, nie później jednak niż w terminie 3 miesięcy od dnia otrzymania wniosku.
 6. Odmowa udzielenia informacji podatkowych następuje bez zbędnej zwłoki, nie później jednak niż w terminie miesiąca od dnia otrzymania wniosku. Odmawiając udzielenia informacji podatkowych, podaje się przyczyny odmowy.
@@ -116,9 +117,13 @@
 **Art. 18.** Szef Krajowej Administracji Skarbowej, w celu usprawnienia współpracy, może zawierać z właściwym organem państwa członkowskiego porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji podatkowych.
 
 **Art. 19.**
-1. Szef Krajowej Administracji Skarbowej, w celu wymiany informacji podatkowych, może zawierać z właściwym organem państwa członkowskiego porozumienia w zakresie przebywania upoważnionych przedstawicieli właściwego organu państwa członkowskiego w siedzibach organów podatkowych oraz ich obecności w toku postępowań podatkowych oraz w toku czynności kontrolnych.
+1. Szef Krajowej Administracji Skarbowej, w celu wymiany informacji podatkowych, może zawierać z właściwym organem państwa członkowskiego porozumienia w zakresie przebywania upoważnionych przedstawicieli właściwego organu państwa członkowskiego w siedzibach organów podatkowych oraz ich obecności w toku postępowań w sprawie udzielenia informacji podatkowych, postępowań podatkowych i czynności kontrolnych.
 2. Porozumienia nie mogą dotyczyć podmiotów, o których mowa w art. 13a ustawy - Ordynacja podatkowa, w przypadku nadania im uprawnień organów podatkowych.
 3. Jeżeli w aktach sprawy są zawarte informacje podatkowe, których dotyczy wniosek właściwego organu państwa członkowskiego, przedstawiciele właściwego organu państwa członkowskiego, w ramach zawartych porozumień, otrzymują kopie dokumentów zawierających te informacje.
+4. Upoważnieni przedstawiciele właściwego organu państwa członkowskiego obecni w toku postępowania w sprawie udzielenia informacji podatkowych, postępowania podatkowego lub w toku czynności kontrolnych mogą w ramach zawartego porozumienia:
+  1) zadawać pytania świadkowi oraz stronie w ramach przeprowadzanego dowodu z zeznań świadka lub przesłuchania strony,
+  2) przeglądać i utrwalać dokumenty i inne dowody związane ze sprawą
+- w zakresie, w jakim służy to wymianie informacji podatkowych.
 
 **Art. 20.** Informacje podatkowe otrzymane od właściwego organu państwa członkowskiego można przekazać innemu właściwemu organowi państwa członkowskiego po uprzednim zawiadomieniu właściwego organu państwa członkowskiego, od którego pochodzą te informacje, o zamiarze ich przekazania i niewniesieniu przez ten organ sprzeciwu w terminie 10 dni roboczych od dnia zawiadomienia.
 
@@ -127,7 +132,7 @@
 **Art. 22.** Wymiana informacji podatkowych następuje za pomocą środków komunikacji elektronicznej, przy użyciu standardowych formularzy do wymiany informacji, o których mowa w rozporządzeniu Komisji (UE) nr 2015/2378. W przypadku braku możliwości wymiany informacji podatkowych za pomocą środków komunikacji elektronicznej wymiany dokonuje się w postaci papierowej.
 
 **Art. 23.**
-1. W sprawach nieuregulowanych w art. 8-14 stosuje się odpowiednio przepisy rozdziałów 1, 2, 5, 8, 9 i 14 działu IV oraz art. 143 ustawy - Ordynacja podatkowa.
+1. W sprawach nieuregulowanych w art. 8-14 stosuje się odpowiednio przepisy działu IV rozdziałów 1, 2 i 5, rozdziału 6, z wyłączeniem art. 156 § 2 i 3, rozdziałów 8, 9, 11 i 14 oraz art. 143 ustawy - Ordynacja podatkowa.
 2. Do doręczania pism w zakresie spraw, o których mowa w niniejszym dziale, stosuje się przepisy art. 154a i art. 154b ustawy - Ordynacja podatkowa.
 
 ## Dział III — Automatyczna wymiana informacji o rachunkach raportowanych
@@ -145,6 +150,8 @@
     f) umowę ubezpieczenia,
     g) umowę renty,
     h) kontrakty terminowe typu future, kontrakty terminowe typu forward lub opcje, dla których instrumentem bazowym są aktywa finansowe określone w lit. a-g
+    i) udział w prawach przysługujących osobie współuprawnionej z papieru wartościowego, umowy swapu, umowy ubezpieczenia lub umowy renty,
+      j) rzeczywiste prawo własnościowe w truście
   - przy czym aktywa finansowe nie obejmują niedłużnego, bezpośredniego udziału w nieruchomości;
   2) aktywnym NFE - rozumie się przez to NFE spełniający jedno z następujących kryteriów:
     a) mniej niż 50% dochodu brutto NFE za poprzedni rok kalendarzowy stanowi dochód pasywny, przez który rozumie się przychody z dywidend i inne przychody z udziału w zyskach osób prawnych, przychody ze zbycia udziałów (akcji), wierzytelności, odsetek i pożytków od wszelkiego rodzaju pożyczek, poręczeń i gwarancji, a także przychody z praw autorskich, praw własności przemysłowej, w tym z tytułu zbycia tych praw, a także zbycia i realizacji praw z instrumentów finansowych, oraz mniej niż 50% aktywów posiadanych przez NFE w trakcie poprzedniego roku kalendarzowego stanowią aktywa, które przynoszą dochód pasywny lub są posiadane dla osiągania dochodu pasywnego,
@@ -205,8 +212,8 @@
     b) spółka będąca podmiotem powiązanym spółki określonej w lit. a,
     c) podmiot rządowy, organizacja międzynarodowa lub bank centralny,
     d) instytucja finansowa;
-  22) osobie z państwa trzeciego - rozumie się przez to osobę fizyczną lub podmiot będące rezydentem państwa trzeciego na podstawie przepisów prawa podatkowego tego państwa trzeciego, lub masę spadkową po osobie zmarłej, która była rezydentem państwa trzeciego; podmiot niemający rezydencji do celów podatkowych traktuje się jako rezydenta państwa, w którym znajduje się miejsce faktycznego zarządu tego podmiotu;
-  23) osobie z państwa uczestniczącego - rozumie się przez to osobę fizyczną lub podmiot będące rezydentem państwa uczestniczącego na podstawie przepisów prawa podatkowego tego państwa uczestniczącego, lub masę spadkową po osobie zmarłej, która była rezydentem państwa uczestniczącego; podmiot niemający rezydencji do celów podatkowych traktuje się jako rezydenta państwa, w którym znajduje się miejsce faktycznego zarządu tego podmiotu;
+  22) osobie z państwa trzeciego - rozumie się przez to osobę fizyczną lub podmiot będące rezydentem państwa trzeciego na podstawie przepisów prawa podatkowego tego państwa trzeciego, lub masę spadkową po osobie zmarłej, która była rezydentem państwa trzeciego; podmiot niemający rezydencji do celów podatkowych, z wyłączeniem trustu będącego pasywnym NFE, traktuje się jako rezydenta państwa, w którym znajduje się miejsce faktycznego zarządu tego podmiotu;
+  23) osobie z państwa uczestniczącego - rozumie się przez to osobę fizyczną lub podmiot będące rezydentem państwa uczestniczącego na podstawie przepisów prawa podatkowego tego państwa uczestniczącego, lub masę spadkową po osobie zmarłej, która była rezydentem państwa uczestniczącego; podmiot niemający rezydencji do celów podatkowych, z wyłączeniem trustu będącego pasywnym NFE, traktuje się jako rezydenta państwa, w którym znajduje się miejsce faktycznego zarządu tego podmiotu;
   24) państwie trzecim - rozumie się przez to inne niż Rzeczpospolita Polska oraz Stany Zjednoczone Ameryki państwo lub terytorium, które nie jest państwem uczestniczącym;
   25) państwie uczestniczącym - rozumie się przez to:
     a) inne niż Rzeczpospolita Polska państwo członkowskie,
@@ -216,7 +223,7 @@
     a) NFE niebędący aktywnym NFE,
     b) podmiot inwestujący, o którym mowa w pkt 29 lit. b, niebędący instytucją finansową z państwa uczestniczącego;
   27) pieniężnej umowie ubezpieczenia - rozumie się przez to umowę ubezpieczenia, inną niż umowa reasekuracji zawarta między dwoma zakładami ubezpieczeń, która ma wartość pieniężną;
-  28) podmiocie - rozumie się przez to osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, a także umowę, w szczególności spółki cywilnej, na podstawie której strony, które ją zawarły, zamierzają wspólnie realizować określone w niej cele lub zadania;
+  28) podmiocie - rozumie się przez to osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej lub trust, a także umowę, w szczególności spółki cywilnej, na podstawie której strony, które ją zawarły, zamierzają wspólnie realizować określone w niej cele lub zadania;
   29) podmiocie inwestującym - rozumie się przez to podmiot:
     a) który w ramach działalności gospodarczej wykonuje głównie co najmniej jedną z następujących czynności lub operacji na rzecz lub w imieniu innych osób:
       – obrót instrumentami rynku pieniężnego, czekami, wekslami, certyfikatami depozytowymi, instrumentami pochodnymi,
@@ -230,10 +237,10 @@
   31) podmiocie rządowym - rozumie się przez to:
     a) rząd państwa,
     b) jednostki terytorialne państwa,
-    c) podmioty będące własnością danego państwa lub jednostek wymienionych w lit. b,
+    c) podmioty będące w całości własnością danego państwa lub jednostek wymienionych w lit. b,
     d) organy lub instytucje sprawujące władzę w państwie, pod warunkiem że ich dochody netto są gromadzone na rachunku własnym lub innym rachunku danego państwa i nie przynoszą korzyści osobie prywatnej,
     e) podmiot kontrolowany przez państwo, przez który rozumie się podmiot prawny niezależny od państwa, pod warunkiem że:
-      – podmiot ten jest własnością innego podmiotu rządowego i jest kontrolowany bezpośrednio lub za pośrednictwem podmiotu kontrolowanego przez inny podmiot rządowy,
+      – podmiot ten jest w całości własnością innego podmiotu rządowego i jest kontrolowany bezpośrednio lub za pośrednictwem podmiotu kontrolowanego przez inny podmiot rządowy,
       – dochody netto tego podmiotu są gromadzone na jego własnym rachunku lub na rachunkach innego podmiotu rządowego i nie przynoszą korzyści osobie prywatnej,
       – po rozwiązaniu tego podmiotu jego aktywa powierzane są innemu podmiotowi rządowemu;
   32) polskiej instytucji finansowej - rozumie się przez to instytucję finansową będącą rezydentem Rzeczypospolitej Polskiej, z wyłączeniem oddziałów i przedstawicielstw tej instytucji finansowej mających siedzibę poza terytorium Rzeczypospolitej Polskiej, oraz oddział i przedstawicielstwo instytucji finansowej, która nie jest rezydentem Rzeczypospolitej Polskiej, jeżeli oddział lub przedstawicielstwo tej instytucji ma siedzibę na terytorium Rzeczypospolitej Polskiej;
@@ -249,7 +256,8 @@
       – udziela porad inwestycyjnych klientowi i działa w jego imieniu lub
       – zarządza portfelami na rzecz klienta i działa w jego imieniu do celów inwestowania aktywów finansowych zdeponowanych w imieniu klienta w instytucji finansowej innej niż taki podmiot lub do celów zarządzania lub administrowania takimi aktywami finansowymi,
     b) w przypadku instytucji finansowej niewymienionej w lit. a - jakikolwiek udział w kapitale, w tym w kapitale lub zyskach spółki osobowej będącej instytucją finansową oraz w aktywach netto funduszu inwestycyjnego przypadających na jednostkę uczestnictwa lub certyfikat inwestycyjny, lub w wierzytelnościach wobec danej instytucji finansowej, jeżeli dana kategoria udziałów została utworzona w celu uniknięcia raportowania,
-    c) pieniężne umowy ubezpieczenia i umowy renty, zawarte lub wykonywane przez instytucję finansową, z wyjątkiem niezwiązanych z inwestowaniem, niezbywalnych, natychmiastowo wypłacanych dożywotnich rent, o których mowa w ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz. U. z 2017 r. poz. 459), zawieranych z osobą fizyczną, które skutkują wypłatą świadczenia emerytalnego lub rentowego w ramach rachunku wyłączonego z obowiązku raportowania na podstawie art. 31 ust. 2;
+    c) pieniężne umowy ubezpieczenia i umowy renty, zawarte lub wykonywane przez instytucję finansową, z wyjątkiem niezwiązanych z inwestowaniem, niezbywalnych, natychmiastowo wypłacanych dożywotnich rent, o których mowa w ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz. U. z 2017 r. poz. 459), zawieranych z osobą fizyczną, które skutkują wypłatą świadczenia emerytalnego lub rentowego w ramach rachunku wyłączonego z obowiązku raportowania na podstawie art. 31 ust. 2,
+    d) w przypadku trustu będącego instytucją finansową - udział w kapitale rozumiany jako udział posiadany przez osobę traktowaną jako założyciel lub beneficjent trustu lub inną osobę fizyczną sprawującą ostateczną lub faktyczną kontrolę nad trustem; osoba raportowana będzie traktowana jako beneficjent trustu, jeżeli taka osoba raportowana posiada prawo do otrzymywania bezpośrednio lub pośrednio, w tym za pośrednictwem pełnomocnika, obowiązkowej wypłaty z trustu lub może otrzymywać, bezpośrednio lub pośrednio, wypłaty uznaniowe z trustu;
   39) rachunku nieudokumentowanym - rozumie się przez to istniejący rachunek indywidualny posiadany przez osobę o nieustalonej rezydencji;
   40) rachunku o niższej wartości - rozumie się przez to istniejący rachunek indywidualny, którego łączne saldo lub wartość na dzień 31 grudnia 2015 r. nie przekraczają kwoty progowej 1 000 000 dolarów amerykańskich;
   41) rachunku o wysokiej wartości - rozumie się przez to istniejący rachunek indywidualny, którego łączne saldo lub wartość na dzień 31 grudnia 2015 r. lub na dzień 31 grudnia któregokolwiek z kolejnych lat przekraczają kwotę progową 1 000 000 dolarów amerykańskich;
@@ -257,7 +265,9 @@
   43) rachunku raportowanym - rozumie się przez to rachunek finansowy prowadzony przez raportującą instytucję finansową i znajdujący się w posiadaniu co najmniej jednej osoby raportowanej lub pasywnego NFE kontrolowanego przez co najmniej jedną osobę kontrolującą będącą osobą raportowaną, pod warunkiem że zostanie on zidentyfikowany jako taki rachunek na podstawie procedur należytej staranności;
   44) raportującej instytucji finansowej - rozumie się przez to polską instytucję finansową, z wyjątkiem instytucji wymienionych w art. 32 ust. 1;
   45) TIN - rozumie się przez to numer identyfikacyjny podatnika lub jego funkcjonalny odpowiednik w przypadku braku takiego numeru, stosowany przez państwo rezydencji do identyfikacji osoby fizycznej lub podmiotu w celach podatkowych, w tym numer identyfikacji podatkowej (NIP) lub numer Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL);
-  46) umowie renty - rozumie się przez to umowę, zgodnie z którą jedna ze stron zobowiązuje się względem drugiej do wypłacania świadczeń pieniężnych w danym okresie, ustalonym w całości lub w części lub przez określoną liczbę lat poprzez odniesienie się do oczekiwanej długości życia;
+  46) umowie renty - rozumie się przez to:
+    a) umowę, zgodnie z którą jedna ze stron zobowiązuje się względem drugiej do wypłacania świadczeń pieniężnych w danym okresie, ustalonym w całości lub w części poprzez odniesienie do średniego dalszego trwania życia co najmniej jednej osoby fizycznej, lub
+    b) umowę, którą uznaje się za umowę renty zgodnie z przepisami prawa lub praktyką państwa lub terytorium, w których umowa została zawarta, na mocy której strona tej umowy zobowiązuje się do wypłacania świadczeń pieniężnych przez określoną liczbę lat;
   47) uznanym rynku papierów wartościowych - rozumie się przez to rynek papierów wartościowych podlegający w państwie siedziby tego rynku nadzorowi właściwego organu nadzoru nad rynkiem finansowym, na którym średnia roczna wartość obrotu akcjami, według stanu na koniec każdego z 3 lat kalendarzowych poprzedzających rok kalendarzowy, w którym ustalenie jest dokonywane, wynosi co najmniej 1 000 000 000 dolarów amerykańskich, przy czym jeżeli w ramach danego rynku papierów wartościowych wyodrębnione są inne rynki, na potrzeby dokonania ustalenia uwzględnia się wyłącznie rynek, na którym akcje danej spółki kapitałowej są notowane;
   48) wartości pieniężnej - rozumie się przez to większą z następujących wartości: kwotę świadczenia, do uzyskania której ubezpieczający jest uprawniony w momencie wykupu lub wypowiedzenia umowy, określoną bez dokonywania potrąceń z tytułu wcześniejszej rezygnacji z umowy lub pożyczki pod zastaw polisy, lub kwotę, którą ubezpieczający może pożyczyć na mocy umowy lub w związku z umową; do wartości pieniężnej nie wlicza się kwoty należnej na podstawie umowy ubezpieczenia:
     a) wyłącznie z tytułu śmierci osoby ubezpieczonej, należnej na podstawie umowy ubezpieczenia na życie,
@@ -276,7 +286,7 @@
   3) w przypadku jakiegokolwiek udziału w kapitale, w tym w kapitale lub w zyskach spółki osobowej będącej instytucją finansową oraz w aktywach netto funduszu inwestycyjnego przypadających na jednostkę uczestnictwa lub certyfikat inwestycyjny, lub w wierzytelnościach wobec instytucji finansowej, w tym podmiotu inwestującego, stanowiącego rachunek finansowy - w której udział jest posiadany;
   4) w przypadku pieniężnej umowy ubezpieczenia lub umowy renty - która jest zobowiązana do dokonywania płatności na podstawie danej umowy.
 4. Adresem głównego miejsca prowadzenia działalności podmiotu jest adres miejsca faktycznego zarządu, z tym że adresem głównego miejsca prowadzenia działalności podmiotu nie jest adres instytucji finansowej, w której podmiot ma rachunek, skrytkę pocztową lub adres wykorzystywany wyłącznie do celów korespondencji, chyba że taki adres jest jedynym adresem wykorzystywanym przez dany podmiot i pojawia się jako adres zarejestrowany w jego dokumentach organizacyjnych.
-5. Minister właściwy do spraw finansów publicznych corocznie ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, listę państw uczestniczących, o których mowa w ust. 1 pkt 25 lit. b i c, w terminie do dnia 15 października.
+5. Minister właściwy do spraw finansów publicznych zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego tego ministra listę państw uczestniczących, o których mowa w ust. 1 pkt 25 lit. b i c, i dokonuje jej bieżącej aktualizacji.
 
 **Art. 25.**
 1. Na potrzeby stosowania przepisów niniejszego działu przyjmuje się, że instytucja finansowa jest rezydentem państwa, w którym zgodnie z prawem tego państwa podlega opodatkowaniu podatkiem od dochodów z uwagi na jej siedzibę lub zarząd lub inne kryterium o podobnym charakterze.
@@ -285,6 +295,9 @@
   2) posiada miejsce faktycznego zarządu, lub
   3) podlega nadzorowi finansowemu.
 3. W przypadku gdy zgodnie z przepisami ust. 1 i 2 instytucja finansowa jest rezydentem co najmniej dwóch państw, przyjmuje się, że instytucja finansowa podlega procedurom sprawozdawczym i procedurom należytej staranności w odniesieniu do danego rachunku finansowego w państwie, w którym prowadzi ten rachunek.
+4. Trust będący instytucją finansową jest rezydentem:
+  1) państwa uczestniczącego, w którym jest rezydentem do celów podatkowych - w przypadku gdy trust ten przekazuje do tego państwa informacje w zakresie określonym w art. 34 w odniesieniu do rachunków raportowanych prowadzonych przez trust;
+  2) państwa rezydencji co najmniej jednego z powierników tego trustu - w pozostałych przypadkach.
 
 **Art. 26.** Przeliczenia na złote polskie kwot wyrażonych w niniejszym dziale w dolarach amerykańskich dokonuje się według kursu średniego dolara amerykańskiego ogłaszanego przez Narodowy Bank Polski na:
 1) ostatni dzień roboczy poprzedzający dzień 31 grudnia danego roku, jeżeli przepisy niniejszego działu określają daną kwotę na dzień 31 grudnia danego roku, albo
@@ -358,7 +371,8 @@
   1) podmiotem rządowym, organizacją międzynarodową lub bankiem centralnym, w zakresie, w jakim nie dokonuje płatności wynikającej ze zobowiązania związanego z komercyjną działalnością finansową odpowiadającą działalności prowadzonej przez zakład ubezpieczeń, instytucję powierniczą lub instytucję depozytową;
   2) powszechnym funduszem emerytalnym, zamkniętym funduszem emerytalnym, funduszem emerytalnym podmiotu rządowego, organizacji międzynarodowej lub banku centralnego, lub kwalifikowanym wystawcą kart kredytowych;
   3) podmiotem zgłoszonym przez Rzeczpospolitą Polską Komisji Europejskiej oraz ujętym w publikowanej w Dzienniku Urzędowym Unii Europejskiej liście instytucji, które należy traktować jako nieraportujące instytucje finansowe do celów załącznika I sekcja VIII część B pkt 1 lit. c dyrektywy 2011/16/UE;
-  4) zwolnionym przedsiębiorstwem zbiorowego inwestowania.
+  4) zwolnionym przedsiębiorstwem zbiorowego inwestowania;
+  5) trustem w zakresie, w jakim powiernik trustu będący raportującą instytucją finansową przekazuje informacje o rachunkach raportowanych tego trustu.
 2. Przez powszechny fundusz emerytalny, o którym mowa w ust. 1 pkt 2, rozumie się fundusz utworzony w celu zapewnienia świadczeń emerytalnych, rentowych lub świadczeń z tytułu śmierci, lub kombinacji tych świadczeń, na rzecz obecnych lub byłych pracowników co najmniej jednego pracodawcy lub osób przez nich wskazanych, pod warunkiem że fundusz:
   1) nie ma żadnego beneficjenta, który miałby prawo do więcej niż 5% aktywów funduszu, oraz
   2) zapewnia przekazywanie właściwym organom podatkowym informacji o beneficjentach i wnoszonych przez nich składkach na rzecz funduszu, oraz
@@ -379,16 +393,22 @@
   1) jest instytucją finansową tylko dlatego, że jest wydawcą karty płatniczej w rozumieniu przepisów ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2016 r. poz. 1572 i 1997), będącej kartą kredytową, akceptującym depozyty tylko wtedy, gdy klient dokonuje płatności przekraczającej saldo debetowe karty, a nadpłacona kwota nie jest natychmiast zwracana klientowi;
   2) wdrożyła procedury zapobiegające dokonaniu przez klienta nadpłaty, w tym nadpłaty obejmującej salda dodatnie wynikające ze zwrotu towarów, przekraczającej kwotę progową 50 000 dolarów amerykańskich albo zapewniające, że nadpłacone przez klienta kwoty przekraczające tę kwotę są zwracane w terminie 60 dni; nadpłata klienta nie odnosi się do salda dodatniego w zakresie spornych obciążeń.
 7. Przez zwolnione przedsiębiorstwo zbiorowego inwestowania, o którym mowa w ust. 1 pkt 4, rozumie się podmiot inwestujący regulowany przepisami ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2016 r. poz. 1896, 1948 i 2260), pod warunkiem że wszystkie jednostki uczestnictwa, certyfikaty inwestycyjne albo prawa uczestnictwa tego przedsiębiorstwa są w posiadaniu osób fizycznych lub podmiotów niebędących osobami raportowanymi, z wyjątkiem pasywnego NFE kontrolowanego przez osoby kontrolujące będące osobami raportowanymi, lub wszystkie te jednostki, certyfikaty albo prawa są posiadane za pośrednictwem takich osób fizycznych lub podmiotów. Wyemitowanie certyfikatów inwestycyjnych albo praw uczestnictwa na okaziciela w formie dokumentu nie powoduje utraty przez podmiot inwestujący statusu zwolnionego przedsiębiorstwa zbiorowego inwestowania, jeżeli przedsiębiorstwo zbiorowego inwestowania spełnia co najmniej jeden z następujących warunków:
-  1) umorzy wszystkie certyfikaty inwestycyjne albo prawa uczestnictwa po ich wykupieniu;
-  2) stosuje procedury należytej staranności i przekazuje wymagane informacje w odniesieniu do wszystkich certyfikatów inwestycyjnych albo praw uczestnictwa, gdy są one przedstawiane do wykupu w celu ich umorzenia lub dokonania innej płatności;
-  3) stosuje polityki i procedury zapewniające, że certyfikaty inwestycyjne albo prawa uczestnictwa zostaną umorzone lub poddane dematerializacji niezwłocznie, nie później jednak niż przed dniem 1 stycznia 2018 r.
+  1) nie wyemitował certyfikatów inwestycyjnych albo praw uczestnictwa na okaziciela w formie dokumentu po dniu 31 grudnia 2015 r.;
+  2) umorzył wszystkie certyfikaty inwestycyjne albo prawa uczestnictwa na okaziciela w formie dokumentu po ich wykupieniu;
+  3) stosował procedury należytej staranności i przekazywał wymagane informacje w odniesieniu do wszystkich certyfikatów inwestycyjnych albo praw uczestnictwa na okaziciela w formie dokumentu, w przypadku gdy są przedstawiane do wykupu w celu ich umorzenia lub dokonania innej płatności;
 8. Przez dochód, który nie przynosi korzyści osobom prywatnym, rozumie się dochód osób będących beneficjentami programu rządowego realizowanego dla dobra ogółu lub w ramach zarządzania określoną dziedziną administracji. Nie stanowi dochodu, który nie przynosi korzyści osobom prywatnym, dochód tych osób pochodzący z prowadzenia przez podmiot rządowy działalności komercyjnej, w tym działalności bankowej.
 
 **Art. 33.**
-1. Raportująca instytucja finansowa przekazuje Szefowi Krajowej Administracji Skarbowej, za pomocą środków komunikacji elektronicznej, za okres roku kalendarzowego, informację o rachunkach raportowanych, utworzoną na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, w terminie do dnia 30 czerwca roku następnego, zwaną dalej „informacją o rachunkach raportowanych”.
-2. Obowiązek, o którym mowa w ust. 1, nie obejmuje informacji o rachunkach raportowanych zidentyfikowanych jako znajdujące się w posiadaniu osób z państw trzecich.
-3. W przypadku rachunków raportowanych znajdujących się w posiadaniu osób z państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b i c, obowiązek określony w ust. 1 powstaje za rok następujący po roku, w którym dane państwo uczestniczące zostało wpisane na listę ogłaszaną w obwieszczeniu, o którym mowa w art. 24 ust. 5.
+1. Raportująca instytucja finansowa przekazuje Szefowi Krajowej Administracji Skarbowej informację o rachunkach raportowanych za okres roku kalendarzowego, zwaną dalej „informacją o rachunkach raportowanych”, w terminie do dnia 30 czerwca roku następnego:
+  1) utworzoną na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych;
+  2) za pomocą oprogramowania interfejsowego, o którym mowa w art. 3 pkt 11 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2017 r. poz. 570, z 2018 r. poz. 1000, 1544 i 1669 oraz z 2019 r. poz. 60 i 534), którego adres jest zamieszczony w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+2. (uchylony)
+3. W przypadku rachunków raportowanych znajdujących się w posiadaniu osób z państw lub terytoriów innych niż państwo członkowskie obowiązek przekazania informacji o rachunkach raportowanych obejmuje rachunki raportowane znajdujące się w roku kalendarzowym w posiadaniu osób wyłącznie z tych państw i terytoriów, które zostały zamieszczone na liście, o której mowa w ust. 5, dotyczącej obowiązku raportowania za ten rok.
 4. Jeżeli raportująca instytucja finansowa nie zidentyfikuje rachunków raportowanych, przepisu ust. 1 nie stosuje się.
+5. Minister właściwy do spraw finansów publicznych corocznie, w terminie do dnia 31 marca, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” listę:
+  1) państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b i c,
+  2) państw i terytoriów, które podjęły działania w celu zawarcia porozumienia, o którym mowa w art. 24 ust. 1 pkt 25 lit. b lub c
+- objętych obowiązkiem raportowania za rok kalendarzowy poprzedzający rok ogłoszenia tej listy, uwzględniając konieczność wykonania obowiązku, o którym mowa w art. 73.
 
 **Art. 34.**
 1. Informacja o rachunkach raportowanych zawiera:
@@ -420,7 +440,9 @@
 3. W celu określenia salda lub wartości rachunku raportowanego w walucie ustalonej zgodnie z ust. 1 raportująca instytucja finansowa przelicza saldo lub wartość rachunku, korzystając z tabeli kursów średnich ogłoszonej przez Narodowy Bank Polski na ostatni dzień roboczy roku kalendarzowego, za który przekazywana jest informacja o rachunkach raportowanych.
 
 **Art. 36.**
-1. Raportująca instytucja finansowa przekazuje Szefowi Krajowej Administracji Skarbowej, za pomocą środków komunikacji elektronicznej, za okres roku kalendarzowego, informację o rachunkach nieudokumentowanych, utworzoną na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, w terminie do dnia 30 czerwca roku następnego, zwaną dalej „informacją o rachunkach nieudokumentowanych”.
+1. Raportująca instytucja finansowa przekazuje Szefowi Krajowej Administracji Skarbowej informację o rachunkach nieudokumentowanych za okres roku kalendarzowego, zwaną dalej „informacją o rachunkach nieudokumentowanych”, w terminie do dnia 30 czerwca roku następnego:
+  1) utworzoną na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych;
+  2) za pomocą oprogramowania interfejsowego, o którym mowa w art. 3 pkt 11 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, którego adres jest zamieszczony w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 2. Informacja o rachunkach nieudokumentowanych zawiera:
   1) imię i nazwisko oraz datę i miejsce urodzenia posiadacza rachunku oraz jego TIN, o ile raportująca instytucja finansowa go posiada;
   2) numer rachunku lub jego funkcjonalny odpowiednik w przypadku braku takiego numeru;
@@ -485,8 +507,8 @@
 3. W przypadku nieuzyskania aktualnego oświadczenia o rezydencji podatkowej w terminie, o którym mowa w ust. 1, raportująca instytucja finansowa traktuje posiadacza rachunku zarówno jako rezydenta państwa ustalonego zgodnie z treścią pierwotnego oświadczenia o rezydencji podatkowej oraz państwa, co do którego ma podstawy sądzić, że posiadacz rachunku stał się jego rezydentem do celów podatkowych na skutek wystąpienia zmiany okoliczności.
 
 **Art. 48.**
-1. Raportująca instytucja finansowa przyjmuje, że niebędący właścicielem beneficjent pieniężnej umowy ubezpieczenia lub umowy renty otrzymujący świadczenie z tytułu śmierci nie jest osobą raportowaną, i nie traktuje rachunku finansowego posiadanego przez tego beneficjenta jako rachunku raportowanego, chyba że raportująca instytucja finansowa posiada informację, że beneficjentem jest osoba raportowana.
-2. Jeżeli informacje związane z beneficjentem zgromadzone przez raportującą instytucję finansową zawierają dane określone w art. 50, raportująca instytucja finansowa może przyjąć, że beneficjentem pieniężnej umowy ubezpieczenia lub umowy renty jest osoba raportowana. W takim przypadku raportująca instytucja finansowa jest obowiązana stosować procedury określone w art. 50.
+1. Raportująca instytucja finansowa przyjmuje, że niebędący właścicielem beneficjent pieniężnej umowy ubezpieczenia lub umowy renty otrzymujący świadczenie z tytułu śmierci nie jest osobą raportowaną, i nie traktuje rachunku finansowego posiadanego przez tego beneficjenta jako rachunku raportowanego, chyba że raportująca instytucja finansowa wie albo ma powody sądzić, że beneficjentem jest osoba raportowana.
+2. Raportująca instytucja finansowa ma powody sądzić, że beneficjentem pieniężnej umowy ubezpieczenia lub umowy renty jest osoba raportowana, jeżeli z informacji zgromadzonych przez raportującą instytucję finansową i związanych z beneficjentem wynika, że występują przesłanki określone w art. 50 ust. 2. W takim przypadku raportująca instytucja finansowa jest obowiązana stosować procedury określone w art. 50.
 
 **Art. 49.** W przypadku grupowej pieniężnej umowy ubezpieczenia lub grupowej umowy renty raportująca instytucja finansowa może traktować rachunek finansowy, który służy do obsługi tych umów, jako rachunek finansowy niebędący rachunkiem raportowanym do dnia, w którym określona kwota staje się należna na rzecz pracownika, posiadacza świadectwa lub beneficjenta, jeżeli dany rachunek finansowy spełnia następujące warunki:
 1) grupowa pieniężna umowa ubezpieczenia lub grupowa umowa renty są zawarte na rzecz pracodawcy i obejmują co najmniej 25 pracowników lub posiadaczy świadectwa;
@@ -498,14 +520,15 @@
 **Art. 50.**
 1. W celu ustalenia, czy posiadacz rachunku będącego rachunkiem o niższej wartości jest osobą raportowaną, raportująca instytucja finansowa, posiadająca w swojej dokumentacji jego aktualny adres miejsca zamieszkania ustalony w oparciu o dowód w postaci dokumentu, traktuje posiadacza takiego rachunku jako rezydenta do celów podatkowych państwa uczestniczącego lub państwa trzeciego, w którym posiada on adres miejsca zamieszkania.
 2. W przypadku gdy raportująca instytucja finansowa nie posiada aktualnego adresu zamieszkania posiadacza, o którym mowa w ust. 1, jest obowiązana, w celu ustalenia rezydencji do celów podatkowych posiadacza rachunku, wyszukać elektronicznie posiadane dane pod kątem ustalenia:
-  1) aktualnego adresu korespondencyjnego lub adresu zamieszkania, w tym skrytki pocztowej, w państwie uczestniczącym lub państwie trzecim;
-  2) numeru telefonu w państwie uczestniczącym lub państwie trzecim i braku numeru telefonu w Rzeczypospolitej Polskiej;
-  3) stałych zleceń przelewu środków na rachunek prowadzony w państwie uczestniczącym lub państwie trzecim, innych niż dotyczących rachunku depozytowego;
-  4) pełnomocnictwa lub upoważnienia do podpisu udzielonego osobie posiadającej adres w państwie uczestniczącym lub państwie trzecim;
-  5) polecenia przechowywania poczty lub adresu do doręczeń w państwie uczestniczącym lub państwie trzecim, pod warunkiem że raportująca instytucja finansowa nie posiada w dokumentacji innego adresu posiadacza rachunku.
+  1) rezydencji posiadacza rachunku w państwie uczestniczącym lub państwie trzecim;
+  2) aktualnego adresu korespondencyjnego lub adresu zamieszkania, w tym skrytki pocztowej, w państwie uczestniczącym lub państwie trzecim;
+  3) numeru telefonu w państwie uczestniczącym lub państwie trzecim i braku numeru telefonu w Rzeczypospolitej Polskiej;
+  4) stałych zleceń przelewu środków na rachunek prowadzony w państwie uczestniczącym lub państwie trzecim, innych niż dotyczących rachunku depozytowego;
+  5) pełnomocnictwa lub upoważnienia do podpisu udzielonego osobie posiadającej adres w państwie uczestniczącym lub państwie trzecim;
+  6) polecenia przechowywania poczty lub adresu do doręczeń w państwie uczestniczącym lub państwie trzecim, pod warunkiem że raportująca instytucja finansowa nie posiada w dokumentacji innego adresu posiadacza rachunku.
 3. W przypadku gdy żadna z przesłanek wymienionych w ust. 2 nie zostanie ustalona w drodze wyszukiwania elektronicznego, raportująca instytucja finansowa nie jest obowiązana do podejmowania dodatkowych działań, chyba że wystąpi zmiana okoliczności powodująca powiązanie z tym rachunkiem jednej przesłanki lub większej liczby przesłanek lub rachunek stanie się rachunkiem o wysokiej wartości.
-4. W przypadku gdy w wyniku wyszukiwania elektronicznego zostanie stwierdzone występowanie którejkolwiek z przesłanek wymienionych w ust. 2 pkt 1-4 lub jeżeli wystąpi zmiana okoliczności powodująca powiązanie z tym rachunkiem jednej przesłanki lub większej liczby przesłanek, raportująca instytucja finansowa kwalifikuje posiadacza rachunku jako rezydenta do celów podatkowych każdego państwa uczestniczącego lub państwa trzeciego, w odniesieniu do którego zostanie stwierdzone występowanie przesłanki, chyba że postanowi zastosować przepis ust. 7, a jeden z wyjątków wymienionych w tym przepisie ma zastosowanie do tego rachunku.
-5. W przypadku gdy w wyniku wyszukiwania elektronicznego stwierdzono istnienie polecenia przechowywania poczty lub posiadanie adresu do doręczeń, a w odniesieniu do posiadacza rachunku o niższej wartości nie zostanie stwierdzone posiadanie innego adresu bądź występowanie przesłanki wymienionej w ust. 2 pkt 1-4, raportująca instytucja finansowa w celu ustalenia jego rezydencji do celów podatkowych jest obowiązana przeprowadzić wyszukiwanie danych w dokumentacji papierowej zgodnie z art. 51 ust. 2 i 3 lub uzyskać oświadczenie posiadacza rachunku lub dowód w postaci dokumentu.
+4. W przypadku gdy w wyniku wyszukiwania elektronicznego zostanie stwierdzone występowanie którejkolwiek z przesłanek wymienionych w ust. 2 pkt 1-5 lub jeżeli wystąpi zmiana okoliczności powodująca powiązanie z tym rachunkiem jednej przesłanki lub większej liczby przesłanek, raportująca instytucja finansowa kwalifikuje posiadacza rachunku jako rezydenta do celów podatkowych każdego państwa uczestniczącego lub państwa trzeciego, w odniesieniu do którego zostanie stwierdzone występowanie przesłanki, chyba że postanowi zastosować przepis ust. 7, a jeden z wyjątków wymienionych w tym przepisie ma zastosowanie do tego rachunku.
+5. W przypadku gdy w wyniku wyszukiwania elektronicznego stwierdzono istnienie polecenia przechowywania poczty lub posiadanie adresu do doręczeń, a w odniesieniu do posiadacza rachunku o niższej wartości nie zostanie stwierdzone posiadanie innego adresu bądź występowanie przesłanki wymienionej w ust. 2 pkt 1-5, raportująca instytucja finansowa w celu ustalenia jego rezydencji do celów podatkowych jest obowiązana przeprowadzić wyszukiwanie danych w dokumentacji papierowej zgodnie z art. 51 ust. 2 i 3 lub uzyskać oświadczenie posiadacza rachunku lub dowód w postaci dokumentu.
 6. W przypadku gdy czynności podjęte na podstawie ust. 5 nie doprowadzą do ustalenia rezydencji do celów podatkowych posiadacza rachunku, raportująca instytucja finansowa zgłasza dany rachunek jako rachunek nieudokumentowany. W takim przypadku raportująca instytucja finansowa powinna stosować procedury określone w ust. 1-4 co roku do czasu, gdy taki rachunek przestanie być rachunkiem nieudokumentowanym, a także podejmować, co najmniej raz w roku, inne działania mające na celu ustalenie rezydencji posiadacza rachunku obejmujące w szczególności:
   1) podjęcie próby kontaktu z posiadaczem rachunku;
   2) wystąpienie z formalnym żądaniem, załączanym do dokumentacji w formie papierowej lub elektronicznej;
@@ -543,8 +566,8 @@
 **Art. 52.**
 1. W przypadku gdy w wyniku weryfikacji rachunków o wysokiej wartości dokonanej na podstawie art. 51:
   1) nie zostanie stwierdzona żadna z przesłanek wymienionych w art. 50 ust. 2 i rachunek ten nie zostanie zidentyfikowany jako posiadany przez osobę raportowaną zgodnie z art. 51 ust. 5, raportująca instytucja finansowa nie jest obowiązana do podejmowania dalszych działań, chyba że wystąpi zmiana okoliczności powodująca powiązanie z tym rachunkiem jednej lub większej liczby tych przesłanek;
-  2) zostanie stwierdzone występowanie którejkolwiek z przesłanek wymienionych w art. 50 ust. 2 pkt 1-4 lub jeżeli wystąpi zmiana w okolicznościach powodująca powiązanie z tym rachunkiem jednej lub większej liczby przesłanek, raportująca instytucja finansowa kwalifikuje rachunek jako rachunek raportowany w odniesieniu do każdego państwa uczestniczącego lub państwa trzeciego, względem którego zostanie stwierdzone wystąpienie przesłanki, chyba że postanowi zastosować przepis art. 50 ust. 7, a jeden z wyjątków wskazanych w tym przepisie ma zastosowanie do tego rachunku;
-  3) zostanie stwierdzone istnienie polecenia przechowywania poczty lub posiadanie adresu do doręczeń, a w odniesieniu do danego posiadacza rachunku nie zostanie ustalony żaden inny adres ani żadna z pozostałych przesłanek wymienionych w art. 50 ust. 2 pkt 1-4, raportująca instytucja finansowa jest obowiązana uzyskać oświadczenie danego posiadacza rachunku lub dowód w postaci dokumentu w celu ustalenia jednej lub większej liczby rezydencji do celów podatkowych danego posiadacza rachunku.
+  2) zostanie stwierdzone występowanie którejkolwiek z przesłanek wymienionych w art. 50 ust. 2 pkt 1-5 lub jeżeli wystąpi zmiana w okolicznościach powodująca powiązanie z tym rachunkiem jednej lub większej liczby przesłanek, raportująca instytucja finansowa kwalifikuje rachunek jako rachunek raportowany w odniesieniu do każdego państwa uczestniczącego lub państwa trzeciego, względem którego zostanie stwierdzone wystąpienie przesłanki, chyba że postanowi zastosować przepis art. 50 ust. 7, a jeden z wyjątków wskazanych w tym przepisie ma zastosowanie do tego rachunku;
+  3) zostanie stwierdzone istnienie polecenia przechowywania poczty lub posiadanie adresu do doręczeń, a w odniesieniu do danego posiadacza rachunku nie zostanie ustalony żaden inny adres ani żadna z pozostałych przesłanek wymienionych w art. 50 ust. 2 pkt 1-5, raportująca instytucja finansowa jest obowiązana uzyskać oświadczenie danego posiadacza rachunku lub dowód w postaci dokumentu w celu ustalenia jednej lub większej liczby rezydencji do celów podatkowych danego posiadacza rachunku.
 2. W przypadku gdy raportująca instytucja finansowa nie może uzyskać oświadczenia o rezydencji podatkowej danego posiadacza rachunku lub dowodu w postaci dokumentu, o których mowa w ust. 1 pkt 3, jest obowiązana zgłosić dany rachunek jako rachunek nieudokumentowany.
 
 **Art. 53.**
@@ -657,11 +680,13 @@
 
 ### Rozdział 10 — Obowiązki organu
 
-**Art. 73.** Szef Krajowej Administracji Skarbowej przekazuje właściwemu organowi państwa uczestniczącego informacje o rachunkach raportowanych posiadanych przez rezydentów tych państw, uzyskane od raportujących instytucji finansowych, zawierające dane określone w art. 34 ust. 1.
+**Art. 73.**
+1. Szef Krajowej Administracji Skarbowej przekazuje właściwemu organowi państwa uczestniczącego informacje o rachunkach raportowanych posiadanych przez rezydentów tych państw, uzyskane od raportujących instytucji finansowych, zawierające dane określone w art. 34 ust. 1.
+2. Jeżeli z porozumienia, o którym mowa w art. 24 ust. 1 pkt 25 lit. b lub c, lub oświadczenia złożonego przez państwo uczestniczące wynika, że informacje, o których mowa w ust. 1, nie są przekazywane, przepisu ust. 1 nie stosuje się.
 
 **Art. 74.**
 1. Informacje, o których mowa w art. 73, są przekazywane raz w roku, w terminie do dnia 30 września roku następującego po roku kalendarzowym, którego informacje dotyczą.
-2. Informacje dotyczące rachunków raportowanych posiadanych przez rezydentów państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b i c, przekazuje się za rok następujący po roku, w którym dane państwo uczestniczące zostało wpisane na listę ogłaszaną w obwieszczeniu, o którym mowa w art. 24 ust. 5.
+2. (uchylony)
 
 **Art. 75.**
 1. Wymiana informacji, o których mowa w art. 73, z państwami członkowskimi następuje za pomocą środków komunikacji elektronicznej, według formatu określonego w rozporządzeniu Komisji (UE) nr 2015/2378.
@@ -742,9 +767,19 @@
 6) kwalifikującej umowie między właściwymi organami - rozumie się przez to umowę między właściwymi organami dotyczącą wymiany informacji o grupach podmiotów zawartą na podstawie ratyfikowanej przez Rzeczpospolitą Polską umowy międzynarodowej stanowiącej podstawę wymiany informacji podatkowych;
 7) roku obrotowym - rozumie się przez to rok obrotowy w rozumieniu przepisów o rachunkowości, za który jednostka dominująca grupy podmiotów sporządza skonsolidowane sprawozdanie finansowe;
 8) sprawozdawczym roku obrotowym - rozumie się przez to rok obrotowy, za który jest sporządzane roczne skonsolidowane sprawozdanie finansowe, w odniesieniu do którego dane są przedstawiane w informacji o grupie podmiotów.
+2. Kwota progowa skonsolidowanych przychodów wynosi:
+  1) 3 250 000 000 zł - w przypadku gdy grupa kapitałowa sporządza skonsolidowane sprawozdanie finansowe w złotych;
+  2) 750 000 000 euro albo równowartość tej kwoty przeliczonej według:
+    a) zasad określonych przez państwo lub terytorium, w którym jednostka dominująca ma siedzibę lub zarząd - w przypadku grupy kapitałowej, której jednostka dominująca ma siedzibę lub zarząd poza terytorium Rzeczypospolitej Polskiej,
+    b) ostatniego kursu wymiany opublikowanego przez Europejski Bank Centralny na ostatni dzień roku obrotowego poprzedzającego sprawozdawczy rok obrotowy - w przypadku gdy:
+      – grupa kapitałowa, w której jednostka dominująca ma siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, sporządza skonsolidowane sprawozdanie finansowe w innej walucie niż złoty,
+      – państwo lub terytorium, o których mowa w lit. a, nie określiło zasad przeliczania tej kwoty.
+3. W przypadku gdy rok obrotowy obejmuje okres inny niż 12 miesięcy, kwotę progową skonsolidowanych przychodów określa się w wysokości 1/12 za każdy rozpoczęty miesiąc roku obrotowego.
 
 **Art. 83.**
-1. Jednostka dominująca wchodząca w skład grupy podmiotów, posiadająca siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, przekazuje Szefowi Krajowej Administracji Skarbowej, za pomocą środków komunikacji elektronicznej, informację o grupie podmiotów sporządzoną na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych, w terminie 12 miesięcy od dnia zakończenia sprawozdawczego roku obrotowego.
+1. Jednostka dominująca wchodząca w skład grupy podmiotów, mająca siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej, przekazuje Szefowi Krajowej Administracji Skarbowej, w terminie 12 miesięcy od dnia zakończenia sprawozdawczego roku obrotowego, informację o grupie podmiotów:
+  1) utworzoną na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych;
+  2) za pomocą oprogramowania interfejsowego, o którym mowa w art. 3 pkt 11 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, którego adres jest zamieszczony w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 2. Informacja o grupie podmiotów może być wykorzystana w celu analizy ryzyka zaniżenia dochodu do opodatkowania w obszarze cen transakcyjnych oraz do innych analiz ekonomicznych lub statystycznych.
 
 **Art. 84.**
@@ -755,7 +790,7 @@
 2. Przepisu ust. 1 nie stosuje się w przypadku, gdy:
   1) grupa podmiotów wyznaczyła inną jednostkę wchodzącą w skład grupy podmiotów, o której mowa w ust. 1, mającą siedzibę lub zarząd w państwie członkowskim innym niż Rzeczpospolita Polska lub prowadzącą działalność w państwie członkowskim innym niż Rzeczpospolita Polska przez zagraniczny zakład, do przekazania informacji o grupie podmiotów za sprawozdawczy rok obrotowy, o którym mowa w ust. 1, oraz która powiadomiła to państwo członkowskie, że jest jednostką wyznaczoną do przekazania informacji o grupie podmiotów, albo
   2) grupa podmiotów wyznaczyła inną jednostkę wchodzącą w skład grupy podmiotów, o której mowa w ust. 1, mającą siedzibę lub zarząd w państwie lub terytorium spoza Unii Europejskiej lub prowadzącą działalność w państwie lub terytorium spoza Unii Europejskiej przez zagraniczny zakład, do przekazania informacji o grupie podmiotów za sprawozdawczy rok obrotowy, o którym mowa w ust. 1, pod warunkiem że:
-    a) państwo lub terytorium spoza Unii Europejskiej, w którym siedzibę, zarząd lub zagraniczny zakład ma ta jednostka, wymaga przekazania informacji o grupie podmiotów za ten sprawozdawczy rok obrotowy oraz zawarło kwalifikującą umowę między właściwymi organami, której stroną jest Rzeczpospolita Polska, w terminie 12 miesięcy od dnia zakończenia tego sprawozdawczego roku obrotowego,
+    a) państwo lub terytorium spoza Unii Europejskiej, w którym siedzibę, zarząd lub zagraniczny zakład ma ta jednostka, wymaga przekazania informacji o grupie podmiotów za ten sprawozdawczy rok obrotowy oraz zawarło kwalifikującą umowę między właściwymi organami, której stroną jest Rzeczpospolita Polska, w terminie 12 miesięcy od dnia zakończenia tego sprawozdawczego roku obrotowego, albo ta jednostka przekazała informację o grupie podmiotów państwu lub terytorium spoza Unii Europejskiej, które jest stroną kwalifikującej umowy między właściwymi organami, oraz to państwo lub to terytorium jest obowiązane przekazać otrzymaną informację o grupie podmiotów Rzeczypospolitej Polskiej,
     b) państwo lub terytorium spoza Unii Europejskiej, w którym siedzibę, zarząd lub zagraniczny zakład ma ta jednostka, nie powiadomiło Rzeczypospolitej Polskiej o okolicznościach, o których mowa w ust. 1 pkt 3, oraz zostało powiadomione przez tę jednostkę, że została ona wyznaczona przez grupę podmiotów do przekazania informacji o grupie podmiotów, w terminie do dnia zakończenia tego sprawozdawczego roku obrotowego,
     c) jednostka, o której mowa w ust. 1, przekazała powiadomienie, o którym mowa w art. 86 ust. 1
   - a wyznaczona jednostka zgodnie z pkt 1 albo 2 zgromadzi wszystkie dane wymagane w informacji o grupie podmiotów.
@@ -771,15 +806,35 @@
 1. Jednostka wchodząca w skład grupy podmiotów, która posiada siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej albo posiada siedzibę lub zarząd poza terytorium Rzeczypospolitej Polskiej, ale prowadzi na terytorium Rzeczypospolitej Polskiej działalność przez zagraniczny zakład, powiadamia Szefa Krajowej Administracji Skarbowej, że:
   1) jest jednostką dominującą, wyznaczoną jednostką albo inną jednostką, składającą informację o grupie podmiotów zgodnie z art. 84 ust. 1 albo
   2) wskazuje jednostkę raportującą oraz państwo lub terytorium, w którym zostanie przekazana informacja o grupie podmiotów
-- najpóźniej w ostatnim dniu sprawozdawczego roku obrotowego danej grupy podmiotów.
-2. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór powiadomienia, o którym mowa w ust. 1, mając na uwadze potrzebę ułatwienia przekazywania poprawnych informacji.
+w terminie 3 miesięcy od dnia zakończenia sprawozdawczego roku obrotowego grupy podmiotów.
+2. Powiadomienie, o którym mowa w ust. 1, jest przekazywane:
+  1) na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych;
+  2) za pomocą oprogramowania interfejsowego, o którym mowa w art. 3 pkt 11 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, którego adres jest zamieszczony w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
 **Art. 87.**
 1. Informacja o grupie podmiotów zawiera:
   1) dane identyfikacyjne jednostek wchodzących w skład grupy podmiotów;
   2) informacje dotyczące wielkości osiągniętych przychodów, zrealizowanego zysku (straty) przed opodatkowaniem, zapłaconego podatku dochodowego, należnego podatku dochodowego, kapitału podstawowego, niepodzielonego zysku z lat ubiegłych, liczby pracowników, aktywów rzeczowych (trwałych i obrotowych), innych niż środki pieniężne i ich ekwiwalenty, rodzaju działalności jednostek wchodzących w skład grupy podmiotów - z podziałem na państwa lub terytoria;
   3) dodatkowe informacje lub wyjaśnienia dotyczące danych lub informacji, o których mowa w pkt 1 i 2.
+1a. Dodatkowe informacje lub wyjaśnienia, o których mowa w ust. 1 pkt 3, sporządzane są w językach polskim i angielskim.
 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy zakres danych przekazywanych w informacji o grupie podmiotów oraz sposób jej wypełniania, uwzględniając treść ustaleń podjętych przez OECD.
+
+**Art. 87a.**
+1. Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez jednostkę wchodzącą w skład grupy podmiotów obowiązków określonych w niniejszym dziale.
+2. W sprawach dotyczących przeprowadzania kontroli, o której mowa w ust. 1, stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9-11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a i art. 292, ustawy - Ordynacja podatkowa.
+
+**Art. 87b.**
+1. Jednostka wchodząca w skład grupy podmiotów może skorygować uprzednio złożone informacje o grupie podmiotów lub powiadomienie, o którym mowa w art. 86 ust. 1.
+2. Uprawnienie do skorygowania informacji o grupie podmiotów i powiadomienia, o którym mowa w art. 86 ust. 1:
+  1) ulega zawieszeniu na czas trwania kontroli, o której mowa w art. 87a, w zakresie objętym tą kontrolą;
+  2) przysługuje nadal po zakończeniu tej kontroli.
+3. Korekta informacji o grupie podmiotów lub powiadomienia, o którym mowa w art. 86 ust. 1, złożona w przypadku, o którym mowa w ust. 2 pkt 1, nie wywołuje skutków prawnych. Szef Krajowej Administracji Skarbowej zawiadamia składającego korektę o jej bezskuteczności.
+
+**Art. 87c.**
+1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, o której mowa w art. 87a, jednostka wchodząca w skład grupy podmiotów, która złożyła informację o grupie podmiotów lub powiadomienie, o którym mowa w art. 86 ust. 1, na pisemne żądanie Szefa Krajowej Administracji Skarbowej jest obowiązana do udzielenia informacji niezbędnych do ich wyjaśnienia.
+2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy niż 14 dni, licząc od dnia otrzymania żądania.
+
+**Art. 87d.** Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej, o którym mowa w dziale III rozdziale 9a ustawy - Ordynacja podatkowa, obejmuje również upoważnienie do podpisywania informacji o grupie podmiotów i powiadomień, o których mowa w art. 86 ust. 1.
 
 **Art. 88.**
 1. Szef Krajowej Administracji Skarbowej przekazuje, w drodze automatycznej wymiany, informacje o grupie podmiotów otrzymane na podstawie art. 83 ust. 1 i art. 84 właściwym organom:
@@ -799,10 +854,10 @@
 - podlega karze pieniężnej.
 
 **Art. 90.**
-1. Jednostka wchodząca w skład grupy podmiotów w rozumieniu art. 82 pkt 5, która nie dopełnia obowiązku:
-  1) przekazania informacji o grupie podmiotów, o którym mowa w art. 83 ust. 1 lub art. 84,
+1. Jednostka wchodząca w skład grupy podmiotów w rozumieniu art. 82 ust. 1 pkt 5, która nie dopełnia obowiązku:
+  1) przekazania informacji o grupie podmiotów, o którym mowa w art. 83 ust. 1, art. 84 lub art. 85,
   2) powiadomienia, o którym mowa w art. 86 ust. 1
-- podlega karze pieniężnej.
+- lub przekazuje taką informację lub takie powiadomienie niepełne lub niezgodne z posiadanymi danymi, podlega karze pieniężnej.
 2. W przypadku, o którym mowa w ust. 1 pkt 1, karze pieniężnej podlega wyłącznie jednostka dominująca albo wyznaczona jednostka wchodząca w skład grupy podmiotów.
 
 **Art. 91.**
