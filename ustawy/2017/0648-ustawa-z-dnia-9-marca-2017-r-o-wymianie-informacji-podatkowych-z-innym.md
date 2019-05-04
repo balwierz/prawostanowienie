@@ -40,7 +40,16 @@
 - określając szczegółowy zakres upoważnienia oraz terytorialny zasięg działania upoważnionych organów.
 3. Szef Krajowej Administracji Skarbowej może upoważnić osoby zatrudnione lub pełniące służbę w urzędach obsługujących organy Krajowej Administracji Skarbowej do bezpośredniej wymiany informacji podatkowych w związku z realizowaniem zadań z zakresu planowanych lub trwających jednoczesnych kontroli oraz do uczestnictwa w spotkaniach organizacyjnych dotyczących tych kontroli.
 
-**Art. 6.** Do ujawnienia ministrowi właściwemu do spraw finansów publicznych, upoważnionemu przez niego organowi Krajowej Administracji Skarbowej, Szefowi Krajowej Administracji Skarbowej lub jego upoważnionemu przedstawicielowi informacji podatkowych w trybie i zakresie przewidzianych ustawą nie stosuje się przepisów ograniczających udostępnianie danych objętych tajemnicą prawnie chronioną, z wyjątkiem informacji niejawnych.
+**Art. 6.**
+1. Do ujawnienia ministrowi właściwemu do spraw finansów publicznych, upoważnionemu przez niego organowi Krajowej Administracji Skarbowej, Szefowi Krajowej Administracji Skarbowej lub jego upoważnionemu przedstawicielowi informacji podatkowych w trybie i zakresie przewidzianych ustawą nie stosuje się przepisów ograniczających udostępnianie danych objętych tajemnicą prawnie chronioną, z wyjątkiem informacji niejawnych.
+2. Dane osobowe przetwarzane w celu wykonywania zadań wynikających z ustawy podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
+  1) dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych;
+  2) pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;
+  3) regularnym testowaniu i doskonaleniu stosowanych środków technicznych i organizacyjnych;
+  4) zapewnieniu bezpiecznej komunikacji w sieciach teleinformatycznych, w szczególności poprzez zagwarantowanie, by proces pozyskiwania i przekazywania danych osobowych podmiotom zewnętrznym wykorzystywał techniki kryptograficzne;
+  5) zapewnieniu ochrony przed nieuprawnionym dostępem do systemów informatycznych;
+  6) zapewnieniu integralności danych w systemach informatycznych;
+  7) określeniu zasad bezpieczeństwa przetwarzanych danych osobowych.
 
 **Art. 6a.** Do udostępniania informacji otrzymanych na podstawie ustawy oraz umów o unikaniu podwójnego opodatkowania, innych ratyfikowanych umów, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, a także porozumień zawartych na podstawie tych umów, nie stosuje się przepisów ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125) w zakresie, w jakim jest to niezgodne z postanowieniami tych umów lub porozumień lub przepisami ustawy.
 
@@ -324,7 +333,7 @@
 **Art. 29.** Raportująca instytucja finansowa może korzystać z usług innych podmiotów w zakresie wykonywania obowiązków przewidzianych w niniejszym dziale, z wyłączeniem przekazywania informacji o rachunkach raportowanych oraz informacji o rachunkach nieudokumentowanych. Odpowiedzialność za wykonanie obowiązków ponosi raportująca instytucja finansowa.
 
 **Art. 30.**
-1. Raportująca instytucja finansowa wykonuje obowiązki określone w art. 24 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922) w terminie pozwalającym na zrealizowanie przez osobę raportowaną jej uprawnień, określonych w rozdziale 4 tej ustawy, przed przekazaniem informacji, o których mowa w art. 33 ust. 1 oraz art. 36 ust. 1.
+1. Raportująca instytucja finansowa wykonuje obowiązki, o których mowa w art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), w terminie pozwalającym na zrealizowanie przez osobę raportowaną jej uprawnień, określonych w art. 15-20 tego rozporządzenia, przed przekazaniem informacji, o których mowa w art. 33 ust. 1 oraz art. 36 ust. 1.
 2. Raportująca instytucja finansowa zawiadamia niezwłocznie osobę raportowaną o prawdopodobieństwie naruszenia bezpieczeństwa jej danych osobowych gromadzonych i przetwarzanych na potrzeby automatycznej wymiany informacji o rachunkach raportowanych.
 
 ### Rozdział 3 — Procedury sprawozdawcze
