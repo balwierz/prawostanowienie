@@ -385,6 +385,14 @@
 5. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, standardy kształcenia w kolegiach pracowników służb społecznych, uwzględniając w szczególności wymagania dotyczące realizowania planów nauczania, przedmioty kształcenia, zakres i wymiar praktyk zawodowych, treści programowe i wymagane umiejętności.
 6. W zakresie nieuregulowanym odmiennie w przepisach wydanych na podstawie ust. 4 i 5 do kolegiów pracowników służb społecznych stosuje się przepisy dotyczące szkół.
 
+**Art. 30a.**
+1. Inne formy wychowania przedszkolnego, szkoły, placówki, organy prowadzące szkoły lub placówki, organy sprawujące nadzór pedagogiczny oraz inne podmioty realizujące zadania i obowiązki określone w ustawie przetwarzają dane osobowe w zakresie niezbędnym dla realizacji zadań i obowiązków wynikających z tych przepisów.
+2. Nauczyciele oraz inne osoby pełniące funkcje lub wykonujące pracę w podmiotach, o których mowa w ust. 1, są obowiązani do zachowania w poufności informacji uzyskanych w związku z pełnioną funkcją lub wykonywaną pracą, dotyczących zdrowia, potrzeb rozwojowych i edukacyjnych, możliwości psychofizycznych, seksualności, orientacji seksualnej, pochodzenia rasowego lub etnicznego, poglądów politycznych, przekonań religijnych lub światopoglądowych uczniów.
+3. Przepisu ust. 2 nie stosuje się:
+  1) w przypadku zagrożenia zdrowia ucznia;
+  2) jeżeli uczeń, a w przypadku ucznia niepełnoletniego jego rodzic, wyrazi zgodę na ujawnienie określonych informacji;
+  3) w przypadku gdy przewidują to przepisy szczególne.
+
 ## Rozdział 2 — Wychowanie przedszkolne, obowiązek szkolny i obowiązek nauki
 
 **Art. 31.**
@@ -873,7 +881,8 @@
   8) współdziała ze szkołami wyższymi w organizacji praktyk pedagogicznych;
   9) stwarza warunki do działania w szkole lub placówce: wolontariuszy, stowarzyszeń i innych organizacji, w szczególności organizacji harcerskich, których celem statutowym jest działalność wychowawcza lub rozszerzanie i wzbogacanie form działalności dydaktycznej, wychowawczej, opiekuńczej i innowacyjnej szkoły lub placówki;
   10) odpowiada za realizację zaleceń wynikających z orzeczenia o potrzebie kształcenia specjalnego ucznia;
-  11) współpracuje z pielęgniarką albo higienistką szkolną, lekarzem i lekarzem dentystą, sprawującymi profilaktyczną opiekę zdrowotną nad dziećmi i młodzieżą, w tym udostępnia imię, nazwisko i numer PESEL ucznia celem właściwej realizacji tej opieki.
+  11) współpracuje z pielęgniarką albo higienistką szkolną, lekarzem i lekarzem dentystą, sprawującymi profilaktyczną opiekę zdrowotną nad dziećmi i młodzieżą, w tym udostępnia imię, nazwisko i numer PESEL ucznia celem właściwej realizacji tej opieki;
+  12) wdraża odpowiednie środki techniczne i organizacyjne zapewniające zgodność przetwarzania danych osobowych przez szkołę lub placówkę z przepisami o ochronie danych osobowych.
 2. Dyrektor szkoły lub placówki może, w drodze decyzji, skreślić ucznia z listy uczniów w przypadkach określonych w statucie szkoły lub placówki. Skreślenie następuje na podstawie uchwały rady pedagogicznej, po zasięgnięciu opinii samorządu uczniowskiego.
 3. Przepis ust. 2 nie dotyczy ucznia objętego obowiązkiem szkolnym. W uzasadnionych przypadkach uczeń ten, na wniosek dyrektora szkoły, może zostać przeniesiony przez kuratora oświaty do innej szkoły.
 3a. W przypadku ucznia szkoły artystycznej objętego obowiązkiem szkolnym, dyrektor szkoły artystycznej może skreślić ucznia z listy uczniów w trybie określonym w ust. 2, po uzyskaniu pozytywnej opinii specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1.
