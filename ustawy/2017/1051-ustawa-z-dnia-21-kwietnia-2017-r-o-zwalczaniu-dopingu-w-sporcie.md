@@ -44,6 +44,7 @@
   1) określanie zasad i przebiegu kontroli antydopingowej;
   2) ustanawianie reguł dyscyplinarnych dotyczących dopingu w sporcie;
   3) planowanie i przeprowadzanie kontroli antydopingowej w okresie podczas zawodów oraz w okresie poza nimi;
+  3a) prowadzenie czynności wyjaśniających zmierzających do ustalenia odpowiedzialności dyscyplinarnej za doping w sporcie zawodnika lub, w przypadkach, o których mowa w art. 3 ust. 1 pkt 5-9, osoby pomagającej w przygotowaniu do współzawodnictwa sportowego;
   4) szkolenie i podnoszenie kwalifikacji kontrolerów antydopingowych Agencji, zwanych dalej „kontrolerami”;
   5) przyznawanie zgody na używanie danej substancji zabronionej lub metody zabronionej przez zawodnika, o której mowa w art. 3 ust. 4;
   6) opracowywanie, wdrażanie i wspieranie programów edukacyjnych, informacyjnych i szkoleniowych w zakresie zwalczania dopingu w sporcie;
@@ -252,6 +253,14 @@
 6) wzór legitymacji służbowej kontrolera
 - uwzględniając konieczność zapewnienia jednakowego poziomu wiedzy i umiejętności nabywanej przez kontrolerów podczas szkolenia oraz konieczność umieszczenia we wzorach certyfikatu kontrolera i legitymacji służbowej kontrolera informacji niezbędnych do prawidłowego realizowania ich zadań.
 
+**Art. 27a.** W związku z planowaniem i przeprowadzaniem kontroli antydopingowej w okresie podczas zawodów oraz w okresie poza nimi, Agencja przetwarza następujące dane osobowe kontrolerów:
+1) wizerunek twarzy;
+2) płeć;
+3) podpis;
+4) adres poczty elektronicznej;
+5) numer telefonu;
+6) informacje o realizowanej dotychczas kontroli antydopingowej.
+
 **Art. 28.**
 1. Kontrolerzy, w toku prowadzonej kontroli antydopingowej, są obowiązani do:
   1) przygotowania miejsca i sprzętu do przeprowadzenia kontroli antydopingowej i zabezpieczenia tego miejsca i sprzętu przed dostępem osób trzecich;
@@ -275,7 +284,7 @@
 5. Kontrolerzy, podczas pełnienia obowiązków służbowych lub w związku z ich pełnieniem, korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych oraz podlegają odpowiedzialności karnej przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w ustawie z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2016 r. poz. 1137, z późn. zm.).
 
 **Art. 29.**
-1. Agencja, przeprowadzając kontrolę antydopingową w okresie podczas zawodów lub w okresie poza nimi, wykonuje zadanie realizowane dla dobra publicznego, o którym mowa w art. 23 ust. 1 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922), którego celem jest zapewnienie uczciwości współzawodnictwa sportowego, ujawnienie przestępstw, o których mowa w art. 48 ust. 1 i art. 49, oraz ochrona zdrowia zawodników.
+1. Agencja, przeprowadzając kontrolę antydopingową w okresie podczas zawodów lub w okresie poza nimi, wykonuje zadanie realizowane w interesie publicznym, którego celem jest zapewnienie uczciwości współzawodnictwa sportowego, ujawnienie przestępstw, o których mowa w art. 48 ust. 1 i art. 49, oraz ochrona zdrowia zawodników.
 2. Na potrzeby zadania, o którym mowa w ust. 1, oraz w zakresie niezbędnym do jego wykonania Agencja przetwarza dane osobowe zawodników, które obejmują:
   1) nazwisko;
   2) imię lub imiona;
@@ -305,11 +314,13 @@
     c) organizatorom zawodów, jeżeli w okresie podczas tych zawodów będzie przez nich przeprowadzana kontrola antydopingowa,
   2) Światowej Agencji Antydopingowej
 - jeżeli jest to niezbędne dla celów kontroli antydopingowej lub ustalenia odpowiedzialności dyscyplinarnej za doping w sporcie.
-4. Dane osobowe mogą być przetwarzane w systemie teleinformatycznym.
-5. Agencja przechowuje dane osobowe przez okres niezbędny do zakończenia czynności związanych z kontrolą antydopingową oraz ustaleniem odpowiedzialności dyscyplinarnej za doping w sporcie, nie dłużej jednak niż przez okres 10 lat od dnia ich uzyskania.
-6. Dane osobowe, o których mowa w ust. 2 pkt 1, 2, 8, 13 i 18, Agencja może przechowywać przez okres dłuższy niż określony w ust. 5, jeżeli są one niezbędne dla ustalenia odpowiedzialności dyscyplinarnej za doping w sporcie.
-7. Nie rzadziej niż co 18 miesięcy Agencja dokonuje weryfikacji zgromadzonych danych, z wyjątkiem danych, o których mowa w ust. 6, które Agencja weryfikuje nie rzadziej niż co 10 lat.
-8. Z zastrzeżeniem ust. 6, po upływie terminu, o którym mowa w ust. 5, lub po przeprowadzeniu weryfikacji, o której mowa w ust. 7, zgromadzone dane lub dane uznane za zbędne podlegają protokolarnemu i komisyjnemu zniszczeniu, które zarządza Dyrektor Agencji.
+3a. Dane osobowe zawodników podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazaniu, polegającym co najmniej na dopuszczeniu do przetwarzania danych osobowych wyłącznie osób posiadających pisemne upoważnienie wydane przez administratora danych oraz pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy.
+4. Dane osobowe zawodników mogą być przetwarzane w systemie teleinformatycznym.
+5. Agencja przechowuje dane osobowe zawodników przez okres niezbędny do zakończenia czynności związanych z kontrolą antydopingową oraz ustaleniem odpowiedzialności dyscyplinarnej za doping w sporcie, nie dłużej jednak niż przez okres 10 lat od dnia ich uzyskania.
+6. Dane osobowe zawodników, o których mowa w ust. 2 pkt 1, 2, 8, 13 i 18, Agencja może przechowywać przez okres dłuższy niż określony w ust. 5, jeżeli są one niezbędne dla ustalenia odpowiedzialności dyscyplinarnej za doping w sporcie.
+7. Nie rzadziej niż co 18 miesięcy Agencja dokonuje weryfikacji zgromadzonych danych osobowych zawodników, z wyjątkiem danych, o których mowa w ust. 6, które Agencja weryfikuje nie rzadziej niż co 10 lat.
+8. Z zastrzeżeniem ust. 6, po upływie terminu, o którym mowa w ust. 5, lub po przeprowadzeniu weryfikacji, o której mowa w ust. 7, zgromadzone dane osobowe zawodników lub dane takie uznane za zbędne podlegają protokolarnemu i komisyjnemu zniszczeniu, które zarządza Dyrektor Agencji.
+9. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), nie wpływa na realizację zadania, o którym mowa w ust. 1.
 
 ## Rozdział 4 — Gospodarka finansowa Agencji
 
