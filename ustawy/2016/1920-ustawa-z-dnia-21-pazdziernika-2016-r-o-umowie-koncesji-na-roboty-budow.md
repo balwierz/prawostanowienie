@@ -157,8 +157,11 @@
 **Art. 13.**
 1. Zamawiający udostępnia informacje związane z postępowaniem o zawarcie umowy koncesji w przypadkach określonych w ustawie. Po zakończeniu postępowania o zawarcie umowy koncesji albo po unieważnieniu tego postępowania informacje z nim związane podlegają udostępnieniu na zasadach określonych w przepisach o dostępie do informacji publicznej.
 2. Zamawiający udostępnia wykonawcom biorącym udział w postępowaniu o zawarcie umowy koncesji dokumentację postępowania inną niż dokumenty koncesji od dnia przekazania informacji o wyborze najkorzystniejszej oferty, o której mowa w art. 38 ust. 1 pkt 1, albo o unieważnieniu postępowania o zawarcie umowy koncesji.
+2a. Zamawiający udostępnia dane osobowe, o których mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, w celu umożliwienia korzystania ze środków ochrony prawnej, o których mowa w rozdziale 10, do upływu terminu na ich wniesienie.
 3. Nie ujawnia się informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli wykonawca zastrzegł, że nie mogą być one udostępniane, oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa, z wyjątkiem informacji podawanych do publicznej wiadomości w ogłoszeniu o koncesji lub przekazywanych wykonawcom na podstawie ustawy.
 4. Zamawiający może nakładać na wykonawców wymogi mające na celu ochronę poufnego charakteru informacji, które udostępnia w toku postępowania o zawarcie umowy koncesji.
+
+**Art. 13a.** Zamawiający przechowuje dokumentację postępowania, w tym umowę koncesji, przez okres 5 lat od dnia zakończenia postępowania o zawarcie umowy koncesji, w sposób gwarantujący jej nienaruszalność. Jeżeli czas trwania umowy koncesji przekracza 5 lat, zamawiający przechowuje umowę przez cały czas jej trwania.
 
 **Art. 14.**
 1. W postępowaniu o zawarcie umowy koncesji komunikacja, w tym przekazywanie wniosków o dopuszczenie do udziału w tym postępowaniu, ofert, oświadczeń i zawiadomień, z wyjątkiem przypadków, o których mowa w art. 18 i art. 22, odbywa się zgodnie z wyborem zamawiającego, w formie pisemnej lub w postaci elektronicznej.
@@ -171,6 +174,13 @@
 **Art. 16.**
 1. Do czynności podejmowanych przez zamawiającego oraz odpowiednio wykonawcę i koncesjonariusza w postępowaniu o zawarcie umowy koncesji oraz do umów koncesji stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz. U. z 2016 r. poz. 380, 585 i 1579), jeżeli przepisy ustawy nie stanowią inaczej.
 2. Jeżeli koniec terminu do wykonania czynności przypada na sobotę lub dzień ustawowo wolny od pracy, termin upływa dnia następnego po dniu lub dniach wolnych od pracy.
+
+**Art. 16a.**
+1. Zamawiający realizuje obowiązki, o których mowa w art. 13 ust. 1-3 rozporządzenia 2016/679, przez zamieszczenie wymaganych informacji w ogłoszeniu o koncesji, wstępnym ogłoszeniu informacyjnym, zaproszeniu do ubiegania się o zawarcie umowy koncesji, w dokumentach koncesji lub przy pierwszej czynności skierowanej do wykonawcy.
+2. W przypadku gdy w postępowaniu o zawarcie umowy koncesji albo po jego zakończeniu wykonanie obowiązków, o których mowa w art. 15 ust. 1-3 rozporządzenia 2016/679, wymagałoby niewspółmiernie dużego wysiłku, zamawiający może żądać od osoby, której dane dotyczą, wskazania dodatkowych informacji mających na celu sprecyzowanie żądania, w szczególności nazwy lub daty postępowania o zawarcie umowy koncesji.
+3. Skorzystanie przez osobę, której dane dotyczą, z uprawnienia do sprostowania lub uzupełnienia, o którym mowa w art. 16 rozporządzenia 2016/679, nie może skutkować zmianą wyniku postępowania o zawarcie umowy koncesji ani zmianą postanowień umowy koncesji w zakresie niezgodnym z ustawą oraz naruszeniem integralności przechowywanej dokumentacji postępowania.
+4. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia 2016/679, nie ogranicza przetwarzania danych osobowych do czasu zakończenia postępowania o zawarcie umowy koncesji.
+5. Zamawiający informuje o ograniczeniach stosowania przepisów rozporządzenia 2016/679, o których mowa w ust. 2 i 4, na stronie internetowej prowadzonego postępowania, w ogłoszeniu o koncesji, wstępnym ogłoszeniu informacyjnym, zaproszeniu do ubiegania się o zawarcie umowy koncesji, w dokumentach koncesji lub w inny sposób dostępny dla osoby, której dane dotyczą.
 
 ## Rozdział 4 — Ogłoszenia i inne dokumenty koncesji
 
@@ -188,6 +198,10 @@
 4. Zamawiający przekazuje ogłoszenia Urzędowi Publikacji Unii Europejskiej zgodnie z formatem i procedurami elektronicznego przesyłania ogłoszeń wskazanymi na stronie internetowej, o której mowa w ust. 2 załącznika IX do dyrektywy 2014/23/UE, jeżeli szacunkowa wartość umowy koncesji jest równa lub przekracza kwotę określoną w przepisach wydanych na podstawie ust. 2.
 5. Zamawiający zamieszcza ogłoszenia w Biuletynie Zamówień Publicznych za pomocą formularzy umieszczonych na stronie internetowej Urzędu Zamówień Publicznych.
 6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzory ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych, mając na względzie zakres wymaganych ustawą informacji, które musi zawierać treść ogłoszenia, oraz wartość umowy koncesji.
+
+**Art. 18a.**
+1. W przypadku danych osobowych zamieszczonych przez zamawiającego w Biuletynie Zamówień Publicznych prawa, o których mowa w art. 15 i art. 16 rozporządzenia 2016/679, są wykonywane w drodze żądania skierowanego do zamawiającego.
+2. Prezes Urzędu Zamówień Publicznych zapewnia techniczne utrzymanie systemu teleinformatycznego, przy użyciu którego udostępniany jest Biuletyn Zamówień Publicznych, oraz określa okres przechowywania danych osobowych zamieszczanych w Biuletynie Zamówień Publicznych.
 
 **Art. 19.**
 1. Zamawiający może, po publikacji ogłoszenia o koncesji w sposób, o którym mowa w art. 18 ust. 1, albo po upływie 48 godzin od potwierdzenia otrzymania tego ogłoszenia przez Urząd Publikacji Unii Europejskiej, zamieścić dodatkowo ogłoszenie o koncesji w inny sposób, w szczególności w prasie o zasięgu ogólnopolskim.
@@ -267,6 +281,11 @@
   1) sposób dokumentowania zatrudnienia osób, o których mowa w ust. 6;
   2) uprawnienia zamawiającego w zakresie kontroli spełniania przez koncesjonariusza wymagań, o których mowa w ust. 6, oraz sankcji z tytułu niespełnienia tych wymagań;
   3) rodzaje czynności niezbędnych do realizacji umowy koncesji, których dotyczą wymagania zatrudnienia przez koncesjonariusza lub podwykonawcę na podstawie umowy o pracę osób wykonujących wskazane czynności w zakresie realizacji umowy.
+8. Sposób dokumentowania zatrudnienia oraz uprawnienia zamawiającego, o których mowa w ust. 7 pkt 1 i 2, uwzględniają możliwość żądania przez zamawiającego:
+  1) oświadczenia koncesjonariusza lub podwykonawcy o zatrudnieniu pracownika na podstawie umowy o pracę,
+  2) poświadczonej za zgodność z oryginałem kopii umowy o pracę zatrudnionego pracownika,
+  3) innych dokumentów
+- zawierających informacje, w tym dane osobowe, niezbędne do weryfikacji zatrudnienia na podstawie umowy o pracę, w szczególności: imię i nazwisko zatrudnionego pracownika, datę zawarcia umowy o pracę, rodzaj umowy o pracę, zakres obowiązków pracownika.
 
 **Art. 27.** Zamawiający może określić w opisie przedmiotu umowy koncesji wymagania związane z realizacją umowy koncesji, które mogą obejmować aspekty gospodarcze, środowiskowe, społeczne, związane z innowacyjnością lub zatrudnieniem.
 
@@ -288,6 +307,7 @@
 4. Zamawiający informuje wykonawców biorących udział w postępowaniu o zawarcie umowy koncesji o zmianach dotyczących informacji zawartych w opisie postępowania o zawarcie umowy koncesji, a w przypadku gdy zmiany dotyczą informacji zawartych w ogłoszeniu o koncesji, zamawiający zmienia w tym zakresie treść tego ogłoszenia.
 5. Zamawiający może ograniczyć liczbę wykonawców, których zaprosi do udziału w postępowaniu o zawarcie umowy koncesji, o ile dokona tego w oparciu o obiektywne i niedyskryminacyjne kryteria oraz liczba wykonawców, których zamierza zaprosić, zapewni konkurencję.
 6. Zamawiający dokumentuje przebieg postępowania o zawarcie umowy koncesji w wybrany przez siebie sposób.
+7. Zamawiający przetwarza dane osobowe zebrane w toku oraz po zakończeniu postępowania o zawarcie umowy koncesji w sposób gwarantujący ich zabezpieczenie przed ich bezprawnym rozpowszechnianiem.
 
 **Art. 30.**
 1. Osoby wykonujące czynności w postępowaniu o zawarcie umowy koncesji po stronie zamawiającego podlegają wyłączeniu, jeżeli ich bezstronność lub niezależność w związku z tym postępowaniem jest lub może być zagrożona, z uwagi na posiadanie bezpośredniego lub pośredniego interesu finansowego, ekonomicznego lub osobistego w określonym rozstrzygnięciu tego postępowania, w szczególności jeżeli:
@@ -299,6 +319,7 @@
 3. Oświadczenie o zaistnieniu okoliczności, o których mowa w ust. 1, składa się niezwłocznie po powzięciu wiadomości o tych okolicznościach, a oświadczenie o ich braku - nie później niż przed zawarciem umowy koncesji.
 4. Osoby, o których mowa w ust. 1, podlegają wyłączeniu przez zamawiającego na ich wniosek, wniosek wykonawcy lub z urzędu. Wniosek składa się niezwłocznie po powzięciu wiadomości o istnieniu tych okoliczności.
 5. Czynności w postępowaniu o zawarcie umowy koncesji podjęte przez osobę podlegającą wyłączeniu powtarza się, z wyjątkiem otwarcia ofert oraz innych czynności faktycznych niewpływających na wynik tego postępowania.
+6. Do przetwarzania danych osobowych, o których mowa w art. 10 rozporządzenia 2016/679, mogą być dopuszczone wyłącznie osoby posiadające pisemne upoważnienie. Osoby dopuszczone do przetwarzania takich danych są obowiązane do zachowania ich w poufności.
 
 **Art. 31.**
 1. Zamawiający ustala termin składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji, uwzględniając w szczególności złożoność umowy koncesji oraz czas wymagany do sporządzenia wniosku o dopuszczenie do udziału w tym postępowaniu lub oferty.
