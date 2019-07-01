@@ -676,9 +676,12 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 81.**
 1. Czas pełnienia służby funkcjonariusza jest określony wymiarem jego obowiązków, z uwzględnieniem prawa do wypoczynku.
-2. Czas pełnienia służby funkcjonariusza wynosi 40 godzin tygodniowo w przyjętym okresie rozliczeniowym, nieprzekraczającym 6 miesięcy.
+2. Czas pełnienia służby funkcjonariusza wynosi 40 godzin tygodniowo w przyjętym okresie rozliczeniowym, od dnia 1 stycznia do dnia 30 czerwca danego roku oraz od dnia 1 lipca do dnia 31 grudnia danego roku.
+2a. Przedłużenie czasu służby funkcjonariusza ponad normę określoną w ust. 2 nie może spowodować przekroczenia przeciętnego 48-godzinnego tygodniowego wymiaru czasu służby w przyjętym okresie rozliczeniowym.
 3. Przepisu ust. 2 nie stosuje się do funkcjonariuszy skierowanych na szkolenie w systemie skoszarowanym, przebywających w podróży służbowej albo pełniących dyżury domowe.
-4. W zamian za czas służby przekraczający normę określoną w ust. 2 funkcjonariuszowi przysługuje czas wolny od służby w tym samym wymiarze.
+4. W zamian za czas służby przekraczający normę określoną w ust. 2 funkcjonariuszowi przysługuje:
+  1) w okresie rozliczeniowym czas wolny od służby w tym samym wymiarze albo
+  2) po zakończeniu okresu rozliczeniowego rekompensata pieniężna, o ile w terminie 10 dni od zakończenia okresu rozliczeniowego nie wystąpi z wnioskiem o udzielenie czasu wolnego od służby w tym samym wymiarze.
 5. Przepisu ust. 4 nie stosuje się do funkcjonariusza na stanowisku kierowniczym.
 6. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, rozkład czasu służby oraz tryb udzielania czasu wolnego w zamian za służbę w wymiarze przekraczającym 40 godzin tygodniowo, wskazując:
   1) rodzaj i organizację służby, sposób pełnienia dyżurów domowych oraz właściwość przełożonych do określenia harmonogramu służby;
@@ -1383,7 +1386,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   2) świadczenia związane z wykonywaniem zadań, o których mowa w art. 4 ust. 8;
   3) należności związane ze zwolnieniem ze służby;
   4) nagroda jubileuszowa;
-  5) nagroda roczna.
+  5) nagroda roczna;
+  6) rekompensata pieniężna za czas służby przekraczający normę, o której mowa w art. 81 ust. 2.
 2. W przypadku śmierci funkcjonariusza lub członka jego rodziny przysługują:
   1) zasiłek pogrzebowy;
   2) odprawa pośmiertna.
@@ -1395,6 +1399,11 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   5) zwrot innych uzasadnionych kosztów określonych przez przełożonego.
 4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wysokość i tryb przyznawania należności, o których mowa w ust. 1 pkt 1, w tym sposób ich wypłaty, oraz świadczenia, o których mowa w ust. 1 pkt 2, uwzględniając charakter zadań funkcjonariusza odbywającego podróż służbową lub delegowanego do czasowego pełnienia służby w innej miejscowości albo wykonującego zadania, o których mowa w art. 4 pkt 8, oraz zróżnicowanie kosztów utrzymania.
 
+**Art. 172a.**
+1. Rekompensata pieniężna, o której mowa w art. 172 ust. 1 pkt 6, za jedną godzinę służby stanowi 1/172 uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego funkcjonariuszowi na stanowisku zajmowanym w ostatnim dniu okresu rozliczeniowego, o którym mowa w art. 81 ust. 2, lub ostatnim dniu służby za każdą godzinę służby przekraczającą normę, o której mowa w art. 81 ust. 2. Łączny czas służby przekraczający normę w danym okresie rozliczeniowym zaokrągla się w górę do pełnej godziny.
+2. Należną rekompensatę pieniężną, o której mowa w art. 172 ust. 1 pkt 6, wypłaca się do końca kwartału następującego po okresie rozliczeniowym, lecz nie później niż do dnia zwolnienia ze służby.
+3. Rekompensatę pieniężną, o której mowa w art. 172 ust. 1 pkt 6, należną zmarłemu lub zaginionemu funkcjonariuszowi wypłaca się jego małżonkowi lub członkom rodziny uprawnionym do policyjnej renty rodzinnej. Wypłata rekompensaty pieniężnej następuje niezwłocznie po stwierdzeniu wygaśnięcia stosunku służbowego.
+
 **Art. 173.**
 1. Funkcjonariuszowi mogą być przyznawane nagrody uznaniowe i zapomogi.
 2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, wysokość i sposób przyznawania nagród uznaniowych i zapomóg funkcjonariuszom, mając na względzie zapewnienie adekwatności nagród i zapomóg do zasług oraz sytuacji funkcjonariuszy.
@@ -1403,10 +1412,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 **Art. 174.**
 1. Funkcjonariuszowi za służbę pełnioną w danym roku kalendarzowym przysługuje nagroda roczna w wysokości 1/12 uposażenia otrzymanego w roku kalendarzowym, za który nagroda przysługuje.
 2. Nagrodę roczną wypłaca się w I kwartale roku kalendarzowego następującego po roku, za który przysługuje nagroda.
-3. Nagroda roczna przysługuje funkcjonariuszowi:
-  1) mianowanemu do służby w trakcie poprzedniego roku kalendarzowego, jeżeli pełnił służbę w roku mianowania przez okres co najmniej 3 miesięcy kalendarzowych,
-  2) zwolnionemu ze służby w terminie do końca maja danego roku kalendarzowego
-- w wysokości proporcjonalnej do liczby rozpoczętych miesięcy służby w danym roku.
+2a. Funkcjonariuszowi zwolnionemu ze służby nagrodę roczną wypłaca się w terminie 14 dni od dnia zwolnienia.
+3. Nagroda roczna przysługuje funkcjonariuszowi mianowanemu do służby w trakcie poprzedniego roku kalendarzowego, jeżeli pełnił służbę w roku mianowania przez okres co najmniej 3 miesięcy kalendarzowych, w wysokości proporcjonalnej do liczby rozpoczętych miesięcy służby w danym roku.
 4. Przepisu ust. 3 nie stosuje się przy ustalaniu uprawnień do nagrody rocznej za rok kalendarzowy, w którym funkcjonariusz korzystał:
   1) z urlopu wychowawczego, urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu na warunkach urlopu macierzyńskiego;
   2) ze zwolnienia od wykonywania zajęć służbowych z przyczyn, o których mowa w art. 186 § 2 lub art. 188 Kodeksu pracy;
@@ -1417,6 +1424,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   2) został w ostatnim roku kalendarzowym zwolniony ze służby z powodu skazania prawomocnym wyrokiem sądu za przestępstwo nieumyślne ścigane z oskarżenia publicznego albo wskutek otrzymania niedostatecznej ogólnej oceny w opinii służbowej;
   3) został ukarany prawomocnym orzeczeniem kary dyscyplinarnej ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku, wyznaczenia na niższe stanowisko służbowe, obniżenia stopnia, ostrzeżenia o niepełnej przydatności do służby albo wydalenia ze służby.
 6. Nagrodę roczną przysługującą zmarłemu lub zaginionemu funkcjonariuszowi wypłaca się małżonkowi lub członkom rodziny uprawnionym do policyjnej renty rodzinnej.
+ Wypłata nagrody rocznej następuje niezwłocznie po stwierdzeniu wygaśnięcia stosunku służbowego.
 7. Nagrodę roczną przyznaje funkcjonariuszowi Komendant SOP.
 8. Minister właściwy do spraw wewnętrznych przyznaje nagrodę roczną Komendantowi SOP i jego zastępcom.
 
@@ -1691,7 +1699,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 5. Środki finansowe uzyskane z tytułu zmniejszenia uposażeń funkcjonariuszy w okresie przebywania na zwolnieniu lekarskim przeznacza się w całości na nagrody za wykonywanie zadań służbowych w zastępstwie funkcjonariuszy przebywających na zwolnieniach lekarskich.
 6. Rozdział środków finansowych, o których mowa w ust. 5, odbywa się po zakończeniu okresu rozliczeniowego trwającego nie krócej niż miesiąc kalendarzowy i nie dłużej niż 3 miesiące kalendarzowe, przy czym wybór okresu rozliczeniowego uzależnia się od wielkości środków finansowych uzyskanych z tytułu zmniejszenia uposażeń funkcjonariuszy.
 
-**Art. 200.** Zmniejszenia wysokości uposażenia zasadniczego wraz z dodatkami o charakterze stałym za okres przebywania na zwolnieniu lekarskim nie uwzględnia się przy ustalaniu podstawy wymiaru należności, o których mowa w art. 172 ust. 1 pkt 1-4 i ust. 2 oraz art. 173.
+**Art. 200.** Zmniejszenia wysokości uposażenia zasadniczego wraz z dodatkami o charakterze stałym za okres przebywania na zwolnieniu lekarskim nie uwzględnia się przy ustalaniu podstawy wymiaru należności, o których mowa w art. 172 ust. 1 pkt 1-4 i 6 i ust. 2 oraz art. 173.
 
 **Art. 201.**
 1. Komendant SOP sporządza roczne zestawienie zbiorcze przyczyn przebywania funkcjonariuszy na zwolnieniach lekarskich, które przekazuje ministrowi właściwemu do spraw wewnętrznych w terminie do końca marca następnego roku.
