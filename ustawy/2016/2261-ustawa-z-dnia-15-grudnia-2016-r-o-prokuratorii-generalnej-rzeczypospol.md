@@ -170,11 +170,25 @@
 2. W przypadku sporu między innymi niż Skarb Państwa państwowymi osobami prawnymi, osobami prawnymi z udziałem Skarbu Państwa lub państwowych osób prawnych, każda z nich może wystąpić do Sądu Polubownego z wnioskiem o:
   1) rozstrzygnięcie sporu;
   2) przeprowadzenie mediacji lub inne polubowne rozwiązanie sporu.
+2a. Mediacja i inne polubowne formy rozwiązania sporu mogą być prowadzone również w przypadku sporów, w których jedną ze stron jest Skarb Państwa, jednostka samorządu terytorialnego, podmiot, o którym mowa w ust. 1, lub spółka kapitałowa z udziałem tych podmiotów.
+2b. Sąd Polubowny może prowadzić również mediacje w postępowaniu administracyjnym, w którym jedną ze stron jest organ administracji publicznej lub podmiot, o którym mowa w ust. 2a.
 3. Postępowanie prowadzi się za zgodą drugiej strony lub na podstawie zapisu na sąd polubowny.
 4. Sędziowie i mediatorzy są uprawnieni do wynagrodzenia za podejmowane czynności pokrywane z opłaty, o której mowa w ust. 5. Wysokość i termin wypłaty wynagrodzenia określa umowa cywilnoprawna zawarta na zasadach określonych w regulaminie Sądu i postępowania przed Sądem Polubownym, zwanym dalej „regulaminem Sądu”.
 5. Wnioskodawcy wnoszą opłaty za przeprowadzenie postępowania oraz ponoszą wydatki na wynagrodzenie i zwrot kosztów poniesionych przez biegłych, tłumaczy oraz koszty przeprowadzenia innych dowodów w postępowaniu przed Sądem Polubownym. Wysokość opłaty ustalana jest w stosunku do wartości przedmiotu sprawy i nie może być wyższa niż 100 000 zł.
 6. Obsługę Sądu Polubownego zapewnia Urząd Prokuratorii Generalnej.
 7. Prezes Prokuratorii Generalnej określi, w drodze zarządzenia, regulamin Sądu.
+
+**Art. 26a.**
+1. W przypadku wystąpienia do Prezesa Prokuratorii Generalnej o rozstrzygnięcie sporu, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2018 r. poz. 2363 oraz z 2019 r. poz. 1309), Prezes Prokuratorii Generalnej powołuje Komisję Rozjemczą przy Sądzie Polubownym złożoną z pięciu członków.
+2. W skład Komisji Rozjemczej przy Sądzie Polubownym wchodzi przedstawiciel:
+  1) Prezesa Rady Ministrów;
+  2) ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
+  3) ministra nadzorującego jednostkę będącą w sporze z Krajowym Zasobem Nieruchomości;
+  4) wojewody właściwego dla miejsca położenia spornej nieruchomości;
+  5) Prezesa Prokuratorii Generalnej.
+3. Funkcję przewodniczącego Komisji Rozjemczej przy Sądzie Polubownym pełni przedstawiciel Prezesa Rady Ministrów, a w razie jego nieobecności przedstawiciel wojewody właściwego dla miejsca położenia spornej nieruchomości. Funkcję sekretarza Komisji Rozjemczej przy Sądzie Polubownym pełni przedstawiciel Prezesa Prokuratorii Generalnej.
+4. Komisja Rozjemcza przy Sądzie Polubownym rozstrzyga sprawę przekazania nieruchomości do Krajowego Zasobu Nieruchomości lub wyłączenia nieruchomości z Krajowego Zasobu Nieruchomości zwykłą większością głosów, w głosowaniu jawnym, w obecności co najmniej czterech członków, w tym przewodniczącego. W razie równej liczby głosów rozstrzyga głos przewodniczącego. Komisja może przeprowadzać głosowanie w trybie obiegowym lub przy wykorzystaniu środków porozumiewania się na odległość. Szczegółową organizację i tryb pracy Komisji Rozjemczej przy Sądzie Polubownym określa jej regulamin nadany przez Prezesa Prokuratorii Generalnej.
+5. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób i tryb uiszczania oraz wysokość opłaty za przeprowadzenie postępowania przez Komisję Rozjemczą przy Sądzie Polubownym, mając na względzie koszty postępowania oraz zapewnienie obiektywnego i sprawnego rozstrzygnięcia sprawy.
 
 **Art. 27.** Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób i tryb uiszczania oraz wysokość:
 1) opłat, o których mowa w art. 26 ust. 5, mając na względzie rodzaj i wartość przedmiotu sprawy, jak również jej zawiłość;
