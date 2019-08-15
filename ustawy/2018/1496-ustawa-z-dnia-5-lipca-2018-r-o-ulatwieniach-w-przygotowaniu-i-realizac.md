@@ -180,10 +180,8 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
   3) zgodnie z zapotrzebowaniem, dostęp do sieci elektroenergetycznej.
 2. Inwestycję mieszkaniową lokalizuje się:
   1) w odległości nie większej niż 1000 m, a w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców - 500 m, od przystanku komunikacyjnego w rozumieniu przepisów ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2017 r. poz. 2136 i 2371 oraz z 2018 r. poz. 317, 650 i 907);
-  2) w odległości nie większej niż 3000 m, a w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców - 1500 m, od:
-    a) szkoły podstawowej, która jest w stanie przyjąć nowych uczniów w liczbie dzieci stanowiącej nie mniej niż 7% planowanej liczby mieszkańców inwestycji mieszkaniowej,
-    b) przedszkola, które jest w stanie zapewnić wychowanie przedszkolne dzieciom w liczbie stanowiącej nie mniej niż 3,5% planowanej liczby mieszkańców inwestycji mieszkaniowej.
-3. Spełnienie warunków, o których mowa w ust. 2 pkt 2, w zakresie możliwości przyjęcia nowych uczniów w szkole podstawowej lub zapewnienia wychowania przedszkolnego dzieciom ocenia się na podstawie zaświadczenia wójta (burmistrza, prezydenta miasta).
+  2) w odległości nie większej niż 3000 m, a w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców - 1500 m od szkoły podstawowej, która jest w stanie przyjąć nowych uczniów w liczbie dzieci stanowiącej nie mniej niż 7% planowanej liczby mieszkańców inwestycji mieszkaniowej.
+3. Spełnienie warunków, o których mowa w ust. 2 pkt 2, w zakresie możliwości przyjęcia nowych uczniów w szkole podstawowej ocenia się na podstawie zaświadczenia wójta (burmistrza, prezydenta miasta).
 4. Inwestycję mieszkaniową wielorodzinną lokalizuje się na terenie zapewniającym dostęp do urządzonych terenów wypoczynku oraz rekreacji lub sportu o powierzchni stanowiącej co najmniej iloczyn planowanej liczby mieszkańców oraz wskaźnika wynoszącego 4 m2. Zapewnienie dostępu następuje poprzez lokalizację w odległości nie większej niż 3000 m, a w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców, 1500 m.
 5. Wymogi, o których mowa w ust. 1, 2 i 4, można spełnić zarówno w oparciu o infrastrukturę istniejącą w dniu składania wniosku o ustalenie lokalizacji inwestycji mieszkaniowej, jak i w oparciu o infrastrukturę planowaną do realizacji.
 6. Budynki objęte inwestycją mieszkaniową:
@@ -195,16 +193,13 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
 10. Odległości, o których mowa w ust. 2 i 4, ustala się, licząc od granicy terenu inwestycji mieszkaniowej drogą dojścia do obiektu ciągiem pieszym albo pieszo-jezdnym, do którego ma być zapewniony dostęp, w tym obiektu położonego na terenie inwestycji.
 11. Odległości ustala się w odniesieniu do obiektów położonych w gminie, w której będzie realizowana inwestycja.
 
-**Art. 18.**
-1. Jeżeli inwestycja mieszkaniowa zlokalizowana jest w odległości niespełniającej wymogu, o którym mowa w art. 17 ust. 2 pkt 2 lit. a lub b, wymóg ten uważa się za spełniony, jeżeli inwestor zobowiąże się, za zgodą rady gminy wyrażoną w formie uchwały, do przekazania na rzecz gminy kwoty odpowiadającej 5-letnim kosztom zapewnienia transportu i opieki w czasie przewozu dziecka, o których mowa odpowiednio w art. 32 ust. 5 lub w art. 39 ust. 3 pkt 1 ustawy z dnia 14 grudnia 2016 r. - Prawo oświatowe (Dz. U. z 2018 r. poz. 996, 1000 i 1290).
-2. Zobowiązanie inwestora, o którym mowa w ust. 1, zamieszcza się w umowie z gminą, zawieranej w formie aktu notarialnego.
-3. Jeżeli wymóg, o którym mowa w art. 17 ust. 2 pkt 2 lit. a lub b, zostanie spełniony przed upływem 5 lat od dnia oddania inwestycji mieszkaniowej do użytkowania, zobowiązanie, o którym mowa w ust. 1, wygasa od dnia spełnienia wymogu, o którym mowa w art. 17 ust. 2 pkt 2 lit. a lub b. Inwestorowi przysługuje roszczenie o zwrot niewykorzystanej kwoty przekazanej z góry za ten okres.
+**Art. 18.** (uchylony)
 
 **Art. 19.**
 1. Standardy, o których mowa w art. 17 ust. 2, 4, 6 i 7, obowiązują, o ile gmina nie określi w drodze uchwały lokalnych standardów urbanistycznych w zakresie parametrów określonych w ust. 2.
 2. Lokalne standardy urbanistyczne:
   1) w zakresie odległości lub liczby kondygnacji nie mogą różnić się o więcej niż 50% od standardów, o których mowa w art. 17 ust. 2, 4, 6 i 7;
-  2) nie mogą różnić się o więcej niż 50% w zakresie wskaźników procentowych, o których mowa w art. 17 ust. 2 pkt 2 lit. a lub b.
+  2) nie mogą różnić się o więcej niż 50% w zakresie wskaźnika procentowego, o którym mowa w art. 17 ust. 2 pkt 2.
 3. W lokalnych standardach urbanistycznych, o których mowa w ust. 1, rada gminy może określić liczbę miejsc parkingowych niezbędnych dla obsługi realizowanej inwestycji mieszkaniowej lub obowiązek zapewnienia dostępu do sieci ciepłowniczej na zasadach wynikających z przepisów ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2018 r. poz. 755, 650, 685, 771, 1000 i 1356).
 4. Uchwała o ustaleniu lokalnych standardów urbanistycznych stanowi akt prawa miejscowego.
 
