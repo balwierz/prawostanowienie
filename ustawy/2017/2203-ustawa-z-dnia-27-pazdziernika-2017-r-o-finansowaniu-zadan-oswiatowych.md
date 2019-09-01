@@ -895,11 +895,11 @@
   b) ust. 3 otrzymuje brzmienie:
 20) w art. 30:
   a) w ust. 1:
-    – pkt 2 otrzymuje brzmienie:
+    – (uchylony)
     – pkt 4 otrzymuje brzmienie:
   b) ust. 7 otrzymuje brzmienie:
-  c) ust. 8 otrzymuje brzmienie:
-21) po art. 33 dodaje się art. 33a w brzmieniu:
+  c) (uchylony)
+21) (uchylony)
 22) w art. 42:
   a) w ust. 3 w tabeli dodaje się lp. 12 w brzmieniu:
   b) po ust. 5b dodaje się ust. 5c w brzmieniu:
@@ -1405,13 +1405,7 @@
 
 **Art. 132.** Do rozwiązania stosunku pracy z nauczycielami zatrudnionymi na podstawie umowy o pracę na czas nieokreślony, którzy w dniu 1 stycznia 2018 r. są czasowo niezdolni do pracy z powodu choroby, a okres tej niezdolności przekracza 182 dni, stosuje się przepisy dotychczasowe.
 
-**Art. 133.**
-1. Dodatek za wyróżniającą pracę w wysokości określonej w art. 33a ust. 1 ustawy zmienianej w art. 76, w brzmieniu nadanym niniejszą ustawą, po raz pierwszy przysługuje od dnia 1 września 2022 r.
-2. W okresie od dnia 1 września 2020 r. do dnia 31 sierpnia 2022 r. dodatek za wyróżniającą pracę dla nauczyciela dyplomowanego zatrudnionego w pełnym wymiarze zajęć ustala się w wysokości:
-  1) od dnia 1 września 2020 r. do dnia 31 sierpnia 2021 r. - 3%,
-  2) od dnia 1 września 2021 r. do dnia 31 sierpnia 2022 r. - 6%
-- kwoty bazowej, określanej dla nauczycieli corocznie w ustawie budżetowej.
-3. (uchylony)
+**Art. 133.** (uchylony)
 
 **Art. 134.** W przypadku szkół przekazanych przed dniem 1 stycznia 2018 r. do prowadzenia osobie prawnej niebędącej jednostką samorządu terytorialnego oraz osobie fizycznej na podstawie art. 5 ust. 5g ustawy zmienianej w art. 80, w brzmieniu obowiązującym przed dniem 1 września 2017 r., lub art. 9 ust. 1 ustawy zmienianej w art. 86, organ wykonawczy jednostki samorządu terytorialnego, która przekazała szkołę, w terminie trzech miesięcy od dnia wejścia w życie niniejszej ustawy, jest obowiązany wskazać inną szkołę prowadzoną przez tę jednostkę, w której będzie naliczany odpis na zakładowy fundusz świadczeń socjalnych na każdego nauczyciela będącego emerytem lub rencistą z przekazanej szkoły oraz nauczyciela pobierającego nauczycielskie świadczenie kompensacyjne, którego szkoła była ostatnim miejscem pracy. Osoby te korzystają z usług i świadczeń finansowanych z zakładowego funduszu świadczeń socjalnych na zasadach i warunkach ustalonych w regulaminie obowiązującym we wskazanej szkole.
 
@@ -1447,4 +1441,4 @@
 2) art. 54-69, art. 80 pkt 2, 4-10 i pkt 16 w zakresie art. 85b, art. 85, art. 86 pkt 8, art. 87 pkt 11-13 i art. 112-120, które wchodzą w życie z dniem 1 kwietnia 2018 r.;
 3) art. 76 pkt 1-14, pkt 17 lit. b, pkt 22, 23, pkt 28 w zakresie art. 61, pkt 37 lit. a w zakresie art. 91b ust. 2 pkt 1 i 2 oraz lit. b i c, pkt 38 lit. b, art. 83 pkt 4 i pkt 11 lit. a tiret drugie, art. 86 pkt 4 oraz art. 144, które wchodzą w życie z dniem 1 września 2018 r.;
 4) art. 35 ust. 4 i 5, art. 70, art. 76 pkt 33 i pkt 37 lit. a w zakresie art. 91b ust. 2 pkt 3 i 4, art. 80 pkt 17 w zakresie art. 90r i art. 81 w zakresie art. 28 ust. 6 pkt 6, które wchodzą w życie z dniem 1 stycznia 2019 r.;
-5) art. 76 pkt 20 lit. a tiret pierwsze, lit. c i pkt 21, które wchodzą w życie z dniem 1 września 2020 r.
+5) (uchylony)
