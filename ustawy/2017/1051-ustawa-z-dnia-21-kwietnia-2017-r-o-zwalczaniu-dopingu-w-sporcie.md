@@ -198,7 +198,7 @@
 1. Kontrolę antydopingową przeprowadzają kontrolerzy.
 2. Kontrolerem może być osoba, która:
   1) ukończyła 18 lat;
-  2) posiada co najmniej wykształcenie średnie;
+  2) posiada co najmniej wykształcenie średnie lub średnie branżowe;
   3) ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
   4) ma nieposzlakowaną opinię;
   5) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
