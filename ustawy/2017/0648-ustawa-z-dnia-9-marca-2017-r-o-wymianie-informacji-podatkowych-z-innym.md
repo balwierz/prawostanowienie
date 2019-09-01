@@ -474,6 +474,7 @@
 
 **Art. 43.**
 1. Na żądanie raportującej instytucji finansowej posiadacz rachunku oraz osoba kontrolująca są obowiązani składać oświadczenia o rezydencji podatkowej oraz przedstawiać dokumenty wymagane na podstawie procedur należytej staranności.
+ Oświadczenia o rezydencji podatkowej są składane pod rygorem odpowiedzialności karnej za składania fałszywych oświadczeń i zawierają klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 2. Występując z żądaniem złożenia oświadczenia o rezydencji podatkowej, raportująca instytucja finansowa może dokonać wstępnego wypełnienia tego oświadczenia na podstawie posiadanych przez nią informacji lub informacji uzyskanych od posiadacza rachunku, w tym w toku procedury założenia rachunku finansowego, z wyłączeniem informacji o państwie rezydencji.
 3. Zakres informacji przedstawianych w oświadczeniu o rezydencji podatkowej obejmuje:
   1) w przypadku posiadacza rachunku będącego osobą fizyczną:
