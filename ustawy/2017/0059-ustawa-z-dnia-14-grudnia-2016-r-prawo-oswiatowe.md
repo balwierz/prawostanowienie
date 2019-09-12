@@ -1033,6 +1033,7 @@
 5. Zebrania rady pedagogicznej są organizowane przed rozpoczęciem roku szkolnego, w każdym okresie (semestrze) w związku z klasyfikowaniem i promowaniem uczniów, po zakończeniu rocznych zajęć dydaktyczno-wychowawczych oraz w miarę bieżących potrzeb. Zebrania mogą być organizowane na wniosek organu sprawującego nadzór pedagogiczny, z inicjatywy dyrektora szkoły lub placówki, rady szkoły lub placówki, organu prowadzącego szkołę lub placówkę albo co najmniej 1/3 członków rady pedagogicznej.
 6. Przewodniczący prowadzi i przygotowuje zebrania rady pedagogicznej oraz jest odpowiedzialny za zawiadomienie wszystkich jej członków o terminie i porządku zebrania zgodnie z regulaminem rady.
 7. Dyrektor szkoły lub placówki przedstawia radzie pedagogicznej, nie rzadziej niż dwa razy w roku szkolnym, ogólne wnioski wynikające ze sprawowanego nadzoru pedagogicznego oraz informacje o działalności szkoły.
+8. Na wniosek dyrektora szkoły pielęgniarka środowiska nauczania i wychowania albo higienistka szkolna przedstawia na posiedzeniach rady pedagogicznej zagadnienia z zakresu edukacji zdrowotnej i promocji zdrowia uczniów, z zachowaniem w tajemnicy informacji o stanie zdrowia uczniów.
 
 **Art. 70.**
 1. Do kompetencji stanowiących rady pedagogicznej należy:
@@ -1145,6 +1146,7 @@
 
 **Art. 83.**
 1. W szkołach i placówkach, z zastrzeżeniem ust. 6, działają rady rodziców, które reprezentują ogół rodziców uczniów.
+1a. W zebraniach rady rodziców może uczestniczyć pielęgniarka środowiska nauczania i wychowania albo higienistka szkolna w celu omówienia zagadnień z zakresu edukacji zdrowotnej i promocji zdrowia uczniów, z zachowaniem w tajemnicy informacji o stanie zdrowia uczniów.
 2. W skład rad rodziców wchodzą:
   1) w szkołach - po jednym przedstawicielu rad oddziałowych, wybranych w tajnych wyborach przez zebranie rodziców uczniów danego oddziału;
   2) w placówkach - co najmniej 7 przedstawicieli, wybranych w tajnych wyborach przez zebranie rodziców wychowanków danej placówki;
