@@ -18,6 +18,7 @@
 13) upowszechnianie wśród dzieci i młodzieży wiedzy i umiejętności niezbędnych do aktywnego uczestnictwa w kulturze i sztuce narodowej i światowej;
 14) utrzymywanie bezpiecznych i higienicznych warunków nauki, wychowania i opieki w szkołach i placówkach;
 15) upowszechnianie wśród dzieci i młodzieży wiedzy o zasadach zrównoważonego rozwoju oraz kształtowanie postaw sprzyjających jego wdrażaniu w skali lokalnej, krajowej i globalnej;
+15a) upowszechnianie wśród dzieci i młodzieży wiedzy o zasadach racjonalnego odżywiania oraz przeciwdziałaniu marnowaniu żywności;
 16) opiekę uczniom pozostającym w trudnej sytuacji materialnej i życiowej;
 17) dostosowywanie kierunków i treści kształcenia do wymogów rynku pracy;
 18) kształtowanie u uczniów postaw przedsiębiorczości i kreatywności sprzyjających aktywnemu uczestnictwu w życiu gospodarczym, w tym poprzez stosowanie w procesie kształcenia innowacyjnych rozwiązań programowych, organizacyjnych lub metodycznych;
