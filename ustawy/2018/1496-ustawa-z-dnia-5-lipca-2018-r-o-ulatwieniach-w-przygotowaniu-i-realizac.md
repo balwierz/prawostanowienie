@@ -398,7 +398,7 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
 
 **Art. 57.** Do postępowań w sprawie wymierzenia kary za zwłokę w wydaniu decyzji o ustaleniu lokalizacji inwestycji celu publicznego, wszczętych i niezakończonych ostatecznym postanowieniem do dnia wejścia w życie niniejszej ustawy, stosuje się przepis art. 51 ust. 2d ustawy zmienianej w art. 49 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 58.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 ustawy wymienionej w art. 44 w brzmieniu dotychczasowym zachowują moc nie dłużej jednak niż przez 36 miesięcy od dnia wejścia w życie niniejszej ustawy i mogą być w tym czasie zmieniane.
+**Art. 58.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 ustawy wymienionej w art. 44 w brzmieniu dotychczasowym zachowują moc i mogą być zmieniane.
 
 **Art. 59.** Ustawa traci moc z dniem 31 grudnia 2028 r.
 
