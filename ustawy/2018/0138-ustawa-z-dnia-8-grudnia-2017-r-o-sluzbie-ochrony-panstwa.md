@@ -1281,6 +1281,12 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 2. Komendant SOP w przypadkach uzasadnionych ważnym interesem służby lub na wniosek funkcjonariusza może w każdym czasie odwołać funkcjonariusza z urlopu, o którym mowa w ust. 1.
 3. Kolejnego urlopu bezpłatnego można udzielić nie wcześniej niż po upływie 6 miesięcy od zakończenia poprzedniego urlopu.
 
+**Art. 158a.**
+1. Funkcjonariuszowi posiadającemu status weterana poszkodowanego przysługuje prawo do corocznego płatnego dodatkowego urlopu wypoczynkowego w wymiarze 5 dni roboczych.
+2. Prawo do urlopu, o którym mowa w ust. 1, nie przysługuje funkcjonariuszowi posiadającemu status weterana poszkodowanego uprawnionemu do urlopu wypoczynkowego w wymiarze przekraczającym 26 dni roboczych.
+3. Prawo do pierwszego urlopu, o którym mowa w ust. 1, powstaje z dniem, w którym decyzja administracyjna o przyznaniu statusu weterana poszkodowanego stała się ostateczna, przy czym realizacja tego prawa może nastąpić nie wcześniej niż z dniem przedstawienia przez funkcjonariusza tej decyzji Komendantowi SOP.
+4. Urlop, o którym mowa w ust. 1, wykorzystuje się w całości w roku kalendarzowym, w którym funkcjonariusz ma do niego prawo, w terminie uzgodnionym z przełożonym funkcjonariusza.
+
 **Art. 159.**
 1. Funkcjonariuszowi, który wzorowo wykonuje obowiązki, przejawia inicjatywę w służbie lub doskonali kwalifikacje zawodowe, mogą być udzielane następujące wyróżnienia:
   1) pochwała;
@@ -1574,7 +1580,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 **Art. 188.**
 1. Funkcjonariuszowi zwolnionemu ze służby, niezależnie od odprawy, przysługują następujące należności pieniężne:
   1) uposażenie zasadnicze wraz z dodatkami o charakterze stałym, w wysokości średniej tych dodatków z ostatnich 12 miesięcy, należne na ostatnio zajmowanym stanowisku służbowym, co miesiąc przez okres roku po zwolnieniu ze służby;
-  2) ekwiwalent pieniężny za urlop wypoczynkowy niewykorzystany w roku zwolnienia ze służby oraz za urlopy zaległe.
+  2) ekwiwalent pieniężny za urlop wypoczynkowy niewykorzystany w roku zwolnienia ze służby oraz za urlopy zaległe z wyjątkiem urlopu, o którym mowa w art. 158a ust. 1.
 2. Należności, o których mowa w ust. 1 pkt 1, oraz przypadający za rok, w którym następuje zwolnienie ze służby, zryczałtowany ekwiwalent pieniężny, o którym mowa w ust. 1 pkt 2, nie przysługują funkcjonariuszowi zwolnionemu ze służby z przyczyn, o których mowa w art. 107 ust. 1 pkt 4 i 5 oraz w ust. 2 pkt 2.
 3. Uposażenie, o którym mowa w ust. 1 pkt 1, nie przysługuje także funkcjonariuszowi, który został zwolniony ze służby w okresie przygotowawczym.
 4. W przypadku zbiegu uprawnień do uposażenia, o którym mowa w ust. 1 pkt 1, i zaopatrzenia emerytalnego funkcjonariuszowi przysługuje, według jego wyboru, tylko jedna z tych należności.
