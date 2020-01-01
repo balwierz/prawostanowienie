@@ -1866,7 +1866,7 @@
 
 **Art. 137.**
 1. Do klasy I publicznej szkoły podstawowej sportowej, publicznej szkoły podstawowej mistrzostwa sportowego, oddziału sportowego w publicznej szkole podstawowej ogólnodostępnej lub oddziału mistrzostwa sportowego w publicznej szkole podstawowej ogólnodostępnej lub do klasy wyższej niż I w tych szkołach, w przypadku gdy szkolenie w danym sporcie rozpoczyna się w tej klasie, przyjmuje się kandydatów, którzy:
-  1) posiadają bardzo dobry stan zdrowia, potwierdzony orzeczeniem lekarskim wydanym przez lekarza podstawowej opieki zdrowotnej;
+  1) posiadają stan zdrowia umożliwiający podjęcie nauki w szkole lub oddziale, potwierdzony orzeczeniem lekarskim wydanym przez lekarza podstawowej opieki zdrowotnej;
   2) posiadają pisemną zgodę rodziców na uczęszczanie kandydata do szkoły lub oddziału;
   3) uzyskali pozytywne wyniki prób sprawności fizycznej, na warunkach ustalonych przez polski związek sportowy właściwy dla danego sportu, w którym jest prowadzone szkolenie sportowe w danej szkole lub danym oddziale.
 2. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w szkole i oddziale, o których mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę wyniki prób sprawności fizycznej, o których mowa w ust. 1 pkt 3.
@@ -2035,7 +2035,7 @@
     f) w przypadku szkoły prowadzącej kształcenie zawodowe - zaświadczenie lekarskie zawierające orzeczenie o braku przeciwwskazań zdrowotnych do podjęcia praktycznej nauki zawodu, wydane zgodnie z przepisami wydanymi na podstawie art. 6 ust. 5 ustawy z dnia 27 czerwca 1997 r. o służbie medycyny pracy,
     fa) fa) w przypadku szkoły prowadzącej kształcenie w zawodzie lub kwalifikacyjnego kursu zawodowego, w zakresie kwalifikacji wyodrębnionej w zawodzie, dla którego podstawa programowa kształcenia w zawodzie szkolnictwa branżowego przewiduje przygotowanie do uzyskania umiejętności kierowania pojazdem silnikowym w zakresie prawa jazdy kategorii C lub C+E - orzeczenie psychologiczne o braku przeciwwskazań psychologicznych do kierowania pojazdem, o którym mowa w art. 84 ust. 1 ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami,
     g) opinię wydaną przez publiczną poradnię psychologiczno-pedagogiczną, w tym publiczną poradnię specjalistyczną, w sprawie pierwszeństwa w przyjęciu ucznia z problemami zdrowotnymi do szkoły ponadpodstawowej,
-    h) orzeczenie lekarskie o bardzo dobrym stanie zdrowia wydane przez lekarza podstawowej opieki zdrowotnej,
+    h) orzeczenie lekarskie o stanie zdrowia umożliwiającym podjęcie nauki w szkole lub oddziale wydane przez lekarza podstawowej opieki zdrowotnej,
     i) pisemną zgodę rodziców, o której mowa w art. 137 ust. 1 pkt 2 i art. 143 ust. 1 pkt 3,
     j) (uchylony)
 3. Dokumenty, o których mowa w ust. 2 pkt 1 lit. b-d oraz pkt 4 lit. a, b i d-h, są składane w oryginale, notarialnie poświadczonej kopii albo w postaci urzędowo poświadczonego zgodnie z art. 76a § 1 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego odpisu lub wyciągu z dokumentu.
