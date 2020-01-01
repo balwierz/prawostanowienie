@@ -1165,7 +1165,7 @@
 1. Ustala się następujący maksymalny limit wydatków z budżetu państwa przeznaczonych na dotację celową na dofinansowanie jednostek samorządu terytorialnego w zakresie wychowania przedszkolnego uczniów objętych wychowaniem przedszkolnym do końca roku szkolnego w roku kalendarzowym, w którym kończą 6 lat:
   1) w 2018 r. - 1404 mln zł;
   2) w 2019 r. - 1426 mln zł;
-  3) w 2020 r. - 1483 mln zł;
+  3) w 2020 r. - 1489 mln zł;
   4) w 2021 r. - 1534 mln zł;
   5) w 2022 r. - 1610 mln zł;
   6) w 2023 r. - 1671 mln zł;
