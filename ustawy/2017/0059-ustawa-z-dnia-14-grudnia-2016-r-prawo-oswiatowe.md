@@ -32,7 +32,7 @@
 1) przedszkola, w tym: specjalne, integracyjne, z oddziałami specjalnymi lub integracyjnymi, a także inne formy wychowania przedszkolnego;
 2) szkoły:
   a) podstawowe, w tym: specjalne, integracyjne, z oddziałami przedszkolnymi, integracyjnymi, specjalnymi, przysposabiającymi do pracy, dwujęzycznymi, sportowymi i mistrzostwa sportowego, sportowe i mistrzostwa sportowego,
-  b) ponadpodstawowe, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami integracyjnymi, specjalnymi, dwujęzycznymi, sportowymi i mistrzostwa sportowego, sportowe, mistrzostwa sportowego, rolnicze, leśne, morskie, żeglugi śródlądowej oraz rybołówstwa,
+  b) ponadpodstawowe, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami integracyjnymi, specjalnymi, dwujęzycznymi, przygotowania wojskowego, sportowymi i mistrzostwa sportowego, sportowe, mistrzostwa sportowego, rolnicze, leśne, morskie, żeglugi śródlądowej oraz rybołówstwa,
   c) artystyczne;
 3) placówki oświatowo-wychowawcze, w tym szkolne schroniska młodzieżowe, umożliwiające rozwijanie zainteresowań i uzdolnień oraz korzystanie z różnych form wypoczynku i organizacji czasu wolnego;
 4) placówki kształcenia ustawicznego oraz centra kształcenia zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych;
@@ -58,6 +58,7 @@
   b) szkołę lub oddział zorganizowane w podmiocie leczniczym, o którym mowa w przepisach o działalności leczniczej, oraz w jednostce pomocy społecznej, w celu kształcenia dzieci i młodzieży przebywających w tym podmiocie lub jednostce, w których stosuje się odpowiednią organizację kształcenia oraz specjalne działania opiekuńczo-wychowawcze, zorganizowane zgodnie z przepisami wydanymi na podstawie art. 128 ust. 3;
 3) oddziale integracyjnym - należy przez to rozumieć oddział szkolny, w którym uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego uczą się i wychowują razem z pozostałymi uczniami, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2;
 4) oddziale dwujęzycznym - należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone w dwóch językach: polskim oraz obcym nowożytnym będącym drugim językiem nauczania, przy czym prowadzone w dwóch językach są co najmniej dwa zajęcia edukacyjne, z wyjątkiem zajęć obejmujących język polski, część historii dotyczącą historii Polski i część geografii dotyczącą geografii Polski, w tym co najmniej jedne zajęcia edukacyjne wybrane spośród zajęć obejmujących: biologię, chemię, fizykę, część geografii odnoszącą się do geografii ogólnej, część historii odnoszącą się do historii powszechnej lub matematykę;
+4a) oddziale przygotowania wojskowego - należy przez to rozumieć oddział szkolny, w którym nauczanie jest zorganizowane zgodnie z przepisami wydanymi na podstawie art. 18 ust. 6;
 5) szkole integracyjnej - należy przez to rozumieć szkołę, w której wszystkie oddziały są oddziałami integracyjnymi;
 6) szkole dwujęzycznej - należy przez to rozumieć szkołę, w której wszystkie oddziały są oddziałami dwujęzycznymi;
 7) szkole rolniczej - należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach dla rolnictwa, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
@@ -296,6 +297,10 @@
 5. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia:
   1) warunki tworzenia, organizacji oraz działania oddziałów i szkół sportowych oraz oddziałów i szkół mistrzostwa sportowego, uwzględniając umożliwienie uczniom godzenia zajęć sportowych z nauką, w szczególności poprzez odpowiednią organizację zajęć dydaktycznych;
   2) warunki realizacji w oddziałach i szkołach sportowych oraz oddziałach i szkołach mistrzostwa sportowego zajęć sportowych obejmujących szkolenie sportowe w oparciu o programy szkolenia opracowane przez polskie związki sportowe.
+6. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+  1) program szkolenia realizowany w oddziale przygotowania wojskowego, mając na uwadze przygotowanie do podjęcia służby wojskowej, rozwijanie umiejętności przydatnych w służbie wojskowej oraz kształtowanie postaw patriotycznych i obronnych wśród uczniów;
+  2) organizację i formy zajęć realizowanych w ramach programu szkolenia, o którym mowa w pkt 1, uwzględniając minimalną liczbę zajęć teoretycznych i praktycznych, miejsce realizacji tych zajęć oraz liczebność oddziału;
+  3) warunki realizacji zajęć praktycznych, o których mowa w pkt 2, uwzględniając bezpieczeństwo uczniów, potrzebę zapewnienia niezakłóconego funkcjonowania jednostek wojskowych oraz możliwość realizacji części zajęć praktycznych przez instruktorów organizacji proobronnych, w celu nabycia przez uczniów praktycznych umiejętności wojskowych.
 
 **Art. 19.**
 1. W ostatniej klasie szkoły podstawowej przeprowadza się egzamin ósmoklasisty.
@@ -409,9 +414,36 @@
 2. Szkoły są obowiązane do prowadzenia zajęć wychowania fizycznego dla uczniów kształcących się w tych szkołach w formie dziennej, z wyjątkiem szkół artystycznych realizujących wyłącznie kształcenie artystyczne. Obowiązkowy wymiar zajęć wychowania fizycznego dla uczniów klas IV-VIII szkół podstawowych wynosi 4 godziny lekcyjne, a dla uczniów szkół ponadpodstawowych - 3 godziny lekcyjne, w ciągu tygodnia.
 3. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, dopuszczalne formy realizacji obowiązkowych zajęć wychowania fizycznego, mając w szczególności na względzie potrzeby zdrowotne uczniów, specyfikę ich zainteresowań sportowych, warunki realizacji zajęć wychowania fizycznego oraz tradycje sportowe danego środowiska lub szkoły.
 
+**Art. 28a.**
+1. W szkołach publicznych i niepublicznych, o których mowa w art. 18 ust. 1 pkt 2 lit. a i b, z wyjątkiem szkół artystycznych, mogą być tworzone oddziały przygotowania wojskowego.
+2. Utworzenie oddziału przygotowania wojskowego wymaga zezwolenia Ministra Obrony Narodowej, udzielonego w drodze decyzji administracyjnej.
+3. Utworzenie oddziału przygotowania wojskowego nie może naruszać uprawnień ucznia do uzyskania wiadomości i umiejętności niezbędnych do ukończenia danego typu szkoły oraz warunków i sposobu przeprowadzania egzaminów, określonych w odrębnych przepisach, a w przypadku szkół publicznych nie może również naruszać uprawnień ucznia do bezpłatnej nauki, wychowania i opieki w zakresie ustalonym w niniejszej ustawie, ustawie o systemie oświaty oraz ustawie o finansowaniu zadań oświatowych.
+4. Warunkiem udzielenia zezwolenia jest:
+  1) zapewnienie warunków i odpowiednio wykwalifikowanej kadry do prowadzenia szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6;
+  2) występowanie potrzeb rekrutacyjnych Sił Zbrojnych Rzeczypospolitej Polskiej w danym regionie;
+  3) możliwość zapewnienia wsparcia w prowadzeniu zajęć praktycznych, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6;
+  4) pozytywna ocena dotychczasowej współpracy szkoły z jednostkami wojskowymi.
+5. Wniosek o zezwolenie na utworzenie oddziału przygotowania wojskowego składa organ prowadzący szkołę, w której ma zostać utworzony ten oddział, w terminie do dnia 31 marca roku szkolnego poprzedzającego rok szkolny, w którym oddział przygotowania wojskowego ma rozpocząć działalność.
+6. Wniosek, o którym mowa w ust. 5, określa:
+  1) organizację kształcenia w oddziale przygotowania wojskowego w sposób umożliwiający uczniom godzenie zajęć z zakresu programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, z realizacją obowiązkowych zajęć dydaktycznych;
+  2) datę rozpoczęcia funkcjonowania oddziału.
+7. Do wniosku, o którym mowa w ust. 5, dołącza się:
+  1) opinię rady pedagogicznej;
+  2) zobowiązanie organu prowadzącego szkołę do ponoszenia kosztów kształcenia w oddziale przygotowania wojskowego przekraczających wydatki bieżące ponoszone na jednego ucznia w pozostałych oddziałach szkoły.
+8. Minister Obrony Narodowej udziela zezwolenia na prowadzenie oddziału przygotowania wojskowego po zasięgnięciu opinii właściwego:
+  1) kuratora oświaty, zawierającej ocenę możliwości organizacyjnych i kadrowych pozwalających na realizowanie w szkole programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, w sposób umożliwiający uczniom godzenie realizacji tego programu z realizacją obowiązkowych zajęć dydaktycznych, oraz ocenę spełniania przez szkołę warunków, o których mowa w ust. 3;
+  2) szefa Wojewódzkiego Sztabu Wojskowego, zawierającej ocenę potrzeb prowadzenia przygotowania wojskowego w danym regionie, dotychczasowej współpracy szkoły z jednostkami wojskowymi oraz ocenę spełniania przez szkołę warunków, o których mowa w ust. 4, i jej przygotowanie do realizacji programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6.
+9. W zezwoleniu, o którym mowa w ust. 8, Minister Obrony Narodowej wskazuje jednostkę wojskową odpowiedzialną za prowadzenie zajęć praktycznych dla uczniów oddziału przygotowania wojskowego.
+10. Minister Obrony Narodowej może cofnąć zezwolenie na utworzenie oddziału przygotowania wojskowego w przypadku:
+  1) stwierdzenia przez kuratora oświaty, że działalność oddziału przygotowania wojskowego jest sprzeczna z warunkiem, o którym mowa w ust. 3, lub realizacja programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, przebiega w sposób uniemożliwiający realizację obowiązkowych zajęć dydaktycznych;
+  2) niewykonywania przez organ prowadzący szkołę zobowiązania, o którym mowa w ust. 7 pkt 2;
+  3) negatywnej oceny szefa Wojewódzkiego Sztabu Wojskowego w zakresie realizacji programu oraz współpracy z jednostkami wojskowymi, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6, lub w zakresie spełniania przez szkołę warunków, o których mowa w ust. 4.
+11. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału przygotowania wojskowego. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia.
+12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na prowadzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa.
+
 **Art. 29.**
 1. W przypadku szkół i placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego, określone w:
-  1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 1a, 2, 3 i 7 oraz art. 93 ust. 1 - wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;
+  1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 28a ust. 5, ust. 7 pkt 2 i ust. 9 pkt 2, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 2, 3 i 7 oraz art. 93 ust. 1 - wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;
   2) art. 10 ust. 1 pkt 1-5 i 7, art. 62 ust. 2, art. 63 ust. 1, 12-14, 18 i 20, art. 66 ust. 1, art. 68 ust. 7 i 9, art. 91 ust. 8 oraz art. 128 ust. 1 - wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa;
   3) art. 10 ust. 1 pkt 6, art. 15 ust. 6, art. 56 ust. 2, art. 57, art. 64 ust. 1, art. 65 ust. 1, art. 68 ust. 8, art. 71 ust. 2 i 3, art. 88 ust. 4, art. 89 ust. 6 i 7, art. 106 ust. 3, 5 i 6, art. 107 ust. 6, 8, 9 i 9a, art. 110 ust. 3, art. 117 ust. 8 oraz art. 127 ust. 6 i 17 - wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
 2. W przypadku przedszkoli, szkół i placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje określone w:
@@ -781,7 +813,7 @@
 
 **Art. 51.**
 1. Kurator oświaty, w imieniu wojewody, wykonuje zadania i kompetencje w zakresie oświaty określone w ustawie i przepisach odrębnych na obszarze województwa, a w szczególności:
-  1) sprawuje nadzór pedagogiczny nad publicznymi i niepublicznymi przedszkolami, innymi formami wychowania przedszkolnego, szkołami, placówkami oraz kolegiami pracowników służb społecznych, które znajdują się na obszarze danego województwa;
+  1) sprawuje nadzór pedagogiczny nad publicznymi i niepublicznymi przedszkolami, innymi formami wychowania przedszkolnego, szkołami, placówkami oraz kolegiami pracowników służb społecznych, które znajdują się na obszarze danego województwa, z zastrzeżeniem art. 53 ust. 2a;
   2) wydaje decyzje administracyjne w sprawach określonych w ustawie;
   3) współdziała z radami oświatowymi powołanymi na podstawie art. 78;
   4) wykonuje zadania organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579 i 2138) w stosunku do:
@@ -826,6 +858,7 @@
   1) tryb i formy badania jakości kształcenia artystycznego w niepublicznych szkołach artystycznych nieposiadających uprawnień publicznej szkoły artystycznej lub placówkach artystycznych oraz skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego;
   2) przypadki, w których komisję przeprowadzającą badanie jakości kształcenia artystycznego może powołać dyrektor szkoły artystycznej.
 2. Minister właściwy do spraw rolnictwa sprawuje nadzór pedagogiczny nad publicznymi szkołami rolniczymi, placówkami rolniczymi oraz placówkami doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, przez siebie prowadzonymi, minister właściwy do spraw środowiska - nad publicznymi szkołami leśnymi przez siebie prowadzonymi, a minister właściwy do spraw zdrowia - nad publiczną placówką doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym. W tym celu, a także w celu realizacji zadań, o których mowa w art. 10 ust. 1, w odniesieniu do szkół i placówek przez siebie prowadzonych odpowiednio minister właściwy do spraw rolnictwa, minister właściwy do spraw środowiska lub minister właściwy do spraw zdrowia mogą, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, w drodze rozporządzenia, utworzyć specjalistyczną jednostkę nadzoru oraz określić jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego.
+2a. Minister Obrony Narodowej sprawuje nadzór pedagogiczny nad realizacją szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6, w szkołach ponadpodstawowych prowadzących oddziały przygotowania wojskowego.
 3. Specjalistyczne jednostki nadzoru, o których mowa w ust. 1 i 2, są państwowymi jednostkami budżetowymi finansowanymi odpowiednio z budżetu ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, ministra właściwego do spraw rolnictwa, ministra właściwego do spraw środowiska lub ministra właściwego do spraw zdrowia.
 4. Przepisy ust. 1 i 2 nie naruszają uprawnień kuratora oświaty w zakresie nadzoru pedagogicznego nad nauczaniem przedmiotów ogólnokształcących w szkołach artystycznych, a także nad nauczaniem przedmiotów ogólnokształcących w szkołach rolniczych i w szkołach leśnych prowadzonych przez odpowiednio ministra właściwego do spraw rolnictwa lub ministra właściwego do spraw środowiska.
 5. W odniesieniu do publicznych szkół i placówek artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania wydaje przepisy, o których mowa w art. 47 ust. 1 pkt 6 i 7.
@@ -1326,7 +1359,7 @@
   3) nazwę i siedzibę organu prowadzącego szkołę;
   4) cele i zadania szkoły wynikające z przepisów prawa oraz sposób ich wykonywania, w tym w zakresie udzielania pomocy psychologiczno-pedagogicznej, organizowania opieki nad dziećmi niepełnosprawnymi, umożliwiania uczniom podtrzymywania poczucia tożsamości narodowej, etnicznej, językowej i religijnej, z uwzględnieniem zasad bezpieczeństwa oraz zasad promocji i ochrony zdrowia;
   5) organy szkoły oraz ich szczegółowe kompetencje, a także szczegółowe warunki współdziałania organów szkoły oraz sposób rozwiązywania sporów między nimi;
-  6) organizację pracy szkoły, w tym organizację oddziałów sportowych, mistrzostwa sportowego, dwujęzycznych, integracyjnych, specjalnych i klas wstępnych, o których mowa w art. 25 ust. 3, z uwzględnieniem organizacji nauczania i oceniania w tych klasach, oraz organizację nauczania języka mniejszości narodowych, mniejszości etnicznych lub języka regionalnego, jeżeli szkoła takie oddziały lub nauczanie prowadzi, organizację wczesnego wspomagania rozwoju dzieci, jeżeli szkoła takie wspomaganie prowadzi, a także zajęć rewalidacyjno-wychowawczych, jeśli szkoła takie zajęcia prowadzi;
+  6) organizację pracy szkoły, w tym organizację oddziałów sportowych, mistrzostwa sportowego, dwujęzycznych, przygotowania wojskowego, integracyjnych, specjalnych i klas wstępnych, o których mowa w art. 25 ust. 3, z uwzględnieniem organizacji nauczania i oceniania w tych klasach, oraz organizację nauczania języka mniejszości narodowych, mniejszości etnicznych lub języka regionalnego, jeżeli szkoła takie oddziały lub nauczanie prowadzi, organizację wczesnego wspomagania rozwoju dzieci, jeżeli szkoła takie wspomaganie prowadzi, a także zajęć rewalidacyjno-wychowawczych, jeśli szkoła takie zajęcia prowadzi;
   7) zakres zadań nauczycieli, w tym nauczyciela wychowawcy i nauczyciela bibliotekarza, oraz innych pracowników szkoły, w tym także zadania związane z zapewnieniem bezpieczeństwa uczniom w czasie zajęć organizowanych przez szkołę, a także sposób i formy wykonywania tych zadań dostosowane do wieku i potrzeb uczniów oraz warunków środowiskowych szkoły;
   8) szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów, o którym mowa w art. 44b ustawy o systemie oświaty;
   9) nazwę zawodu lub zawodów, w których kształci szkoła - w przypadku szkoły prowadzącej kształcenie zawodowe;
@@ -1961,12 +1994,12 @@
 12. Do postępowania rekrutacyjnego do publicznych szkół i publicznych placówek artystycznych przepisy art. 149, art. 150 i art. 156-161 stosuje się odpowiednio.
 
 **Art. 143.**
-1. Do klasy I publicznej szkoły ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. a, prowadzonej przez Ministra Obrony Narodowej przyjmuje się kandydatów, którzy:
+1. Do klasy I publicznej szkoły ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. a, prowadzonej przez Ministra Obrony Narodowej, albo oddziału przygotowania wojskowego w publicznej szkole ponadpodstawowej przyjmuje się kandydatów, którzy:
   1) spełniają warunki, o których mowa w art. 134 ust. 1;
   2) posiadają bardzo dobry stan zdrowia, potwierdzony orzeczeniem lekarskim wydanym przez lekarza podstawowej opieki zdrowotnej;
   3) posiadają pisemną zgodę rodziców na uczęszczanie kandydata do szkoły;
   4) uzyskali pozytywne wyniki prób sprawności fizycznej przeprowadzonych na warunkach ustalonych przez radę pedagogiczną.
-2. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w szkole, o której mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę wyniki prób sprawności fizycznej, o których mowa w ust. 1 pkt 4.
+2. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w szkole albo oddziale, o których mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę wyniki prób sprawności fizycznej, o których mowa w ust. 1 pkt 4.
 3. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie odpowiednio następujące kryteria:
   1) wyniki egzaminu ósmoklasisty;
   2) wymienione na świadectwie ukończenia szkoły podstawowej oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
@@ -2308,7 +2341,7 @@
   5) prawa i obowiązki pracowników oraz uczniów szkoły lub placówki, w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły lub placówki, a także tryb składania skarg w przypadku naruszenia praw uczniów;
   6) sposób uzyskiwania środków finansowych na działalność szkoły lub placówki;
   7) zasady przyjmowania uczniów do szkoły lub placówki - z tym że statut uwzględnia warunki, o których mowa w:
-    a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1 i art. 150 ust. 2 pkt 4 lit. e-fd - w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej i mistrzostwa sportowego,
+    a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1, art. 143 ust. 1 i 2 oraz art. 150 ust. 2 pkt 4 lit. e-fc - w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej, mistrzostwa sportowego i z oddziałami przygotowania wojskowego,
     b) art. 141 ust. 1, 6 i 7 - w przypadku szkół dla dorosłych;
   8) w przypadku niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej - także zasady przeprowadzania sprawdzianu uzdolnień, predyspozycji lub praktycznych umiejętności niezbędnych do podjęcia kształcenia w danej szkole artystycznej, danym zawodzie, specjalności lub specjalizacji, o którym mowa w art. 14 ust. 4 pkt 3;
   9) w przypadku ośrodków, o których mowa w art. 2 pkt 7 - wysokość opłat wnoszonych przez wychowanka ośrodka za pobyt i wyżywienie, termin i sposób wnoszenia tych opłat, jeżeli ośrodek pobiera opłaty.
