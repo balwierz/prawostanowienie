@@ -203,11 +203,16 @@
   1) uległy zmianie dane zawarte we wniosku o udzielenie promesy;
   2) wnioskodawca nie spełnił warunków określonych w promesie;
   3) wystąpiły okoliczności, o których mowa w art. 22 ust. 1 pkt 1 i ust. 2.
-5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia koncesji na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej (Dz. U. poz. 1629) albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli osoba ta przedłoży pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie jej tej koncesji, chyba że:
+5. W przypadku śmierci przedsiębiorcy, w okresie ważności promesy nie można odmówić udzielenia koncesji na wykonywanie działalności gospodarczej określonej w promesie właścicielowi przedsiębiorstwa w spadku w rozumieniu art. 3 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. poz. 1629) albo, jeżeli przedsiębiorca był wspólnikiem spółki cywilnej, innemu wspólnikowi tej spółki, jeżeli osoba ta przedłoży pisemną zgodę właścicieli przedsiębiorstwa w spadku na udzielenie jej tej koncesji, chyba że:
   1) uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy;
   2) właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie koncesji, nie spełnił warunków określonych w promesie;
   3) właściciel przedsiębiorstwa w spadku albo wspólnik spółki cywilnej, który złożył wniosek o udzielenie koncesji, nie spełnił określonych w ustawie warunków wykonywania działalności gospodarczej określonej w koncesji;
   4) wystąpiły okoliczności, o których mowa w art. 22 ust. 1 pkt 1.
+6. W okresie ważności promesy nie można odmówić udzielenia koncesji na wykonywanie działalności gospodarczej określonej w promesie nabywcy przedsiębiorstwa w rozumieniu art. 45b ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, jeżeli przedłoży on pisemną zgodę przedsiębiorcy, któremu udzielono promesy oraz pozostałych nabywców przedsiębiorstwa na udzielenie mu tej koncesji, chyba że:
+  1) uległy zmianie dane zawarte we wniosku o udzielenie promesy inne niż dane osoby, która złożyła wniosek o udzielenie promesy;
+  2) nabywcy przedsiębiorstwa, który złożył wniosek o udzielenie koncesji, nie spełnił warunków określonych w promesie;
+  3) nabywcy przedsiębiorstwa, który złożył wniosek o udzielenie koncesji, nie spełnił określonych w ustawie warunków wykonywania działalności gospodarczej objętej koncesją;
+  4) jest to uzasadnione zagrożeniem obronności lub bezpieczeństwa państwa albo porządku publicznego.
 
 **Art. 20.** Za udzielenie koncesji lub jej zmianę oraz za udzielenie promesy lub jej zmianę pobiera się opłatę skarbową.
 
@@ -417,8 +422,8 @@
 
 **Art. 45.**
 1. Plastyczne materiały wybuchowe podlegają znakowaniu niezwłocznie po ich wytworzeniu.
-2. Znakowanie plastycznego materiału wybuchowego następuje przez równomierne rozmieszczenie w nim materiału znakującego, rozumianego jako jedna z substancji wymienionych w części 2. „Materiały znakujące” załącznika technicznego do Konwencji, o której mowa w art. 3 ust. 1 pkt 8 lit. c, dodanego w ilości wskazanej w tej części załącznika technicznego.
-3. Znakowaniu nie podlegają plastyczne materiały wybuchowe przechowywane lub stosowane w sposób określony w części 1 ust. II załącznika technicznego do Konwencji, o której mowa w art. 3 ust. 1 pkt 8 lit. c.
+2. Znakowanie plastycznego materiału wybuchowego następuje przez równomierne rozmieszczenie w nim materiału znakującego, rozumianego jako jedna z substancji wymienionych w części 2. „Materiały znakujące” załącznika technicznego do Konwencji, o której mowa w art. 3 ust. 1 pkt 9 lit. c, dodanego w ilości wskazanej w tej części załącznika technicznego.
+3. Znakowaniu nie podlegają plastyczne materiały wybuchowe przechowywane lub stosowane w sposób określony w części 1 ust. II załącznika technicznego do Konwencji, o której mowa w art. 3 ust. 1 pkt 9 lit. c.
 
 **Art. 46.** Podstawowe opakowanie jednostkowe amunicji do strzeleckiej broni palnej podlega oznakowaniu przez wytwórcę niezwłocznie po wytworzeniu. Oznakowanie obejmuje:
 1) nazwę wytwórcy;
