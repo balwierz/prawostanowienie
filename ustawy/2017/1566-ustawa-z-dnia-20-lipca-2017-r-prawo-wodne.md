@@ -4957,6 +4957,8 @@
   2) likwidacji urządzeń i robót wykonanych na podstawie zgłoszenia wodnoprawnego lub zaniechania korzystania z wód, prowadzonego na podstawie zgłoszenia wodnoprawnego - w przypadku gdy zaniechanie naruszenia interesów osób trzecich nie będzie możliwe przez wykonanie urządzeń zapobiegających szkodom.
 6. Nałożenie obowiązków, o których mowa w ust. 5, następuje w drodze decyzji, bez odszkodowania. W decyzji ustala się termin wykonania obowiązku.
 
+**Art. 424a.** W zakresie nieuregulowanym w niniejszym rozdziale do zgłoszeń wodnoprawnych stosuje się przepisy działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
 ### Rozdział 5 — Oceny wodnoprawne
 
 **Art. 425.**
