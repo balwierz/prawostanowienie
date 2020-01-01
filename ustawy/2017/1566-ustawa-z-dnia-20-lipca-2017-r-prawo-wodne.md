@@ -2717,15 +2717,7 @@
 2. Wody Polskie mogą otrzymywać dotacje celowe z budżetu państwa na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 3. Przychody, o których mowa w art. 255 pkt 1-9 oraz w pkt 10 lit. a, a także dotacje z budżetu państwa, o których mowa w ust. 2, nie mogą być wykorzystywane na potrzeby wykonywania przez Wody Polskie działalności gospodarczej.
 
-**Art. 257.**
-1. Finansowanie działalności służb państwowych, o których mowa w art. 367 i art. 368, odbywa się na podstawie umów zawieranych przez Wody Polskie z Instytutem Meteorologii i Gospodarki Wodnej - Państwowym Instytutem Badawczym oraz Państwowym Instytutem Geologicznym - Państwowym Instytutem Badawczym.
-2. Umowy, o których mowa w ust. 1, określają:
-  1) szczegółowy opis zadania, w tym cel, na jaki środki zostały przekazane, i termin jego wykonania;
-  2) wysokość przekazanych środków;
-  3) termin wykorzystania środków, nie dłuższy niż do dnia 31 grudnia danego roku budżetowego;
-  4) termin i sposób rozliczenia przekazanych środków;
-  5) termin zwrotu niewykorzystanej części środków, nie dłuższy niż 15 dni od określonego w umowie dnia wykonania zadania;
-  6) tryb kontroli wykonania zadania, przy czym w umowie można postanowić, że kontrola będzie prowadzona na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej.
+**Art. 257.** (uchylony)
 
 ### Rozdział 4 — Gospodarowanie mieniem Skarbu Państwa
 
@@ -4425,8 +4417,8 @@
 6. W szczególnie uzasadnionych przypadkach dyrektor Instytutu Meteorologii i Gospodarki Wodnej - Państwowego Instytutu Badawczego może ustalić indywidualny rozkład czasu pracy pracowników, o których mowa w ust. 1, w ramach normy czasu pracy, o której mowa w ust. 4.
 
 **Art. 385.**
-1. Służby państwowe są finansowane ze środków Wód Polskich.
-2. Ze środków Wód Polskich finansuje się:
+1. Służby państwowe są finansowane ze środków budżetu państwa.
+2. Ze środków budżetu państwa w części dotyczącej gospodarki wodnej będących w dyspozycji ministra właściwego do spraw gospodarki wodnej finansuje się, w formie dotacji celowej, na zasadach określonych w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych:
   1) utrzymywanie bieżącej działalności służb państwowych;
   2) utrzymywanie, odbudowę, rozbudowę, przebudowę i rozbiórkę podstawowej sieci pomiarowo-obserwacyjnej państwowej służby hydrologiczno-meteorologicznej oraz system gromadzenia, przetwarzania i wymiany danych;
   3) utrzymywanie, odbudowę, rozbudowę, przebudowę i rozbiórkę hydrogeologicznych urządzeń pomiarowych państwowej służby hydrogeologicznej;
