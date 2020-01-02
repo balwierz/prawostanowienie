@@ -2299,7 +2299,7 @@
   5) prawa i obowiązki pracowników oraz uczniów szkoły lub placówki, w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły lub placówki, a także tryb składania skarg w przypadku naruszenia praw uczniów;
   6) sposób uzyskiwania środków finansowych na działalność szkoły lub placówki;
   7) zasady przyjmowania uczniów do szkoły lub placówki - z tym że statut uwzględnia warunki, o których mowa w:
-    a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1 i art. 150 ust. 2 pkt 4 lit. e-fc - w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej i mistrzostwa sportowego,
+    a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1 i art. 150 ust. 2 pkt 4 lit. e-fd - w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej i mistrzostwa sportowego,
     b) art. 141 ust. 1, 6 i 7 - w przypadku szkół dla dorosłych;
   8) w przypadku niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej - także zasady przeprowadzania sprawdzianu uzdolnień, predyspozycji lub praktycznych umiejętności niezbędnych do podjęcia kształcenia w danej szkole artystycznej, danym zawodzie, specjalności lub specjalizacji, o którym mowa w art. 14 ust. 4 pkt 3;
   9) w przypadku ośrodków, o których mowa w art. 2 pkt 7 - wysokość opłat wnoszonych przez wychowanka ośrodka za pobyt i wyżywienie, termin i sposób wnoszenia tych opłat, jeżeli ośrodek pobiera opłaty.
