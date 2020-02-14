@@ -60,11 +60,19 @@
 § 2. Zgromadzenie Ogólne Sędziów Sądu Najwyższego wybiera kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego spośród sędziów Sądu Najwyższego w stanie czynnym, nie później niż na 6 tygodni przed upływem kadencji Pierwszego Prezesa Sądu Najwyższego albo w terminie 14 dni od dnia przejścia w stan spoczynku, przeniesienia w stan spoczynku albo wygaśnięcia stosunku służbowego sędziego Sądu Najwyższego albo zrzeczenia się stanowiska Pierwszego Prezesa Sądu Najwyższego.
 
 **Art. 13.**
-§ 1. Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego dokonującemu wyboru, o którym mowa w art. 12 § 2, przewodniczy Pierwszy Prezes Sądu Najwyższego, a w przypadku gdy nie jest to możliwe lub gdy zgłoszono jego kandydaturę - Prezes Sądu Najwyższego najstarszy służbą na stanowisku sędziego. Jeżeli na stanowisko Pierwszego Prezesa Sądu Najwyższego zgłoszono również kandydaturę Prezesa Sądu Najwyższego najstarszego służbą na stanowisku sędziego, Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego przewodniczy najstarszy służbą sędzia Sądu Najwyższego, którego kandydatura nie została zgłoszona.
-§ 2. Do podjęcia uchwały Zgromadzenia Ogólnego Sędziów Sądu Najwyższego w sprawie wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, wymagana jest obecność co najmniej 2/3 liczby sędziów każdej z izb. Jeżeli uchwały nie podjęto ze względu na brak wymaganego kworum, do podjęcia uchwały na kolejnym posiedzeniu wymagana jest obecność co najmniej 3/5 liczby sędziów Sądu Najwyższego.
-§ 3. Każdy sędzia uczestniczący w głosowaniu może oddać tylko jeden głos. Głosowanie jest tajne.
-§ 4. Kandydatami na stanowisko Pierwszego Prezesa Sądu Najwyższego wybranymi przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego są kandydaci, którzy uzyskali największą liczbę głosów. Jeżeli 2 lub więcej kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego uzyskało równą liczbę głosów, w wyniku czego nie jest możliwe wybranie 5 kandydatów, przeprowadza się ponowne głosowanie z udziałem tylko tych kandydatów. Przepis § 3 stosuje się.
-§ 5. Niezwłocznie po wybraniu kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, sędzia przewodniczący Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego albo inna osoba wskazana przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego przekazuje Prezydentowi Rzeczypospolitej Polskiej uchwałę, o której mowa w § 2, wraz z protokołem głosowania.
+§ 1. Każdy sędzia Sądu Najwyższego ma prawo zgłosić jednego kandydata na stanowisko Pierwszego Prezesa Sądu Najwyższego.
+§ 2. Zgłoszenia kandydata dokonuje się przewodniczącemu Zgromadzenia Ogólnego Sędziów Sądu Najwyższego dokonującemu wyboru, o którym mowa w art. 12 § 2, niezwłocznie po jego rozpoczęciu.
+§ 3. Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego dokonującemu wyboru, o którym mowa w art. 12 § 2, przewodniczy Pierwszy Prezes Sądu Najwyższego, a w przypadku, gdy nie jest to możliwe lub gdy zgłoszono jego kandydaturę - Sędzia Sądu Najwyższego, którego kandydatura nie została zgłoszona, wyznaczony przez Prezydenta Rzeczypospolitej Polskiej.
+§ 4. Do dokonania przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, wymagana jest obecność co najmniej 84 członków Zgromadzenia Ogólnego Sędziów Sądu Najwyższego. Jeżeli wyboru nie dokonano ze względu na brak wymaganego kworum, do dokonania wyboru na kolejnym posiedzeniu wymagana jest obecność co najmniej 75 członków Zgromadzenia Ogólnego Sędziów Sądu Najwyższego. Jeżeli także na tym posiedzeniu wyboru nie dokonano ze względu na brak wymaganego kworum, wybór może zostać dokonany na kolejnym posiedzeniu w przypadku obecności co najmniej 32 członków Zgromadzenia Ogólnego Sędziów Sądu Najwyższego. Posiedzenia, o których mowa w zdaniu drugim i trzecim, zwołuje się na dzień przypadający nie później niż w terminie 5 dni od daty odbycia poprzedniego posiedzenia.
+§ 5. Każdy sędzia uczestniczący w głosowaniu może oddać tylko jeden głos. Głosowanie jest tajne.
+§ 6. Kandydatami na stanowisko Pierwszego Prezesa Sądu Najwyższego wybranymi przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego są kandydaci, którzy uzyskali największą liczbę głosów. Jeżeli dwóch lub więcej kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego uzyskało równą liczbę głosów, w wyniku czego nie jest możliwe wybranie pięciu kandydatów, przeprowadza się ponowne głosowanie z udziałem tylko tych kandydatów. Przepis § 5 stosuje się.
+§ 7. Niezwłocznie po wybraniu kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego, przewodniczący Zgromadzenia Ogólnego Sędziów Sądu Najwyższego albo inna osoba wskazana przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego przekazuje Prezydentowi Rzeczypospolitej Polskiej listę kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego wybranych przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego, wraz z protokołem głosowania.
+§ 8. Po przekazaniu Prezydentowi Rzeczypospolitej Polskiej listy kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego wybranych przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego, wraz z protokołem głosowania, nie jest dopuszczalne zwołanie Zgromadzenia Ogólnego Sędziów Sądu Najwyższego w celu wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego.
+
+**Art. 13a.**
+§ 1. Jeżeli kandydaci na stanowisko Pierwszego Prezesa Sądu Najwyższego nie zostali wybrani zgodnie z zasadami określonymi w ustawie, Prezydent Rzeczypospolitej Polskiej niezwłocznie powierza wykonywanie obowiązków Pierwszego Prezesa Sądu Najwyższego wskazanemu przez siebie sędziemu Sądu Najwyższego.
+§ 2. W terminie tygodnia od dnia powierzenia wykonywania obowiązków Pierwszego Prezesa Sądu Najwyższego sędzia, któremu obowiązki te powierzono, zwołuje Zgromadzenie Ogólne Sędziów Sądu Najwyższego, któremu przewodniczy, w celu wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego.
+§ 3. Do dokonania wyboru kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego wymagana jest obecność co najmniej 32 członków Zgromadzenia Ogólnego Sędziów Sądu Najwyższego. Przepisy art. 13 § 1, 2 i 5-7 stosuje się.
 
 **Art. 14.**
 § 1. Pierwszy Prezes Sądu Najwyższego kieruje pracami Sądu Najwyższego i reprezentuje Sąd Najwyższy na zewnątrz, w szczególności:
@@ -93,7 +101,8 @@
   2) rozpatrywanie projektu informacji, o której mowa w art. 5 § 1 zdanie pierwsze, i przyjmowanie tej informacji;
   3) rozpatrywanie innych spraw z inicjatywy Pierwszego Prezesa Sądu Najwyższego, Prezesa Sądu Najwyższego, Kolegium Sądu Najwyższego lub co najmniej 5 sędziów Sądu Najwyższego;
   4) podejmowanie uchwał w innych ważnych sprawach dotyczących Sądu Najwyższego.
-§ 2. Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego przewodniczy Pierwszy Prezes Sądu Najwyższego, z uwzględnieniem art. 13 § 1 i art. 14 § 2.
+§ 2. Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego przewodniczy Pierwszy Prezes Sądu Najwyższego, z uwzględnieniem art. 13 § 3, art. 13a § 2 oraz art. 14 § 2.
+§ 2a. O terminie i porządku posiedzenia Zgromadzenia Ogólnego Sędziów Sądu Najwyższego Pierwszy Prezes Sądu Najwyższego zawiadamia sędziów Sądu Najwyższego najpóźniej 7 dni przed dniem posiedzenia, z uwzględnieniem art. 13 § 4 zdanie czwarte i art. 13a § 2.
 § 3. Do podjęcia uchwały Zgromadzenia Ogólnego Sędziów Sądu Najwyższego wymagana jest obecność co najmniej 2/3 liczby sędziów każdej z izb. Uchwały zapadają zwykłą większością głosów. Głosowanie jest tajne, jeżeli żądanie takie zgłosi co najmniej 3 sędziów z obecnych na posiedzeniu członków zgromadzenia.
 
 **Art. 18.** Do wzięcia udziału w Zgromadzeniu Ogólnym Sędziów Sądu Najwyższego zwoływanym w celu przedstawienia informacji, o której mowa w art. 5 § 1, Pierwszy Prezes Sądu Najwyższego zaprasza Prezydenta Rzeczypospolitej Polskiej oraz przedstawicieli innych organów władzy publicznej.
@@ -135,7 +144,13 @@
 
 **Art. 25.** Do właściwości Izby Pracy i Ubezpieczeń Społecznych należą sprawy z zakresu prawa pracy, ubezpieczeń społecznych, sprawy o roszczenia twórców wynalazków, wzorów użytkowych i przemysłowych oraz topografii układów scalonych o wynagrodzenie, sprawy rejestrowe, z wyłączeniem spraw dotyczących rejestracji przedsiębiorców i rejestracji zastawów.
 
-**Art. 26.** Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpatrywanie skarg nadzwyczajnych, rozpoznawanie protestów wyborczych i protestów przeciwko ważności referendum ogólnokrajowego i referendum konstytucyjnego oraz stwierdzanie ważności wyborów i referendum, inne sprawy z zakresu prawa publicznego, w tym sprawy z zakresu ochrony konkurencji, regulacji energetyki, telekomunikacji i transportu kolejowego oraz sprawy, w których złożono odwołanie od decyzji Przewodniczącego Krajowej Rady Radiofonii i Telewizji, a także skargi dotyczące przewlekłości postępowania przed sądami powszechnymi i wojskowymi oraz Sądem Najwyższym.
+**Art. 26.**
+ Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpatrywanie skarg nadzwyczajnych, rozpoznawanie protestów wyborczych i protestów przeciwko ważności referendum ogólnokrajowego i referendum konstytucyjnego oraz stwierdzanie ważności wyborów i referendum, inne sprawy z zakresu prawa publicznego, w tym sprawy z zakresu ochrony konkurencji, regulacji energetyki, telekomunikacji i transportu kolejowego oraz sprawy, w których złożono odwołanie od decyzji Przewodniczącego Krajowej Rady Radiofonii i Telewizji, a także skargi dotyczące przewlekłości postępowania przed sądami powszechnymi i wojskowymi oraz Sądem Najwyższym.
+§ 2. Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpoznawanie wniosków lub oświadczeń dotyczących wyłączenia sędziego albo o oznaczenie sądu, przed którym ma się toczyć postępowanie, obejmujących zarzut braku niezależności sądu lub braku niezawisłości sędziego. Sąd rozpoznający sprawę przekazuje niezwłocznie wniosek Prezesowi Izby Kontroli Nadzwyczajnej i Spraw Publicznych celem nadania mu dalszego biegu na zasadach określonych w odrębnych przepisach. Przekazanie wniosku Prezesowi Izby Kontroli Nadzwyczajnej i Spraw Publicznych nie wstrzymuje biegu toczącego się postępowania.
+§ 3. Wniosek, o którym mowa w § 2, pozostawia się bez rozpoznania, jeżeli obejmuje ustalenie oraz ocenę zgodności z prawem powołania sędziego lub jego umocowania do wykonywania zadań z zakresu wymiaru sprawiedliwości.
+§ 4. Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpoznawanie skarg o stwierdzenie niezgodności z prawem prawomocnego orzeczenia Sądu Najwyższego, sądów powszechnych, sądów wojskowych oraz sądów administracyjnych, w tym Naczelnego Sądu Administracyjnego, jeżeli niezgodność z prawem polega na podważeniu statusu osoby powołanej do pełnienia urzędu na stanowisku sędziego, która wydała orzeczenie w sprawie.
+§ 5. Do postępowania w sprawach, o których mowa w § 4, stosuje się odpowiednie przepisy o stwierdzeniu niezgodności z prawem prawomocnych orzeczeń, a w sprawach karnych przepisy o wznowieniu postępowania sądowego zakończonego prawomocnym orzeczeniem. Nie jest konieczne uprawdopodobnienie ani wyrządzenie szkody, spowodowanej przez wydanie orzeczenia, którego skarga dotyczy.
+§ 6. Skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia, o którym mowa w § 4, można wnieść do Sądu Najwyższego - Izby Kontroli Nadzwyczajnej i Spraw Publicznych, z pominięciem sądu, który wydał zaskarżone orzeczenie, a także w razie nieskorzystania przez stronę z przysługujących jej środków prawnych, w tym skargi nadzwyczajnej do Sądu Najwyższego.
 
 **Art. 27.**
 § 1. Do właściwości Izby Dyscyplinarnej należą sprawy:
@@ -150,6 +165,7 @@
       – z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych,
       – z dnia 28 stycznia 2016 r. - Prawo o prokuraturze (Dz. U. z 2017 r. poz. 1767 oraz z 2018 r. poz. 5),
       – z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771);
+  1a) o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury;
   2) z zakresu prawa pracy i ubezpieczeń społecznych dotyczące sędziów Sądu Najwyższego;
   3) z zakresu przeniesienia sędziego Sądu Najwyższego w stan spoczynku.
 § 2. Izba Dyscyplinarna składa się z:
@@ -157,9 +173,11 @@
   2) Wydziału Drugiego.
 § 3. Wydział Pierwszy rozpatruje w szczególności sprawy:
   1) sędziów Sądu Najwyższego;
-  2) sędziów i prokuratorów dotyczące przewinień dyscyplinarnych wyczerpujących znamiona umyślnych przestępstw ściganych z oskarżenia publicznego oraz przewinień wskazanych we wniosku, o którym mowa w art. 97 § 3.
+  2) Sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury dotyczące:
+    a) przewinień dyscyplinarnych, rozpoznawane w pierwszej instancji przez Sąd Najwyższy,
+    b) zezwolenia na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie.
 § 4. Wydział Drugi rozpatruje w szczególności:
-  1) odwołania od orzeczeń sądów dyscyplinarnych pierwszej instancji w sprawach sędziów i prokuratorów oraz postanowień i zarządzeń zamykających drogę do wydania wyroku;
+  1) odwołania od orzeczeń sądów dyscyplinarnych pierwszej instancji w sprawach sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury oraz postanowień i zarządzeń zamykających drogę do wydania wyroku;
   2) kasacje od orzeczeń dyscyplinarnych;
   3) odwołania od uchwał Krajowej Rady Sądownictwa.
 
@@ -169,7 +187,10 @@
 
 ## Rozdział 4 — Nawiązanie, zmiana i wygaśniecie stosunku służbowego sędziego Sądu Najwyższego
 
-**Art. 29.** Do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego powołuje Prezydent Rzeczypospolitej Polskiej, na wniosek Krajowej Rady Sądownictwa.
+**Art. 29.**
+§ 1. Sędzią Sądu Najwyższego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej.
+§ 2. W ramach działalności Sądu Najwyższego lub jego organów niedopuszczalne jest kwestionowanie umocowania sądów i trybunałów, konstytucyjnych organów państwowych oraz organów kontroli i ochrony prawa.
+§ 3. Niedopuszczalne jest ustalanie lub ocena przez Sąd Najwyższy lub inny organ władzy zgodności z prawem powołania sędziego lub wynikającego z tego powołania uprawnienia do wykonywania zadań z zakresu wymiaru sprawiedliwości.
 
 **Art. 30.**
 § 1. Do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego może być powołana osoba, która:
@@ -301,6 +322,7 @@
 **Art. 45.**
 § 1. Oświadczenie o stanie majątkowym, o którym mowa w art. 87 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych sędzia Sądu Najwyższego składa Pierwszemu Prezesowi Sądu Najwyższego.
 § 2. Analizy danych zawartych w oświadczeniu o stanie majątkowym składanym przez sędziego Sądu Najwyższego dokonuje Pierwszy Prezes Sądu Najwyższego. O stwierdzonych nieprawidłowościach Pierwszy Prezes Sądu Najwyższego zawiadamia Prezydenta Rzeczypospolitej Polskiej.
+§ 3. Oświadczenie, o którym mowa w art. 88a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych, sędzia Sądu Najwyższego składa Pierwszemu Prezesowi Sądu Najwyższego, zaś Pierwszy Prezes Sądu Najwyższego - Krajowej Radzie Sądownictwa.
 
 **Art. 46.**
 § 1. Żądania, wystąpienia i zażalenia w sprawach związanych z pełnionym urzędem sędzia może wnosić tylko do Prezesa Sądu Najwyższego kierującego pracą izby, w której orzeka, lub Pierwszego Prezesa Sądu Najwyższego.
@@ -473,7 +495,12 @@
 ## Rozdział 7 — Odpowiedzialność dyscyplinarna
 
 **Art. 72.**
-§ 1. Sędzia Sądu Najwyższego odpowiada dyscyplinarnie za przewinienia służbowe i uchybienia godności urzędu.
+§ 1. Sędzia Sądu Najwyższego odpowiada dyscyplinarnie za przewinienia służbowe (dyscyplinarne), w tym za:
+  1) oczywistą i rażącą obrazę przepisów prawa;
+  2) działania lub zaniechania mogące uniemożliwić lub istotnie utrudnić funkcjonowanie organu wymiaru sprawiedliwości;
+  3) działania kwestionujące istnienie stosunku służbowego sędziego, skuteczność powołania sędziego, lub umocowanie konstytucyjnego organu Rzeczypospolitej Polskiej;
+  4) działalność publiczną nie dającą się pogodzić z zasadami niezależności sądów i niezawisłości sędziów;
+  5) uchybienie godności urzędu.
 § 2. Sędzia odpowiada dyscyplinarnie także za swoje postępowanie przed objęciem stanowiska, jeżeli uchybił obowiązkowi piastowanego urzędu państwowego lub okazał się niegodnym urzędu sędziego.
 § 3. Za wykroczenia sędzia może odpowiadać tylko dyscyplinarnie.
 § 4. Sędzia może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenie, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz. U. z 2015 r. poz. 1094, 1485, 1634 i 1707 oraz z 2017 r. poz. 966, 1941 i 2361). Wyrażenie zgody następuje w drodze przyjęcia przez sędziego mandatu karnego albo uiszczenia grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia.
@@ -492,8 +519,10 @@
   1) upomnienie;
   2) nagana;
   3) obniżenie wynagrodzenia zasadniczego sędziego o 5%-50% na okres od 6 miesięcy do 2 lat;
+  3a) kara pieniężna w wysokości podlegającego wypłacie za miesiąc poprzedzający wydanie prawomocnego wyroku skazującego jednomiesięcznego wynagrodzenia zasadniczego powiększonego o przysługujący sędziemu dodatek za długoletnią pracę, dodatek funkcyjny i dodatek, o którym mowa w art. 48 § 7;
   4) usunięcie z zajmowanej funkcji;
   5) złożenie sędziego z urzędu.
+§ 1a. Za przewinienie dyscyplinarne określone w art. 72 § 1 pkt 2-4, wymierza się karę, o której mowa w § 1 pkt 5, a w przypadku mniejszej wagi - karę, o której mowa w § 1 pkt 3, 3a lub 4.
 § 2. Sąd podaje prawomocny wyrok dyscyplinarny do wiadomości publicznej poprzez zamieszczenie go na stronie internetowej Sądu Najwyższego. Zamieszczeniu podlega sentencja wyroku, z wyłączeniem danych dotyczących tożsamości osoby fizycznej lub innej osoby, jeżeli jest to konieczne dla ochrony słusznych interesów tych osób.
 § 3. Sąd przekazuje prawomocny wyrok dyscyplinarny do wiadomości Prezydenta Rzeczypospolitej Polskiej.
 § 4. Wymierzenie kary, o której mowa w § 1 pkt 2-4, pociąga za sobą, przez okres 5 lat, niemożność udziału w Kolegium Sądu Najwyższego, orzekania w sądzie dyscyplinarnym oraz pełnienia funkcji w Sądzie Najwyższym. Sędziego ukaranego karą dyscyplinarną, o której mowa w zdaniu pierwszym, orzekającego w Izbie Dyscyplinarnej, Pierwszy Prezes Sądu Najwyższego wyznacza do rozpoznawania spraw w innej izbie na okres 5 lat.
@@ -531,7 +560,12 @@
 
 **Art. 81.** W składzie orzekającym Sądu Najwyższego może brać udział tylko 1 sędzia delegowany do pełnienia czynności sędziowskich w Sądzie Najwyższym. Sędzia delegowany nie może być przewodniczącym składu orzekającego.
 
-**Art. 82.** Jeżeli Sąd Najwyższy, rozpoznając kasację lub inny środek odwoławczy, poweźmie poważne wątpliwości co do wykładni przepisów prawa będących podstawą wydanego rozstrzygnięcia, może odroczyć rozpoznanie sprawy i przedstawić zagadnienie prawne do rozstrzygnięcia składowi 7 sędziów tego sądu.
+**Art. 82.**
+ Jeżeli Sąd Najwyższy, rozpoznając kasację lub inny środek odwoławczy, poweźmie poważne wątpliwości co do wykładni przepisów prawa będących podstawą wydanego rozstrzygnięcia, może odroczyć rozpoznanie sprawy i przedstawić zagadnienie prawne do rozstrzygnięcia składowi 7 sędziów tego sądu.
+§ 2. Sąd Najwyższy, rozpoznając sprawę, w której występuje zagadnienie prawne dotyczące niezawisłości sędziego lub niezależności sądu, odracza jej rozpoznanie i przedstawia to zagadnienie do rozstrzygnięcia składowi całej Izby Kontroli Nadzwyczajnej i Spraw Publicznych Sądu Najwyższego.
+§ 3. Jeżeli Sąd Najwyższy, rozpoznając wniosek, o którym mowa w art. 26 § 2, poweźmie poważne wątpliwości co do wykładni przepisów prawa mających być podstawą orzeczenia, może odroczyć rozpoznanie wniosku i przedstawić zagadnienie prawne do rozstrzygnięcia składowi całej Izby Kontroli Nadzwyczajnej i Spraw Publicznych Sądu Najwyższego.
+§ 4. Podejmując uchwałę, o której mowa w § 2 lub 3, Izba Kontroli Nadzwyczajnej i Spraw Publicznych nie jest związana uchwałą innego składu Sądu Najwyższego, choćby uzyskała ona moc zasady prawnej.
+§ 5. Uchwała składu całej Izby Kontroli Nadzwyczajnej i Spraw Publicznych Sądu Najwyższego podjęta na podstawie § 2 lub 3 wiąże wszystkie składy Sądu Najwyższego. Odstąpienie od uchwały mającej moc zasady prawnej wymaga ponownego rozstrzygnięcia w drodze uchwały przez pełny skład Sądu Najwyższego, do podjęcia której wymagana jest obecność co najmniej 2/3 liczby sędziów każdej z izb. Przepisu art. 88 nie stosuje się.
 
 **Art. 83.**
 § 1. Jeżeli w orzecznictwie sądów powszechnych, sądów wojskowych lub Sądu Najwyższego ujawnią się rozbieżności w wykładni przepisów prawa będących podstawą ich orzekania, Pierwszy Prezes Sądu Najwyższego lub Prezes Sądu Najwyższego może, w celu zapewnienia jednolitości orzecznictwa, przedstawić wniosek o rozstrzygnięcie zagadnienia prawnego Sądowi Najwyższemu w składzie 7 sędziów lub innym odpowiednim składzie.
