@@ -574,7 +574,7 @@
   1) organizator kąpieliska sporządza profil wody w kąpielisku, aktualizuje go i przekazuje w terminie 7 dni właściwemu wójtowi, burmistrzowi lub prezydentowi miasta oraz Wodom Polskim, a w przypadku kąpielisk morskich także właściwemu terytorialnie dyrektorowi urzędu morskiego, oraz podejmuje działania mające na celu obniżenie ryzyka zanieczyszczenia wody w kąpielisku i miejscu okazjonalnie wykorzystywanym do kąpieli, w szczególności działania określone w art. 344 ust. 5 pkt 2 i 7;
   2) organy administracji publicznej są obowiązane udostępniać organizatorowi kąpieliska na jego wniosek informacje, które mogą być wykorzystane przy sporządzaniu profilu wody w kąpielisku;
   3) organy Państwowej Inspekcji Sanitarnej wykonują działania określone w art. 344 ust. 1 oraz art. 346 i art. 347.
-4. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki wodnej, ministrem właściwym do spraw gospodarki morskiej i ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
+4. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki wodnej, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw klimatu i ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
   1) sposób sporządzania profilu wody w kąpielisku,
   2) szczegółowy zakres informacji zawartych w profilu wody w kąpielisku i sposób ich przedstawiania,
   3) sposób dokonywania aktualizacji profilu wody w kąpielisku
@@ -604,7 +604,7 @@
 4. Ochrona wód jest realizowana z uwzględnieniem przepisów działu I i działu III w tytule II oraz działów I-III w tytule III ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska.
 
 **Art. 53.**
-1. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, kryteria i sposób oceny stanu jednolitych części wód podziemnych, obejmujące:
+1. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, kryteria i sposób oceny stanu jednolitych części wód podziemnych, obejmujące:
   1) klasyfikację elementów fizykochemicznych;
   2) definicje klasyfikacji stanu ilościowego wód podziemnych oraz ich stanu chemicznego;
   3) sposób interpretacji wyników badań elementów fizykochemicznych i ilościowych;
@@ -629,7 +629,7 @@
   4) konieczność określenia bardziej rygorystycznych wartości progowych, w przypadku gdy normy jakości wód podziemnych zastosowane do danej jednolitej części wód podziemnych mogą skutkować nieosiągnięciem celów środowiskowych dla wód powierzchniowych pozostających w związku hydraulicznym z tą jednolitą częścią wód podziemnych lub prowadzić do znaczącego pogorszenia jakości ekologicznej lub chemicznej tych wód lub znaczącej szkody w ekosystemach lądowych bezpośrednio zależnych od danej jednolitej części wód podziemnych;
   5) współpracę z właściwymi organami państw członkowskich Unii Europejskiej w zakresie skoordynowanego ustalenia wartości progowych w odniesieniu do jednolitych części wód podziemnych, których część znajduje się na terytorium innych państw członkowskich Unii Europejskiej, oraz jednolitych części wód podziemnych, w obrębie których przepływ wód podziemnych przecina granicę z innymi państwami członkowskimi Unii Europejskiej;
   6) możliwość skoordynowanego ustalenia wartości progowych z właściwymi organami państw nienależących do Unii Europejskiej, w przypadku gdy jednolita część wód podziemnych lub grupa takich części znajdują się na terytorium państw nienależących do Unii Europejskiej.
-4. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+4. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
   1) elementy jakości dla klasyfikacji:
     a) stanu ekologicznego jednolitych części wód powierzchniowych w ciekach naturalnych, jeziorach i innych naturalnych zbiornikach wodnych, wodach przejściowych oraz wodach przybrzeżnych,
     b) potencjału ekologicznego sztucznych jednolitych części wód powierzchniowych i silnie zmienionych jednolitych części wód powierzchniowych;
@@ -923,7 +923,7 @@
 **Art. 98.** Przepisy art. 86-90, art. 92 i art. 93 nie naruszają zadań gmin w zakresie odprowadzania i oczyszczania ścieków komunalnych wynikających z przepisów o samorządzie gminnym.
 
 **Art. 99.**
-1. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+1. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
   1) substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być eliminowane (wykaz I), oraz substancje szczególnie szkodliwe dla środowiska wodnego, powodujące zanieczyszczenie wód, które powinno być ograniczane (wykaz II);
   2) warunki, jakie należy spełnić przy wprowadzaniu do wód lub do ziemi ścieków, w szczególności ścieków bytowych, ścieków komunalnych oraz ścieków przemysłowych, w tym najwyższe dopuszczalne wartości substancji zanieczyszczających, oraz warunki, jakie należy spełnić w celu rolniczego wykorzystania ścieków, a także miejsce, sposób i minimalną częstotliwość pobierania próbek ścieków, metodyki referencyjne analizy i sposób oceny, czy ścieki odpowiadają wymaganym warunkom;
   3) najwyższe dopuszczalne wartości substancji zanieczyszczających dla ścieków z oczyszczalni ścieków bytowych i ścieków komunalnych oraz dla ścieków z oczyszczalni ścieków w aglomeracji;
@@ -1126,7 +1126,7 @@
 
 **Art. 113.** Wcelu ochrony wód powierzchniowych przed zanieczyszczeniem chemicznym, które może spowodować w szczególności ostrą i chroniczną toksyczność dla organizmów wodnych, akumulację zanieczyszczeń w ekosystemie oraz utratę siedlisk i różnorodności biologicznej, a także zagrożenia dla zdrowia ludzkiego, określa się wykaz substancji priorytetowych.
 
-**Art. 114.** Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, wykaz substancji priorytetowych, kierując się przepisami prawa Unii Europejskiej dotyczącymi substancji priorytetowych w dziedzinie polityki wodnej.
+**Art. 114.** Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia, wykaz substancji priorytetowych, kierując się przepisami prawa Unii Europejskiej dotyczącymi substancji priorytetowych w dziedzinie polityki wodnej.
 
 **Art. 115.**
 1. W odniesieniu do następujących substancji priorytetowych:
@@ -1594,7 +1594,7 @@
   4) opłacalność i techniczną wykonalność planowanych do określenia w nim działań oraz koszty i korzyści z nich wynikające;
   5) konsekwencje wyznaczenia obszarów, o których mowa w art. 158 ust. 4, dla innych państw członkowskich Unii Europejskiej położonych w regionie Morza Bałtyckiego;
   6) działania wymagane na podstawie umów międzynarodowych, których Rzeczpospolita Polska jest stroną.
-4. W celu zapewnienia koordynacji zarządzania, o której mowa w ust. 1 pkt 8, Wody Polskie współpracują z Ministrem Obrony Narodowej, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw gospodarki wodnej, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw rybołówstwa, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw zdrowia.
+4. W celu zapewnienia koordynacji zarządzania, o której mowa w ust. 1 pkt 8, Wody Polskie współpracują z Ministrem Obrony Narodowej, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw gospodarki wodnej, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw klimatu, ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw rybołówstwa, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw zdrowia.
 5. Koordynacja zarządzania, o której mowa w ust. 1 pkt 8, uwzględnia działania niezbędne do osiągnięcia lub utrzymania dobrego stanu środowiska wód morskich, w tym działania w zakresie sprawozdawczości.
 
 **Art. 160.**
@@ -1604,7 +1604,7 @@
   2) zapewnienie współpracy na rzecz osiągnięcia wspólnych korzyści oraz wymiany informacji w zakresie ochrony wód morskich oraz osiągnięcia celów środowiskowych określonych w art. 56, art. 57, art. 59 oraz w art. 61 i ochrony wód.
 
 **Art. 161.**
-1. Projekt programu ochrony wód morskich opracowują Wody Polskie w uzgodnieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw gospodarki wodnej, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw rybołówstwa, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw zdrowia.
+1. Projekt programu ochrony wód morskich opracowują Wody Polskie w uzgodnieniu z Ministrem Obrony Narodowej, ministrem właściwym do spraw gospodarki wodnej, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw klimatu, ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw rybołówstwa, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw zdrowia.
 2. Na potrzeby opracowania projektu programu ochrony wód morskich Wody Polskie, na rok przed przystąpieniem do jego opracowania, przekazują organom, o których mowa w ust. 1, zakres informacji niezbędnych do przygotowania opisu działań planowanych do określenia w programie ochrony wód morskich oraz informują o terminie przystąpienia do opracowania tego programu.
 3. Organy, o których mowa w ust. 1, każdy w zakresie swojej właściwości, przygotowują i przekazują Wodom Polskim, nie później niż na 6 miesięcy przed terminem opracowania projektu programu ochrony wód morskich, propozycję działań planowanych do określenia w programie ochrony wód morskich, wskazując w niej:
   1) rodzaj tych działań (prawne, administracyjne, ekonomiczne, edukacyjne, kontrolne);
@@ -1612,7 +1612,7 @@
 4. Organy, o których mowa w ust. 1, przekazują Wodom Polskim, wraz z propozycją działań wskazaną w ust. 3, dane stanowiące podstawę do jej przygotowania.
 5. Wody Polskie przekazują projekt programu ochrony wód morskich ministrowi właściwemu do spraw gospodarki wodnej.
 6. Minister właściwy do spraw gospodarki wodnej, opracowując projekt programu ochrony wód morskich, zapewnia możliwość udziału społeczeństwa na zasadach i w trybie określonych w przepisach ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
-7. Minister właściwy do spraw gospodarki wodnej uzgadnia zakres i sposób uwzględnienia uwag do projektu programu ochrony wód morskich z Ministrem Obrony Narodowej, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw rybołówstwa, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw wewnętrznych i ministrem właściwym do spraw zdrowia.
+7. Minister właściwy do spraw gospodarki wodnej uzgadnia zakres i sposób uwzględnienia uwag do projektu programu ochrony wód morskich z Ministrem Obrony Narodowej, ministrem właściwym do spraw gospodarki, ministrem właściwym do spraw gospodarki morskiej, ministrem właściwym do spraw klimatu, ministrem właściwym do spraw rolnictwa, ministrem właściwym do spraw rybołówstwa, ministrem właściwym do spraw środowiska, ministrem właściwym do spraw wewnętrznych i ministrem właściwym do spraw zdrowia.
 8. Minister właściwy do spraw gospodarki wodnej uzgadnia projekt programu ochrony wód morskich z członkami Rady Ministrów.
 9. Minister właściwy do spraw gospodarki wodnej przedkłada Komisji Europejskiej oraz zainteresowanym państwom członkowskim Unii Europejskiej projekt programu ochrony wód morskich. Projekt programu ochrony wód morskich jest przedkładany w terminie 3 miesięcy od dnia jego uzgodnienia z członkami Rady Ministrów.
 10. Program ochrony wód morskich jest przyjmowany, jeżeli w terminie 6 miesięcy od dnia przedłożenia jego projektu Komisja Europejska nie odrzuci projektu programu ochrony wód morskich w całości albo w części.
