@@ -141,7 +141,7 @@
   3) uzasadnienie, o którym mowa w art. 4 ust. 3,
   4) uzasadnienie, o którym mowa w art. 9 ust. 4
 - z wyłączeniem informacji dotyczących celów zarządczych, wagi tych celów, a także kryteriów ich realizacji i rozliczania, są jawne, nie podlegają ochronie danych osobowych ani tajemnicy przedsiębiorstwa i są publikowane w Biuletynie Informacji Publicznej na stronie podmiotowej podmiotu uprawnionego do wykonywania praw udziałowych.
-2. Podmiot uprawniony do wykonywania praw udziałowych w spółce, o której mowa w ust. 1, inny niż minister właściwy do spraw Skarbu Państwa, przekazuje niezwłocznie ministrowi właściwemu do spraw Skarbu Państwa informację o sporządzeniu uzasadnienia, o którym mowa w art. 4 ust. 3, wraz z adresem jego publikacji w Biuletynie Informacji Publicznej. Minister właściwy do spraw Skarbu Państwa publikuje przekazaną informację na swojej stronie podmiotowej w Biuletynie Informacji Publicznej.
+2. (uchylony)
 
 **Art. 12.**
 1. Zasady dotyczące wynagrodzeń wynikające z art. 4, art. 5 ust. 1 pkt 3, art. 10 i art. 11 stosuje się odpowiednio do podmiotów, o których mowa w art. 1 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2015 r. poz. 2099 oraz z 2016 r. poz. 1202), ujętych w wykazie, o którym mowa w ust. 2.
