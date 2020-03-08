@@ -467,6 +467,10 @@
   2) jeżeli uczeń, a w przypadku ucznia niepełnoletniego jego rodzic, wyrazi zgodę na ujawnienie określonych informacji;
   3) w przypadku gdy przewidują to przepisy szczególne.
 
+**Art. 30b.** W przypadkach uzasadnionych nadzwyczajnymi okolicznościami zagrażającymi życiu lub zdrowiu dzieci i młodzieży minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może czasowo ograniczyć lub czasowo zawiesić funkcjonowanie jednostek systemu oświaty na obszarze kraju lub jego części, uwzględniając stopień zagrożenia na danym obszarze.
+
+**Art. 30c.** W przypadku, o którym mowa w art. 30b, minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może wyłączyć stosowanie niektórych przepisów niniejszej ustawy, ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych w odniesieniu do wszystkich lub niektórych jednostek systemu oświaty, o których mowa w przepisach wydanych na podstawie art. 30b, w szczególności w zakresie przeprowadzania postępowania rekrutacyjnego, oceniania, klasyfikowania i promowania uczniów, przeprowadzania egzaminów, organizacji roku szkolnego i organizacji pracy tych jednostek, a także wprowadzić w tym zakresie odrębne unormowania, tak aby zapewnić prawidłową realizację celów i zadań tych jednostek.
+
 ## Rozdział 2 — Wychowanie przedszkolne, obowiązek szkolny i obowiązek nauki
 
 **Art. 31.**
