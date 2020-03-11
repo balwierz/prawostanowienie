@@ -1170,6 +1170,41 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 144.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, sumy ubezpieczenia, o którym mowa w art. 143 ust. 1, mając na względzie, że nie mogą być one niższe niż świadczenia odszkodowawcze przysługujące w razie wypadku lub choroby pozostających w związku ze służbą.
 
+**Art. 144a.**
+1. Funkcjonariusz, o którym mowa w art. 143 ust. 1, po powrocie do kraju podlega bezpłatnym badaniom lekarskim i psychologicznym.
+2. W przypadku odniesienia ran, kontuzji, urazu psychicznego lub schorzenia przez funkcjonariusza, o którym mowa w ust. 1, lub ze względu na jego stan psychofizyczny zgodnie ze wskazaniami lekarza funkcjonariusz może być skierowany na bezpłatny turnus leczniczo-profilaktyczny wraz z pełnoletnim najbliższym członkiem rodziny w rozumieniu art. 4 pkt 12 ustawy z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa (Dz. U. z 2019 r. poz. 1569 i 1726).
+3. Turnus leczniczo-profilaktyczny trwa 14 dni kalendarzowych i obejmuje działania leczniczo-rehabilitacyjne i profilaktykę zdrowotną, w tym profilaktykę psychologiczną.
+4. Kolejny pobyt funkcjonariusza, o którym mowa w ust. 1, na turnusie leczniczo-profilaktycznym po tym samym uczestnictwie w zadaniach ochronnych wykonywanych poza granicami państwa może odbyć się pod warunkiem poddania się leczeniu specjalistycznemu, ambulatoryjnemu lub stacjonarnemu albo konsultacji specjalistycznej zakończonej wskazaniem uczestnictwa w turnusie leczniczo-profilaktycznym jako niezbędnym do kontynuacji leczenia.
+5. Osoby skierowane na turnus leczniczo-profilaktyczny mogą skorzystać z prawa do turnusu leczniczo-profilaktycznego w trakcie pełnienia służby przez funkcjonariusza.
+6. Pełne koszty uczestnictwa w turnusie leczniczo-profilaktycznym funkcjonariusza oraz 50% kosztów uczestnictwa pełnoletniego najbliższego członka rodziny pokrywa się z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych.
+7. Skierowanie na badania, o których mowa w ust. 1, zawiera następujące dane funkcjonariusza:
+  1) imię i nazwisko;
+  2) numer PESEL;
+  3) miejsce zamieszkania;
+  4) miejsce pełnienia służby;
+  5) okres delegowania, miejsce, stanowisko i zakres zadań wykonywanych podczas realizacji zadań ochronnych wykonywanych poza granicami państwa.
+8. Skierowanie na turnus leczniczo-profilaktyczny zawiera następujące dane:
+  1) funkcjonariusza:
+    a) imię i nazwisko,
+    b) numer PESEL,
+    c) miejsce zamieszkania,
+    d) miejsce pełnienia służby;
+  2) pełnoletniego najbliższego członka rodziny:
+    a) imię i nazwisko,
+    b) datę urodzenia,
+    c) stopień pokrewieństwa.
+9. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+  1) organ właściwy do kierowania funkcjonariusza na badania, o których mowa w ust. 1,
+  2) zakres badań, o których mowa w ust. 1,
+  3) podmiot właściwy do przeprowadzania badań, o których mowa w ust. 1,
+  4) rodzaje i wzory dokumentów wystawianych po przeprowadzeniu badań, o których mowa w ust. 1,
+  5) tryb kierowania funkcjonariusza wraz z pełnoletnim najbliższym członkiem rodziny na turnus leczniczo-profilaktyczny,
+  6) podmiot kierujący na turnus leczniczo-profilaktyczny,
+  7) ramowy program turnusu leczniczo-profilaktycznego,
+  8) podmiot prowadzący turnus leczniczo-profilaktyczny,
+  9) rodzaje i wzory dokumentów wystawianych w związku z kierowaniem na turnus leczniczo-profilaktyczny
+- uwzględniając potrzeby funkcjonariusza wynikające z jego aktualnego stanu zdrowia, w tym konieczność zapewnienia pełnej rekonwalescencji oraz umożliwienie dalszego leczenia lub rehabilitacji po zakończeniu pobytu na turnusie leczniczo-profilaktycznym.
+
 **Art. 145.**
 1. Funkcjonariusz wykonujący zadania poza granicami państwa może otrzymać świadczenia opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, 2110, 2217, 2361 i 2434 oraz z 2018 r. poz. 107).
 2. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, warunki otrzymywania świadczeń, o których mowa w ust. 1, przez funkcjonariuszy w związku z urazami nabytymi podczas wykonywania przez nich zadań poza granicami państwa oraz sposób i tryb finansowania kosztów, uwzględniając zasady i sposób wydatkowania środków publicznych.
