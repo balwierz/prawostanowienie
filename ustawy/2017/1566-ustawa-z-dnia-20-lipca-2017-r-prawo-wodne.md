@@ -4543,7 +4543,7 @@
 1) uprawianie żeglugi na śródlądowych drogach wodnych;
 2) holowanie oraz spław drewna;
 3) wycinanie roślin z wód lub brzegu w związku z utrzymywaniem wód, śródlądowych dróg wodnych oraz remontem urządzeń wodnych;
-4) wykonanie pilnych prac zabezpieczających w okresie powodzi;
+4) wykonanie pilnych prac zabezpieczających w okresie powodzi, klęski żywiołowej, ogłoszonych stanów zagrożenia epidemicznego, epidemii albo w razie niebezpieczeństwa szerzenia się zakażenia lub choroby zakaźnej, które mogą stanowić zagrożenie dla zdrowia publicznego;
 5) wykonanie urządzeń wodnych do poboru wód podziemnych na potrzeby zwykłego korzystania z wód z ujęć o głębokości do 30 m;
 6) rybackie korzystanie ze śródlądowych wód powierzchniowych;
 7) pobór wód powierzchniowych lub wód podziemnych w ilości średniorocznie nieprzekraczającej 5 m3 na dobę oraz wprowadzanie ścieków do wód lub do ziemi w ilości nieprzekraczającej łącznie 5 m3 na dobę, na potrzeby zwykłego korzystania z wód;
