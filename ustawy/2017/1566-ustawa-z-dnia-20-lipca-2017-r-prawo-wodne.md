@@ -5927,7 +5927,7 @@
 
 **Art. 551.**
 1. W terminie nie dłuższym niż 6 miesięcy od dnia wejścia w życie ustawy organ, o którym mowa w art. 135 ust. 1 pkt 1, ustanowi strefy ochronne obejmujące wyłącznie teren ochrony bezpośredniej dla ujęć wody, dla których dotychczas nie ustanowiono takich stref ochronnych.
-2. Właściciele ujęć wody, dla których nie ustanowiono strefy ochronnej obejmującej teren ochrony pośredniej na podstawie art. 58 ust. 1 ustawy uchylanej w art. 573, w terminie 3 lat od dnia wejścia w życie ustawy przeprowadzą analizę ryzyka, o której mowa w art. 133 ust. 3, i złożą wnioski o ustanowienie stref ochronnych obejmujących teren ochrony bezpośredniej oraz teren ochrony pośredniej, jeżeli jest to uzasadnione wynikami tej analizy.
+2. Właściciele ujęć wody, dla których nie ustanowiono strefy ochronnej obejmującej teren ochrony pośredniej na podstawie art. 58 ust. 1 ustawy uchylanej w art. 573, w terminie 5 lat od dnia wejścia w życie ustawy przeprowadzą analizę ryzyka, o której mowa w art. 133 ust. 3, i złożą wnioski o ustanowienie stref ochronnych obejmujących teren ochrony bezpośredniej oraz teren ochrony pośredniej, jeżeli jest to uzasadnione wynikami tej analizy.
 3. Przepisy art. 133 ust. 2 pkt 2, art. 134 ust. 2, art. 135 ust. 1 pkt 2, art. 137 oraz art. 138 stosuje się odpowiednio.
 
 **Art. 552.**
@@ -6077,6 +6077,8 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
 **Art. 567.** Minister właściwy do spraw gospodarki wodnej opracuje projekt programu działań, o którym mowa w art. 104 ust. 1, w terminie 3 miesięcy od dnia ogłoszenia ustawy.
 
 **Art. 568.** Do dnia 1 września 2019 r. należności za korzystanie ze śluz, o których mowa w art. 306 ust. 1 pkt 5, od uczniów gimnazjów obniża się o połowę.
+
+**Art. 568a.** Do dnia 30 września 2020 r. podmioty wykonujące czynności, o których mowa w art. 306 ust. 1, zwalnia się z należności za korzystanie ze śródlądowych dróg wodnych i ich odcinków oraz urządzeń wodnych stanowiących własność Skarbu Państwa, usytuowanych na śródlądowych wodach powierzchniowych.
 
 **Art. 569.**
 1. W latach 2018-2027 maksymalny limit wydatków Wód Polskich będący skutkiem finansowym wejścia w życie ustawy wynosi 28 751,87 mln zł, przy czym w:
