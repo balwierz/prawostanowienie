@@ -34,7 +34,7 @@
 1. Właściwym organem Rzeczypospolitej Polskiej w sprawach wymiany informacji podatkowych z innymi państwami jest Szef Krajowej Administracji Skarbowej i w tym zakresie przysługują mu uprawnienia organu podatkowego.
 2. Minister właściwy do spraw finansów publicznych, w celu zapewnienia sprawnej i skutecznej realizacji spraw, o których mowa w ust. 1, a także usprawnienia obsługi podmiotów obowiązanych do przekazywania informacji podatkowych, może upoważnić, w drodze rozporządzenia, organ Krajowej Administracji Skarbowej do wykonywania czynności związanych z:
   1) wymianą informacji podatkowych na wniosek i z urzędu z innymi państwami, w szczególności do występowania o udostępnienie informacji podatkowych i przekazywania właściwym organom wniosków i informacji podatkowych,
-  2) automatyczną wymianą informacji podatkowych,
+  2) automatyczną wymianą informacji podatkowych, w tym do przeprowadzania kontroli wykonywania obowiązków związanych z automatyczną wymianą informacji podatkowych,
   3) udostępnianiem innym organom, na zasadach określonych w ustawie - Ordynacja podatkowa, informacji podatkowych uzyskanych w ramach ich wymiany z innymi państwami,
   4) nakładaniem kar pieniężnych
 - określając szczegółowy zakres upoważnienia oraz terytorialny zasięg działania upoważnionych organów.
@@ -855,6 +855,41 @@ w terminie 3 miesięcy od dnia zakończenia sprawozdawczego roku obrotowego grup
   2) państw lub terytoriów, które są stroną kwalifikującej umowy między właściwymi organami
 - w których państwach lub na których terytoriach, zgodnie z otrzymanymi informacjami, co najmniej jedna jednostka wchodząca w skład grupy podmiotów posiada siedzibę lub zarząd lub prowadzi działalność przez zagraniczny zakład.
 2. Informacje, o których mowa w ust. 1, są przekazywane za pomocą środków komunikacji elektronicznej w terminie 15 miesięcy od ostatniego dnia sprawozdawczego roku obrotowego grupy podmiotów, której dotyczy informacja.
+
+## Dział VA
+
+**Art. 88a.** Ilekroć w niniejszym dziale jest mowa o:
+1) korzystającym - rozumie się przez to korzystającego w rozumieniu art. 86a § 1 pkt 3 ustawy - Ordynacja podatkowa;
+2) NSP - rozumie się przez to NSP, o którym mowa w art. 86a § 1 pkt 5 ustawy - Ordynacja podatkowa;
+3) NZSPT - rozumie się przez to NZSPT, o którym mowa w art. 86a § 1 pkt 5a ustawy - Ordynacja podatkowa;
+4) ogólnej cesze rozpoznawczej - rozumie się przez to ogólną cechę rozpoznawczą, o której mowa w art. 86a § 1 pkt 6 lit. a-h ustawy - Ordynacja podatkowa;
+5) podmiocie powiązanym - rozumie się przez to podmiot powiązany, o którym mowa w art. 86a § 1 pkt 7 ustawy - Ordynacja podatkowa, przy czym przy ustalaniu podmiotu powiązanego uwzględnia się przepis art. 86a § 7 tej ustawy;
+6) promotorze - rozumie się przez to promotora w rozumieniu art. 86a § 1 pkt 8 ustawy - Ordynacja podatkowa;
+7) schemacie podatkowym transgranicznym - rozumie się przez to schemat podatkowy transgraniczny w rozumieniu art. 86a § 1 pkt 12 ustawy - Ordynacja podatkowa;
+8) szczególnej cesze rozpoznawczej - rozumie się przez to szczególną cechę rozpoznawczą w rozumieniu art. 86a § 1 pkt 13 ustawy - Ordynacja podatkowa;
+9) wdrażaniu - rozumie się przez to wdrażanie w rozumieniu art. 86a § 1 pkt 17 ustawy - Ordynacja podatkowa;
+10) wspomagającym - rozumie się przez to wspomagającego w rozumieniu art. 86a § 1 pkt 18 ustawy - Ordynacja podatkowa.
+
+**Art. 88b.**
+1. Szef Krajowej Administracji Skarbowej przekazuje właściwym organom państw członkowskich, w drodze automatycznej wymiany, informacje o schematach podatkowych transgranicznych.
+2. Informacje o schematach podatkowych transgranicznych zawierają NSP i NZSPT oraz następujące dane przekazane Szefowi Krajowej Administracji Skarbowej przez promotorów, korzystających i wspomagających:
+  1) dane identyfikujące promotora, wspomagającego, korzystającego oraz osoby i jednostki organizacyjnej będących podmiotami powiązanymi z korzystającym, w tym nazwę (firmę) albo imię i nazwisko oraz datę i miejsce urodzenia, adres siedziby lub zarządu albo miejsca zamieszkania, państwo lub państwa rezydencji oraz identyfikator podatkowy lub inny numer identyfikacyjny, jeżeli identyfikator podatkowy nie został nadany;
+  2) informacje o ogólnej cesze rozpoznawczej i o szczególnej cesze rozpoznawczej;
+  3) streszczenie opisu schematu podatkowego transgranicznego, nazwę schematu podatkowego transgranicznego, jeżeli ją nadano, oraz opis działalności gospodarczej, do której ma zastosowanie schemat podatkowy transgraniczny;
+  4) wskazanie dnia, w którym została dokonana lub zostanie dokonana pierwsza czynność służąca wdrożeniu schematu podatkowego transgranicznego;
+  5) wskazanie przepisów prawa podatkowego znajdujących zastosowanie w schemacie podatkowym transgranicznym;
+  6) wartość, o której mowa w art. 86f § 1 pkt 5 ustawy - Ordynacja podatkowa;
+  7) wskazanie państwa członkowskiego, w którym korzystający ma miejsce zamieszkania albo siedzibę lub zarząd, oraz pozostałych państw członkowskich, których może dotyczyć schemat podatkowy transgraniczny;
+  8) dane identyfikujące inne osoby lub podmioty, na które może mieć wpływ schemat podatkowy transgraniczny, w tym nazwę (firmę) albo imię i nazwisko oraz datę i miejsce urodzenia, adres siedziby lub zarządu albo miejsca zamieszkania, państwo lub państwa rezydencji oraz identyfikator podatkowy lub inny numer identyfikacyjny, jeżeli identyfikator podatkowy nie został nadany.
+3. W streszczeniu opisu schematu podatkowego, o którym mowa w ust. 2 pkt 3, nie zawiera się danych, których ujawnienie byłoby sprzeczne z porządkiem publicznym.
+4. Informacje, o których mowa w ust. 1, przekazuje się w terminie miesiąca, licząc od końca kwartału, w którym Szef Krajowej Administracji Skarbowej otrzymał te informacje.
+5. Do automatycznej wymiany informacji o schematach podatkowych transgranicznych przepis art. 8 stosuje się odpowiednio.
+
+**Art. 88c.** Automatyczna wymiana informacji o schematach podatkowych transgranicznych odbywa się za pomocą standardowego formularza, o którym mowa w art. 20 ust. 5 lit. b dyrektywy 2011/16/UE, zgodnie z mającymi zastosowanie ustaleniami praktycznymi przyjętymi na podstawie art. 21 tej dyrektywy.
+
+**Art. 88d.**
+1. Szef Krajowej Administracji Skarbowej przekazuje Komisji Europejskiej roczną ocenę skuteczności automatycznej wymiany informacji o schematach podatkowych transgranicznych oraz jej praktyczne wyniki.
+2. Roczna ocena skuteczności automatycznej wymiany informacji o schematach podatkowych transgranicznych jest przekazywana w formie i na zasadach określonych przez Komisję Europejską w drodze aktów wykonawczych, przyjętych zgodnie z procedurą, o której mowa w art. 26 ust. 2 dyrektywy 2011/16/UE.
 
 ## Dział VI — Kary pieniężne
 
