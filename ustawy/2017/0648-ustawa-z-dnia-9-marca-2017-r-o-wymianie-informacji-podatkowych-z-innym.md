@@ -706,7 +706,9 @@
 ## Dział IV — Automatyczna wymiana informacji o interpretacjach podatkowych i decyzjach w sprawach cen transakcyjnych
 
 **Art. 76.** Ilekroć w niniejszym dziale jest mowa o:
-1) decyzji w sprawie cen transakcyjnych - rozumie się przez to decyzję, o której mowa w art. 20a § 3, art. 20i § 6, art. 20k § 1 lub art. 20l § 1 ustawy - Ordynacja podatkowa;
+1) decyzji w sprawie cen transferowych - rozumie się przez to:
+  a) uprzednie porozumienie cenowe w rozumieniu art. 81 pkt 1 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych (Dz. U. poz. 2200) oraz decyzję, o której mowa w art. 95 ust. 7, art. 105 ust. 1 lub art. 106 ust. 1 tej ustawy,
+  b) porozumienie podatkowe, o którym mowa w art. 20zb pkt 2 ustawy - Ordynacja podatkowa, a także jego odnowienie, zmianę i rozwiązanie;
 2) interpretacji podatkowej - rozumie się przez to:
   a) interpretację indywidualną, o której mowa w art. 14b ustawy - Ordynacja podatkowa, wydaną w zakresie zdarzenia przyszłego lub przed wystąpieniem skutków podatkowych związanych ze zdarzeniem, któremu odpowiada stan faktyczny, o ile okoliczność ta wynika ze złożonego przez wnioskodawcę wniosku, a także jej zmianę, stwierdzenie wygaśnięcia lub uchylenie, o których mowa w art. 14e § 1 pkt 1 i § 1a pkt 1-3 ustawy - Ordynacja podatkowa,
   b) opinię zabezpieczającą, o której mowa w art. 119y § 1 ustawy - Ordynacja podatkowa, dotyczącą czynności planowanej lub rozpoczętej, a także odmowę jej wydania i jej zmianę, o których mowa w art. 119y § 2 i art. 119zd ustawy - Ordynacja podatkowa,
