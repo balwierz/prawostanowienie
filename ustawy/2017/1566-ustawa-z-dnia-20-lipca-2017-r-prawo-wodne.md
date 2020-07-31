@@ -4923,7 +4923,7 @@
   e) planowanego terminu rozpoczęcia robót lub czynności.
 
 **Art. 422.** Do zgłoszenia wodnoprawnego dołącza się:
-1) mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego z naniesionym schematem planowanych czynności, robót lub urządzeń wodnych i zasięgiem ich oddziaływania lub inną mapę uwierzytelnioną przez organ państwowej służby geodezyjnej i kartograficznej;
+1) mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego z naniesionym schematem planowanych czynności, robót lub urządzeń wodnych i zasięgiem ich oddziaływania lub inną mapę opatrzoną przez organ Służby Geodezyjnej i Kartograficznej odpowiednią klauzulą urzędową;
 2) odpowiednie szkice lub rysunki;
 3) wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, a w przypadku jego braku - decyzję o ustaleniu lokalizacji inwestycji celu publicznego albo decyzję o warunkach zabudowy, jeżeli są wymagane;
 4) zgodę właściciela urządzenia wodnego, które jest niezbędne do wykonania planowanych czynności, robót lub urządzeń wodnych.
@@ -4980,7 +4980,7 @@
 **Art. 427.**
 1. Wniosek, o którym mowa w art. 426, zawiera:
   1) charakterystykę planowanych inwestycji lub działań wraz z podstawowymi danymi technicznymi i opisem planowanej technologii robót;
-  2) mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego lub inną mapę uwierzytelnioną przez organ prowadzący ten zasób albo kopie tych map potwierdzone przez wnioskodawcę za ich zgodność z oryginałami z naniesionym schematem planowanych obiektów lub robót;
+  2) mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego lub inną mapę opatrzoną przez organ prowadzący ten zasób odpowiednią klauzulą urzędową albo kopie tych map potwierdzone przez wnioskodawcę za ich zgodność z oryginałami z naniesionym schematem planowanych obiektów lub robót;
   3) opis wpływu planowanych inwestycji lub działań na możliwość osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
 2. Jeżeli jest wymagane uzyskanie oceny wodnoprawnej oraz decyzji, o której mowa w art. 77 ust. 3, sprawy rozpoznaje się łącznie i wydaje się jedną decyzję.
 
