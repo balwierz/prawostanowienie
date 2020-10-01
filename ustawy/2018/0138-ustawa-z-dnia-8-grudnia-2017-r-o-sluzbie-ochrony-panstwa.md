@@ -780,6 +780,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   4) należności z tytułu zwolnienia ze służby;
   5) wyrównanie z tytułu wypłaty dodatkowego wynagrodzenia rocznego w wysokości niższej niż wysokość nagrody rocznej, obliczonej na podstawie niniejszej ustawy.
 
+**Art. 98a.** Kierownik lub dyrektor generalny urzędu, jednostki organizacyjnej lub służby, do których oddelegowano funkcjonariusza, na wniosek Komendanta SOP lub upoważnionej przez niego osoby przesyła informacje dotyczące oceny wykonywania przez funkcjonariusza zadań i obowiązków w czasie trwania oddelegowania, w celu i zakresie niezbędnym do sporządzenia opinii służbowej.
+
 **Art. 99.**
 1. Komendant SOP, w przypadku gdy jest to uzasadnione potrzebami SOP, może odwołać funkcjonariusza z oddelegowania nawet bez jego zgody, zawiadamiając o tym na piśmie kierownika urzędu, jednostki organizacyjnej lub służby i oddelegowanego funkcjonariusza. Odwołanie następuje nie wcześniej niż z upływem 30 dni od dnia złożenia zawiadomienia.
 2. Kierownik urzędu, jednostki organizacyjnej lub służby, w przypadku gdy jest to uzasadnione interesem urzędu, jednostki organizacyjnej lub służby może skierować oddelegowanego funkcjonariusza nawet bez jego zgody do dyspozycji Komendanta SOP, zawiadamiając o tym na piśmie Komendanta SOP i oddelegowanego funkcjonariusza. Skierowanie oddelegowanego funkcjonariusza do dyspozycji Komendanta SOP następuje nie wcześniej niż z upływem 30 dni od dnia złożenia zawiadomienia.
@@ -807,8 +809,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 5. Niższym stanowiskiem służbowym jest stanowisko służbowe o niższym stopniu etatowym lub niższej grupie uposażenia.
 
 **Art. 103.**
-1. Funkcjonariusza zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego o przestępstwo umyślne ścigane z oskarżenia publicznego, na czas nie dłuższy niż 3 miesiące.
-2. Funkcjonariusza można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego o przestępstwo nieumyślne ścigane z oskarżenia publicznego lub postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby, na czas nie dłuższy niż 3 miesiące.
+1. Funkcjonariusza zawiesza się w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego o przestępstwo lub przestępstwo skarbowe, umyślne, ścigane z oskarżenia publicznego - na czas nie dłuższy niż 3 miesiące.
+2. Funkcjonariusza można zawiesić w czynnościach służbowych w razie wszczęcia przeciwko niemu postępowania karnego o przestępstwo lub przestępstwo skarbowe, nieumyślne, ścigane z oskarżenia publicznego lub postępowania dyscyplinarnego, jeżeli jest to celowe z uwagi na dobro postępowania lub dobro służby - na czas nie dłuższy niż 12 miesięcy.
 3. W szczególnie uzasadnionych przypadkach okres zawieszenia w czynnościach służbowych można przedłużyć do czasu ukończenia postępowania karnego.
 4. Funkcjonariusza zawiesza w czynnościach służbowych Komendant SOP. Od rozkazu personalnego o zawieszeniu przysługuje odwołanie do ministra właściwego do spraw wewnętrznych w terminie 7 dni od dnia doręczenia decyzji. Minister właściwy do spraw wewnętrznych wydaje decyzję w terminie 7 dni od dnia otrzymania odwołania. Złożenie odwołania nie wstrzymuje decyzji o zawieszeniu.
 5. Funkcjonariusza zawieszonego w czynnościach służbowych odsuwa się od pełnienia obowiązków służbowych oraz odbiera mu się legitymację służbową, broń służbową i identyfikator służbowy.
@@ -1165,6 +1167,17 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 142.** Funkcjonariusz w związku z pełnieniem obowiązków służbowych korzysta z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych.
 
+**Art. 142a.**
+1. Funkcjonariuszowi przysługuje zwrot kosztów poniesionych na ochronę prawną, jeżeli wszczęte przeciwko niemu postępowanie karne o przestępstwo popełnione w związku z wykonywaniem zadań i czynności służbowych zostanie zakończone prawomocnym orzeczeniem o umorzeniu postępowania z powodu braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym.
+2. Zwrot kosztów poniesionych na ochronę prawną następuje ze środków budżetowych SOP, na wniosek funkcjonariusza, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 162 ust. 14, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+3. W szczególnie uzasadnionych przypadkach, kierując się dobrem służby, Komendant SOP może zapewnić funkcjonariuszowi, przeciwko któremu wszczęto postępowanie karne o przestępstwo popełnione w związku z wykonywaniem zadań i czynności służbowych, ochronę prawną jeszcze przed zakończeniem tego postępowania. Przepis ust. 2 stosuje się odpowiednio. Poniesione przez SOP koszty ochrony prawnej nie podlegają zwrotowi przez funkcjonariusza, niezależnie od wyniku postępowania karnego.
+
+**Art. 142b.**
+1. Funkcjonariuszowi pokrzywdzonemu przestępstwem, o którym mowa w art. 222, art. 223 lub art. 226 Kodeksu karnego, w związku z wykonywaniem zadań lub czynności służbowych przysługuje, na jego wniosek, bezpłatna ochrona prawna w postępowaniu karnym, w którym uczestniczy w charakterze pokrzywdzonego lub oskarżyciela posiłkowego.
+2. Ochronę prawną, o której mowa w ust. 1, zapewnia funkcjonariuszowi SOP.
+3. W przypadku braku możliwości zapewnienia ochrony prawnej przez SOP funkcjonariuszowi przysługuje zwrot kosztów ochrony prawnej, o której mowa w ust. 1, w wysokości faktycznie poniesionych kosztów, nie wyższej niż czterokrotność przeciętnego uposażenia funkcjonariuszy, o którym mowa w art. 162 ust. 14, obowiązującego w roku poprzedzającym dzień złożenia wniosku.
+4. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb postępowania oraz sposób dokumentowania przez funkcjonariusza kosztów poniesionych na ochronę prawną w przypadkach, o których mowa w ust. 3 oraz w art. 142a ust. 1 i 3, kierując się koniecznością korzystania przez funkcjonariusza z ochrony prawnej na wysokim poziomie, a także szybkiego zwrotu kosztów poniesionych przez funkcjonariusza na ochronę prawną.
+
 **Art. 143.**
 1. Komendant SOP zawiera umowę ubezpieczenia od następstw nieszczęśliwych wypadków, wskutek których może nastąpić uszkodzenie ciała, rozstrój zdrowia lub śmierć funkcjonariusza wykonującego zadania, o których mowa w art. 3 pkt 1 lit. a, d i f, poza granicami Rzeczypospolitej Polskiej, w państwach, których terytorium w całości lub części zostało uznane za strefę działań wojennych na podstawie przepisów ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2014 r. poz. 1510).
 2. Minister właściwy do spraw wewnętrznych może określić, w drodze rozporządzenia, inne niż wskazane w ust. 1 terytoria państw lub ich części, na których obszarze wykonywanie obowiązków służbowych przez funkcjonariuszy wymaga zawarcia umowy ubezpieczenia, o której mowa w ust. 1, uwzględniając występujące na tych terytoriach zagrożenia związane z atakami terrorystycznymi, niepokojami społecznymi, przestępczością kryminalną lub katastrofami naturalnymi.
@@ -1234,7 +1247,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 3. Minister właściwy do spraw wewnętrznych określi, w drodze zarządzenia, z zachowaniem przepisów o ochronie informacji niejawnych, normy uzbrojenia i wyposażenia specjalnego oraz sposób przyznawania, korzystania i przechowywania uzbrojenia z uwzględnieniem zasad bezpieczeństwa i skuteczności wykonywanych obowiązków służbowych.
 
 **Art. 149.**
-1. Funkcjonariuszowi w czasie wykonywania obowiązków służbowych przysługuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie.
+1. Funkcjonariuszowi w dniach pełnienia służby przysługuje bezpłatnie wyżywienie w naturze, jeżeli rodzaj i charakter służby lub właściwości lub miejsce jej pełnienia uzasadniają przyznanie wyżywienia w naturze, albo świadczenie pieniężne w zamian za wyżywienie.
 2. Wyżywienie w naturze przysługuje funkcjonariuszowi:
   1) w dniach przebywania przez niego na podstawie decyzji Komendanta SOP na terenie działania jednostki, połączonego z zakwaterowaniem, trwającego powyżej 12 godzin oraz w dniach składania egzaminów na uczelnie służb państwowych poza miejscem zamieszkania;
   2) pobierającemu naukę lub odbywającemu studia wyższe na uczelni służb państwowych, w instytucie badawczym lub na kursie - w czasie pobytu w szkole, instytucie badawczym lub na kursie poza miejscem stałego zamieszkania, a w miejscu zamieszkania wtedy, gdy na czas szkolenia jest zakwaterowany;
@@ -1243,28 +1256,35 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   5) biorącemu udział w zawodach sportowych, spartakiadach oraz przebywającemu na obozach kondycyjnych i zgrupowaniach szkoleniowych przed tymi zawodami;
   6) skierowanemu do wykonywania czynności służbowych poza miejscem stałego pełnienia służby - w warunkach uzasadniających wypłatę diety, w wymiarze odpowiadającym wysokości tej diety;
   7) w służbie stałej i przygotowawczej biorącemu udział w ćwiczeniach i szkoleniach odbywających się w ośrodku szkolenia SOP, trwających powyżej 8 godzin;
-  8) biorącemu udział w działaniach ochronnych trwających powyżej 12 godzin na terenie miasta stołecznego Warszawy.
-3. Normy wyżywienia i napojów w naturze przysługują funkcjonariuszowi:
-  1) w dniach pełnienia służby w pomieszczeniach zamkniętych, w których temperatura spowodowana warunkami techniczno-technologicznymi i lokalowymi oraz atmosferycznymi przekracza 28°C;
-  2) w dniach pełnienia służby na otwartej przestrzeni przy temperaturze powyżej 25°C lub poniżej 10°C.
+  8) biorącemu udział w zadaniach, o których mowa w art. 3 pkt 1 lit. a-d, trwających powyżej 8 godzin, odbywających się na terenie miasta stołecznego Warszawy.
+2a. Wyżywienie w naturze przysługuje funkcjonariuszowi na podstawie normy wyżywienia, którą stanowi wartość energetyczna, odżywcza i pieniężna produktów żywnościowych przysługujących funkcjonariuszowi w określonych przypadkach. W przypadku zwiększonego zapotrzebowania na wartość energetyczną i odżywczą ze względu na rodzaj i warunki służby lub szczególne właściwości lub miejsce jej pełnienia norma może zostać uzupełniona.
+2b. W przypadku braku możliwości zapewnienia funkcjonariuszom wykonującym zadania służbowe poza terenem miasta stołecznego Warszawy wyżywienia w naturze w punktach żywienia SOP normę wyżywienia podwyższa się o koszty zapewnienia wyżywienia. W sytuacji gdy jest to niezbędne dla zapewnienia ciągłości realizacji zadań, o których mowa w art. 3 pkt 1 lit. a-d, norma wyżywienia może zostać podwyższona do poziomu pozwalającego na zapewnienie wyżywienia.
+3. (uchylony)
 4. Wyżywienie przysługuje osobom powołanym do odbycia ćwiczeń w jednostce przewidzianej do militaryzacji.
-5. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
-  1) normy wyżywienia, z uwzględnieniem rodzajów tych norm oraz ich podziału, oraz przypadków, o których mowa w ust. 2,
-  2) przypadki, w których normy wyżywienia mogą zostać podwyższone,
-  3) wartości pieniężne norm wyżywienia oraz sposób ich corocznej waloryzacji
-- uwzględniając rodzaj pełnionej służby oraz szczególne warunki jej pełnienia.
-6. Funkcjonariuszowi, któremu rodzaj i warunki pełnienia służby lub względy techniczno-organizacyjne uniemożliwiają korzystanie z wyżywienia przysługującego w naturze, otrzymuje w zamian za wyżywienie równoważnik pieniężny.
-7. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
-  1) wysokość równoważnika pieniężnego w zamian za wyżywienie i sposób jego corocznej waloryzacji,
-  2) sposób wypłacania równoważnika pieniężnego w zamian za wyżywienie oraz przypadki jego zwiększania i niewypłacania
-- uwzględniając warunki otrzymywania, rodzaje oraz stawki zasadniczych i dodatkowych norm wyżywienia i napojów, a także podstawy obliczania wysokości równoważnika pieniężnego.
+4a. Funkcjonariuszowi, który zrezygnował z przysługującego mu wyżywienia w naturze, nie przysługuje świadczenie pieniężne w zamian za wyżywienie ani dieta na pokrycie zwiększonych kosztów wyżywienia, z wyjątkiem rezygnacji z wyżywienia w naturze z powodów zdrowotnych, udokumentowanych zaświadczeniem lekarskim w sytuacji braku możliwości zapewnienia funkcjonariuszowi bezpłatnego wyżywienia w naturze.
+5. (uchylony)
+6. Funkcjonariusz otrzymuje świadczenie pieniężne w zamian za wyżywienie w przypadku:
+  1) gdy rodzaj i warunki pełnienia służby lub względy techniczne lub organizacyjne uniemożliwiają korzystanie z wyżywienia przysługującego temu funkcjonariuszowi w naturze albo
+  2) braku możliwości zapewnienia funkcjonariuszowi bezpłatnego wyżywienia w naturze z powodów zdrowotnych udokumentowanych zaświadczeniem lekarskim.
+6a. Świadczenie pieniężne w zamian za wyżywienie podwyższa się w przypadku:
+  1) braku możliwości zapewnienia funkcjonariuszowi wyżywienia w naturze w punktach żywienia SOP lub zewnętrznych podmiotach gastronomicznych;
+  2) udziału funkcjonariusza w zawodach sportowych i spartakiadach oraz pobytu na obozach kondycyjnych i zgrupowaniach szkoleniowych przed tymi zawodami, jeżeli nie można mu zapewnić wyżywienia w naturze w punktach żywienia SOP lub zewnętrznych podmiotach gastronomicznych.
+6b. Funkcjonariusz, któremu przysługuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie z kilku tytułów, otrzymuje wyżywienie w naturze lub świadczenie pieniężne w zamian za wyżywienie tylko z jednego tytułu według najkorzystniejszej dla niego normy wyżywienia, z wyłączeniem przypadków, w których uczestniczy w uroczystym posiłku.
+7. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+  1) rodzaje norm wyżywienia oraz ich wartość pieniężną,
+  2) średnie wartości energetyczne i odżywcze produktów żywnościowych objętych poszczególnymi normami,
+  3) przypadki, w których normy wyżywienia mogą zostać uzupełnione, oraz wartość pieniężną uzupełnienia,
+  4) wartości świadczenia pieniężnego w zamian za wyżywienie oraz termin jego wypłaty
+- uwzględniając zasady racjonalnego żywienia, adekwatność środków finansowych służących zapewnieniu funkcjonariuszom wyżywienia w naturze względem realnej wartości wyżywienia, rozróżnienie przypadków wypłacania świadczenia pieniężnego w zamian za wyżywienie oraz mając na względzie właściwe warunki pełnienia służby.
+
+**Art. 149a.** Napoje w naturze, w ilości zaspokajającej potrzeby funkcjonariusza, przysługują w czasie pełnienia służby, w przypadkach i na warunkach określonych w art. 232 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy oraz w przepisach wykonawczych wydanych na jego podstawie.
 
 **Art. 150.**
 1. Funkcjonariuszowi, który po zwolnieniu ze służby podjął pracę, okres służby wlicza się do okresu zatrudnienia w zakresie wszelkich uprawnień wynikających z prawa pracy.
 2. Przepisu ust. 1 nie stosuje się do funkcjonariusza zwolnionego ze służby w przypadku skazania prawomocnym wyrokiem sądu lub ukarania karą dyscyplinarną wydalenia ze służby.
 
 **Art. 151.**
-1. Funkcjonariuszowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26 dni roboczych. Przez dni robocze rozumie się dni od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy.
+1. (uchylony)
 2. Funkcjonariuszowi przysługuje urlop wypoczynkowy w wymiarze:
   1) 30 dni roboczych - po osiągnięciu 15 lat służby;
   2) 33 dni roboczych - po osiągnięciu 20 lat służby;
@@ -1322,6 +1342,11 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 2. Prawo do urlopu, o którym mowa w ust. 1, nie przysługuje funkcjonariuszowi posiadającemu status weterana poszkodowanego uprawnionemu do urlopu wypoczynkowego w wymiarze przekraczającym 26 dni roboczych.
 3. Prawo do pierwszego urlopu, o którym mowa w ust. 1, powstaje z dniem, w którym decyzja administracyjna o przyznaniu statusu weterana poszkodowanego stała się ostateczna, przy czym realizacja tego prawa może nastąpić nie wcześniej niż z dniem przedstawienia przez funkcjonariusza tej decyzji Komendantowi SOP.
 4. Urlop, o którym mowa w ust. 1, wykorzystuje się w całości w roku kalendarzowym, w którym funkcjonariusz ma do niego prawo, w terminie uzgodnionym z przełożonym funkcjonariusza.
+
+**Art. 158b.**
+1. Urlopu wypoczynkowego i dodatkowego urlopu wypoczynkowego udziela się w dni, które są dla funkcjonariusza dniami służby, zgodnie z obowiązującym go rozkładem czasu służby, w wymiarze godzinowym, odpowiadającym dobowemu wymiarowi czasu służby funkcjonariusza w danym dniu.
+2. Każde 8 godzin urlopu udzielonego zgodnie z ust. 1 zmniejsza wymiar należnego urlopu o 1 dzień.
+3. Udzielenie funkcjonariuszowi urlopu w dniu służby w wymiarze godzinowym, odpowiadającym części dobowego wymiaru czasu służby jest dopuszczalne jedynie w przypadku, gdy część urlopu pozostała do wykorzystania jest niższa niż pełny dobowy wymiar czasu służby funkcjonariusza w dniu, w którym ma być udzielony urlop.
 
 **Art. 159.**
 1. Funkcjonariuszowi, który wzorowo wykonuje obowiązki, przejawia inicjatywę w służbie lub doskonali kwalifikacje zawodowe, mogą być udzielane następujące wyróżnienia:
@@ -1430,6 +1455,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   4) nagroda jubileuszowa;
   5) nagroda roczna;
   6) rekompensata pieniężna za czas służby przekraczający normę, o której mowa w art. 81 ust. 2.
+  7) świadczenie pieniężne w zamian za wyżywienie;
+  8) świadczenie motywacyjne.
 2. W przypadku śmierci funkcjonariusza lub członka jego rodziny przysługują:
   1) zasiłek pogrzebowy;
   2) odprawa pośmiertna.
@@ -1445,6 +1472,35 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 1. Rekompensata pieniężna, o której mowa w art. 172 ust. 1 pkt 6, za jedną godzinę służby stanowi 1/172 uposażenia zasadniczego wraz z dodatkami o charakterze stałym należnego funkcjonariuszowi na stanowisku zajmowanym w ostatnim dniu okresu rozliczeniowego, o którym mowa w art. 81 ust. 2, lub ostatnim dniu służby za każdą godzinę służby przekraczającą normę, o której mowa w art. 81 ust. 2. Łączny czas służby przekraczający normę w danym okresie rozliczeniowym zaokrągla się w górę do pełnej godziny.
 2. Należną rekompensatę pieniężną, o której mowa w art. 172 ust. 1 pkt 6, wypłaca się do końca kwartału następującego po okresie rozliczeniowym, lecz nie później niż do dnia zwolnienia ze służby.
 3. Rekompensatę pieniężną, o której mowa w art. 172 ust. 1 pkt 6, należną zmarłemu lub zaginionemu funkcjonariuszowi wypłaca się jego małżonkowi lub członkom rodziny uprawnionym do policyjnej renty rodzinnej. Wypłata rekompensaty pieniężnej następuje niezwłocznie po stwierdzeniu wygaśnięcia stosunku służbowego.
+
+**Art. 172b.**
+1. Funkcjonariuszowi przyznaje się świadczenie motywacyjne po osiągnięciu:
+  1) 25 lat służby, ale nie więcej niż 28 lat i 6 miesięcy - w wysokości 1500 zł miesięcznie, albo
+  2) 28 lat i 6 miesięcy służby - w wysokości 2500 zł miesięcznie.
+2. Do stażu służby, o którym mowa w ust. 1, zalicza się okresy:
+  1) służby w SOP;
+  2) służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Służbie Celnej, Służbie Celno-Skarbowej i Służbie Więziennej;
+  3) traktowane jako równorzędne ze służbą, o której mowa w pkt 1 i 2, wymienione w art. 13 ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin (Dz. U. z 2020 r. poz. 723).
+3. Decyzję o przyznaniu lub odmowie przyznania świadczenia motywacyjnego Komendant SOP wydaje nie później niż w terminie 30 dni po osiągnięciu przez funkcjonariusza stażu służby, o którym mowa w ust. 1 pkt 1 lub 2.
+4. Przed wydaniem decyzji o przyznaniu świadczenia motywacyjnego funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 82, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+5. Minister właściwy do spraw wewnętrznych przyznaje świadczenie motywacyjne Komendantowi SOP i jego zastępcom.
+6. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
+  1) który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 102 ust. 2 pkt 2 albo 3 albo art. 107 ust. 1 pkt 2 albo 3 albo ust. 2 pkt 1 - przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
+  2) przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne - do czasu prawomocnego zakończenia tego postępowania;
+  3) ukaranemu karą dyscyplinarną - do czasu jej zatarcia;
+  4) skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone - przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
+7. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
+8. Od decyzji o odmowie przyznania świadczenia motywacyjnego oraz od decyzji stwierdzającej ustanie prawa do wypłaty świadczenia motywacyjnego funkcjonariuszowi przysługuje w terminie 7 dni od dnia doręczenia decyzji wniosek o ponowne rozpatrzenie sprawy.
+9. Świadczenia motywacyjnego nie wypłaca się za okres:
+  1) korzystania z urlopu bezpłatnego,
+  2) przerw w wykonywaniu obowiązków służbowych, za które funkcjonariusz nie zachował prawa do uposażenia, wymienionych w art. 203,
+  3) zawieszenia w czynnościach służbowych albo tymczasowego aresztowania,
+  4) zwolnienia z zajęć służbowych, o którym mowa w art. 194 ust. 2 pkt 1 i 3-5,
+  5) innej nieobecności trwającej co najmniej jeden miesiąc
+- proporcjonalnie do tego okresu.
+10. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
+11. Świadczenie motywacyjne jest płatne z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
+12. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
 
 **Art. 173.**
 1. Funkcjonariuszowi mogą być przyznawane nagrody uznaniowe i zapomogi.
@@ -1621,7 +1677,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 3. Uposażenie, o którym mowa w ust. 1 pkt 1, nie przysługuje także funkcjonariuszowi, który został zwolniony ze służby w okresie przygotowawczym.
 4. W przypadku zbiegu uprawnień do uposażenia, o którym mowa w ust. 1 pkt 1, i zaopatrzenia emerytalnego funkcjonariuszowi przysługuje, według jego wyboru, tylko jedna z tych należności.
 5. Funkcjonariusz, który nie posiada uprawnień do zaopatrzenia emerytalnego lub zamiast tego zaopatrzenia wybrał uposażenie określone w ust. 1 pkt 1, może pobrać uposażenie za cały należny okres jednorazowo z góry.
-6. Wysokość ekwiwalentu, o którym mowa w ust. 1 pkt 2, oblicza się, mnożąc 1/30 uposażenia zasadniczego, wraz z dodatkami o charakterze stałym, w wysokości średniej tych dodatków z ostatnich 12 miesięcy, należnego na ostatnio zajmowanym stanowisku, przez liczbę dni niewykorzystanego urlopu.
+6. Wysokość ekwiwalentu za 1 dzień urlopu, o którym mowa w ust. 1 pkt 2, oblicza się, mnożąc 1/21 uposażenia zasadniczego wraz z dodatkami o charakterze stałym, w wysokości średniej tych dodatków z ostatnich 12 miesięcy, należnego funkcjonariuszowi na ostatnio zajmowanym stanowisku służbowym przez liczbę dni niewykorzystanego urlopu.
 
 **Art. 189.**
 1. Osobie, która pokryła koszty pogrzebu funkcjonariusza, przysługuje zasiłek pogrzebowy:
@@ -1793,45 +1849,65 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 ## Rozdział 9 — Odpowiedzialność dyscyplinarna funkcjonariuszy
 
 **Art. 208.**
-1. Funkcjonariusz, niezależnie od odpowiedzialności karnej, ponosi odpowiedzialność dyscyplinarną za popełnione przestępstwa i wykroczenia.
+1. Funkcjonariusz podlega odpowiedzialności dyscyplinarnej za popełnienie przewinienia dyscyplinarnego polegającego na naruszeniu dyscypliny służbowej lub nieprzestrzeganiu zasad etyki zawodowej funkcjonariusza SOP.
 2. Czyn stanowiący przewinienie dyscyplinarne, wypełniający jednocześnie znamiona przestępstwa lub wykroczenia albo przestępstwa skarbowego lub wykroczenia skarbowego, podlega odpowiedzialności dyscyplinarnej niezależnie od odpowiedzialności karnej.
 3. W przypadku czynu stanowiącego przewinienie dyscyplinarne, wypełniającego jednocześnie znamiona wykroczenia, w przypadku mniejszej wagi lub ukarania grzywną, przełożony dyscyplinarny może nie wszczynać postępowania dyscyplinarnego, a wszczęte umorzyć.
 
 **Art. 209.**
-1. Funkcjonariusz podlega odpowiedzialności dyscyplinarnej za naruszenie dyscypliny służbowej lub nieprzestrzeganie zasad etyki zawodowej funkcjonariuszy oraz w innych przypadkach określonych w ustawie.
+1. Naruszenie dyscypliny służbowej stanowi czyn funkcjonariusza polegający na zawinionym przekroczeniu uprawnień lub niewykonaniu obowiązków służbowych wynikających z przepisów prawa lub poleceń wydanych przez przełożonych uprawnionych na podstawie tych przepisów.
 2. Naruszeniem dyscypliny służbowej jest w szczególności:
   1) odmowa wykonania albo niewykonanie polecenia przełożonego, względnie organu uprawnionego na podstawie ustawy do wydawania poleceń funkcjonariuszom, z wyłączeniem poleceń, o których mowa w art. 130 ust. 2;
+  1a) niedopełnienie obowiązków funkcjonariusza wynikających ze złożonego ślubowania, a także z przepisów prawa;
   2) zaniechanie czynności służbowej albo wykonanie jej w sposób nieprawidłowy;
   3) niedopełnienie obowiązków służbowych albo przekroczenie uprawnień;
   4) wprowadzenie w błąd przełożonego lub innego funkcjonariusza, jeżeli spowodowało to lub mogło spowodować szkodę w służbie, funkcjonariuszowi lub innej osobie;
+  4a) nadużycie zajmowanego stanowiska dla osiągnięcia korzyści majątkowej lub osobistej;
   5) postępowanie przełożonego w sposób przyczyniający się do rozluźnienia dyscypliny służbowej w podległej komórce organizacyjnej SOP;
-  6) stawienie się do służby w stanie po spożyciu alkoholu lub po użyciu podobnie działającego środka, pełnienie jej w takim stanie oraz spożywanie alkoholu lub używanie podobnie działającego środka w czasie służby albo w obiektach lub na terenach zajmowanych przez SOP;
+  5a) porzucenie służby;
+  5b) samowolne oddalenie się z rejonu zakwaterowania lub nieusprawiedliwione opuszczenie miejsca pełnienia służby lub niestawienie się w tym miejscu;
+  6) stawienie się do służby w stanie nietrzeźwości albo po użyciu alkoholu albo po użyciu podobnie działającego środka, pełnienie jej w takim stanie oraz spożywanie alkoholu lub używanie podobnie działającego środka w czasie służby albo w obiektach lub na terenach zajmowanych przez SOP;
+  6a) umyślne naruszenie dóbr osobistych innego funkcjonariusza;
   7) utrata służbowej broni palnej, amunicji, legitymacji służbowej lub identyfikatora służbowego;
   8) utrata przedmiotu stanowiącego wyposażenie służbowe, którego wykorzystanie przez osoby nieuprawnione wyrządziło szkodę obywatelowi lub stworzyło zagrożenie dla porządku publicznego lub bezpieczeństwa powszechnego;
   9) utrata materiału zawierającego informacje niejawne;
   10) ujawnianie informacji pozostającej w związku z wykonywaniem czynności służbowych, jeżeli spowodowało to lub mogło spowodować szkodę w służbie;
-  11) podjęcie dodatkowych zajęć zarobkowych poza służbą bez zezwolenia Komendanta SOP;
-  12) nieprawidłowe wykorzystanie zwolnienia lekarskiego stwierdzone w drodze kontroli, o której mowa w art. 198;
+  11) (uchylony)
+  12) (uchylony)
   13) nieusprawiedliwiona nieobecność w służbie.
-3. W przypadku czynu stanowiącego przewinienie dyscyplinarne mniejszej wagi przełożony dyscyplinarny może odstąpić od wszczęcia postępowania i przeprowadzić ze sprawcą przewinienia dyscyplinarnego udokumentowaną w formie notatki rozmowę dyscyplinującą. W przypadku kwestionowania przez funkcjonariusza decyzji o przeprowadzeniu z nim rozmowy dyscyplinującej przełożony dyscyplinarny nie przeprowadza jej i wszczyna w tym zakresie postępowanie dyscyplinarne.
-4. Notatkę, o której mowa w ust. 3, włącza się do akt osobowych na okres roku.
+3. W przypadku czynu stanowiącego przewinienie dyscyplinarne mniejszej wagi przełożony dyscyplinarny może odstąpić od wszczęcia postępowania i przeprowadzić ze sprawcą przewinienia dyscyplinarnego udokumentowaną w formie notatki rozmowę dyscyplinującą.
+3a. Rozmowę dyscyplinującą można przeprowadzić w terminie do 30 dni od dnia powzięcia przez przełożonego dyscyplinarnego wiadomości o popełnieniu przewinienia dyscyplinarnego. Rozmowa ta polega na wytknięciu funkcjonariuszowi niewłaściwego postępowania oraz uprzedzeniu go o możliwości zastosowania innych środków dyscyplinujących, a także wszczęcia postępowania i wymierzenia kary dyscyplinarnej w przypadku ponownego popełnienia czynu, za który funkcjonariusz ponosi odpowiedzialność dyscyplinarną.
+3b. Jeżeli funkcjonariusz nie zgadza się z wytkniętym mu niewłaściwym postępowaniem podczas rozmowy dyscyplinującej w terminie 5 dni od dnia zapoznania się z notatką z tej rozmowy może wnieść do przełożonego dyscyplinarnego pisemny sprzeciw, zwany dalej „sprzeciwem”. O prawie do wniesienia sprzeciwu funkcjonariusza poucza się podczas rozmowy dyscyplinującej, a treść pouczenia zawiera się w notatce z tej rozmowy.
+3c. Wniesienie sprzeciwu obliguje przełożonego dyscyplinarnego do wszczęcia postępowania dyscyplinarnego, z wyjątkiem przypadku gdy nastąpił upływ terminów określonych w art. 213.
+3d. Brak wniesienia sprzeciwu powoduje włączenie notatki z przeprowadzonej rozmowy dyscyplinującej do akt osobowych funkcjonariusza, z którym była przeprowadzona ta rozmowa. W przypadku wniesienia sprzeciwu notatkę z przeprowadzonej rozmowy dyscyplinującej włącza się do akt postępowania dyscyplinarnego.
+3e. W przypadku wniesienia sprzeciwu i braku możliwości wszczęcia postępowania dyscyplinarnego w związku z upływem terminów określonych w art. 213 notatka z przeprowadzonej rozmowy dyscyplinującej podlega zniszczeniu.
+3f. W przypadku wniesienia sprzeciwu po upływie terminu, o którym mowa w ust. 3b, przełożony dyscyplinarny wydaje postanowienie o odmowie przyjęcia sprzeciwu. Na postanowienie przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia. Zażalenie wnosi się za pośrednictwem przełożonego dyscyplinarnego do Komendanta SOP. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant SOP, przysługuje wniosek o ponowne rozpatrzenie sprawy. Przepis art. 235 ust. 3 stosuje się odpowiednio.
+4. Notatkę, o której mowa w ust. 3, włącza się do akt osobowych na 5 miesięcy.
 
 **Art. 210.** Przewinienie dyscyplinarne jest zawinione wtedy, gdy funkcjonariusz:
 1) ma zamiar jego popełnienia, to jest chce je popełnić albo przewidując możliwość jego popełnienia, na to się godzi;
 2) nie mając zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
 
 **Art. 211.**
-1. Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie lub w porozumieniu z inną osobą, a także w przypadku, gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego.
-2. Funkcjonariusz odpowiada dyscyplinarnie także w przypadku, gdy nakłania innego funkcjonariusza do popełnienia przewinienia dyscyplinarnego albo ułatwia jego popełnienie.
-3. Każdy z funkcjonariuszy, o których mowa w ust. 1 i 2, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
+1. Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie i w porozumieniu z inną osobą, a także w przypadku gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego albo poleca jego popełnienie.
+2. Funkcjonariusz odpowiada dyscyplinarnie także wówczas, gdy chcąc, aby inny funkcjonariusz popełnił przewinienie dyscyplinarne, nakłania go do tego.
+3. Funkcjonariusz odpowiada dyscyplinarnie w przypadku, gdy chcąc, aby inny funkcjonariusz popełnił przewinienie dyscyplinarne, lub godząc się na to, swoim zachowaniem ułatwia jego popełnienie.
+4. Każdy z funkcjonariuszy, o których mowa w ust. 1-3, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
+5. Funkcjonariusz odpowiada dyscyplinarnie za popełnienie przewinienia dyscyplinarnego za granicą.
+6. Dwa lub więcej zachowań podjętych w krótkich odstępach czasu w celu wykonania tego samego zamiaru lub z wykorzystaniem takiej samej sposobności uważa się za jedno przewinienie dyscyplinarne.
 
 **Art. 212.**
 1. Komendant SOP posiada władzę dyscyplinarną wobec wszystkich funkcjonariuszy.
 2. Przełożonym dyscyplinarnym, posiadającym władzę dyscyplinarną wobec funkcjonariusza, jest kierownik komórki organizacyjnej SOP w stosunku do funkcjonariuszy pełniących służbę w tej komórce, zastępca Komendanta SOP w stosunku do nadzorowanych kierowników komórek organizacyjnych i bezpośrednio podległych funkcjonariuszy, a także Komendant SOP w stosunku do swoich zastępców i bezpośrednio podległych funkcjonariuszy.
+3. Minister właściwy do spraw wewnętrznych posiada władzę dyscyplinarną wobec Komendanta SOP.
+4. Funkcjonariusz, któremu powierzono pełnienie obowiązków na danym stanowisku służbowym, posiada władzę dyscyplinarną przysługującą funkcjonariuszowi powołanemu na to stanowisko.
+5. Funkcjonariusz, który w zastępstwie wykonuje obowiązki na danym stanowisku służbowym, posiada władzę dyscyplinarną przysługującą osobie zastępowanej.
+6. Funkcjonariusz przebywający na urlopach związanych z rodzicielstwem, urlopie bezpłatnym lub oddelegowany do wykonywania zadań poza SOP podlega władzy dyscyplinarnej przełożonego dyscyplinarnego, któremu podlegał przed udzieleniem mu urlopu lub oddelegowaniem.
+7. Przełożonym dyscyplinarnym funkcjonariusza oddelegowanego do pełnienia służby w Biurze Nadzoru Wewnętrznego jest Inspektor Nadzoru Wewnętrznego, z wyłączeniem orzekania kar dyscyplinarnych określonych w art. 215 pkt 3-7, które wymierza przełożony, o którym mowa w ust. 1 lub 2. Przepisy art. 232 ust. 2, art. 235 ust. 4, art. 242 ust. 9 oraz art. 243 ust. 5 stosuje się odpowiednio.
 
 **Art. 213.**
-1. Nie można wszcząć postępowania dyscyplinarnego po upływie 90 dni od dnia otrzymania przez przełożonego, o którym mowa w art. 212 ust. 2, udokumentowanej wiadomości o popełnieniu przewinienia lub naruszeniu dyscypliny służbowej.
-2. Nie można wymierzyć funkcjonariuszowi kary dyscyplinarnej po upływie 1 roku od dnia popełnienia czynu, o którym mowa w ust. 1.
+1. Nie można wszcząć postępowania dyscyplinarnego po upływie 90 dni od dnia otrzymania przez przełożonego dyscyplinarnego udokumentowanej informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza czynu, za który ponosi on odpowiedzialność dyscyplinarną.
+1a. Jeżeli funkcjonariusz z powodu nieobecności w służbie nie ma możliwości złożenia wyjaśnień, bieg terminu, o którym mowa w ust. 1, nie rozpoczyna się, a rozpoczęty ulega zawieszeniu do dnia stawienia się funkcjonariusza do służby.
+2. Nie można wymierzyć funkcjonariuszowi kary dyscyplinarnej po upływie 2 lat od dnia popełnienia czynu, o którym mowa w ust. 1.
 3. W przypadku gdy czyn, o którym mowa w ust. 1, stanowi jednocześnie przestępstwo, przedawnienie karalności dyscyplinarnej następuje dopiero z upływem okresu przedawnienia karalności przestępstwa.
 
 **Art. 214.** O popełnieniu przez funkcjonariusza wykroczenia, w tym także o odmowie przyjęcia mandatu karnego lub nieuiszczeniu w terminie grzywny nałożonej w drodze mandatu zaocznego, właściwy organ zawiadamia Komendanta SOP.
@@ -1842,14 +1918,15 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 3) ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;
 4) wyznaczenie na niższe stanowisko służbowe;
 5) obniżenie stopnia;
-6) obniżenie dodatków o charakterze stałym;
+5a) ostrzeżenie o niepełnej przydatności do służby;
+6) (uchylony)
 7) wydalenie ze służby.
 
 **Art. 216.** Kara upomnienia polega na zwróceniu uwagi na niewłaściwe postępowanie.
 
 **Art. 217.** Kara nagany polega na wytknięciu ukaranemu niewłaściwego postępowania.
 
-**Art. 218.** Kara ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku polega na wytknięciu ukaranemu niewłaściwego postępowania i uprzedzeniu go, że jeżeli ponownie popełni przewinienie dyscyplinarne, może zostać wyznaczony na niższe stanowisko służbowe w trybie dyscyplinarnym lub ukarany surowszą karą dyscyplinarną.
+**Art. 218.** Kara ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku polega na wytknięciu ukaranemu niewłaściwego postępowania i uprzedzeniu go, że jeżeli ponownie popełni przewinienie dyscyplinarne, zostanie wyznaczony na niższe stanowisko służbowe w trybie dyscyplinarnym lub ukarany surowszą karą dyscyplinarną.
 
 **Art. 219.**
 1. Kara wyznaczenia na niższe stanowisko służbowe polega na odwołaniu z dotychczas zajmowanego stanowiska służbowego i wyznaczeniu na stanowisko służbowe niższe od dotychczas zajmowanego.
@@ -1857,22 +1934,25 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 220.**
 1. Kara obniżenia stopnia oznacza obniżenie posiadanego stopnia służbowego.
-2. Karę obniżenia stopnia można wymierzyć tylko obok kary wyznaczenia na niższe stanowisko służbowe lub kary wydalenia ze służby.
+2. Karę obniżenia stopnia można wymierzyć tylko obok kary wyznaczenia na niższe stanowisko służbowe, kary ostrzeżenia o niepełnej przydatności do służby albo kary wydalenia ze służby.
 
-**Art. 221.** Kara obniżenia dodatków o charakterze stałym oznacza obniżenie posiadanych dodatków o charakterze stałym. Karę można wymierzyć wyłącznie obok kary wyznaczenia na niższe stanowisko służbowe lub kary wydalenia ze służby.
+**Art. 220a.** Kara ostrzeżenia o niepełnej przydatności do służby polega na wytknięciu ukaranemu niewłaściwego postępowania i uprzedzeniu go, że jeżeli ponownie popełni przewinienie dyscyplinarne, zostanie wydalony ze służby.
+
+**Art. 221.** (uchylony)
 
 **Art. 222.** Kara wydalenia ze służby polega na zwolnieniu ze służby w SOP.
 
 **Art. 223.**
 1. Za popełnione przewinienie dyscyplinarne można wymierzyć tylko jedną karę dyscyplinarną.
 2. Za popełnienie kilku przewinień dyscyplinarnych można wymierzyć jedną karę dyscyplinarną, odpowiednio surowszą.
-3. Przepisy ust. 1 i 2 stosuje się z zastrzeżeniem art. 220 ust. 2 i art. 221.
+3. Przepisy ust. 1 i 2 stosuje się z zastrzeżeniem art. 220 ust. 2.
 
 **Art. 224.**
-1. Wymierzona kara powinna być współmierna do popełnionego przewinienia dyscyplinarnego i stopnia zawinienia, w szczególności powinna uwzględniać okoliczności popełnienia przewinienia dyscyplinarnego, jego skutki, w tym następstwa dla służby, rodzaj i stopień naruszenia ciążących na obwinionym obowiązków, pobudki działania, zachowanie obwinionego przed popełnieniem przewinienia dyscyplinarnego i po jego popełnieniu, postawę w trakcie prowadzonego postępowania dyscyplinarnego oraz dotychczasowy przebieg służby.
+1. Karę dyscyplinarną wymierza się w sposób współmierny do przewinienia dyscyplinarnego popełnionego przez obwinionego oraz stopnia zawinienia.
+1a. Przy wymierzaniu kary dyscyplinarnej uwzględnia się rodzaj i wagę czynu, skutki i okoliczności jego popełnienia, pobudki działania obwinionego, następstwa negatywne dla służby, dotychczasowe wyniki w służbie, opinię służbową, okres pozostawania w służbie oraz zachowanie się obwinionego przed popełnieniem i po popełnieniu zarzucanego mu czynu, a także inne okoliczności, zarówno łagodzące, jak i obciążające, istotne w sprawie.
 2. Na zaostrzenie wymiaru kary mają wpływ następujące okoliczności popełnienia przewinienia dyscyplinarnego:
-  1) działanie z motywacji zasługującej na szczególne potępienie albo w stanie po spożyciu alkoholu lub użyciu innego podobnie działającego środka;
-  2) popełnienie przewinienia dyscyplinarnego przez funkcjonariusza przed zatarciem wymierzonej mu kary dyscyplinarnej;
+  1) działanie z motywacji zasługującej na szczególne potępienie albo w stanie nietrzeźwości albo po użyciu alkoholu lub innego podobnie działającego środka;
+  2) popełnienie przewinienia dyscyplinarnego w czasie odbywania uprzednio wymierzonej kary dyscyplinarnej, jak również w czasie próby określonej w orzeczeniu o warunkowym zawieszeniu wykonania kary lub warunkowym umorzeniu postępowania karnego;
   3) poważne skutki przewinienia dyscyplinarnego, zwłaszcza istotne zakłócenie realizacji zadań SOP lub naruszenie dobrego imienia SOP;
   4) działanie w obecności podwładnego, wspólnie z nim lub na jego szkodę.
 3. Na złagodzenie wymiaru kary mają wpływ następujące okoliczności popełnienia przewinienia dyscyplinarnego:
@@ -1882,16 +1962,42 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   4) dobrowolne poinformowanie przełożonego dyscyplinarnego o popełnieniu przewinienia dyscyplinarnego przed wszczęciem postępowania dyscyplinarnego.
 4. Przy wymierzeniu kary dyscyplinarnej uwzględnia się okoliczności, o których mowa w ust. 1-3, wyłącznie w stosunku do funkcjonariusza, którego one dotyczą.
 
+**Art. 224a.**
+1. Podstawę wszelkich rozstrzygnięć w postępowaniach dyscyplinarnych stanowią ustalenia faktyczne.
+2. Przełożony dyscyplinarny i rzecznik dyscyplinarny kształtują swoje przekonanie na podstawie wszystkich przeprowadzonych dowodów, ocenianych swobodnie z uwzględnieniem zasad prawidłowego rozumowania oraz wskazań wiedzy i doświadczenia życiowego.
+3. Przełożony dyscyplinarny i rzecznik dyscyplinarny rozstrzygają samodzielnie zagadnienia faktyczne i prawne oraz nie są związani rozstrzygnięciem sądu lub innego organu. Prawomocne rozstrzygnięcia sądu kształtujące prawo lub stosunek prawny są jednak wiążące.
+
 **Art. 225.**
 1. Przełożony dyscyplinarny, jeżeli zachodzi uzasadnione przypuszczenie popełnienia przez funkcjonariusza przewinienia dyscyplinarnego:
   1) wszczyna postępowanie dyscyplinarne:
     a) z własnej inicjatywy,
     b) na wniosek bezpośredniego przełożonego funkcjonariusza,
-    c) na żądanie sądu lub prokuratora;
-  2) może wszcząć postępowanie dyscyplinarne na wniosek pokrzywdzonego.
-2. W przypadku, o którym mowa w ust. 1 pkt 1 lit. c i pkt 2, zawiadamia się odpowiednio sąd lub prokuratora albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania, przesyłając odpis wydanego orzeczenia lub postanowienia. Materiały przekazane przez sąd, prokuratora albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego.
-3. Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo tożsamości sprawcy, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny zleca przeprowadzenie czynności wyjaśniających. Czynności te należy ukończyć w terminie 30 dni, a w szczególnie skomplikowanych sprawach czynności wyjaśniające za zgodą przełożonego dyscyplinarnego mogą być zakończone w terminie do 60 dni.
+    c) na żądanie sądu lub prokuratora,
+    d) wskutek wniesienia sprzeciwu, o którym mowa w art. 209 ust. 3b;
+  2) może wszcząć postępowanie dyscyplinarne na wniosek pokrzywdzonego, innego zainteresowanego organu lub instytucji.
+2. W przypadkach, o których mowa w ust. 1 pkt 1 lit. c i pkt 2, przełożony dyscyplinarny lub Komendant SOP zawiadamiają odpowiednio sąd lub prokuratora oraz organ lub instytucję albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania. Materiały przekazane przez sąd, prokuratora, organ, instytucję albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego.
+2a. Pokrzywdzonym jest osoba, której dobro prawne zostało bezpośrednio naruszone zachowaniem funkcjonariusza stanowiącym przewinienie dyscyplinarne.
+3. Jeżeli zachodzą wątpliwości co do popełnienia przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo tożsamości sprawcy, przed wszczęciem postępowania dyscyplinarnego przełożony dyscyplinarny pisemnie zleca rzecznikowi dyscyplinarnemu przeprowadzenie czynności wyjaśniających, opatrując to polecenie datą otrzymania informacji uzasadniających przeprowadzenie czynności. Czynności te kończy się w terminie 30 dni od dnia wydania postanowienia, o którym mowa w ust. 3a. W szczególnych przypadkach ze względu na charakter sprawy czynności wyjaśniające za zgodą przełożonego dyscyplinarnego mogą być kontynuowane w terminie nie dłuższym niż 60 dni od dnia wydania postanowienia, o którym mowa w ust. 3a.
+3a. Rozpoczęcie czynności wyjaśniających następuje w drodze postanowienia.
+3b. Postanowienie, o którym mowa w ust. 3a, zawiera:
+  1) stopień, imię, nazwisko i stanowisko służbowe przełożonego dyscyplinarnego;
+  2) datę wydania;
+  3) podstawę prawną;
+  4) datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniających przeprowadzenie czynności wyjaśniających;
+  5) określenie okoliczności stanowiących przedmiot czynności wyjaśniających;
+  6) wskazanie rzecznika dyscyplinarnego do prowadzenia czynności wyjaśniających;
+  7) podpis przełożonego dyscyplinarnego i urzędową pieczęć SOP albo urzędową pieczęć ministra właściwego do spraw wewnętrznych.
+3c. Jeżeli w toku czynności wyjaśniających zostały ujawnione inne okoliczności wskazujące na możliwość popełnienia przewinienia dyscyplinarnego, rzecznik dyscyplinarny za zgodą przełożonego dyscyplinarnego może poszerzyć zakres okoliczności stanowiących przedmiot czynności wyjaśniających, o których mowa w ust. 3b pkt 5.
+3d. W toku czynności wyjaśniających nie przeprowadza się dowodu z opinii biegłego ani czynności wymagających spisania protokołu.
+3e. Z przeprowadzonych czynności wyjaśniających rzecznik dyscyplinarny sporządza sprawozdanie, w którym w szczególności przedstawia wnioski dotyczące wszczęcia postępowania dyscyplinarnego, odstąpienia od wszczęcia postępowania dyscyplinarnego albo odstąpienia od wszczęcia postępowania dyscyplinarnego i przeprowadzenia rozmowy dyscyplinującej ze sprawcą przewinienia dyscyplinarnego.
+3f. W przypadku wszczęcia postępowania dyscyplinarnego materiały zebrane podczas przeprowadzania czynności wyjaśniających stają się materiałami postępowania dyscyplinarnego.
 4. Postępowanie dyscyplinarne wszczyna się z dniem wydania postanowienia o wszczęciu postępowania dyscyplinarnego. Funkcjonariusza, wobec którego wydano postanowienie o wszczęciu postępowania dyscyplinarnego, uważa się za obwinionego.
+4a. Celem postępowania dyscyplinarnego jest w szczególności:
+  1) ustalenie, czy czyn zarzucany obwinionemu został popełniony i czy obwiniony jest jego sprawcą;
+  2) wyjaśnienie przyczyn i okoliczności popełnienia czynu, o którym mowa w pkt 1;
+  3) zebranie i utrwalenie dowodów w sprawie.
+4b. Przełożony dyscyplinarny i wyższy przełożony dyscyplinarny badają swoją właściwość przed podjęciem czynności w sprawach dyscyplinarnych, a w przypadku stwierdzenia braku właściwości przekazują sprawę odpowiednio uprawnionemu przełożonemu dyscyplinarnemu albo wyższemu przełożonemu dyscyplinarnemu.
+4c. Rzecznik dyscyplinarny przekazuje niezwłocznie przełożonemu dyscyplinarnemu dokumenty w sprawach dyscyplinarnych zastrzeżonych do jego właściwości.
 5. Postanowienie o wszczęciu postępowania dyscyplinarnego zawiera:
   1) oznaczenie przełożonego dyscyplinarnego;
   2) datę wydania postanowienia;
@@ -1900,41 +2006,65 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   5) uzasadnienie faktyczne zarzucanego przewinienia dyscyplinarnego;
   6) wskazanie rzecznika dyscyplinarnego prowadzącego postępowanie;
   7) podpis z podaniem imienia i nazwiska oraz stopnia przełożonego dyscyplinarnego;
-  8) pouczenie o uprawnieniach przysługujących obwinionemu w toku postępowania dyscyplinarnego.
+  8) pouczenie o uprawnieniach przysługujących obwinionemu w toku postępowania dyscyplinarnego;
+  9) datę otrzymania przez przełożonego dyscyplinarnego informacji uzasadniającej podejrzenie popełnienia przez funkcjonariusza zarzucanego mu czynu.
+6. W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w art. 226a ust. 1, i przekazania sprawy do ponownego rozpatrzenia za dzień wszczęcia postępowania dyscyplinarnego przyjmuje się dzień wydania orzeczenia, o którym mowa w art. 226a ust. 1.
 
 **Art. 226.**
-1. Postępowania dyscyplinarnego nie wszczyna się, a wszczęte umarza:
-  1) jeżeli czynności wyjaśniające nie potwierdziły zaistnienia przewinienia dyscyplinarnego;
-  2) po upływie terminów określonych w art. 213 ust. 2 i 3;
-  3) w przypadku śmierci funkcjonariusza;
-  4) jeżeli w tej samej sprawie zapadło prawomocne orzeczenie dyscyplinarne lub toczy się postępowanie dyscyplinarne.
+1. Postępowania dyscyplinarnego nie wszczyna się, jeżeli:
+  1) czynności wyjaśniające nie potwierdziły popełnienia przewinienia dyscyplinarnego;
+  2) upłynęły terminy określone w art. 213 ust. 2 i 3;
+  3) postępowanie dyscyplinarne w sprawie tego samego czynu i tego samego funkcjonariusza zostało prawomocnie zakończone lub, wcześniej wszczęte, toczy się.
 2. Postanowienie o odmowie wszczęcia postępowania dyscyplinarnego oraz orzeczenie o umorzeniu postępowania dyscyplinarnego doręcza się pokrzywdzonemu, jeżeli złożył on wniosek o wszczęcie postępowania dyscyplinarnego. Na postanowienie o odmowie wszczęcia postępowania dyscyplinarnego oraz na orzeczenie o umorzeniu tego postępowania pokrzywdzony może wnieść odpowiednio zażalenie lub odwołanie do Komendanta SOP w terminie 7 dni od dnia ich doręczenia.
+
+**Art. 226a.**
+1. Przełożony dyscyplinarny może wydać orzeczenie bez wszczynania postępowania dyscyplinarnego, jeżeli okoliczności popełnionego czynu i wina funkcjonariusza nie budzą wątpliwości oraz nie zachodzi potrzeba wymierzenia kary dyscyplinarnej surowszej niż nagana.
+2. W przypadkach, o których mowa w ust. 1, orzeczenie wydaje się po wysłuchaniu funkcjonariusza i złożeniu przez niego wyjaśnienia na piśmie oraz wyrażeniu pisemnej zgody na poddanie się karze dyscyplinarnej bez prowadzenia postępowania dyscyplinarnego.
+3. Po wszczęciu postępowania dyscyplinarnego do czasu zakończenia pierwszego przesłuchania w charakterze obwinionego obwiniony może złożyć wniosek o dobrowolne poddanie się karze dyscyplinarnej.
+4. Przełożony dyscyplinarny może uwzględnić wniosek o dobrowolne poddanie się karze dyscyplinarnej, jeżeli okoliczności popełnienia przewinienia dyscyplinarnego i wina obwinionego nie budzą wątpliwości, a charakter popełnionego przewinienia uzasadnia wymierzenie kary dyscyplinarnej, o której mowa w art. 215 pkt 1 lub 2. Czynności, o których mowa w art. 233 ust. 1-6, nie przeprowadza się.
+5. W przypadku uwzględnienia wniosku o dobrowolne poddanie się karze dyscyplinarnej przełożony dyscyplinarny wydaje orzeczenie o ukaraniu.
+6. Od orzeczenia o ukaraniu obwinionemu przysługuje odwołanie w terminie 7 dni od dnia doręczenia orzeczenia. Odwołanie składa się do przełożonego dyscyplinarnego, który wydał orzeczenie.
+7. Przełożony dyscyplinarny odmawia przyjęcia odwołania, w drodze postanowienia, jeżeli zostało wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej sprawie jest ostateczne.
+8. W przypadku złożenia odwołania przez obwinionego przełożony dyscyplinarny uchyla orzeczenie o ukaraniu, kontynuuje postępowanie dyscyplinarne i wydaje orzeczenie, o którym mowa w art. 234 ust. 1, od którego przysługuje odwołanie w trybie art. 235.
+9. Cofnięcie odwołania, o którym mowa w ust. 6, jest niedopuszczalne.
 
 **Art. 227.**
 1. Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w art. 225 ust. 3, prowadzi rzecznik dyscyplinarny.
 2. Komendant SOP wyznacza rzeczników dyscyplinarnych na okres 4 lat spośród funkcjonariuszy w służbie stałej, mających odpowiednie kwalifikacje zawodowe i dających rękojmię należytego prowadzenia czynności wyjaśniających i postępowań dyscyplinarnych.
+2a. Przełożony dyscyplinarny do prowadzenia postępowania dyscyplinarnego oraz czynności wyjaśniających, o których mowa w art. 225 ust. 3, wyznacza rzecznika dyscyplinarnego w stopniu co najmniej:
+  1) młodszego chorążego SOP - jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień w korpusie szeregowych, podoficerów lub chorążych;
+  2) podporucznika SOP - jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień podporucznika, porucznika lub kapitana SOP;
+  3) majora SOP - jeżeli postępowanie ma dotyczyć funkcjonariusza posiadającego stopień majora SOP lub wyższy.
 3. Rzecznika dyscyplinarnego odwołuje się w przypadkach:
   1) zaistnienia okoliczności, które stanowią podstawę zwolnienia go ze służby w SOP;
-  2) prawomocnego ukarania go karą dyscyplinarną.
+  2) prawomocnego zawieszenia go w czynnościach służbowych;
+  3) prawomocnego ukarania go karą dyscyplinarną;
+  4) delegowania go do wykonywania zadań poza SOP.
+3a. Komendant SOP może odwołać rzecznika dyscyplinarnego na jego uzasadniony wniosek.
 4. Rzecznik dyscyplinarny, za zgodą Komendanta SOP, może skorzystać z pomocy innego rzecznika dyscyplinarnego przy przeprowadzaniu czynności dowodowych.
 5. Rzecznik dyscyplinarny lub przełożony dyscyplinarny podlega wyłączeniu od udziału w postępowaniu dyscyplinarnym, jeżeli:
   1) sprawa dotyczy go bezpośrednio;
-  2) jest małżonkiem, krewnym lub powinowatym obwinionego lub osoby przez niego pokrzywdzonej w rozumieniu przepisów Kodeksu postępowania karnego;
-  3) był świadkiem czynu;
-  4) między nim a obwinionym lub osobą pokrzywdzoną przez obwinionego zachodzi stosunek osobisty mogący wywołać wątpliwości co do jego bezstronności.
+  2) jest małżonkiem obwinionego, jego obrońcy lub pokrzywdzonego albo pozostaje we wspólnym pożyciu z jedną z tych osób;
+  2a) jest krewnym lub powinowatym obwinionego lub pokrzywdzonego w linii prostej, a w linii bocznej do stopnia pokrewieństwa między dziećmi rodzeństwa osób wymienionych w pkt 2, albo jest związany z jedną z tych osób węzłem przysposobienia, opieki lub kurateli;
+  3) był świadkiem zdarzenia lub w tej sprawie był przesłuchany w charakterze świadka;
+  4) między nim a obwinionym lub pokrzywdzonym zachodzi stosunek osobisty mogący wywołać wątpliwości co do bezstronności prowadzącego postępowanie;
+  5) jest podwładnym obwinionego, jego obrońcy lub pokrzywdzonego.
 6. Rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego można wyłączyć od udziału w postępowaniu dyscyplinarnym także z innych uzasadnionych przyczyn.
-7. O okolicznościach uzasadniających wyłączenie od udziału w postępowaniu dyscyplinarnym rzecznik dyscyplinarny lub przełożony dyscyplinarny zawiadamiają niezwłocznie Komendanta SOP.
+6a. Przełożony dyscyplinarny i rzecznik dyscyplinarny badają z urzędu, czy nie zachodzą okoliczności uzasadniające ich wyłączenie z udziału w postępowaniu dyscyplinarnym.
+7. O okolicznościach uzasadniających wyłączenie z udziału w postępowaniu dyscyplinarnym:
+  1) rzecznik dyscyplinarny zawiadamia niezwłocznie przełożonego dyscyplinarnego;
+  2) przełożony dyscyplinarny zawiadamia niezwłocznie Komendanta SOP.
 8. Wyłączenie rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego od udziału w postępowaniu dyscyplinarnym może nastąpić również na wniosek obwinionego lub jego obrońcy, jeżeli został ustanowiony.
-9. Komendant SOP wydaje postanowienie o wyłączeniu lub odmowie wyłączenia rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego od udziału w postępowaniu dyscyplinarnym.
+9. Odpowiednio Komendant SOP lub przełożony dyscyplinarny wydaje postanowienie o wyłączeniu lub odmowie wyłączenia przełożonego dyscyplinarnego lub rzecznika dyscyplinarnego z udziału w postępowaniu dyscyplinarnym.
 
 **Art. 228.**
 1. W przypadku wyłączenia przełożonego dyscyplinarnego od udziału w postępowaniu dyscyplinarnym na podstawie art. 227 ust. 5 i 6 postępowanie dyscyplinarne przejmuje Komendant SOP.
 2. W przypadku zaistnienia okoliczności, o których mowa w art. 227 ust. 5 i 6, wobec Komendanta SOP postępowanie dyscyplinarne przejmuje jeden z jego zastępców.
 3. W przypadku wyłączenia rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym na podstawie art. 227 ust. 5 i 6 postępowanie dyscyplinarne przejmuje do prowadzenia inny wyznaczony rzecznik dyscyplinarny.
-4. Do czasu wydania przez Komendanta SOP postanowienia o wyłączeniu rzecznik dyscyplinarny podejmuje wyłącznie czynności niecierpiące zwłoki.
+4. Do czasu wydania przez przełożonego dyscyplinarnego postanowienia o wyłączeniu rzecznik dyscyplinarny podejmuje wyłącznie czynności niecierpiące zwłoki.
 
 **Art. 229.**
-1. Rzecznik dyscyplinarny zbiera materiał dowodowy i podejmuje czynności niezbędne do wyjaśnienia sprawy. W szczególności przesłuchuje świadków, pokrzywdzonego, przyjmuje wyjaśnienia od obwinionego, rozpatruje złożone wnioski dowodowe oraz dokonuje oględzin. Z czynności tych sporządza protokoły. Rzecznik dyscyplinarny może także zlecić przeprowadzenie odpowiednich badań.
+1. Rzecznik dyscyplinarny zbiera materiał dowodowy i podejmuje czynności niezbędne do wyjaśnienia sprawy. W szczególności przesłuchuje obwinionego, świadków i pokrzywdzonego, dokonuje oględzin, konfrontacji, okazania oraz dokonuje odtworzenia przebiegu stanowiących przedmiot rozpoznania zdarzeń lub ich fragmentów. Z czynności tych sporządza protokoły. Rzecznik dyscyplinarny zleca lub występuje do przełożonego dyscyplinarnego o zlecenie przeprowadzenia odpowiednich badań, ekspertyz i tłumaczeń oraz zasięga niezbędnych opinii.
 2. Z czynności innych niż wymienione w ust. 1 sporządza się protokół, jeżeli przepis szczególny tego wymaga albo przełożony dyscyplinarny lub rzecznik dyscyplinarny uzna to za potrzebne. W pozostałych przypadkach można ograniczyć się do sporządzenia notatki urzędowej.
 3. Protokół zawiera:
   1) oznaczenie czynności, jej czasu i miejsca, osób w niej uczestniczących lub przy niej obecnych oraz charakteru ich uczestnictwa;
@@ -1955,7 +2085,9 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   6) uzasadnienie faktyczne i prawne;
   7) pouczenie, czy i w jakim trybie przysługuje prawo złożenia zażalenia;
   8) podpis z podaniem imienia i nazwiska wydającego postanowienie.
-8. Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny może zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. Za zgodą tego organu potrzebne odpisy lub wyciągi z udostępnionych akt włącza się do akt postępowania dyscyplinarnego.
+7a. Rzecznik dyscyplinarny, który wydał postanowienie, w przypadku wniesienia zażalenia na to postanowienie, niezwłocznie przekazuje je przełożonemu dyscyplinarnemu wraz z aktami postępowania oraz ze swoim stanowiskiem, nie później jednak niż w terminie 3 dni od dnia, w którym otrzymał zażalenie.
+8. Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, w tym postępowania przygotowawczego, przełożony dyscyplinarny lub rzecznik dyscyplinarny mogą zwrócić się do właściwego organu o udostępnienie akt tego postępowania w całości lub w części. Za zgodą tego organu potrzebne odpisy lub wyciągi z udostępnionych akt włącza się do akt postępowania dyscyplinarnego.
+8a. Rzecznik dyscyplinarny w razie ustalenia na podstawie zebranego materiału dowodowego, że obwinionemu należy zarzucić czyn, który nie był objęty uprzednio wydanym postanowieniem, lub że zachodzi potrzeba istotnej zmiany opisu czynu lub jego kwalifikacji prawnej, występuje do przełożonego dyscyplinarnego z wnioskiem o zmianę lub uzupełnienie zarzutów.
 9. Jeżeli zebrany materiał dowodowy to uzasadnia, przełożony dyscyplinarny wydaje postanowienie o zmianie lub uzupełnieniu zarzutów.
 
 **Art. 230.**
@@ -1964,51 +2096,61 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   2) odmowy składania wyjaśnień;
   3) zgłaszania wniosków dowodowych;
   4) przeglądania akt postępowania dyscyplinarnego oraz sporządzania z nich notatek, fotokopii oraz odpisów;
-  5) ustanowienia obrońcy, także spośród funkcjonariuszy;
+  5) korzystania z pomocy obrońcy, którym może być wskazany przez obwinionego funkcjonariusz SOP, adwokat albo radca prawny;
   6) wnoszenia do przełożonego dyscyplinarnego zażaleń na postanowienia wydane w toku postępowania przez rzecznika dyscyplinarnego, w terminie 3 dni od dnia doręczenia i w przypadkach wskazanych w ustawie; od postanowień wydanych przez przełożonego dyscyplinarnego przysługuje zażalenie do Komendanta SOP.
 2. Rzecznik dyscyplinarny może, w drodze postanowienia, odmówić udostępnienia akt, jeżeli sprzeciwia się temu dobro postępowania dyscyplinarnego. Na postanowienie przysługuje zażalenie.
 3. Ustanowienie obrońcy, jeżeli nie zawiera ograniczeń, uprawnia go do działania w całym postępowaniu dyscyplinarnym, nie wyłączając czynności po uprawomocnieniu się orzeczenia. O zmianie zakresu pełnomocnictwa uprawniającego do działania w postępowaniu dyscyplinarnym lub o jego cofnięciu obwiniony niezwłocznie zawiadamia obrońcę oraz rzecznika dyscyplinarnego.
 4. Obrońca nie może podejmować czynności na niekorzyść obwinionego. Może on zrezygnować z reprezentowania obwinionego w toku postępowania dyscyplinarnego, zawiadamiając o tym obwinionego oraz rzecznika dyscyplinarnego. Do czasu ustanowienia nowego obrońcy, jednak nie dłużej niż w terminie 14 dni od dnia zawiadomienia obwinionego, obrońca jest obowiązany podejmować niezbędne czynności.
 5. Udział obrońcy w postępowaniu dyscyplinarnym nie wyłącza osobistego działania w nim obwinionego.
 6. Orzeczenia, postanowienia, zawiadomienia i inne pisma wydane w toku postępowania dyscyplinarnego doręcza się obwinionemu oraz obrońcy, jeżeli został ustanowiony. W przypadku doręczenia obwinionemu i obrońcy w różnych terminach pisma, od którego przysługuje odwołanie lub zażalenie, termin na złożenie odwołania lub zażalenia liczy się od dnia doręczenia, które nastąpiło wcześniej.
+6a. Zażalenie na postanowienie wnosi się za pośrednictwem rzecznika dyscyplinarnego do przełożonego dyscyplinarnego, a jeżeli postanowienie wydał ten przełożony dyscyplinarny, do Komendanta SOP za pośrednictwem tego przełożonego. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant SOP, zażalenie nie przysługuje, jednak obwiniony może zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy.
+6b. Zażalenie na postanowienie wnosi się w terminie 3 dni od dnia doręczenia postanowienia.
 7. Wniosek dowodowy obwiniony zgłasza na piśmie rzecznikowi dyscyplinarnemu, który rozstrzyga o uwzględnieniu wniosku albo odmawia, w drodze postanowienia, uwzględnienia wniosku, jeżeli:
   1) okoliczność, która ma być udowodniona, nie ma znaczenia dla rozstrzygnięcia sprawy albo jest już udowodniona zgodnie z twierdzeniem wnioskodawcy;
   2) dowód jest nieprzydatny do stwierdzenia danej okoliczności lub nie da się go przeprowadzić;
-  3) przeprowadzenie dowodu jest sprzeczne z prawem;
-  4) wniosek dowodowy w sposób oczywisty zmierza do przedłużenia postępowania dyscyplinarnego.
+  3) przeprowadzenie dowodu jest niedopuszczalne;
+  4) wniosek dowodowy w sposób oczywisty zmierza do przedłużenia postępowania dyscyplinarnego;
+  5) wniosek dowodowy został złożony po zakreślonym terminie, o którym wnioskodawca został zawiadomiony.
 8. Na postanowienie w przedmiocie nieuwzględnienia wniosku dowodowego przysługuje zażalenie.
 9. Nieusprawiedliwiona nieobecność obwinionego w służbie, zwolnienie obwinionego od zajęć służbowych z powodu choroby oraz nieusprawiedliwione niestawiennictwo na wezwanie rzecznika dyscyplinarnego oraz uporczywe unikanie z nim kontaktu nie wstrzymują biegu postępowania dyscyplinarnego, a czynności, w których jest przewidziany udział obwinionego, nie przeprowadza się albo przeprowadza się w miejscu jego pobytu.
-10. Udział w czynnościach dowodowych oraz zapoznanie z aktami postępowania dyscyplinarnego obwinionego zwolnionego od zajęć służbowych z powodu choroby wymagają zgody lekarza, który orzekł czasową niezdolność obwinionego do służby, chyba że obwiniony pisemnie wyrazi na to zgodę. W przypadku braku możliwości nawiązania kontaktu z lekarzem lub zmiany lekarza zgody takiej może udzielić lekarz, który obecnie leczy obwinionego, a w dalszej kolejności lekarz o takiej samej specjalności.
-11. W przypadku długotrwałego niewyrażania przez lekarza, o którym mowa w ust. 10, zgody na udział obwinionego w czynnościach dowodowych, a okoliczności tych decyzji budzą uzasadnione wątpliwości, można zwrócić się do biegłego lekarza sądowego o pisemną opinię w tym zakresie. Wyrażenie zgody biegłego lekarza sądowego umożliwia kontynuowanie czynności dowodowych z obwinionym.
+10. Choroba obwinionego, świadka i innego uczestnika postępowania dyscyplinarnego stwierdzona zwolnieniem lekarskim usprawiedliwia nieobecność tych osób podczas czynności objętych danym postępowaniem przez okresy nie dłuższe niż łącznie 14 dni w ciągu całego postępowania dyscyplinarnego. Usprawiedliwienie nieobecności z powodu choroby za każdy następny jej okres wymaga przedstawienia zaświadczenia wystawionego przez lekarza uprawnionego do wystawiania zaświadczeń potwierdzających niemożność stawienia się na wezwanie lub zawiadomienie organu prowadzącego postępowanie karne.
+11. (uchylony)
 
 **Art. 231.**
 1. Przełożony dyscyplinarny i rzecznik dyscyplinarny są obowiązani badać oraz uwzględniać okoliczności przemawiające zarówno na korzyść, jak i na niekorzyść obwinionego.
 2. Obwinionego uważa się za niewinnego, dopóki jego wina nie zostanie udowodniona i stwierdzona prawomocnym orzeczeniem. Niedające się usunąć wątpliwości rozstrzyga się na korzyść obwinionego.
 
 **Art. 232.**
-1. Czynności dowodowe w postępowaniu dyscyplinarnym powinny być zakończone w terminie miesiąca od dnia wszczęcia tego postępowania. Przełożony dyscyplinarny, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych do 3 miesięcy.
+1. Czynności dowodowe w postępowaniu dyscyplinarnym kończy się w terminie 30 dni od dnia wszczęcia tego postępowania. Przełożony dyscyplinarny, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony nie dłuższy niż 3 miesiące.
 2. Komendant SOP, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony, powyżej 3 miesięcy.
-3. Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania lub na wniosek pokrzywdzonego. Na postanowienie o zawieszeniu postępowania dyscyplinarnego przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia. Jeżeli postępowanie dyscyplinarne zostało wszczęte z inicjatywy pokrzywdzonego, zażalenie to może również złożyć pokrzywdzony.
+2a. Wniosek o przedłużenie terminu prowadzenia czynności dowodowych w postępowaniu dyscyplinarnym wraz z uzasadnieniem składa się nie później niż 5 dni przed upływem tego terminu. Przed wydaniem postanowienia o przedłużeniu terminu prowadzenia czynności dowodowych właściwy do jego wydania przełożony dyscyplinarny lub Komendant SOP może zażądać niezwłocznego przekazania akt postępowania.
+3. Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne, w drodze postanowienia, z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania. Na postanowienie o zawieszeniu postępowania dyscyplinarnego obwinionemu i pokrzywdzonemu przysługuje zażalenie. Jeżeli postanowienie wydał minister właściwy do spraw wewnętrznych albo Komendant SOP, zażalenie nie przysługuje, jednak obwiniony i pokrzywdzony mogą zwrócić się odpowiednio do ministra właściwego do spraw wewnętrznych albo Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy.
+3a. Zawieszenie postępowania dyscyplinarnego wstrzymuje bieg terminów.
 4. Przełożony dyscyplinarny wydaje postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego po ustaniu przeszkody, o której mowa w ust. 3.
 
+**Art. 232a.**
+1. Jeżeli przeciwko obwinionemu jest prowadzone postępowanie dyscyplinarne obejmujące zarzuty popełnienia dwóch lub więcej czynów, a zebrane na danym etapie postępowania dowody dają podstawy do uznania obwinionego winnym popełnienia jednego z zarzuconych mu czynów, przełożony dyscyplinarny może, w drodze postanowienia, wyłączyć ten czyn do odrębnego postępowania dyscyplinarnego, bez względu na to, czy wyjaśniono wszystkie okoliczności dotyczące pozostałych czynów objętych postępowaniem.
+2. W przypadku, o którym mowa w ust. 1, zebrane w toku postępowania dyscyplinarnego dowody dotyczące wyłączonego czynu stają się dowodami w odrębnym postępowaniu dyscyplinarnym.
+
 **Art. 233.**
-1. Rzecznik dyscyplinarny, po przeprowadzeniu czynności dowodowych i uznaniu, że zostały wyjaśnione wszystkie istotne okoliczności sprawy, zapoznaje obwinionego z aktami postępowania dyscyplinarnego.
+1. Rzecznik dyscyplinarny, po przeprowadzeniu czynności dowodowych i uznaniu, że zostały wyjaśnione wszystkie istotne okoliczności sprawy, zapoznaje obwinionego i jego obrońcę z aktami postępowania dyscyplinarnego.
 2. Obrońca może zapoznać się z aktami postępowania dyscyplinarnego, o których mowa w ust. 1, nie później niż do dnia zapoznania obwinionego z tymi aktami.
 3. Z czynności zapoznania z aktami postępowania dyscyplinarnego sporządza się protokół.
-4. Odmowa zapoznania się z aktami postępowania lub złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje wzmianki o odmowie w aktach postępowania.
+4. Odmowa obwinionego lub jego obrońcy zapoznania się z aktami postępowania lub złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje w aktach postępowania dyscyplinarnego wzmianki o odmowie obwinionego lub jego obrońcy zapoznania się z tymi aktami. Nieusprawiedliwione niestawienie się obwinionego lub jego obrońcy na czynność zapoznania się z aktami postępowania dyscyplinarnego jest równoznaczne z odmową zapoznania się z tymi aktami.
 5. Obwiniony ma prawo w terminie 3 dni od dnia zapoznania się z aktami postępowania dyscyplinarnego zgłosić wniosek o ich uzupełnienie. Na wydane przez rzecznika dyscyplinarnego postanowienie o odmowie uzupełnienia akt postępowania dyscyplinarnego obwinionemu służy prawo złożenia zażalenia.
 6. Obwiniony ma prawo w terminie 3 dni od dnia zapoznania się z uzupełnionymi aktami postępowania dyscyplinarnego zgłosić wniosek o ich uzupełnienie w zakresie wynikającym z przeprowadzonych czynności dowodowych uzupełniających akta tego postępowania.
-7. Rzecznik dyscyplinarny po zapoznaniu obwinionego z aktami postępowania dyscyplinarnego wydaje postanowienie o zakończeniu czynności dowodowych oraz sporządza sprawozdanie, w którym:
+7. Rzecznik dyscyplinarny po zapoznaniu obwinionego lub jego obrońcy z aktami postępowania dyscyplinarnego wydaje postanowienie o zakończeniu czynności dowodowych oraz sporządza, w terminie 7 dni, opatrzone datą sprawozdanie, w którym:
   1) wskazuje prowadzącego postępowanie i przełożonego dyscyplinarnego, który wydał postanowienie o wszczęciu postępowania dyscyplinarnego;
-  2) wskazuje obwinionego oraz określa zarzucane mu przewinienie dyscyplinarne, z opisem stanu faktycznego ustalonym na podstawie zebranych dowodów;
-  3) przedstawia wnioski dotyczące uniewinnienia, odstąpienia od ukarania lub wymierzenia kary albo umorzenia postępowania.
+  2) wskazuje obwinionego oraz określa zarzucane mu przewinienie dyscyplinarne, z opisem stanu faktycznego i prawnego ustalonym na podstawie zebranych dowodów;
+  3) przedstawia wnioski dotyczące uniewinnienia, odstąpienia od ukarania lub wymierzenia kary dyscyplinarnej albo umorzenia postępowania.
 
 **Art. 234.**
-1. Na podstawie oceny zebranego w postępowaniu dyscyplinarnym materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
-  1) uniewinnieniu albo
-  2) odstąpieniu od ukarania, albo
-  3) ukaraniu, albo
+1. Na podstawie zebranego w postępowaniu materiału dowodowego przełożony dyscyplinarny wydaje orzeczenie o:
+  1) uniewinnieniu, jeżeli przeprowadzone postępowanie nie potwierdziło zarzutów stawianych obwinionemu, albo
+  2) uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o wymierzeniu kary dyscyplinarnej, albo
+  3) uznaniu winnym popełnienia czynu, za który obwiniony ponosi odpowiedzialność dyscyplinarną, i o odstąpieniu od wymierzenia kary dyscyplinarnej, albo
   4) umorzeniu postępowania.
+1a. Przełożony dyscyplinarny w orzeczeniu może zmienić opis czynu lub jego kwalifikację prawną w granicach czynu zarzucanego obwinionemu i jego kwalifikacji prawnej.
 2. Orzeczenie powinno zawierać:
   1) oznaczenie przełożonego dyscyplinarnego;
   2) datę wydania orzeczenia;
@@ -2018,29 +2160,50 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   6) uzasadnienie faktyczne i prawne orzeczenia;
   7) pouczenie o prawie, terminie i trybie wniesienia odwołania;
   8) podpis, z podaniem imienia i nazwiska przełożonego dyscyplinarnego, oraz pieczęć komórki organizacyjnej SOP.
-3. Przełożony dyscyplinarny uchyla postanowienie, o którym mowa w art. 233 ust. 7, oraz przekazuje akta sprawy rzecznikowi dyscyplinarnemu do uzupełnienia w przypadku stwierdzenia, że nie zostały wyjaśnione istotne okoliczności sprawy.
-4. Przełożony dyscyplinarny umarza postępowanie dyscyplinarne w przypadkach, o których mowa w art. 226 ust. 1, albo gdy stało się ono bezprzedmiotowe z innej przyczyny.
+2a. Uzasadnienie faktyczne orzeczenia zawiera w szczególności wskazanie faktów, które uznano za udowodnione, dowodów, na których się oparto, oraz przyczyn, dla których innym dowodom odmówiono wiarygodności i mocy dowodowej. W uzasadnieniu prawnym wyjaśnia się podstawy prawne orzeczenia z przytoczeniem przepisów prawa. W uzasadnieniu faktycznym przytacza się ponadto okoliczności, które wpłynęły na wymiar kary dyscyplinarnej lub na odstąpienie od wymierzenia kary dyscyplinarnej.
+2b. Oczywiste omyłki pisarskie i rachunkowe w orzeczeniu lub postanowieniu można sprostować w każdym czasie w drodze postanowienia.
+2c. Sprostowanie oczywistych omyłek pisarskich i rachunkowych w protokołach sporządzanych w toku postępowania dyscyplinarnego wymaga opisania tych omyłek przez osobę sporządzającą protokół przed jego podpisaniem. W przypadku ujawnienia omyłek pisarskich lub rachunkowych po podpisaniu protokołu prostuje się je w drodze postanowienia.
+2d. Od postanowień, o których mowa w ust. 2b i 2c, odwołanie nie przysługuje.
+2e. Sprostowanie omyłek pisarskich i rachunkowych następuje z urzędu albo na wniosek pokrzywdzonego, ukaranego lub obwinionego albo, w przypadku jego śmierci, na wniosek jego małżonka, krewnych w linii prostej, rodzeństwa, przysposabiającego lub przysposobionego.
+2f. Sprostowania dokonuje przełożony dyscyplinarny lub rzecznik dyscyplinarny, który popełnił omyłkę.
+3. Jeżeli przełożony dyscyplinarny uzna, że w przekazanych mu aktach postępowania dyscyplinarnego są istotne braki, w terminie 14 dni od dnia przekazania mu akt wydaje postanowienie o uchyleniu postanowienia o zakończeniu czynności dowodowych i zwraca sprawę rzecznikowi dyscyplinarnemu w celu usunięcia stwierdzonych braków w zakresie dowodowym.
+4. Jeżeli w dniu wydania orzeczenia zachodzi okoliczność uzasadniająca umorzenie postępowania w części, o umorzeniu rozstrzyga się w tym orzeczeniu.
 5. Przełożony dyscyplinarny może odstąpić od ukarania, jeżeli stopień winy lub stopień szkodliwości przewinienia dyscyplinarnego dla służby nie jest znaczny, a właściwości i warunki osobiste funkcjonariusza oraz dotychczasowy przebieg służby uzasadniają przypuszczenie, że mimo odstąpienia od ukarania będzie on przestrzegał dyscypliny służbowej oraz zasad etyki zawodowej.
-6. Orzeczenie, o którym mowa w ust. 1, wraz z uzasadnieniem sporządza się na piśmie nie później niż w terminie 14 dni od dnia wydania postanowienia o zakończeniu czynności dowodowych.
+6. Orzeczenie, o którym mowa w ust. 1, wraz z uzasadnieniem sporządza się na piśmie nie później niż w terminie 14 dni od dnia sporządzenia przez rzecznika dyscyplinarnego sprawozdania z przeprowadzonego postępowania dyscyplinarnego.
 7. Orzeczenie, o którym mowa w ust. 1, doręcza się niezwłocznie obwinionemu.
-8. W przypadku zamiaru wymierzenia kary wydalenia ze służby w SOP Komendant SOP, przed wydaniem orzeczenia dyscyplinarnego, wzywa obwinionego w celu wysłuchania go. W wysłuchaniu uczestniczy rzecznik dyscyplinarny. Obwinionemu doręcza się sprawozdanie w terminie umożliwiającym zapoznanie się z nim przed wysłuchaniem.
+8. W przypadku zamiaru wymierzenia kary wydalenia ze służby w SOP przełożony dyscyplinarny, przed wydaniem orzeczenia dyscyplinarnego, wzywa obwinionego w celu wysłuchania go. W wysłuchaniu uczestniczy rzecznik dyscyplinarny. Obwinionemu doręcza się sprawozdanie w terminie umożliwiającym zapoznanie się z nim przed wysłuchaniem.
 9. Przepisu ust. 8 nie stosuje się w przypadku:
   1) tymczasowego aresztowania obwinionego;
   2) odmowy przez obwinionego stawienia się lub jego nieusprawiedliwionej nieobecności;
   3) zaistnienia innej przeszkody uniemożliwiającej obwinionemu stawienie się w terminie 14 dni od dnia doręczenia postanowienia o zakończeniu czynności dowodowych.
 
+**Art. 234a.**
+1. Postępowanie dyscyplinarne umarza się, jeżeli:
+  1) nastąpiło przedawnienie wymierzenia kary dyscyplinarnej;
+  2) zostało ono wszczęte po upływie terminu, o którym mowa w art. 213 ust. 1;
+  3) ustalono, że czyn stanowiący przewinienie dyscyplinarne przypisany obwinionemu nie wypełnia znamion czynu stanowiącego przewinienie dyscyplinarne;
+  4) obwiniony zmarł lub został uznany za zaginionego;
+  5) obwiniony przestał podlegać orzecznictwu dyscyplinarnemu;
+  6) zostało prawomocnie zakończone postępowanie dyscyplinarne w sprawie tego samego czynu zarzuconego obwinionemu albo, wszczęte wcześniej, toczy się.
+2. Postępowanie dyscyplinarne można umorzyć w razie:
+  1) długotrwałej choroby obwinionego;
+  2) wycofania wniosku, o którym mowa w art. 225 ust. 1 pkt 2.
+3. Orzeczenia o umorzeniu postępowania z uwagi na przedawnienie karalności nie wydaje się, w przypadku gdy zebrane dowody uzasadniają uniewinnienie obwinionego od popełnienia zarzucanego mu czynu.
+4. W przypadku przywrócenia do służby funkcjonariusza, wobec którego w dniu jego zwolnienia ze służby postępowanie dyscyplinarne zostało umorzone na podstawie przesłanki, o której mowa w ust. 1 pkt 5, przełożony dyscyplinarny wydaje postanowienie o uchyleniu orzeczenia o umorzeniu tego postępowania dyscyplinarnego, o ile nie nastąpiło przedawnienie wymierzenia kary dyscyplinarnej za czyn będący przedmiotem tego postępowania, oraz wyznacza rzecznika dyscyplinarnego do prowadzenia postępowania dyscyplinarnego.
+
 **Art. 235.**
 1. Postępowanie dyscyplinarne jest dwuinstancyjne. Od orzeczenia wydanego w pierwszej instancji obwinionemu przysługuje odwołanie w terminie 7 dni od dnia doręczenia orzeczenia.
 2. Odwołanie składa się do Komendanta SOP za pośrednictwem przełożonego dyscyplinarnego, który wydał orzeczenie w pierwszej instancji.
 3. Komendant SOP odmawia przyjęcia odwołania, w drodze postanowienia, jeżeli zostało wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej sprawie jest ostateczne.
-4. Jeżeli orzeczenie lub postanowienie w pierwszej instancji wydał Komendant SOP, odwołanie lub zażalenie nie przysługują. Obwiniony może jednak w terminie, o którym mowa w ust. 1, zwrócić się do Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy; do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od orzeczeń.
+4. Jeżeli orzeczenie lub postanowienie w pierwszej instancji wydał minister właściwy do spraw wewnętrznych lub Komendant SOP, odwołanie lub zażalenie nie przysługuje. Obwiniony może jednak w terminie, o którym mowa w ust. 1, zwrócić się do ministra właściwego do spraw wewnętrznych lub Komendanta SOP z wnioskiem o ponowne rozpatrzenie sprawy. Do wniosku tego stosuje się odpowiednio przepisy dotyczące odwołań od orzeczeń.
+5. Przełożony dyscyplinarny, który wydał orzeczenie lub postanowienie w pierwszej instancji, w przypadku wniesienia odwołania lub zażalenia niezwłocznie przekazuje je Komendantowi SOP wraz z aktami postępowania, aktami osobowymi obwinionego oraz ze swoim stanowiskiem, nie później jednak niż w terminie 4 dni od dnia, w którym otrzymał odwołanie lub zażalenie.
 
 **Art. 236.**
 1. W postępowaniu odwoławczym rozpoznanie sprawy następuje na podstawie stanu faktycznego ustalonego w postępowaniu dyscyplinarnym. Jeżeli jest to potrzebne do prawidłowego wydania orzeczenia, Komendant SOP może uzupełnić materiał dowodowy, zlecając rzecznikowi dyscyplinarnemu prowadzącemu postępowanie dyscyplinarne wykonanie czynności dowodowych i określając ich zakres.
 2. Z materiałami uzyskanymi w wyniku czynności dowodowych, o których mowa w ust. 1, rzecznik dyscyplinarny zapoznaje obwinionego. W terminie 3 dni od dnia zapoznania z tymi materiałami obwiniony ma prawo zgłoszenia Komendantowi SOP uwag dotyczących przeprowadzonych czynności dowodowych.
 
 **Art. 237.**
-1. Komendant SOP w terminie 7 dni od dnia wniesienia odwołania może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej „komisją”, a w przypadku orzeczenia o ukaraniu karą wydalenia ze służby jest obowiązany powołać komisję.
+1. Komendant SOP, w terminie 7 dni od dnia wniesienia odwołania, może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej „komisją”, a w przypadku orzeczenia o wymierzeniu kary dyscyplinarnej, o której mowa w art. 215 pkt 4-5a lub 7, jest obowiązany powołać komisję.
 2. Komisja składa się z 3 oficerów. Pracami komisji kieruje wskazany przez Komendanta SOP przewodniczący.
 3. Przepisy art. 227 ust. 5 i 6 stosuje się odpowiednio do członków komisji.
 4. Komisja może wysłuchać rzecznika dyscyplinarnego, obwinionego lub jego obrońcy.
@@ -2050,39 +2213,42 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 **Art. 238.**
 1. Z przeprowadzonych czynności komisja sporządza sprawozdanie wraz z wnioskiem dotyczącym sposobu załatwienia odwołania.
 2. Komisja przedstawia Komendantowi SOP sprawozdanie, o którym mowa w ust. 1, w terminie 21 dni od dnia jej powołania.
-3. Rozpatrzenie odwołania przez Komendanta SOP powinno nastąpić w terminie 14 dni od dnia wpływu odwołania, a w przypadku powołania komisji - w terminie 7 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1.
+3. Rozpatrzenie odwołania przez Komendanta SOP następuje w terminie 30 dni od dnia wpływu odwołania, a w przypadku powołania komisji - w terminie 14 dni od dnia otrzymania opatrzonego datą sprawozdania, o którym mowa w ust. 1.
 4. Komendant SOP może zaskarżone orzeczenie:
   1) utrzymać w mocy albo
   2) uchylić w całości albo w części i w tym zakresie uniewinnić obwinionego, odstąpić od ukarania, względnie wymierzyć inną karę, albo uchylając to orzeczenie, umorzyć postępowanie dyscyplinarne w pierwszej instancji, albo
-  3) uchylić w całości i przekazać sprawę do ponownego rozpatrzenia przez przełożonego dyscyplinarnego, gdy rozstrzygnięcie sprawy wymaga przeprowadzenia czynności dowodowych w całości lub w znacznej części.
+  3) uchylić w całości i przekazać sprawę do ponownego rozpatrzenia przez przełożonego dyscyplinarnego, gdy rozstrzygnięcie sprawy wymaga uzupełnienia materiału dowodowego w całości lub w znacznej części albo zaskarżone orzeczenie lub przeprowadzone postępowanie dyscyplinarne zawiera istotne błędy lub braki.
 5. Postępowanie odwoławcze umarza się w przypadku cofnięcia odwołania.
 6. W postępowaniu odwoławczym Komendant SOP nie może wymierzyć surowszej kary dyscyplinarnej, chyba że zaskarżone orzeczenie rażąco narusza prawo lub interes służby.
+7. W przypadku uchylenia w postępowaniu odwoławczym orzeczenia, o którym mowa w ust. 4 pkt 3, i przekazania sprawy do ponownego rozpatrzenia za dzień wszczęcia postępowania dyscyplinarnego przyjmuje się dzień wydania orzeczenia o uchyleniu.
 
 **Art. 239.**
 1. Orzeczenie lub postanowienie staje się prawomocne:
   1) z upływem terminu do wniesienia odwołania lub zażalenia, jeżeli go nie wniesiono;
   2) w dniu wydania przez organ odwoławczy orzeczenia lub postanowienia kończącego postępowanie.
 2. Przełożony dyscyplinarny po uprawomocnieniu się orzeczenia lub postanowienia niezwłocznie wykonuje orzeczoną karę.
-3. Przełożony dyscyplinarny po uprawomocnieniu się orzeczenia niezwłocznie wykonuje karę ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku.
-4. Przełożony, o którym mowa w ust. 3, po uprawomocnieniu się orzeczenia niezwłocznie wykonuje karę wyznaczenia na niższe stanowisko służbowe, wydalenia ze służby przez wydanie decyzji odpowiednio o zwolnieniu lub odwołaniu ukaranego z dotychczas zajmowanego stanowiska służbowego i wyznaczeniu go na niższe stanowisko służbowe albo zwolnieniu ukaranego funkcjonariusza ze służby.
+3. (uchylony)
+4. Komendant SOP, na wniosek przełożonego dyscyplinarnego złożony po uprawomocnieniu się orzeczenia, wykonuje karę wyznaczenia na niższe stanowisko służbowe, obniżenia stopnia lub wydalenia ze służby przez wydanie decyzji odpowiednio o zwolnieniu lub odwołaniu ukaranego z dotychczas zajmowanego stanowiska służbowego i wyznaczeniu go na niższe stanowisko służbowe, obniżeniu stopnia albo zwolnieniu ukaranego funkcjonariusza ze służby w SOP.
 5. Prawomocne orzeczenie o odstąpieniu od ukarania albo o ukaraniu oraz prawomocne postanowienie o odstąpieniu od wszczęcia postępowania dyscyplinarnego włącza się do akt osobowych funkcjonariusza.
 
 **Art. 240.**
-1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz zatrzymania i doprowadzenia świadków. W postępowaniu dyscyplinarnym do świadków nie stosuje się przepisu art. 184 Kodeksu postępowania karnego.
+1. W zakresie nieuregulowanym w niniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy Kodeksu postępowania karnego dotyczące porządku czynności procesowych, z wyjątkiem art. 117 i art. 117a, wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz konfrontacji, okazania, oględzin i eksperymentu procesowego. W postępowaniu dyscyplinarnym do świadków nie stosuje się przepisu art. 184 Kodeksu postępowania karnego.
 2. O zwolnieniu od złożenia zeznania lub odpowiedzi na pytania osoby pozostającej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga rzecznik dyscyplinarny. Na odmowę zwolnienia od złożenia zeznania lub odpowiedzi na pytania służy zażalenie w terminie 3 dni od dnia doręczenia postanowienia.
 
 **Art. 241.**
 1. Zatarcie kary dyscyplinarnej oznacza uznanie kary za niebyłą.
 2. Kary dyscyplinarne podlegają zatarciu po upływie:
-  1) 3 miesięcy od dnia uprawomocnienia się kary upomnienia;
+  1) 6 miesięcy od dnia uprawomocnienia się kary upomnienia;
   2) 6 miesięcy od dnia uprawomocnienia się orzeczenia kary nagany;
   3) 12 miesięcy od dnia uprawomocnienia się orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
-  4) 18 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe.
+  4) 18 miesięcy od dnia uprawomocnienia się orzeczenia kary wyznaczenia na niższe stanowisko służbowe;
+  5) 24 miesięcy od dnia orzeczenia kary ostrzeżenia o niepełnej przydatności do służby.
 3. W przypadku nienagannej służby, stwierdzonej w opinii służbowej, przełożony dyscyplinarny może zatrzeć karę dyscyplinarną przed upływem terminu określonego w ust. 2, jednak nie wcześniej niż przed upływem:
-  1) 2 miesięcy od orzeczenia kary upomnienia;
+  1) 3 miesięcy od orzeczenia kary upomnienia;
   2) 3 miesięcy od dnia orzeczenia kary nagany;
   3) 6 miesięcy od dnia orzeczenia kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
-  4) 12 miesięcy od dnia orzeczenia kary wyznaczenia na niższe stanowisko służbowe.
+  4) 9 miesięcy od dnia orzeczenia kary wyznaczenia na niższe stanowisko służbowe;
+  5) 12 miesięcy od dnia orzeczenia kary ostrzeżenia o niepełnej przydatności do służby.
 4. Za wykazanie męstwa lub odwagi oraz znaczące wyniki w służbie Komendant SOP może w każdym czasie zatrzeć karę dyscyplinarną.
 5. Jeżeli funkcjonariusz zostanie ponownie ukarany przed zatarciem kary dyscyplinarnej, okres wymagany do zatarcia nieodbytej kary biegnie na nowo od dnia orzeczenia nowej kary.
 6. W przypadku jednoczesnego wykonywania więcej niż jednej kary dyscyplinarnej zatarcie kar następuje z upływem terminu przewidzianego dla kary surowszej.
@@ -2118,7 +2284,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 244.** Od orzeczenia oraz postanowienia kończącego postępowanie dyscyplinarne funkcjonariuszowi przysługuje prawo wniesienia skargi do sądu administracyjnego.
 
-**Art. 245.** Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy tryb wykonywania czynności związanych z postępowaniem dyscyplinarnym w stosunku do funkcjonariuszy, w tym obieg dokumentów związanych z postępowaniem dyscyplinarnym, sposób prostowania błędów pisarskich i rachunkowych oraz innych oczywistych omyłek, oraz określi wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie sprawność prowadzonego postępowania.
+**Art. 245.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania.
 
 ## Rozdział 10
 
