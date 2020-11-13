@@ -165,7 +165,7 @@
 22. Zakładanie i prowadzenie publicznych placówek doskonalenia nauczycieli, bibliotek pedagogicznych oraz szkół i placówek wymienionych w ust. 16 o znaczeniu regionalnym lub ponadregionalnym należy do zadań samorządu województwa, z zastrzeżeniem ust. 6 i 25.
 23. Powiat i gmina mogą zakładać i prowadzić w ramach zadań własnych publiczne placówki doskonalenia nauczycieli i biblioteki pedagogiczne, z zastrzeżeniem ust. 6.
 24. Założenie przez powiat lub gminę jednostki, o której mowa w ust. 23, następuje po uzyskaniu pozytywnej opinii kuratora oświaty.
-25. Plan sieci publicznych placówek doskonalenia nauczycieli, bibliotek pedagogicznych oraz szkół i placówek, o których mowa w ust. 22, określa strategia rozwoju województwa ustalona na podstawie odrębnych przepisów.
+25. Plan sieci publicznych placówek doskonalenia nauczycieli, bibliotek pedagogicznych oraz szkół i placówek, o których mowa w ust. 22, określa sejmik województwa w drodze uchwały.
 26. Zakładanie publicznych kolegiów pracowników służb społecznych należy do zadań własnych samorządu województwa.
 
 **Art. 9.**
