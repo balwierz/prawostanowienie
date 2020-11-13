@@ -1665,12 +1665,12 @@
 
 **Art. 166.**
 1. W celu zapewnienia ochrony ludności i mienia przed powodzią:
-  1) obszary szczególnego zagrożenia powodzią uwzględnia się w koncepcji przestrzennego zagospodarowania kraju, planie zagospodarowania przestrzennego województwa, strategii rozwoju województwa, ramowego studium uwarunkowań i kierunków zagospodarowania przestrzennego związku metropolitalnego, studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, miejscowym planie zagospodarowania przestrzennego, gminnym programie rewitalizacji, decyzji o ustaleniu lokalizacji inwestycji celu publicznego oraz w decyzji o warunkach zabudowy;
+  1) obszary szczególnego zagrożenia powodzią uwzględnia się w planie zagospodarowania przestrzennego województwa, strategii rozwoju województwa, strategii rozwoju gminy, strategii rozwoju ponadlokalnego, studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, miejscowym planie zagospodarowania przestrzennego, gminnym programie rewitalizacji, decyzji o ustaleniu lokalizacji inwestycji celu publicznego oraz w decyzji o warunkach zabudowy;
   2) poziom zagrożenia powodziowego wynikający z wyznaczenia obszarów szczególnego zagrożenia powodzią uwzględnia się w decyzjach o ustaleniu lokalizacji inwestycji celu publicznego oraz decyzjach o warunkach zabudowy, dotyczących nieruchomości w całości lub w części położonych na tych obszarach.
 2. Projekty:
-  1) strategii rozwoju województwa,
+  1) (uchylony)
   2) planu zagospodarowania przestrzennego województwa,
-  3) ramowego studium uwarunkowań i kierunków zagospodarowania przestrzennego związku metropolitalnego,
+  3) (uchylony)
   4) studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy,
   5) miejscowego planu zagospodarowania przestrzennego,
   6) gminnego programu rewitalizacji,
@@ -3734,7 +3734,7 @@
 6. Właściwy organ Inspekcji Ochrony Środowiska, w uzgodnieniu z ministrem właściwym do spraw gospodarki wodnej, poddaje przeglądowi programy monitoringu wód, o których mowa w przepisach wydanych na podstawie art. 350 ust. 1, i w razie potrzeby odpowiednio te programy dostosowuje w celu zapewnienia osiągnięcia celów środowiskowych.
 
 **Art. 326.**
-1. Ustalenia dokumentów planistycznych, o których mowa w art. 315 pkt 1-3, uwzględnia się w koncepcji przestrzennego zagospodarowania kraju, strategii rozwoju województwa, planach zagospodarowania przestrzennego województwa, ramowym studium uwarunkowań i kierunków zagospodarowania przestrzennego związku metropolitalnego, studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz w miejscowych planach zagospodarowania przestrzennego.
+1. Ustalenia dokumentów planistycznych, o których mowa w art. 315 pkt 1-3, uwzględnia się w strategii rozwoju województwa, planach zagospodarowania przestrzennego województwa, strategii rozwoju gminy, strategii rozwoju ponadlokalnego, studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz w miejscowych planach zagospodarowania przestrzennego.
 2. Informacje przedstawione na mapach zagrożenia powodziowego oraz na mapach ryzyka powodziowego powinny być spójne z informacjami zawartymi w dokumentach planistycznych, o których mowa w art. 315 pkt 1 i 3.
 3. Opracowanie map zagrożenia powodziowego i map ryzyka powodziowego oraz ich przeglądy przeprowadza się w sposób skoordynowany z analizą dokumentacji planistycznych, o których mowa w art. 317 ust. 1 pkt 2, 3 i 6.
 4. Opracowanie planów zarządzania ryzykiem powodziowym i planu przeciwdziałania skutkom suszy oraz ich przeglądy przeprowadza się w sposób skoordynowany z przeglądami planów gospodarowania wodami na obszarze dorzecza.
