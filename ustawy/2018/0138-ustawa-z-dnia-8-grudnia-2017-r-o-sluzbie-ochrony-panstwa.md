@@ -1680,10 +1680,13 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   5) poddania się niezbędnym badaniom lekarskim przewidzianym dla kandydatów na dawców komórek, tkanek i narządów oraz poddania się zabiegowi pobrania komórek, tkanek i narządów,
   6) oddania krwi lub jej składników w jednostkach organizacyjnych publicznej służby krwi lub z powodu badania lekarskiego dawców krwi,
   7) przebywania na obserwacji w podmiocie leczniczym w wyniku skierowania przez komisję lekarską
+  8) stwierdzenia zakażenia lub zachorowania na chorobę, o której mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, przy czym stwierdzone zakażenie lub zachorowanie powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby
 - zachowuje on prawo do 100% uposażenia.
 6. Prawo do 100% uposażenia przysługuje również wtedy, gdy funkcjonariusz został zwolniony od zajęć służbowych:
   1) w wyniku popełnienia przez inną osobę umyślnego czynu zabronionego w związku z wykonywaniem przez funkcjonariusza czynności służbowych, stwierdzonego orzeczeniem wydanym przez uprawniony organ;
-  2) na skutek czynów o charakterze bohaterskim dokonanych w szczególnie niebezpiecznych warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nienaruszalności granic państwowych, życia, mienia lub bezpieczeństwa obywateli.
+  2) na skutek czynów o charakterze bohaterskim dokonanych w szczególnie niebezpiecznych warunkach, z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia, w obronie prawa, nienaruszalności granic państwowych, życia, mienia lub bezpieczeństwa obywateli;
+  3) na skutek podlegania obowiązkowej kwarantannie, izolacji lub izolacji w warunkach domowych, o których mowa w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, jeżeli podleganie tej kwarantannie lub izolacji powstało w związku z wykonywaniem zadań służbowych w okresie ogłoszenia stanu zagrożenia epidemicznego lub stanu epidemii z powodu tej choroby.
+6a. Wykonywanie zadań służbowych, o których mowa w ust. 5 pkt 8 i ust. 6 pkt 3, stwierdza pisemnie Komendant SOP lub upoważniona przez niego osoba.
 7. Związek zwolnienia od zajęć służbowych z czynami, o których mowa w ust. 6 pkt 2, stwierdza, w drodze decyzji, Komendant SOP.
 8. Od decyzji, o której mowa w ust. 7, funkcjonariuszowi przysługuje odwołanie do wyższego przełożonego.
 
