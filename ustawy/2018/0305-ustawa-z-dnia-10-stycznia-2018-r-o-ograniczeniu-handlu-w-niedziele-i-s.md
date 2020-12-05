@@ -118,4 +118,6 @@
 1. W okresie od dnia 1 stycznia do dnia 31 grudnia 2019 r. zakaz, o którym mowa w art. 5, nie obowiązuje w ostatnią niedzielę każdego miesiąca kalendarzowego.
 2. Jeżeli w ostatnią niedzielę miesiąca kalendarzowego przypada święto, przepis art. 5 stosuje się.
 
+**Art. 17a.** W dniu 6 grudnia 2020 r. zakaz, o którym mowa w art. 5, nie obowiązuje.
+
 **Art. 18.** Ustawa wchodzi w życie z dniem 1 marca 2018 r.
