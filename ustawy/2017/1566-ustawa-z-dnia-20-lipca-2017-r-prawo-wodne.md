@@ -2864,6 +2864,22 @@
 14. Odczytu wskazań przyrządów pomiarowych dokonuje pracownik Wód Polskich.
 15. Podmiot obowiązany do ponoszenia opłat za usługi wodne jest obowiązany zapewnić dostęp do nieruchomości w zakresie niezbędnym do dokonania odczytu wskazań ilości pobranych wód podziemnych lub wód powierzchniowych, lub ilości ścieków wprowadzanych do wód lub do ziemi.
 16. Odczytu wskazań pomiaru ilości pobranych wód podziemnych lub wód powierzchniowych lub ilości ścieków wprowadzanych do wód lub do ziemi można dokonać także przy pomocy przyrządu pomiarowego zapewniającego możliwość zdalnego odczytu wskazań przez Wody Polskie.
+16a. Podmiot obowiązany do ponoszenia opłat za usługi wodne za pobór wód do celów elektrowni wodnych jest obowiązany przekazywać Wodom Polskim deklaracje kwartalne o ilości energii elektrycznej wyprodukowanej w obiekcie energetyki wodnej, wyrażonej w MWh, zgodnie z wzorem zamieszczonym w Biuletynie Informacji Publicznej na stronie podmiotowej Wód Polskich, w terminie 14 dni od dnia, w którym upływa dzień przypadający na koniec każdego kwartału.
+16b. Deklaracja, o której mowa w ust. 16a, zawiera:
+  1) oznaczenie podmiotu składającego deklarację, określające:
+    a) nazwę,
+    b) REGON,
+    c) adres siedziby,
+    d) numer telefonu,
+    e) adres e-mail;
+  2) określenie obiektu energetyki wodnej, którego dotyczy deklaracja;
+  3) określenie ilości energii elektrycznej wyprodukowanej w obiekcie energetyki wodnej;
+  4) określenie kwartału, za który jest składana deklaracja;
+  5) dane dotyczące pozwolenia wodnoprawnego:
+    a) oznaczenie organu właściwego do wydania pozwolenia wodnoprawnego,
+    b) znak decyzji,
+    c) datę udzielenia pozwolenia wodnoprawnego,
+    d) datę obowiązywania pozwolenia wodnoprawnego.
 17. Wysokość opłat, o których mowa w ust. 1-7 i 9, ustalają Wody Polskie oraz przekazują podmiotom obowiązanym do ponoszenia opłat za usługi wodne, w formie informacji, zawierającej także sposób obliczenia tej opłaty.
 18. Podmiot obowiązany do ponoszenia opłat za usługi wodne wnosi opłatę na rachunek bankowy Wód Polskich w terminie 14 dni od dnia, w którym doręczono mu informację, o której mowa w ust. 17.
 19. Jeżeli podmiot obowiązany do ponoszenia opłat za usługi wodne zaniechał wykonania obowiązku, o którym mowa w ust. 18, właściwy organ Wód Polskich określa wysokość opłaty w drodze decyzji.
