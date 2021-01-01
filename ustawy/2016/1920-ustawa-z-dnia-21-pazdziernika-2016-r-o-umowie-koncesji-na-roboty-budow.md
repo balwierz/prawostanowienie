@@ -6,14 +6,14 @@
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 1) dokumentach koncesji - należy przez to rozumieć dokumenty, które wytworzył lub do których odwołuje się zamawiający, służące do opisania lub ustalenia elementów umowy koncesji lub postępowania o zawarcie umowy koncesji, w tym ogłoszenie o postępowaniu o zawarcie umowy, zwane dalej „ogłoszeniem o koncesji”, wstępne ogłoszenie informacyjne, zaproszenie do ubiegania się o zawarcie umowy koncesji, zaproszenie do składania ofert, opis przedmiotu umowy koncesji oraz inne dokumenty, w tym dotyczące sposobu przedstawiania dokumentów przez wykonawców;
-2) działalności sektorowej - należy przez to rozumieć działalność w zakresie jednego z rodzajów działalności, o których mowa w art. 132 ust. 1 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.), zwanej dalej „Prawem zamówień publicznych”, lub działalność związaną ze świadczeniem usług, o których mowa w art. 132 ust. 3 Prawa zamówień publicznych;
+2) działalności sektorowej - należy przez to rozumieć działalność w zakresie jednego z rodzajów działalności, o których mowa w art. 5 ust. 4 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (Dz. U. poz. 2019), zwanej dalej „Prawem zamówień publicznych”;
 3) koncesjonariuszu - należy przez to rozumieć wykonawcę, z którym zawarto umowę koncesji;
 4) minimalnych wymaganiach - należy przez to rozumieć określone przez zamawiającego w dokumentach koncesji wymagania techniczne, fizyczne, funkcjonalne i prawne, którym ma odpowiadać oferta;
-5) obiekcie budowlanym - należy przez to rozumieć obiekt budowlany w rozumieniu art. 2 pkt 5d Prawa zamówień publicznych;
+5) obiekcie budowlanym - należy przez to rozumieć obiekt budowlany w rozumieniu art. 7 pkt 14 Prawa zamówień publicznych;
 6) postępowaniu o zawarcie umowy koncesji - należy przez to rozumieć postępowanie wszczynane w drodze publicznego ogłoszenia o koncesji, wstępnego ogłoszenia informacyjnego albo przekazania zaproszenia do ubiegania się o zawarcie umowy koncesji w celu dokonania wyboru wykonawcy, z którym zostanie zawarta umowa koncesji;
 7) robotach budowlanych - należy przez to rozumieć wykonanie albo zaprojektowanie i wykonanie robót budowlanych związanych z jednym z rodzajów działalności określonych w załączniku I do dyrektywy 2014/23/UE Parlamentu Europejskiego i Rady z dnia 26 lutego 2014 r. w sprawie udzielania koncesji (Dz. Urz. UE L 94 z 28.03.2014, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2014/23/UE”, lub obiektu budowlanego, lub realizację obiektu budowlanego, za pomocą dowolnych środków, zgodnie z wymaganiami określonymi przez zamawiającego;
 8) środkach komunikacji elektronicznej - należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2016 r. poz. 1030 i 1579)lub faks;
-9) usługach - należy przez to rozumieć świadczenia, których przedmiotem nie są roboty budowlane lub dostawy w rozumieniu art. 2 pkt 2 Prawa zamówień publicznych;
+9) usługach - należy przez to rozumieć świadczenia, których przedmiotem nie są roboty budowlane lub dostawy w rozumieniu art. 7 pkt 4 Prawa zamówień publicznych;
 10) wykonawcy - należy przez to rozumieć osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej lub grupę takich podmiotów, które ubiegają się o zawarcie umowy koncesji lub złożyły ofertę;
 11) zamawiającym - należy przez to rozumieć:
   a) podmiot, o którym mowa w art. 3 ust. 1 pkt 1-3a Prawa zamówień publicznych,
@@ -22,7 +22,7 @@
     – kontrolowanie ponad połowy głosów przypadających na akcje wyemitowane przez to przedsiębiorstwo,
     – prawo do powoływania ponad połowy członków organu zarządzającego lub nadzorczego przedsiębiorstwa
     – jeżeli umowa koncesji jest zawierana w celu wykonywania jednego z rodzajów działalności sektorowej,
-  c) podmiot inny niż określony w lit. a i b, jeżeli umowa koncesji jest zawierana w celu wykonywania jednego z rodzajów działalności sektorowej, a działalność ta jest wykonywana na podstawie praw szczególnych lub praw wyłącznych, o których mowa w art. 3 ust. 2 Prawa zamówień publicznych.
+  c) podmiot inny niż określony w lit. a i b, jeżeli umowa koncesji jest zawierana w celu wykonywania jednego z rodzajów działalności sektorowej, a działalność ta jest wykonywana na podstawie praw szczególnych lub praw wyłącznych, o których mowa w art. 5 ust. 2 Prawa zamówień publicznych.
 
 **Art. 3.**
 1. Na podstawie umowy koncesji zamawiający powierza koncesjonariuszowi wykonanie robót budowlanych lub świadczenie usług i zarządzanie tymi usługami za wynagrodzeniem.
@@ -33,7 +33,7 @@
 4. Przez ponoszenie ryzyka ekonomicznego należy rozumieć sytuację, w której w zwykłych warunkach funkcjonowania koncesjonariusz nie ma gwarancji odzyskania poniesionych nakładów inwestycyjnych lub kosztów związanych z eksploatacją obiektu budowlanego lub świadczeniem usług będących przedmiotem umowy koncesji oraz jest narażony na wahania rynku, a w szczególności jego szacowane potencjalne straty związane z wykonywaniem umowy koncesji nie mogą być jedynie nominalne lub nieistotne.
 5. Oceniając ryzyko ekonomiczne, uwzględnia się w spójny i jednolity sposób wartość bieżącą netto wszystkich inwestycji, kosztów i przychodów koncesjonariusza.
 
-**Art. 4.** Przepisy ustawy stosuje się do umów koncesji, których szacunkowa wartość jest równa lub przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, ustaloną z zastosowaniem średniego kursu złotego w stosunku do euro określonego w przepisach wydanych na podstawie art. 35 ust. 3 Prawa zamówień publicznych.
+**Art. 4.** Przepisy ustawy stosuje się do umów koncesji, których szacunkowa wartość jest równa lub przekracza wyrażoną w złotych równowartość kwoty 30 000 euro, ustaloną z zastosowaniem średniego kursu złotego w stosunku do euro określonego zgodnie z art. 3 ust. 2 pkt 2 Prawa zamówień publicznych.
 
 **Art. 5.**
 1. Przepisów ustawy nie stosuje się do zawierania umów koncesji:
@@ -47,8 +47,8 @@
     d) w przypadku których stosowanie przepisów ustawy nakładałoby na zamawiającego obowiązek przekazania informacji, których ujawnienie jest sprzeczne z podstawowymi interesami bezpieczeństwa państwa, w zakresie, w jakim ochrona ich nie może zostać zagwarantowana w inny sposób niż udzielenie zamówienia z wyłączeniem stosowania przepisów ustawy,
     e) w ramach programu współpracy między Rzecząpospolitą Polską i co najmniej jednym państwem członkowskim Unii Europejskiej, opartego na badaniach i rozwoju, rozumianych jako każda działalność dotycząca badań naukowych i prac rozwojowych, w szczególności obejmujących tworzenie technologicznych egzemplarzy próbnych sprzętu pokazującego zastosowanie nowego zamysłu lub nowej technologii w odpowiednich lub reprezentatywnych warunkach, które są prowadzone wspólnie nad opracowaniem nowego produktu oraz, tam gdzie ma to zastosowanie, na późniejszych etapach całości lub części cyklu życia tego produktu,
     f) zawieranych w imieniu rządu Rzeczypospolitej Polskiej z rządem innego państwa, bezpośrednio związanych z:
-      – newralgicznym sprzętem lub sprzętem wojskowym w rozumieniu odpowiednio art. 2 pkt 5b i 8a Prawa zamówień publicznych,
-      – robotami budowlanymi lub usługami do szczególnych celów wojskowych lub newralgicznymi robotami budowlanymi lub newralgicznymi usługami w rozumieniu odpowiednio art. 2 pkt 5a i 5c Prawa zamówień publicznych,
+      – newralgicznym sprzętem lub sprzętem wojskowym w rozumieniu odpowiednio art. 7 pkt 12 i 22 Prawa zamówień publicznych,
+      – robotami budowlanymi lub usługami do szczególnych celów wojskowych lub newralgicznymi robotami budowlanymi lub newralgicznymi usługami w rozumieniu odpowiednio art. 7 pkt 11 i 13 Prawa zamówień publicznych,
     g) w państwie niebędącym członkiem Unii Europejskiej, w tym zakupów cywilnych realizowanych podczas rozmieszczenia sił zbrojnych oraz sił, do których podstawowych zadań należy ochrona bezpieczeństwa, w przypadku gdy względy operacyjne wymagają ich zawarcia z koncesjonariuszem usytuowanym w strefie prowadzenia działań;
   3) których przedmiotem są:
     a) usługi arbitrażowe lub pojednawcze,
@@ -96,7 +96,7 @@
 2. W przypadku gdy ze względu na dzień utworzenia podmiotu powiązanego z zamawiającym w sposób, o którym mowa w ust. 1 pkt 11-13, lub rozpoczęcia jego działalności dane dotyczące średniego przychodu za 3 lata poprzedzające zawarcie umowy koncesji, o których mowa w ust. 1 pkt 11-13, są niedostępne lub nieadekwatne, dane te ustala się za pomocą wiarygodnych prognoz handlowych.
 3. Jeżeli spośród podmiotów powiązanych z zamawiającym w sposób, o którym mowa w ust. 1 pkt 11, więcej niż jeden podmiot świadczy usługi o takim samym lub podobnym przeznaczeniu lub wykonuje roboty budowlane o takim samym lub podobnym przeznaczeniu, na rzecz tego zamawiającego, uwzględnia się całkowity przychód wszystkich tych podmiotów osiągany ze świadczenia usług lub wykonywania robót budowlanych.
 4. Zamawiający, na wniosek Komisji Europejskiej, przekazuje informacje dotyczące niestosowania ustawy na podstawie ust. 1 pkt 11-13, w zakresie nazw i danych zamawiających, charakteru i wartości umów koncesji oraz dowodów uznanych za niezbędne przez Komisję Europejską.
-5. Przepisów ustawy nie stosuje się do zawierania umów koncesji przez zamawiających w odniesieniu do działalności, wobec której Komisja Europejska wydała decyzję, o której mowa w art. 138f Prawa zamówień publicznych, albo bezskutecznie upłynął termin na wydanie takiej decyzji.
+5. Przepisów ustawy nie stosuje się do zawierania umów koncesji przez zamawiających w odniesieniu do działalności, wobec której Komisja Europejska wydała decyzję, o której mowa w art. 394 ust. 3 Prawa zamówień publicznych, albo bezskutecznie upłynął termin na wydanie takiej decyzji.
 
 ## Rozdział 2 — Szacunkowa wartość umowy koncesji i umowy mieszane
 
@@ -128,14 +128,14 @@
 **Art. 10.**
 1. Jeżeli przedmiot umowy koncesji można podzielić, w szczególności ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych, zamawiający może zawrzeć odrębne umowy, których przedmiotem będą poszczególne odrębne części, stosując do zawarcia każdej z umów koncesji przepisy właściwe dla tych części z uwagi na ich charakterystyczne cechy, albo zawrzeć jedną umowę koncesji.
 2. Jeżeli przedmiot umowy koncesji obejmuje:
-  1) części, do których mają zastosowanie przepisy ustawy, oraz zamówienia publiczne udzielane na zasadach ogólnych lub zamówienia sektorowe, w rozumieniu Prawa zamówień publicznych, których wartość jest równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 Prawa zamówień publicznych, stosuje się przepisy Prawa zamówień publicznych;
+  1) części, do których mają zastosowanie przepisy ustawy, oraz zamówienia publiczne udzielane na zasadach ogólnych lub zamówienia sektorowe, w rozumieniu Prawa zamówień publicznych, których wartość jest równa lub przekracza progi unijne, o których mowa w art. 3 ust. 1 Prawa zamówień publicznych, stosuje się przepisy Prawa zamówień publicznych;
   2) części, z których co najmniej jedna część jest objęta art. 346 Traktatu o funkcjonowaniu Unii Europejskiej, do zawarcia tej umowy koncesji nie stosuje się przepisów ustawy, jeżeli zawarcie jednej umowy koncesji jest uzasadnione ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych;
-  3) część, która stanowi zamówienie, o którym mowa w art. 131a ust. 1 Prawa zamówień publicznych, do udzielenia którego stosuje się przepisy Prawa zamówień publicznych, do zawarcia takiej umowy stosuje się przepisy ustawy albo przepisy Prawa zamówień publicznych, zgodnie z wyborem zamawiającego, jeżeli zawarcie jednej umowy koncesji jest uzasadnione ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych;
+  3) część, która stanowi zamówienie, o którym mowa w art. 2 ust. 1 pkt 3 Prawa zamówień publicznych, do udzielenia którego stosuje się przepisy Prawa zamówień publicznych, do zawarcia takiej umowy stosuje się przepisy ustawy albo przepisy Prawa zamówień publicznych, zgodnie z wyborem zamawiającego, jeżeli zawarcie jednej umowy koncesji jest uzasadnione ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych;
   4) części, które obejmują umowy koncesji, służące prowadzeniu działalności sektorowej oraz umowy koncesji, które są objęte art. 346 Traktatu o funkcjonowaniu Unii Europejskiej, do zawarcia umowy koncesji nie stosuje się przepisów ustawy;
   5) części, które obejmują umowy koncesji, służące prowadzeniu działalności sektorowej oraz zamówienia, o których mowa w art. 131a ust. 1 Prawa zamówień publicznych, do zawarcia takiej umowy stosuje się przepisy ustawy albo przepisy Prawa zamówień publicznych, zgodnie z wyborem zamawiającego;
   6) kilka różnych rodzajów działalności, w szczególności służących prowadzeniu działalności sektorowej, do zawarcia umowy koncesji stosuje się przepisy mające zastosowanie do tego rodzaju działalności, który stanowi działalność główną;
   7) części, do których mają zastosowanie przepisy ustawy, oraz części inne niż wymienione w pkt 1-6, jeżeli zamawiający zawiera jedną umowę, zastosowanie mają przepisy ustawy.
-3. Zamawiający nie może w celu uniknięcia stosowania przepisów ustawy łączyć przedmiotu umowy koncesji z przedmiotem objętym art. 346 Traktatu o funkcjonowaniu Unii Europejskiej lub będącym zamówieniem, o którym mowa w art. 131a ust. 1 Prawa zamówień publicznych.
+3. Zamawiający nie może w celu uniknięcia stosowania przepisów ustawy łączyć przedmiotu umowy koncesji z przedmiotem objętym art. 346 Traktatu o funkcjonowaniu Unii Europejskiej lub będącym zamówieniem, o którym mowa w art. 2 ust. 1 pkt 3 Prawa zamówień publicznych.
 4. W przypadku umowy koncesji, której przedmiot obejmuje różne rodzaje działalności i nie jest możliwe określenie głównego przedmiotu umowy, do zawarcia umowy stosuje się przepisy:
   1) Prawa zamówień publicznych, jeżeli jeden z rodzajów działalności dotyczy zamówień publicznych udzielanych na zasadach ogólnych, a drugi rodzaj działalności dotyczy umowy koncesji, do której stosuje się przepisy ustawy;
   2) ustawy, jeżeli jeden z rodzajów działalności dotyczy:
@@ -146,7 +146,7 @@
 
 **Art. 11.** Jeżeli przedmiot umowy koncesji, który nie może być podzielony, w szczególności ze względów technicznych, organizacyjnych, ekonomicznych lub celowościowych, obejmuje części:
 1) z których część jest objęta art. 346 Traktatu o funkcjonowaniu Unii Europejskiej, do zawarcia takiej umowy koncesji nie stosuje się przepisów ustawy;
-2) które stanowią zamówienie, o którym mowa w art. 131a ust. 1 Prawa zamówień publicznych, do zawarcia umowy koncesji stosuje się przepisy ustawy albo przepisy Prawa zamówień publicznych, zgodnie z wyborem zamawiającego.
+2) które stanowią zamówienie, o którym mowa w art. 2 ust. 1 pkt 3 Prawa zamówień publicznych, do zawarcia umowy koncesji stosuje się przepisy ustawy albo przepisy Prawa zamówień publicznych, zgodnie z wyborem zamawiającego.
 
 ## Rozdział 3 — Zasady zawierania umowy koncesji
 
@@ -212,7 +212,7 @@
   1) roboty budowlane lub usługi mogą być wykonane lub świadczone tylko przez jednego koncesjonariusza:
     a) z powodu braku konkurencji ze względów technicznych,
     b) z przyczyn związanych z ochroną praw wyłącznych,
-    c) z przyczyn związanych z ochroną praw własności intelektualnej oraz praw wyłącznych, innych niż określone w art. 3 ust. 2 Prawa zamówień publicznych
+    c) z przyczyn związanych z ochroną praw własności intelektualnej oraz praw wyłącznych, innych niż określone w art. 5 ust. 2 Prawa zamówień publicznych
   - jeżeli nie istnieje rozsądne rozwiązanie alternatywne lub zastępcze, a brak konkurencji nie jest wynikiem celowego zawężenia warunków zawarcia umowy koncesji;
   2) celem umowy koncesji jest stworzenie lub nabycie dzieła sztuki lub wykonania artystycznego;
   3) w postępowaniu o zawarcie umowy koncesji, w którym w odpowiedzi na ogłoszenie o koncesji nie wpłynął wniosek o dopuszczenie do udziału w tym postępowaniu, nie została złożona oferta albo wszystkie wnioski o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji zostały odrzucone ze względu na wykluczenie wykonawców na podstawie art. 32 lub niespełnienie przez nich kryteriów kwalifikacji określonych przez zamawiającego zgodnie z art. 33, albo żadna ze złożonych ofert bez istotnych zmian nie może zaspokoić potrzeb zamawiającego i spełnić wymogów określonych w dokumentach koncesji, o ile warunki umowy koncesji nie zostały w istotny sposób zmienione;
@@ -257,7 +257,7 @@
 
 **Art. 23.**
 1. Zamawiający w terminie 48 dni od dnia zawarcia umowy koncesji przekazuje do publikacji w Dzienniku Urzędowym Unii Europejskiej albo zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o zawarciu umowy koncesji.
-2. W przypadku, o którym mowa w art. 5 ust. 1 pkt 6, zamawiający przekazuje do publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenie o zawarciu umowy koncesji, jeżeli w przepisach podanych w wykazie, o którym mowa w art. 3 ust. 2a Prawa zamówień publicznych, nie określono obowiązków w zakresie przejrzystości mających zastosowanie do danej działalności sektorowej.
+2. W przypadku, o którym mowa w art. 5 ust. 1 pkt 6, zamawiający przekazuje do publikacji w Dzienniku Urzędowym Unii Europejskiej ogłoszenie o zawarciu umowy koncesji, jeżeli w przepisach podanych w wykazie, o którym mowa w art. 5 ust. 3 Prawa zamówień publicznych, nie określono obowiązków w zakresie przejrzystości mających zastosowanie do danej działalności sektorowej.
 
 **Art. 24.**
 1. Zamawiający udostępnia dokumenty koncesji na stronie internetowej od dnia opublikowania w Dzienniku Urzędowym Unii Europejskiej albo zamieszczenia ogłoszenia o koncesji w Biuletynie Zamówień Publicznych albo od dnia przekazania zaproszenia do ubiegania się o zawarcie umowy koncesji.
@@ -332,7 +332,7 @@
 ## Rozdział 6 — Kwalifikacja wykonawców i wybór najkorzystniejszej oferty
 
 **Art. 32.**
-1. Z postępowania o zawarcie umowy koncesji zamawiający, o których mowa w art. 3 ust. 1 pkt 1-3a Prawa zamówień publicznych, wykluczają, a pozostali zamawiający mogą wykluczyć wykonawcę:
+1. Z postępowania o zawarcie umowy koncesji zamawiający, o których mowa w art. 4 Prawa zamówień publicznych, wykluczają, a pozostali zamawiający mogą wykluczyć wykonawcę:
   1) będącego osobą fizyczną, którą prawomocnie skazano za przestępstwo:
     a) o którym mowa w art. 165a, art. 181-188, art. 189a, art. 228-230a, art. 250a, art. 258 lub art. 270-309 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2016 r. poz. 1137) lub art. 46 lub art. 48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2016 r. poz. 176, 1170 i 1171),
     b) o charakterze terrorystycznym, o którym mowa w art. 115 § 20 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny,
@@ -373,7 +373,7 @@
 5. Wykonawca, w stosunku do którego zachodzi jedna z podstaw wykluczenia, o których mowa w ust. 1 pkt 1 i 2 oraz 4-8 lub ust. 2, może przedstawić dowody na to, że podjęte przez niego środki są wystarczające do wykazania jego rzetelności, w szczególności udowodnić naprawienie szkody wyrządzonej przestępstwem lub przestępstwem skarbowym, zadośćuczynienie za doznaną krzywdę lub zobowiązanie się do naprawienia szkody lub zadośćuczynienia za doznaną krzywdę oraz podjęcie konkretnych środków technicznych, organizacyjnych i kadrowych, które są wystarczające do zapobiegania dalszym przestępstwom lub przestępstwom skarbowym lub nieprawidłowemu postępowaniu. Przepisu zdania pierwszego nie stosuje się, jeżeli wykonawca został skazany prawomocnym wyrokiem sądu na zakaz ubiegania się o udzielenie zamówienia publicznego lub zakaz ubiegania się o zawarcie umowy koncesji oraz nie upłynął określony w tym wyroku okres obowiązywania tego zakazu.
 6. Wykonawca nie podlega wykluczeniu, jeżeli zamawiający, uwzględniając wagę i szczególne okoliczności czynu wykonawcy, uzna za wystarczające dowody przedstawione na podstawie ust. 5.
 7. Zamawiający wyklucza wykonawcę na każdym etapie postępowania o zawarcie umowy koncesji, jeżeli okaże się, że zachodzą wobec niego podstawy wykluczenia.
-8. W wyjątkowych przypadkach, z uwagi na nadrzędny interes publiczny, względy obronności lub bezpieczeństwa państwa, zamawiający, o którym mowa w art. 3 ust. 1 pkt 1-3a Prawa zamówień publicznych, może odstąpić od wykluczenia wykonawców, wobec których zachodzi podstawa wykluczenia określona w ust. 1 pkt 3.
+8. W wyjątkowych przypadkach, z uwagi na nadrzędny interes publiczny, względy obronności lub bezpieczeństwa państwa, zamawiający, o którym mowa w art. 4 Prawa zamówień publicznych, może odstąpić od wykluczenia wykonawców, wobec których zachodzi podstawa wykluczenia określona w ust. 1 pkt 3.
 
 **Art. 33.**
 1. Zamawiający określa kryteria kwalifikacji dotyczące:
@@ -499,7 +499,7 @@
 **Art. 49.**
 1. Umowa koncesji podlega unieważnieniu:
   1) jeżeli zamawiający zawarł umowę koncesji bez uprzedniej publikacji ogłoszenia o koncesji w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia ogłoszenia o koncesji w Biuletynie Zamówień Publicznych, chyba że ustawa dopuszcza taką możliwość;
-  2) jeżeli została zawarta z naruszeniem terminu określonego w art. 41 ust. 1 albo zakazu zawarcia umowy, o którym mowa w art. 183 ust. 1 Prawa zamówień publicznych, jeżeli uniemożliwiło to Krajowej Izbie Odwoławczej uwzględnienie odwołania przed zawarciem umowy;
+  2) jeżeli została zawarta z naruszeniem terminu określonego w art. 41 ust. 1 albo zakazu zawarcia umowy, o którym mowa w art. 577 Prawa zamówień publicznych, jeżeli uniemożliwiło to Krajowej Izbie Odwoławczej uwzględnienie odwołania przed zawarciem umowy;
   3) jeżeli przedmiot umowy wykracza poza zakres przedmiotu umowy koncesji wskazany w dokumentach koncesji;
   4) w części wykraczającej poza określenie przedmiotu umowy koncesji w opisie przedmiotu koncesji, z uwzględnieniem art. 46.
 2. W przypadku, o którym mowa w ust. 1 pkt 1, umowa koncesji nie podlega unieważnieniu, jeżeli zamawiający miał uzasadnione podstawy, aby sądzić, że działa zgodnie z ustawą, a umowa została zawarta po upływie 10 dni od dnia zamieszczenia ogłoszenia o zamiarze zawarcia umowy w Biuletynie Zamówień Publicznych albo publikacji takiego ogłoszenia w Dzienniku Urzędowym Unii Europejskiej.
@@ -539,9 +539,9 @@
 
 **Art. 54.**
 1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w zawarciu umowy koncesji oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy, przysługuje prawo do wniesienia odwołania od niezgodnej z przepisami ustawy czynności zamawiającego podjętej w postępowaniu o zawarcie umowy koncesji lub zaniechania czynności, do której zamawiający jest obowiązany na podstawie ustawy.
-2. Do wnoszenia i rozpoznawania odwołań stosuje się odpowiednio przepisy działu VI rozdziału 2 Prawa zamówień publicznych, z wyjątkiem art. 180 ust. 2 tej ustawy, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
+2. Do wnoszenia i rozpoznawania odwołań stosuje się odpowiednio przepisy działu IX rozdziału 2 Prawa zamówień publicznych, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 3. Wpis od odwołania uiszcza się w wysokości należnej od odwołania dotyczącego zamówienia publicznego, którego wartość jest:
-  1) mniejsza niż kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 Prawa zamówień publicznych - jeżeli wartość koncesji jest mniejsza niż kwota określona w przepisach wydanych na podstawie art. 18 ust. 2;
+  1) mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 Prawa zamówień publicznych - jeżeli wartość koncesji jest mniejsza niż kwota określona w przepisach wydanych na podstawie art. 18 ust. 2;
   2) równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 Prawa zamówień publicznych - jeżeli wartość koncesji jest równa lub przekracza kwotę określoną w przepisach wydanych na podstawie art. 18 ust. 2.
 
 **Art. 55.** Odwołanie wnosi się w terminie:
@@ -555,7 +555,7 @@
 
 **Art. 56.**
 1. Na wyrok lub postanowienie kończące postępowanie odwoławcze Krajowej Izby Odwoławczej stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu.
-2. Do postępowań toczących się wskutek wniesienia skargi stosuje się przepisy działu VI rozdziału 3 Prawa zamówień publicznych.
+2. Do postępowań toczących się wskutek wniesienia skargi stosuje się przepisy działu IX rozdziału 3 Prawa zamówień publicznych.
 
 ## Rozdział 11 — Zmiany w przepisach obowiązujących
 
