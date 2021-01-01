@@ -114,7 +114,7 @@
 
 **Art. 13.** Prokuratoria Generalna nie wykonuje zastępstwa, o którym mowa w art. 12, w:
 1) postępowaniach uregulowanych przepisami części pierwszej księgi pierwszej tytułu VII działów IVa-IVe ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. z 2016 r. poz. 1822, z późn. zm.);
-2) postępowaniach uregulowanych przepisami działu VI rozdziału 3 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych (Dz. U. z 2015 r. poz. 2164, z późn. zm.);
+2) postępowaniach uregulowanych przepisami działu IX rozdziału 3 ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych (Dz. U. poz. 2019);
 3) postępowaniu o nadanie klauzuli wykonalności;
 4) sprawach, w których inna osoba zastępowana, państwowa osoba prawna, Skarb Państwa lub organ administracji rządowej jest stroną, interwenientem ubocznym albo interwenientem głównym.
 
@@ -131,8 +131,8 @@
 
 **Art. 18.**
 1. Podmioty reprezentujące Skarb Państwa są obowiązane uzyskać opinię prawną Prokuratorii Generalnej o projektach umów, ugód oraz jednostronnych czynności prawnych dokonywanych przez Skarb Państwa, jeżeli wartość przedmiotu czynności prawnej przekracza kwotę 100 000 000 zł. Wniosek o wydanie opinii prawnej przedkładany jest Prokuratorii Generalnej nie później niż na 15 dni, a w uzgodnieniu z Prezesem Prokuratorii Generalnej nie później niż na 4 dni, przed planowanym dokonaniem czynności prawnej.
-2. Podmioty reprezentujące Skarb Państwa są obowiązane uzyskać opinię prawną Prokuratorii Generalnej w przedmiocie wzoru umowy, istotnych postanowień umowy, ogólnych warunków umowy lub projektu umowy udzielanych na podstawie ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych, jeżeli wartość przedmiotu zamówienia przekracza kwotę 100 000 000 zł. Wniosek o wydanie opinii prawnej przedkładany jest Prokuratorii Generalnej nie później niż na 15 dni, a w uzgodnieniu z Prezesem Prokuratorii Generalnej nie później niż na 4 dni, przed planowanym udostępnieniem specyfikacji istotnych warunków zamówienia albo zawarciem umowy, w przypadku gdy sporządzenie specyfikacji istotnych warunków zamówienia nie jest wymagane.
-3. Opinie, o których mowa w ust. 1 i 2, Prokuratoria Generalna wydaje w terminie 14 dni od dnia otrzymania wniosku, nie później jednak niż w dniu poprzedzającym dzień dokonania planowanej czynności prawnej lub udostępnienia specyfikacji istotnych warunków zamówienia. Niewydanie w tym terminie opinii przez Prokuratorię Generalną jest równoznaczne z brakiem zastrzeżeń Prokuratorii Generalnej do opiniowanej czynności prawnej, wzoru umowy, istotnych postanowień umowy lub ogólnych warunków umowy.
+2. Podmioty reprezentujące Skarb Państwa są obowiązane uzyskać opinię prawną Prokuratorii Generalnej w przedmiocie wzoru umowy, istotnych postanowień umowy, ogólnych warunków umowy lub projektu umowy udzielanych na podstawie ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych, jeżeli wartość przedmiotu zamówienia przekracza kwotę 100 000 000 zł. Wniosek o wydanie opinii prawnej przedkładany jest Prokuratorii Generalnej nie później niż na 15 dni, a w uzgodnieniu z Prezesem Prokuratorii Generalnej nie później niż na 4 dni, przed planowanym udostępnieniem specyfikacji istotnych warunków zamówienia albo zawarciem umowy, w przypadku gdy sporządzenie specyfikacji istotnych warunków zamówienia nie jest wymagane.
+3. Opinie, o których mowa w ust. 1 i 2, Prokuratoria Generalna wydaje w terminie 14 dni od dnia otrzymania wniosku, nie później jednak niż w dniu poprzedzającym dzień dokonania planowanej czynności prawnej lub udostępnienia dokumentów zamówienia. Niewydanie w tym terminie opinii przez Prokuratorię Generalną jest równoznaczne z brakiem zastrzeżeń Prokuratorii Generalnej do opiniowanej czynności prawnej, wzoru umowy, istotnych postanowień umowy lub ogólnych warunków umowy.
 
 **Art. 19.**
 1. Prokuratoria Generalna wydaje opinie prawne na zlecenie osoby zastępowanej. W szczególności Prokuratoria Generalna opiniuje projekty umów, ugód oraz jednostronnych czynności prawnych.
@@ -166,15 +166,16 @@
 **Art. 25.** Działalność wydawnicza i szkoleniowa prowadzona przez Prokuratorię Generalną może obejmować w szczególności organizację konferencji naukowych, wydawanie publikacji naukowych, a także przeprowadzanie szkoleń wewnętrznych oraz szkoleń na rzecz podmiotów reprezentujących Skarb Państwa i osób zastępowanych.
 
 **Art. 26.**
-1. Prezes Prokuratorii Generalnej tworzy Sąd Polubowny przy Prokuratorii Generalnej właściwy w sprawach sporów między innymi niż Skarb Państwa państwowymi osobami prawnymi, osobami prawnymi z udziałem Skarbu Państwa lub państwowych osób prawnych, zwany dalej „Sądem Polubownym”.
+1. Prezes Prokuratorii Generalnej tworzy Sąd Polubowny przy Prokuratorii Generalnej właściwy w sprawach sporów z udziałem Skarbu Państwa, jednostek samorządu terytorialnego, państwowych osób prawnych, osób prawnych z udziałem Skarbu Państwa lub państwowych osób prawnych oraz spółek kapitałowych z udziałem tych podmiotów, zwany dalej „Sądem Polubownym”.
 2. W przypadku sporu między innymi niż Skarb Państwa państwowymi osobami prawnymi, osobami prawnymi z udziałem Skarbu Państwa lub państwowych osób prawnych, każda z nich może wystąpić do Sądu Polubownego z wnioskiem o:
   1) rozstrzygnięcie sporu;
   2) przeprowadzenie mediacji lub inne polubowne rozwiązanie sporu.
 2a. Mediacja i inne polubowne formy rozwiązania sporu mogą być prowadzone również w przypadku sporów, w których jedną ze stron jest Skarb Państwa, jednostka samorządu terytorialnego, podmiot, o którym mowa w ust. 1, lub spółka kapitałowa z udziałem tych podmiotów.
 2b. Sąd Polubowny może prowadzić również mediacje w postępowaniu administracyjnym, w którym jedną ze stron jest organ administracji publicznej lub podmiot, o którym mowa w ust. 2a.
 3. Postępowanie prowadzi się za zgodą drugiej strony lub na podstawie zapisu na sąd polubowny.
-4. Sędziowie i mediatorzy są uprawnieni do wynagrodzenia za podejmowane czynności pokrywane z opłaty, o której mowa w ust. 5. Wysokość i termin wypłaty wynagrodzenia określa umowa cywilnoprawna zawarta na zasadach określonych w regulaminie Sądu i postępowania przed Sądem Polubownym, zwanym dalej „regulaminem Sądu”.
-5. Wnioskodawcy wnoszą opłaty za przeprowadzenie postępowania oraz ponoszą wydatki na wynagrodzenie i zwrot kosztów poniesionych przez biegłych, tłumaczy oraz koszty przeprowadzenia innych dowodów w postępowaniu przed Sądem Polubownym. Wysokość opłaty ustalana jest w stosunku do wartości przedmiotu sprawy i nie może być wyższa niż 100 000 zł.
+3a. Sąd Polubowny przy Prokuratorii Generalnej Rzeczypospolitej Polskiej może z ważnych powodów odmówić przeprowadzenia mediacji lub innego polubownego rozwiązania sporu. Odmowa przeprowadzenia mediacji lub innego polubownego rozwiązania sporu następuje w terminie 14 dni od dnia doręczenia wniosku o przeprowadzenie mediacji lub innego polubownego rozwiązania sporu, lub postanowienia sądu kierującego strony do mediacji lub innego polubownego rozwiązania sporu, i zawiera wskazanie przyczyn odmowy.
+4. Sędziowie i mediatorzy są uprawnieni do wynagrodzenia za podejmowane czynności pokrywane z opłaty, o której mowa w ust. 5. Wysokość i termin wypłaty wynagrodzenia oraz sposób wynagradzania określa regulamin Sądu Polubownego i postępowania przed Sądem Polubownym, zwany dalej „regulaminem Sądu”, lub umowa zawarta zgodnie z regulaminem Sądu.
+5. Wnioskodawcy wnoszą opłaty za przeprowadzenie postępowania oraz ponoszą wydatki na wynagrodzenie i zwrot kosztów poniesionych przez biegłych, tłumaczy oraz koszty przeprowadzenia innych dowodów w postępowaniu przed Sądem Polubownym. Wysokość opłaty za postępowanie arbitrażowe nie może być wyższa niż 100 000 zł, a w przypadku mediacji lub innego polubownego rozwiązania sporu nie może być wyższa niż 10 000 zł.
 6. Obsługę Sądu Polubownego zapewnia Urząd Prokuratorii Generalnej.
 7. Prezes Prokuratorii Generalnej określi, w drodze zarządzenia, regulamin Sądu.
 
@@ -232,14 +233,14 @@
 1. Jeżeli zachodzi konieczność wykonywania zastępstwa Skarbu Państwa lub Rzeczypospolitej Polskiej przed sądem, trybunałem lub innym organem orzekającym w sprawach wymagających znajomości prawa obcego albo procedur lub instytucji międzynarodowych, Prokuratoria Generalna może powierzyć to zastępstwo lub wykonywanie określonych czynności, w drodze umowy cywilnoprawnej, radcy prawnemu, adwokatowi lub innej osobie uprawnionej do występowania w charakterze pełnomocnika procesowego.
 2. Prezes Prokuratorii Generalnej udziela pełnomocnictwa osobom, o których mowa w ust. 1.
 3. Wydatki i koszty postępowania związane z wykonywaniem zastępstwa w sprawach, o których mowa w ust. 1, ponosi podmiot reprezentujący Skarb Państwa lub organ władzy publicznej, z wyjątkiem wydatków związanych z usługami, o których mowa w ust. 1, które ponosi Prokuratoria Generalna.
-4. Do ustanowienia pełnomocnika procesowego, o którym mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych.
+4. Do ustanowienia pełnomocnika procesowego, o którym mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych.
 
 **Art. 35.**
 1. Jeżeli zachodzi konieczność wykonywania zastępstwa osoby zastępowanej przed sądem, trybunałem lub innym organem orzekającym w sprawach wymagających znajomości prawa obcego albo procedur lub instytucji międzynarodowych, Prokuratoria Generalna może, za zgodą osoby zastępowanej, powierzyć to zastępstwo lub wykonywanie określonych czynności, w drodze umowy cywilnoprawnej, radcy prawnemu, adwokatowi lub innej osobie uprawnionej do występowania w charakterze pełnomocnika procesowego.
 2. Odmowa wyrażenia zgody, o której mowa w ust. 1, jest równoznaczna z wnioskiem osoby zastępowanej o przejęcie wykonywania zastępstwa.
 3. Prokuratoria Generalna może, za zgodą osoby zastępowanej, zlecać przygotowanie opinii, analiz i raportów osobom posiadającym wiedzę z danej dziedziny, a także korzystać z usług tłumaczy.
 4. Wydatki i koszty postępowania związane z wykonywaniem zastępstwa w sprawach, o których mowa w ust. 1, ponosi osoba zastępowana.
-5. Do ustanowienia pełnomocnika procesowego, o którym mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych.
+5. Do ustanowienia pełnomocnika procesowego, o którym mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych.
 
 **Art. 36.**
 1. Dane służące do składania podpisu elektronicznego są udzielane radcom i referendarzom po złożeniu stosownego wniosku za pośrednictwem Prezesa Prokuratorii Generalnej.
