@@ -24,7 +24,7 @@
   2) zamówień sektorowych oraz organizowania konkursów, których wartość jest równa lub przekracza progi unijne, przez zamawiających sektorowych;
   3) zamówień w dziedzinach obronności i bezpieczeństwa, których wartość jest równa lub przekracza progi unijne, przez zamawiających publicznych oraz zamawiających sektorowych;
   4) zamówień klasycznych oraz organizowania konkursów, których wartość jest równa lub przekracza progi unijne, przez zamawiających subsydiowanych w okolicznościach, o których mowa w art. 6.
-2. Do udzielania zamówień klasycznych, których wartość, bez podatku od towarów i usług, dotycząca jednorazowego zakupu, jest mniejsza niż 130 000 złotych, nie mniejsza jednak niż 50 000 złotych, zwanych dalej „zamówieniami bagatelnymi”, udzielanych przez zamawiających publicznych, stosuje się przepisy art. 82, art. 267 ust. 1 i ust. 2 pkt 9, art. 268, art. 269 ust. 1, art. 271 ust. 1-3 oraz art. 272.
+2. (uchylony)
 
 **Art. 3.**
 1. Przez progi unijne należy rozumieć kwoty wartości zamówień lub konkursów określone w:
@@ -260,8 +260,8 @@
 1. Przepisów ustawy nie stosuje się do zamówień w dziedzinach obronności i bezpieczeństwa:
   1) w przypadkach, o których mowa w art. 11 ust. 1 pkt 1, 3 i 6, ust. 2 pkt 1 i art. 12;
   2) podlegających szczególnej procedurze:
-    a) na podstawie umowy międzynarodowej lub porozumienia zawieranego na szczeblu ministerialnym, których stroną jest Rzeczpospolita Polska, zawartych z jednym lub wieloma państwami niebędącymi członkami Unii Europejskiej,
-    b) na podstawie umowy międzynarodowej lub porozumienia zawieranego na szczeblu ministerialnym, których stroną jest Rzeczpospolita Polska, związanych ze stacjonowaniem wojsk i dotyczących przedsiębiorców, niezależnie od ich siedziby lub miejsca zamieszkania,
+    a) na podstawie umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, zawartej z jednym lub wieloma państwami niebędącymi członkami Unii Europejskiej, lub takiego porozumienia zawieranego na szczeblu ministerialnym,
+    b) na podstawie umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub porozumienia zawieranego na szczeblu ministerialnym, związanych ze stacjonowaniem wojsk i dotyczących przedsiębiorców, niezależnie od ich siedziby lub miejsca zamieszkania,
     c) organizacji międzynarodowej zakupującej do swoich celów lub do zamówień, które muszą być udzielane przez Rzeczpospolitą Polską zgodnie z tą procedurą;
   3) w przypadku których stosowanie przepisów ustawy zobowiązywałoby zamawiającego do przekazania informacji, których ujawnienie jest sprzeczne z podstawowymi interesami bezpieczeństwa państwa;
   4) udzielanych do celów działalności wywiadowczej lub kontrwywiadowczej;
@@ -276,8 +276,8 @@
 
 **Art. 14.**
 1. Przepisów ustawy nie stosuje się do zamówień lub konkursów, których przedmiot zamówienia zawiera aspekty obronności i bezpieczeństwa, podlegających szczególnej procedurze:
-  1) na podstawie umowy międzynarodowej lub porozumienia zawieranego na szczeblu ministerialnym, których stroną jest Rzeczpospolita Polska, zawartych z jednym lub wieloma państwami niebędącymi członkami Unii Europejskiej, i dotyczących robót budowlanych, dostaw lub usług przeznaczonych na potrzeby wspólnej realizacji lub eksploatacji projektu przez sygnatariuszy,
-  2) na podstawie umowy międzynarodowej lub porozumienia zawieranego na szczeblu ministerialnym, których stroną jest Rzeczpospolita Polska, związanych ze stacjonowaniem wojsk i dotyczących przedsiębiorców, niezależnie od ich siedziby lub miejsca zamieszkania,
+  1) na podstawie umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, zawartej z jednym lub wieloma państwami niebędącymi członkami Unii Europejskiej, lub takiego porozumienia zawieranego na szczeblu ministerialnym, i dotyczących robót budowlanych, dostaw lub usług przeznaczonych na potrzeby wspólnej realizacji lub eksploatacji projektu przez sygnatariuszy,
+  2) na podstawie umowy międzynarodowej, której stroną jest Rzeczpospolita Polska, lub porozumienia zawieranego na szczeblu ministerialnym, związanych ze stacjonowaniem wojsk i dotyczących przedsiębiorców, niezależnie od ich siedziby lub miejsca zamieszkania,
   3) stosowanej przez organizację międzynarodową
 - jeżeli zamówienia muszą być udzielane przez Rzeczpospolitą Polską zgodnie z tą procedurą.
 2. Przepisów ustawy nie stosuje się do zamówień lub konkursów, o których mowa w ust. 1:
@@ -356,13 +356,13 @@
 ### Rozdział 4 — Stosowanie przepisów ustawy do zamówień o charakterze mieszanym
 
 **Art. 24.**
-1. Jeżeli zamówienie jest podzielne na części oraz obejmuje równocześnie części, do których mają zastosowanie przepisy ustawy:
-  1) dotyczące udzielania zamówień w dziedzinach obronności i bezpieczeństwa, zamówień sektorowych lub zamówień klasycznych lub
-  2) oraz części, do których tych przepisów nie stosuje się
+1. Jeżeli zamówienie jest podzielne na części oraz obejmuje równocześnie:
+  1) części, do których mają zastosowanie przepisy ustawy dotyczące udzielania zamówień w dziedzinach obronności i bezpieczeństwa, zamówień sektorowych lub zamówień klasycznych, lub
+  2) części, do których mają zastosowanie przepisy ustawy, oraz części, do których tych przepisów nie stosuje się
 - zamawiający może udzielić zamówienia w częściach lub jednego zamówienia.
 2. W przypadku udzielania zamówienia w częściach, do udzielenia każdego zamówienia stosuje się przepisy ustawy właściwe dla danej części, z uwzględnieniem art. 29 ust. 2 i art. 30 ust. 1, 2 i 4.
 3. W przypadku udzielania jednego zamówienia zamawiający:
-  1) może nie stosować przepisów ustawy, jeżeli zamówienie obejmuje część, wobec której zachodzą przesłanki, o których mowa w art. 12, a udzielenie jednego zamówienia jest uzasadnione obiektywnymi przyczynami;
+  1) może nie stosować przepisów ustawy, jeżeli zamówienie obejmuje część, wobec której zachodzą przesłanki, o których mowa w art. 12 ust. 1, a udzielenie jednego zamówienia jest uzasadnione obiektywnymi przyczynami;
   2) stosuje przepisy ustawy dotyczące udzielania zamówień w dziedzinach obronności i bezpieczeństwa, jeżeli zamówienie obejmuje część, do której mają zastosowanie te przepisy, a udzielenie jednego zamówienia jest uzasadnione obiektywnymi przyczynami;
   3) stosuje przepisy ustawy dotyczące udzielania zamówień sektorowych, w przypadku gdy:
     a) zamówienie obejmuje część, do której mają zastosowanie te przepisy, a jej wartość jest równa lub przekracza progi unijne,
@@ -373,13 +373,13 @@
 
 **Art. 25.**
 1. Jeżeli zamówienie jest niepodzielne na części oraz obejmuje równocześnie elementy, do których mają zastosowanie przepisy ustawy, dotyczące udzielania zamówień w dziedzinach obronności i bezpieczeństwa, zamówień sektorowych lub zamówień klasycznych, lub elementy, do których mają zastosowanie przepisy ustawy, i do których tych przepisów nie stosuje się, do udzielenia tego zamówienia:
-  1) stosuje się przepisy ustawy właściwe ze względu na główny przedmiot zamówienia, z tym że jeżeli zamówienie obejmuje równocześnie elementy koncesji na usługi i zamówienia na dostawy, główny przedmiot zamówienia określa się przez ustalenie, która z wartości danych usług lub dostaw jest wyższa;
-  2) nie stosuje się przepisów ustawy, jeżeli zamówienie obejmuje elementy, w stosunku do których zachodzą przesłanki, o których mowa w art. 12;
+  1) stosuje się przepisy właściwe ze względu na główny przedmiot zamówienia, z tym że jeżeli zamówienie obejmuje równocześnie elementy koncesji na usługi i zamówienia na dostawy, główny przedmiot zamówienia określa się przez ustalenie, która z wartości danych usług lub dostaw jest wyższa;
+  2) nie stosuje się przepisów ustawy, jeżeli zamówienie obejmuje elementy, w stosunku do których zachodzą przesłanki, o których mowa w art. 12 ust. 1;
   3) stosuje się przepisy ustawy dotyczące zamówień w dziedzinach obronności i bezpieczeństwa, jeżeli zamówienie obejmuje elementy obronności i bezpieczeństwa.
 2. Zamówienie jest niepodzielne na części, jeżeli ze względów technicznych, organizacyjnych lub ekonomicznych tworzy nierozerwalną całość.
 
 **Art. 26.**
-1. Jeżeli zamówienie służy jednocześnie wykonywaniu działalności sektorowej, o której mowa w art. 5 ust. 4, oraz wykonywaniu innego lub innych niż działalność sektorowa rodzajów działalności, zamawiający może udzielić odrębnych zamówień w celu wykonywania poszczególnych rodzajów działalności lub jednego zamówienia.
+1. Jeżeli zamówienie służy jednocześnie wykonywaniu kilku rodzajów działalności, z których co najmniej jeden jest działalnością sektorową, o której mowa w art. 5 ust. 4, zamawiający może udzielić odrębnych zamówień w celu wykonywania poszczególnych rodzajów działalności lub jednego zamówienia.
 2. Do udzielenia odrębnych zamówień stosuje się przepisy ustawy właściwe ze względu na rodzaj działalności, któremu służy każde zamówienie.
 3. Do udzielenia jednego zamówienia stosuje się przepisy ustawy właściwe ze względu na rodzaj działalności, którego zasadniczo dotyczy zamówienie. Jeżeli zamówienie dotyczy równocześnie działalności sektorowej, o której mowa w art. 5 ust. 4, oraz działalności obejmującej aspekty obronności i bezpieczeństwa, stosuje się odpowiednio przepisy art. 24 ust. 3 pkt 1 i 2.
 4. Zamawiający, w przypadkach, o których mowa w ust. 3, nie może udzielić jednego zamówienia w celu uniknięcia stosowania przepisów ustawy.
@@ -411,7 +411,7 @@
 4. W przypadku zamówień udzielanych w częściach, do udzielenia zamówienia na daną część zamawiający może stosować przepisy ustawy właściwe dla wartości tej części zamówienia, jeżeli jej wartość jest mniejsza niż wyrażona w złotych równowartość kwoty 80 000 euro dla dostaw lub usług oraz 1 000 000 euro dla robót budowlanych, pod warunkiem że łączna wartość tych części wynosi nie więcej niż 20% wartości zamówienia.
 
 **Art. 31.**
-1. Jeżeli zamawiający przewiduje udzielenie zamówień, o których mowa w art. 214 ust. 1 pkt 7 i 8, art. 388 pkt 2 lit. b i c lub art. 415 ust. 2 pkt 5 i 6, przy ustalaniu wartości zamówienia uwzględnia się także wartość tych zamówień.
+1. Jeżeli zamawiający przewiduje udzielenie zamówień, o których mowa w art. 214 ust. 1 pkt 7, art. 388 pkt 2 lit. b i c lub art. 415 ust. 2 pkt 5 i 6, przy ustalaniu wartości zamówienia uwzględnia się także wartość tych zamówień.
 2. Przy ustaleniu wartości zamówienia uwzględnia się największy możliwy zakres tego zamówienia z uwzględnieniem opcji oraz wznowień.
 3. Wartością partnerstwa innowacyjnego jest maksymalna wartość wszystkich działań w procesie badawczo-rozwojowym, które mają zostać przeprowadzone w ramach każdego z etapów planowanego partnerstwa, oraz wszystkich dostaw, usług lub robót budowlanych, które mają być opracowane i zamówione na koniec partnerstwa.
 4. Jeżeli w dialogu konkurencyjnym i partnerstwie innowacyjnym zamawiający przewiduje nagrody, ich wartość uwzględnia się w szacunkowej wartości zamówienia.
@@ -436,9 +436,9 @@
 - uwzględniając dane techniczne, technologiczne i organizacyjne, mające wpływ na wartość zamówienia.
 
 **Art. 35.**
-1. Podstawą ustalenia wartości zamówień na usługi lub dostawy, powtarzających się, ciągłych lub podlegających wznowieniu w określonym czasie, jest łączna wartość tych zamówień:
-  1) udzielonych w terminie poprzednich 12 miesięcy lub w poprzednim roku budżetowym lub roku obrotowym, z uwzględnieniem zmian ilościowych zamawianych usług lub dostaw oraz prognozowanego na dany rok średniorocznego wskaźnika cen towarów i usług konsumpcyjnych ogółem albo
-  2) których zamawiający zamierza udzielić w terminie 12 miesięcy następujących po pierwszej usłudze lub dostawie.
+1. Podstawą ustalenia wartości zamówienia na usługi lub dostawy powtarzające się lub podlegające wznowieniu w określonym czasie jest:
+  1) rzeczywista łączna wartość kolejnych zamówień tego samego rodzaju, udzielonych w ciągu poprzednich 12 miesięcy lub w poprzednim roku budżetowym lub roku obrotowym, z uwzględnieniem zmian ilości lub wartości zamawianych usług lub dostaw, które mogły wystąpić w ciągu 12 miesięcy następujących od udzielenia pierwszego zamówienia, albo
+  2) łączna wartość zamówień, których zamawiający zamierza udzielić w terminie 12 miesięcy następujących po pierwszej usłudze lub dostawie.
 2. Jeżeli zamówienia na dostawy na podstawie umowy dzierżawy, najmu lub leasingu udziela się na czas:
   1) nieoznaczony lub których okres obowiązywania nie może być oznaczony, wartością zamówienia jest wartość miesięczna pomnożona przez 48;
   2) oznaczony:
@@ -577,20 +577,16 @@
 4. Jeżeli dokonanie określonych czynności związanych z przygotowaniem i przeprowadzeniem postępowania o udzielenie zamówienia wymaga wiadomości specjalnych, kierownik zamawiającego, z własnej inicjatywy lub na wniosek komisji przetargowej, może powołać biegłych.
 
 **Art. 56.**
-1. Kierownik zamawiającego, członek komisji przetargowej oraz inne osoby wykonujące czynności związane z przeprowadzeniem postępowania o udzielenie zamówienia, po stronie zamawiającego, lub mogące wpłynąć na wynik tego postępowania lub udzielające zamówienia podlegają wyłączeniu, jeżeli po ich stronie występuje konflikt interesów.
+1. Kierownik zamawiającego, członek komisji przetargowej oraz inne osoby wykonujące czynności związane z przeprowadzeniem postępowania o udzielenie zamówienia po stronie zamawiającego lub osoby mogące wpłynąć na wynik tego postępowania lub osoby udzielające zamówienia podlegają wyłączeniu z dokonywania tych czynności, jeżeli po ich stronie występuje konflikt interesów.
 2. Konflikt interesów występuje wówczas, gdy osoby wymienione w ust. 1:
   1) ubiegają się o udzielenie tego zamówienia;
   2) pozostają w związku małżeńskim, w stosunku pokrewieństwa lub powinowactwa w linii prostej, pokrewieństwa lub powinowactwa w linii bocznej do drugiego stopnia, lub są związane z tytułu przysposobienia, opieki lub kurateli albo pozostają we wspólnym pożyciu z wykonawcą, jego zastępcą prawnym lub członkami organów zarządzających lub organów nadzorczych wykonawców ubiegających się o udzielenie zamówienia;
   3) w okresie 3 lat przed wszczęciem postępowania o udzielenie zamówienia pozostawały w stosunku pracy lub zlecenia z wykonawcą, otrzymywały od wykonawcy wynagrodzenie z innego tytułu lub były członkami organów zarządzających lub organów nadzorczych wykonawców ubiegających się o udzielenie zamówienia;
   4) pozostają z wykonawcą w takim stosunku prawnym lub faktycznym, że istnieje uzasadniona wątpliwość co do ich bezstronności lub niezależności w związku z postępowaniem o udzielenie zamówienia z uwagi na posiadanie bezpośredniego lub pośredniego interesu finansowego, ekonomicznego lub osobistego w określonym rozstrzygnięciu tego postępowania.
-3. Kierownik zamawiającego, członek komisji przetargowej oraz inne osoby wykonujące czynności związane z przygotowaniem lub przeprowadzeniem postępowania o udzielenie zamówienia po stronie zamawiającego lub osoby mogące wpłynąć na wynik tego postępowania lub osoby udzielające zamówienia podlegają wyłączeniu z dokonywania tych czynności, jeżeli zostały prawomocnie skazane za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia:
-  1) o którym mowa w art. 228-230a lub art. 250a ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2019 r. poz. 1950), zwanej dalej „Kodeksem karnym”, lub
-  2) przeciwko wiarygodności dokumentów, o którym mowa w rozdziale XXXIV Kodeksu karnego lub przeciwko mieniu, o którym mowa w rozdziale XXXV Kodeksu karnego, lub przeciwko obrotowi gospodarczemu i interesom majątkowym w obrocie cywilnoprawnym, o którym mowa w rozdziale XXXVI Kodeksu karnego, lub
-  3) na podstawie art. 46 lub art. 48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2019 r. poz. 1468 i 1495)
-- o ile nie nastąpiło zatarcie skazania.
+3. Kierownik zamawiającego, członek komisji przetargowej oraz inne osoby wykonujące czynności związane z przeprowadzeniem postępowania o udzielenie zamówienia po stronie zamawiającego lub osoby mogące wpłynąć na wynik tego postępowania lub osoby udzielające zamówienia podlegają wyłączeniu z dokonywania tych czynności, jeżeli zostały prawomocnie skazane za przestępstwo popełnione w związku z postępowaniem o udzielenie zamówienia, o którym mowa w art. 228-230a, art. 270, art. 276, art. 286, art. 287, art. 296, art. 296a, art. 297, art. 303 lub art. 305 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517), zwanej dalej „Kodeksem karnym”, o ile nie nastąpiło zatarcie skazania.
 4. Osoby, o których mowa w ust. 1 i 3, składają, pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia, oświadczenie w formie pisemnej o istnieniu albo braku istnienia okoliczności, o których mowa odpowiednio w ust. 2 lub 3. Przed odebraniem oświadczenia, kierownik zamawiającego lub osoba, której powierzył czynności w postępowaniu, uprzedza osoby składające oświadczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 5. Oświadczenie o istnieniu okoliczności, o których mowa w ust. 2, składa się niezwłocznie po powzięciu wiadomości o ich istnieniu, a oświadczenie o braku istnienia tych okoliczności nie później niż przed zakończeniem postępowania o udzielenie zamówienia.
-6. Oświadczenie o braku lub istnieniu okoliczności, o których mowa w ust. 3, składa się przed rozpoczęciem wykonywania czynności związanych z przygotowaniem lub przeprowadzeniem postępowania o udzielenie zamówienia.
+6. Oświadczenie o braku lub istnieniu okoliczności, o których mowa w ust. 3, składa się przed rozpoczęciem wykonywania czynności związanych z przeprowadzeniem postępowania o udzielenie zamówienia.
 7. Czynności w postępowaniu o udzielenie zamówienia podjęte przez osobę podlegającą wyłączeniu powtarza się, z wyjątkiem otwarcia ofert oraz innych czynności faktycznych niewpływających na wynik postępowania.
 
 #### Oddział 2 — Wykonawcy
@@ -618,7 +614,7 @@
 1. Komunikacja w postępowaniu o udzielenie zamówienia i w konkursie, w tym składanie ofert, wniosków o dopuszczenie do udziału w postępowaniu lub konkursie, wymiana informacji oraz przekazywanie dokumentów lub oświadczeń między zamawiającym a wykonawcą, z uwzględnieniem wyjątków określonych w ustawie, odbywa się przy użyciu środków komunikacji elektronicznej.
 2. Komunikacja ustna dopuszczalna jest w toku negocjacji lub dialogu oraz w odniesieniu do informacji, które nie są istotne, w szczególności nie dotyczą ogłoszenia o zamówieniu lub dokumentów zamówienia, wniosków o dopuszczenie do udziału w postępowaniu lub konkursie, potwierdzenia zainteresowania, ofert lub prac konkursowych, o ile jej treść jest udokumentowana.
 
-**Art. 62.** Ilekroć w niniejszym rozdziale jest mowa o ofercie, należy przez to rozumieć również ofertę wstępną, ofertę podlegającą negocjacjom, ofertę ostateczną, ofertę wariantową oraz ofertę częściową.
+**Art. 62.** Ilekroć w niniejszym rozdziale jest mowa o ofercie, należy przez to rozumieć również ofertę wstępną, ofertę podlegającą negocjacjom, ofertę ostateczną, ofertę dodatkową, ofertę wariantową oraz ofertę częściową.
 
 **Art. 63.**
 1. W postępowaniu o udzielenie zamówienia lub konkursie o wartości równej lub przekraczającej progi unijne ofertę, wniosek o dopuszczenie do udziału w postępowaniu o udzielenie zamówienia lub w konkursie, wniosek, o którym mowa w art. 371 ust. 3, oraz oświadczenie, o którym mowa w art. 125 ust. 1, składa się, pod rygorem nieważności, w formie elektronicznej.
@@ -633,9 +629,10 @@
   3) użycie środków komunikacji elektronicznej wymagałoby pozyskania przez zamawiającego specjalistycznego sprzętu biurowego;
   4) zamawiający wymaga przedstawienia modelu fizycznego, modelu w skali lub próbki, których nie można przekazać przy użyciu środków komunikacji elektronicznej;
   5) jest to niezbędne z powodu naruszenia bezpieczeństwa środków komunikacji elektronicznej;
-  6) jest to niezbędne z uwagi na potrzebę ochrony informacji szczególnie wrażliwych, której nie można zagwarantować w sposób dostateczny przy użyciu środków komunikacji elektronicznej lub innych narzędzi, lub urządzeń, które są ogólnie dostępne dla wykonawców lub które mogłyby być udostępnione przez zamawiającego.
-2. W przypadku odstąpienia przez zamawiającego od wymagania użycia środków komunikacji elektronicznej, w szczególności w odniesieniu do wniosku o dopuszczenie do udziału w postępowaniu, oferty, pracy konkursowej albo ich części, podmiotowego środka dowodowego lub przedmiotowego środka dowodowego, z uwagi na wystąpienie jednej z okoliczności, o której mowa w ust. 1, przekazuje się je w postaci innej niż elektroniczna, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2018 r. poz. 2188 oraz z 2019 r. poz. 1051, 1495 i 2005), osobiście lub za pośrednictwem posłańca.
-3. W przypadku, o którym mowa w ust. 2, wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, wnioski, o których mowa w art. 371 ust. 3, oferty lub ich części składa się, pod rygorem nieważności, w formie pisemnej.
+  6) jest to niezbędne z uwagi na potrzebę ochrony informacji szczególnie wrażliwych, której nie można zagwarantować w sposób dostateczny przy użyciu środków komunikacji elektronicznej lub innych narzędzi, lub urządzeń, które są ogólnie dostępne dla wykonawców lub które mogłyby być udostępnione przez zamawiającego;
+  7) zamówienie jest udzielane lub konkurs jest organizowany przez placówkę zagraniczną Rzeczypospolitej Polskiej w rozumieniu ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. z 2020 r. poz. 1854) w państwie trzecim, niebędącym członkiem Unii Europejskiej, z którym Unia Europejska nie zawarła umowy o wzajemnym uznawaniu usług zaufania, o której mowa w art. 14 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 z dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylającego dyrektywę 1999/93/WE (Dz. Urz. UE L 257 z 28.08.2014, str. 73), oraz wartość tego zamówienia lub konkursu jest mniejsza niż progi unijne.
+2. W przypadku odstąpienia przez zamawiającego od wymagania użycia środków komunikacji elektronicznej, z uwagi na wystąpienie jednej z okoliczności, o której mowa w ust. 1, w szczególności w odniesieniu do wniosku o dopuszczenie do udziału w postępowaniu lub konkursie, oferty, pracy konkursowej albo ich części, podmiotowego środka dowodowego lub przedmiotowego środka dowodowego, można je przekazać, zgodnie z wyborem zamawiającego, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2020 r. poz. 1041), osobiście lub za pośrednictwem posłańca.
+3. W przypadku odstąpienia przez zamawiającego od wymagania użycia środków komunikacji elektronicznej, z uwagi na wystąpienie jednej z okoliczności, o której mowa w ust. 1, wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, wnioski, o których mowa w art. 371 ust. 3, oferty lub ich części składa się zgodnie z wyborem zamawiającego, pod rygorem nieważności, w formie pisemnej lub w formie lub postaci, o której mowa w art. 63.
 4. Zamawiający opisuje w protokole postępowania powody odstąpienia od wymogu użycia środków komunikacji elektronicznej.
 
 **Art. 66.**
@@ -654,9 +651,9 @@
 2. Zamawiający zapewnia wykonawcom lub uczestnikom konkursu możliwość skorzystania z alternatywnego środka dostępu do narzędzi, o których mowa w ust. 1.
 
 **Art. 70.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
-1) sposób sporządzania oraz sposób i tryb przekazywania wniosków o dopuszczenie do udziału w postępowaniu lub konkursie, wniosków, o których mowa w art. 371 ust. 3, ofert, prac konkursowych, oświadczeń, o których mowa w art. 125 ust. 1, podmiotowych środków dowodowych, przedmiotowych środków dowodowych, oraz innych informacji, oświadczeń lub dokumentów, przekazywanych w postępowaniu lub konkursie,
-2) wymagania techniczne dla dokumentów elektronicznych zawierających wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, oferty, prace konkursowe, oświadczenia, o których mowa w art. 125 ust. 1, podmiotowe środki dowodowe, przedmiotowe środki dowodowe, oraz inne informacje, oświadczenia lub dokumenty, przekazywane w postępowaniu lub konkursie przy użyciu środków komunikacji elektronicznej,
-3) wymagania techniczne odnoszące się do środków komunikacji elektronicznej w postępowaniu o udzielenie zamówienia lub konkursie
+1) sposób sporządzania oraz sposób przekazywania wniosków o dopuszczenie do udziału w postępowaniu lub konkursie, wniosków, o których mowa w art. 371 ust. 3, ofert, prac konkursowych, oświadczeń, o których mowa w art. 125 ust. 1, podmiotowych środków dowodowych, przedmiotowych środków dowodowych, oraz innych informacji, oświadczeń lub dokumentów, przekazywanych w postępowaniu lub konkursie,
+2) wymagania techniczne dla dokumentów elektronicznych zawierających wnioski o dopuszczenie do udziału w postępowaniu lub konkursie, wnioski, o których mowa w art. 371 ust. 3, oferty, prace konkursowe, oświadczenia, o których mowa w art. 125 ust. 1, podmiotowe środki dowodowe, przedmiotowe środki dowodowe, oraz inne informacje, oświadczenia lub dokumenty, przekazywane w postępowaniu lub konkursie,
+3) wymagania techniczne i organizacyjne użycia środków komunikacji elektronicznej służących do odbioru dokumentów elektronicznych, o których mowa w pkt 2
 - mając na względzie wartość zamówienia lub konkursu, konieczność zapewnienia integralności i autentyczności danych oraz potrzebę zapewnienia konkurencji i sprawności postępowania o udzielenie zamówienia lub konkursu, otwartego dostępu wykonawców do postępowania o udzielenie zamówienia lub konkursu, a także bezpieczeństwa przetwarzanych danych.
 
 ### Rozdział 8 — Dokumentowanie przebiegu postępowania o udzielenie zamówienia
@@ -720,8 +717,8 @@
 2) oraz formę udostępniania zainteresowanym protokołu postępowania wraz z załącznikami, mając na względzie zasadę jawności postępowania o udzielenie zamówienia.
 
 **Art. 81.**
-1. Zamawiający przekazuje Prezesowi Urzędu informację o złożonych wnioskach o dopuszczenie do udziału w postępowaniu lub ofertach, nie później niż w terminie 7 dni od dnia otwarcia odpowiednio ofert albo ofert wstępnych lub ofert ostatecznych albo unieważnienia postępowania.
-2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, zakres danych zawartych w informacji, o której mowa w ust. 1, jej wzór, sposób sporządzania oraz sposób i tryb jej przekazywania, mając na względzie obowiązek Prezesa Urzędu do dokonywania bieżącej analizy funkcjonowania systemu zamówień, w tym w szczególności w zakresie informacji dotyczących rodzajów zamawiających, rodzajów i wartości zamówień, liczby wniosków o dopuszczenie do udziału w postępowaniu lub ofert i trybów postępowania o udzielenie zamówienia.
+1. Zamawiający przekazuje Prezesowi Urzędu informację o złożonych wnioskach o dopuszczenie do udziału w postępowaniu lub ofertach, nie później niż w terminie 7 dni od dnia otwarcia odpowiednio ofert lub ofert dodatkowych albo ofert wstępnych lub ofert ostatecznych albo unieważnienia postępowania.
+2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, zakres danych zawartych w informacji, o której mowa w ust. 1, jej wzór, sposób sporządzania oraz sposób i tryb jej przekazywania, w tym sposób liczenia terminu, o którym mowa w ust. 1, mając na względzie obowiązek do dokonywania bieżącej analizy funkcjonowania systemu zamówień, w tym w szczególności w zakresie informacji dotyczących rodzajów zamawiających, rodzajów i wartości zamówień, liczby wniosków o dopuszczenie do udziału w postępowaniu lub ofert i trybów postępowania o udzielenie zamówienia.
 
 **Art. 82.**
 1. Zamawiający sporządza roczne sprawozdanie o udzielonych zamówieniach, zwane dalej „sprawozdaniem”, w tym o zamówieniach wyłączonych na podstawie niniejszego działu rozdziału 1 oddziału 2, zamówieniach klasycznych, których wartość jest mniejsza niż 130 000 złotych, a także o zamówieniach sektorowych oraz zamówieniach w dziedzinach obronności i bezpieczeństwa, których wartość jest mniejsza niż progi unijne.
@@ -780,7 +777,7 @@
 **Art. 89.**
 1. Zamawiający może przekazać Urzędowi Publikacji Unii Europejskiej lub zamieścić na stronie internetowej zamawiającego wstępne ogłoszenie informacyjne o planowanych w terminie następnych 12 miesięcy zamówieniach lub umowach ramowych.
 2. Jeżeli wstępne ogłoszenie informacyjne jest zamieszczane przez zamawiającego na stronie internetowej zamawiającego, zamawiający przekazuje Urzędowi Publikacji Unii Europejskiej ogłoszenie o publikacji wstępnego ogłoszenia informacyjnego na stronie internetowej zamawiającego (ogłoszenie o profilu nabywcy).
-3. Zamawiający może zamieścić wstępne ogłoszenie informacyjne na stronie internetowej zamawiającego. Zamieszczenie ogłoszenia nie może nastąpić przed jego publikacją w Dzienniku Urzędowym Unii Europejskiej, z wyjątkiem przypadku gdy zamawiający nie został powiadomiony o publikacji w terminie 48 godzin od potwierdzenia przez Urząd Publikacji Unii Europejskiej otrzymania tego ogłoszenia.
+3. Wstępne ogłoszenie informacyjne nie może zostać zamieszczone na stronie internetowej zamawiającego przed publikacją ogłoszenia o profilu nabywcy w Dzienniku Urzędowym Unii Europejskiej, z wyjątkiem przypadku, gdy zamawiający nie został powiadomiony o publikacji w terminie 48 godzin od potwierdzenia przez Urząd Publikacji Unii Europejskiej otrzymania tego ogłoszenia.
 
 **Art. 90.**
 1. Zamawiający może zmienić ogłoszenie, przekazując Urzędowi Publikacji Unii Europejskiej sprostowanie, ogłoszenie zmian lub dodatkowych informacji. Przepisy art. 87 i art. 88 stosuje się.
@@ -825,14 +822,14 @@
   9) osób do 30. roku życia oraz po ukończeniu 50. roku życia, posiadających status osoby poszukującej pracy, bez zatrudnienia,
   10) osób będących członkami mniejszości znajdującej się w niekorzystnej sytuacji, w szczególności będących członkami mniejszości narodowych i etnicznych w rozumieniu ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r. poz. 823)
 - pod warunkiem, że procentowy wskaźnik zatrudnienia osób należących do jednej lub więcej kategorii, o których mowa w pkt 1-10, jest nie mniejszy niż 30% osób zatrudnionych u wykonawcy albo w jego jednostce, która będzie realizowała zamówienie.
-2. W przypadku, o którym mowa w ust. 1, zamawiający może żądać:
-  1) dokumentów potwierdzających status wykonawcy jako zakładu pracy chronionej lub potwierdzających prowadzenie przez wykonawcę lub przez jego wyodrębnioną organizacyjnie jednostkę, która będzie realizowała zamówienie, działalności, której głównym celem jest społeczna i zawodowa integracja osób społecznie marginalizowanych;
-  2) dokumentów potwierdzających procentowy wskaźnik zatrudnienia osób należących do jednej lub więcej kategorii, o których mowa w ust. 1, zatrudnionych przez zakłady pracy chronionej lub wykonawcę lub jego wyodrębnioną organizacyjnie jednostkę, która będzie realizowała zamówienie.
+2. W przypadku, o którym mowa w ust. 1, zamawiający może żądać dokumentów lub oświadczeń potwierdzających:
+  1) status wykonawcy jako zakładu pracy chronionej lub spółdzielni socjalnej lub dokumentów potwierdzających prowadzenie przez wykonawcę lub przez jego wyodrębnioną organizacyjnie jednostkę, która będzie realizowała zamówienie, działalności, której głównym celem jest społeczna i zawodowa integracja osób społecznie marginalizowanych;
+  2) procentowy wskaźnik zatrudnienia osób należących do jednej lub więcej kategorii, o których mowa w ust. 1, zatrudnionych przez zakłady pracy chronionej, spółdzielnie socjalne lub wykonawcę lub jego wyodrębnioną organizacyjnie jednostkę, która będzie realizowała zamówienie.
 
 **Art. 95.**
 1. Zamawiający określa w ogłoszeniu o zamówieniu lub dokumentach zamówienia na usługi lub roboty budowlane wymagania związane z realizacją zamówienia w zakresie zatrudnienia przez wykonawcę lub podwykonawcę na podstawie stosunku pracy osób wykonujących wskazane przez zamawiającego czynności w zakresie realizacji zamówienia, jeżeli wykonanie tych czynności polega na wykonywaniu pracy w sposób określony w art. 22 § 1 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz. U. z 2019 r. poz. 1040, 1043 i 1495).
 2. W przypadku gdy zamawiający przewiduje wymagania, o których mowa w ust. 1, określa w dokumentach zamówienia w szczególności:
-  1) rodzaj czynności niezbędnych do realizacji zamówienia, których dotyczą wymagania zatrudnienia na podstawie stosunku pracy przez wykonawcę lub podwykonawcę osób wykonujących czynności w trakcie realizacji zamówienia;
+  1) rodzaj czynności związanych z realizacją zamówienia, których dotyczą wymagania zatrudnienia na podstawie stosunku pracy przez wykonawcę lub podwykonawcę osób wykonujących czynności w trakcie realizacji zamówienia;
   2) sposób weryfikacji zatrudnienia tych osób;
   3) uprawnienia zamawiającego w zakresie kontroli spełniania przez wykonawcę wymagań związanych z zatrudnianiem tych osób oraz sankcji z tytułu niespełnienia tych wymagań.
 
@@ -846,7 +843,8 @@
     c) osób usamodzielnianych, o których mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej,
     d) młodocianych, o których mowa w przepisach prawa pracy, w celu przygotowania zawodowego,
     e) osób niepełnosprawnych w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych,
-    f) innych osób niż określone w lit. a-e, o których mowa w ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2019 r. poz. 217, 730 i 1818) lub we właściwych przepisach państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego.
+    f) innych osób niż określone w lit. a-e, o których mowa w ustawie z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym (Dz. U. z 2019 r. poz. 217, 730 i 1818) lub we właściwych przepisach państw członkowskich Unii Europejskiej lub Europejskiego Obszaru Gospodarczego,
+    g) osób do 30. roku życia oraz po ukończeniu 50. roku życia, posiadających status osoby poszukującej pracy, bez zatrudnienia.
 3. W przypadku, o którym mowa w ust. 2 pkt 2, zamawiający określa w dokumentach zamówienia liczbę i okres wymaganego zatrudnienia osób, których dotyczy ten wymóg.
 4. W przypadku gdy zamawiający przewiduje wymagania, o których mowa w ust. 1, w dokumentach zamówienia określa w szczególności sposób dokumentowania spełniania przez wykonawcę tych wymagań, uprawnienia zamawiającego w zakresie kontroli spełniania przez wykonawcę tych wymagań oraz sankcje z tytułu ich niespełnienia.
 
@@ -999,13 +997,13 @@
     c) o którym mowa w art. 228-230a, art. 250a Kodeksu karnego lub w art. 46 lub art. 48 ustawy z dnia 25 czerwca 2010 r. o sporcie,
     d) finansowania przestępstwa o charakterze terrorystycznym, o którym mowa w art. 165a Kodeksu karnego, lub przestępstwo udaremniania lub utrudniania stwierdzenia przestępnego pochodzenia pieniędzy lub ukrywania ich pochodzenia, o którym mowa w art. 299 Kodeksu karnego,
     e) o charakterze terrorystycznym, o którym mowa w art. 115 § 20 Kodeksu karnego, lub mające na celu popełnienie tego przestępstwa,
-    f) pracy małoletnich cudzoziemców, o którym mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 769),
+    f) powierzenia wykonywania pracy małoletniemu cudzoziemcowi, o którym mowa w art. 9 ust. 2 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 769),
     g) przeciwko obrotowi gospodarczemu, o których mowa w art. 296-307 Kodeksu karnego, przestępstwo oszustwa, o którym mowa w art. 286 Kodeksu karnego, przestępstwo przeciwko wiarygodności dokumentów, o których mowa w art. 270-277d Kodeksu karnego, lub przestępstwo skarbowe,
     h) o którym mowa w art. 9 ust. 1 i 3 lub art. 10 ustawy z dnia 15 czerwca 2012 r. o skutkach powierzania wykonywania pracy cudzoziemcom przebywającym wbrew przepisom na terytorium Rzeczypospolitej Polskiej
   - lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego;
   2) jeżeli urzędującego członka jego organu zarządzającego lub nadzorczego, wspólnika spółki w spółce jawnej lub partnerskiej albo komplementariusza w spółce komandytowej lub komandytowo-akcyjnej lub prokurenta prawomocnie skazano za przestępstwo, o którym mowa w pkt 1;
   3) wobec którego wydano prawomocny wyrok sądu lub ostateczną decyzję administracyjną o zaleganiu z uiszczeniem podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne, chyba że wykonawca odpowiednio przed upływem terminu do składania wniosków o dopuszczenie do udziału w postępowaniu albo przed upływem terminu składania ofert dokonał płatności należnych podatków, opłat lub składek na ubezpieczenie społeczne lub zdrowotne wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłaty tych należności;
-  4) wobec którego orzeczono zakaz ubiegania się o zamówienia publiczne;
+  4) wobec którego prawomocnie orzeczono zakaz ubiegania się o zamówienia publiczne;
   5) jeżeli zamawiający może stwierdzić, na podstawie wiarygodnych przesłanek, że wykonawca zawarł z innymi wykonawcami porozumienie mające na celu zakłócenie konkurencji, w szczególności jeżeli należąc do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, złożyli odrębne oferty, oferty częściowe lub wnioski o dopuszczenie do udziału w postępowaniu, chyba że wykażą, że przygotowali te oferty lub wnioski niezależnie od siebie;
   6) jeżeli, w przypadkach, o których mowa w art. 85 ust. 1, doszło do zakłócenia konkurencji wynikającego z wcześniejszego zaangażowania tego wykonawcy lub podmiotu, który należy z wykonawcą do tej samej grupy kapitałowej w rozumieniu ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, chyba że spowodowane tym zakłócenie konkurencji może być wyeliminowane w inny sposób niż przez wykluczenie wykonawcy z udziału w postępowaniu o udzielenie zamówienia.
 2. Z postępowania o udzielenie zamówienia, w przypadku zamówienia o wartości równej lub przekraczającej wyrażoną w złotych równowartość kwoty dla robót budowlanych - 20 000 000 euro, a dla dostaw lub usług - 10 000 000 euro, wyklucza się wykonawcę, który udaremnia lub utrudnia stwierdzenie przestępnego pochodzenia pieniędzy lub ukrywa ich pochodzenie, w związku z brakiem możliwości ustalenia beneficjenta rzeczywistego, w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2019 r. poz. 1115, 1520, 1655 i 1798).
@@ -1015,9 +1013,9 @@
   1) który naruszył obowiązki dotyczące płatności podatków, opłat lub składek na ubezpieczenia społeczne lub zdrowotne, z wyjątkiem przypadku, o którym mowa w art. 108 ust. 1 pkt 3, chyba że wykonawca odpowiednio przed upływem terminu do składania wniosków o dopuszczenie do udziału w postępowaniu albo przed upływem terminu składania ofert dokonał płatności należnych podatków, opłat lub składek na ubezpieczenia społeczne lub zdrowotne wraz z odsetkami lub grzywnami lub zawarł wiążące porozumienie w sprawie spłaty tych należności;
   2) który naruszył obowiązki w dziedzinie ochrony środowiska, prawa socjalnego lub prawa pracy:
     a) będącego osobą fizyczną skazanego prawomocnie za przestępstwo przeciwko środowisku, o którym mowa w rozdziale XXII Kodeksu karnego lub za przestępstwo przeciwko prawom osób wykonujących pracę zarobkową, o którym mowa w rozdziale XXVIII Kodeksu karnego, lub za odpowiedni czyn zabroniony określony w przepisach prawa obcego,
-    b) będącego osobą fizyczną prawomocnie skazanego za wykroczenie przeciwko prawom pracownika lub wykroczenie przeciwko środowisku, jeżeli za jego popełnienie wymierzono karę aresztu, ograniczenia wolności lub karę grzywny,
+    b) będącego osobą fizyczną prawomocnie ukaranego za wykroczenie przeciwko prawom pracownika lub wykroczenie przeciwko środowisku, jeżeli za jego popełnienie wymierzono karę aresztu, ograniczenia wolności lub karę grzywny,
     c) wobec którego wydano ostateczną decyzję administracyjną o naruszeniu obowiązków wynikających z prawa ochrony środowiska, prawa pracy lub przepisów o zabezpieczeniu społecznym, jeżeli wymierzono tą decyzją karę pieniężną;
-  3) jeżeli urzędującego członka jego organu zarządzającego lub nadzorczego, wspólnika spółki w spółce jawnej lub partnerskiej albo komplementariusza w spółce komandytowej lub komandytowo-akcyjnej lub prokurenta prawomocnie skazano za przestępstwo lub wykroczenie, o którym mowa w pkt 2 lit. a lub b;
+  3) jeżeli urzędującego członka jego organu zarządzającego lub nadzorczego, wspólnika spółki w spółce jawnej lub partnerskiej albo komplementariusza w spółce komandytowej lub komandytowo-akcyjnej lub prokurenta prawomocnie skazano za przestępstwo lub ukarano za wykroczenie, o którym mowa w pkt 2 lit. a lub b;
   4) w stosunku do którego otwarto likwidację, ogłoszono upadłość, którego aktywami zarządza likwidator lub sąd, zawarł układ z wierzycielami, którego działalność gospodarcza jest zawieszona albo znajduje się on w innej tego rodzaju sytuacji wynikającej z podobnej procedury przewidzianej w przepisach miejsca wszczęcia tej procedury;
   5) który w sposób zawiniony poważnie naruszył obowiązki zawodowe, co podważa jego uczciwość, w szczególności gdy wykonawca w wyniku zamierzonego działania lub rażącego niedbalstwa nie wykonał lub nienależycie wykonał zamówienie, co zamawiający jest w stanie wykazać za pomocą stosownych dowodów;
   6) jeżeli występuje konflikt interesów w rozumieniu art. 56 ust. 2, którego nie można skutecznie wyeliminować w inny sposób niż przez wykluczenie wykonawcy;
@@ -1030,7 +1028,7 @@
 
 **Art. 110.**
 1. Wykonawca może zostać wykluczony przez zamawiającego na każdym etapie postępowania o udzielenie zamówienia.
-2. Wykonawca nie podlega wykluczeniu w okolicznościach określonych w art. 108 ust. 1 pkt 1, 2, 5 i 6 lub art. 109 ust. 1 pkt 2-10, jeżeli udowodni zamawiającemu, że spełnił łącznie następujące przesłanki:
+2. Wykonawca nie podlega wykluczeniu w okolicznościach określonych w art. 108 ust. 1 pkt 1, 2 i 5 lub art. 109 ust. 1 pkt 2-5 i 7-10, jeżeli udowodni zamawiającemu, że spełnił łącznie następujące przesłanki:
   1) naprawił lub zobowiązał się do naprawienia szkody wyrządzonej przestępstwem, wykroczeniem lub swoim nieprawidłowym postępowaniem, w tym poprzez zadośćuczynienie pieniężne;
   2) wyczerpująco wyjaśnił fakty i okoliczności związane z przestępstwem, wykroczeniem lub swoim nieprawidłowym postępowaniem oraz spowodowanymi przez nie szkodami, aktywnie współpracując odpowiednio z właściwymi organami, w tym organami ścigania, lub zamawiającym;
   3) podjął konkretne środki techniczne, organizacyjne i kadrowe, odpowiednie dla zapobiegania dalszym przestępstwom, wykroczeniom lub nieprawidłowemu postępowaniu, w szczególności:
@@ -1048,9 +1046,10 @@
   b) art. 109 ust. 1 pkt 2 i 3
 - na okres 3 lat od dnia uprawomocnienia się odpowiednio wyroku potwierdzającego zaistnienie jednej z podstaw wykluczenia, wydania ostatecznej decyzji lub zaistnienia zdarzenia będącego podstawą wykluczenia, chyba że w wyroku lub decyzji został określony inny okres wykluczenia;
 3) w przypadku, o którym mowa w art. 108 ust. 1 pkt 4, na okres, na jaki został prawomocnie orzeczony zakaz ubiegania się o zamówienia publiczne;
-4) w przypadkach, o których mowa w art. 108 ust. 1 pkt 5 i 6, art. 109 ust. 1 pkt 4-7 i 9, na okres 3 lat od zaistnienia zdarzenia będącego podstawą wykluczenia;
+4) w przypadkach, o których mowa w art. 108 ust. 1 pkt 5, art. 109 ust. 1 pkt 4, 5, 7 i 9, na okres 3 lat od zaistnienia zdarzenia będącego podstawą wykluczenia;
 5) w przypadku, o którym mowa w art. 109 ust. 1 pkt 8, na okres 2 lat od zaistnienia zdarzenia będącego podstawą wykluczenia;
-6) w przypadku, o którym mowa w art. 109 ust. 1 pkt 10, na okres roku od zaistnienia zdarzenia będącego podstawą wykluczenia.
+6) w przypadku, o którym mowa w art. 109 ust. 1 pkt 10, na okres roku od zaistnienia zdarzenia będącego podstawą wykluczenia;
+7) w przypadkach, o których mowa w art. 108 ust. 1 pkt 6 i art. 109 ust. 1 pkt 6, w postępowaniu o udzielenie zamówienia, w którym zaistniało zdarzenie będące podstawą wykluczenia.
 
 #### Oddział 2 — Warunki udziału w postępowaniu
 
@@ -1122,7 +1121,7 @@
 **Art. 125.**
 1. Do wniosku o dopuszczenie do udziału w postępowaniu albo do oferty wykonawca dołącza oświadczenie o niepodleganiu wykluczeniu, spełnianiu warunków udziału w postępowaniu lub kryteriów selekcji, w zakresie wskazanym przez zamawiającego.
 2. Oświadczenie, o którym mowa w ust. 1, składa się na formularzu jednolitego europejskiego dokumentu zamówienia, sporządzonym zgodnie ze wzorem standardowego formularza określonego w rozporządzeniu wykonawczym Komisji (UE) 2016/7 z dnia 5 stycznia 2016 r. ustanawiającym standardowy formularz jednolitego europejskiego dokumentu zamówienia (Dz. Urz. UE L 3 z 06.01.2016, str. 16), zwanego dalej „jednolitym dokumentem”.
-3. Oświadczenie, o którym mowa w ust. 1, stanowi dowód potwierdzający brak podstaw wykluczenia, spełnianie warunków udziału w postępowaniu lub kryteriów selekcji, odpowiednio na dzień składania wniosków o dopuszczenie do udziału w postępowaniu albo ofert, stanowi dowód tymczasowo zastępujący wymagane przez zamawiającego podmiotowe środki dowodowe.
+3. Oświadczenie, o którym mowa w ust. 1, stanowi dowód potwierdzający brak podstaw wykluczenia, spełnianie warunków udziału w postępowaniu lub kryteriów selekcji, odpowiednio na dzień składania wniosków o dopuszczenie do udziału w postępowaniu stanowi dowód tymczasowo zastępujący wymagane przez zamawiającego podmiotowe środki dowodowe.
 4. W przypadku wspólnego ubiegania się o zamówienie przez wykonawców, oświadczenie, o którym mowa w ust. 1, składa każdy z wykonawców. Oświadczenia te potwierdzają brak podstaw wykluczenia oraz spełnianie warunków udziału w postępowaniu lub kryteriów selekcji w zakresie, w jakim każdy z wykonawców wykazuje spełnianie warunków udziału w postępowaniu lub kryteriów selekcji.
 5. Wykonawca, w przypadku polegania na zdolnościach lub sytuacji podmiotów udostępniających zasoby, przedstawia, wraz z oświadczeniem, o którym mowa w ust. 1, także oświadczenie podmiotu udostępniającego zasoby, potwierdzające brak podstaw wykluczenia tego podmiotu oraz odpowiednio spełnianie warunków udziału w postępowaniu lub kryteriów selekcji, w zakresie, w jakim wykonawca powołuje się na jego zasoby.
 6. Wykonawca może wykorzystać jednolity dokument złożony w odrębnym postępowaniu o udzielenie zamówienia, jeżeli potwierdzi, że informacje w nim zawarte pozostają prawidłowe.
@@ -1280,9 +1279,9 @@
   5) sposób oraz termin składania wniosków o dopuszczenie do udziału w postępowaniu.
 
 **Art. 143.**
-1. Do wyjaśnień oraz zmian treści SWZ stosuje się odpowiednio przepisy art. 135-137, a w odniesieniu do wniosków o dopuszczenie do udziału w postępowaniu z uwzględnieniem ust. 2-4.
+1. Do wyjaśnień oraz zmian treści SWZ, w zakresie niezbędnym do złożenia wniosku o dopuszczenie do udziału w postępowaniu, odpowiednio stosuje się przepisy art. 135 ust. 1 i 6, art. 136 i art. 137, z uwzględnieniem ust. 2-5.
 2. Jeżeli wyjaśnienia treści SWZ są niezbędne do należytego przygotowania i złożenia wniosku o dopuszczenie do udziału w postępowaniu zamawiający jest obowiązany udzielić wyjaśnień w tym zakresie niezwłocznie, jednak nie później niż na 6 dni przed upływem terminu składania wniosku albo nie później niż na 4 dni przed upływem terminu składania wniosków w przypadku, o którym mowa w art. 144 ust. 2, pod warunkiem że wniosek o wyjaśnienie treści SWZ wpłynął do zamawiającego nie później niż na 14 dni, a w przypadku, o którym mowa w art. 144 ust. 2, na 7 dni, przed upływem terminu składania wniosku o dopuszczenie do udziału w postępowaniu.
-3. Przedłużenie terminu składania wniosków o dopuszczenie do udziału w postępowaniu nie wpływa na bieg terminu składania wniosku o wyjaśnienie treści SWZ, o którym mowa w ust. 2.
+3. Jeżeli zamawiający nie udzieli wyjaśnień w terminach, o których mowa w ust. 2, przedłuża termin składania wniosków o dopuszczenie do udziału w postępowaniu o czas niezbędny do zapoznania się wszystkich zainteresowanych wykonawców z wyjaśnieniami niezbędnymi do należytego przygotowania i złożenia tych wniosków. Przedłużenie terminu składania wniosków o dopuszczenie do udziału w postępowaniu nie wpływa na bieg terminu składania wniosku o wyjaśnienie treści SWZ, o którym mowa w ust. 2.
 4. Niedopuszczalne jest dokonywanie zmian treści SWZ po upływie terminu składania wniosków o dopuszczenie do udziału w postępowaniu, które prowadzą do zmiany treści ogłoszenia o zamówieniu.
 5. W przypadku gdy wyjaśnienia lub zmiany treści SWZ są istotne dla sporządzenia wniosków o dopuszczenie do udziału w postępowaniu lub wymagają od wykonawców dodatkowego czasu na zapoznanie się ze zmianą SWZ i przygotowanie wniosków, zamawiający przedłuża termin ich składania.
 
@@ -1320,8 +1319,9 @@
   2) numer opublikowanego ogłoszenia o zamówieniu;
   3) adres strony internetowej, na której dostępna jest SWZ oraz jej ewentualne zmiany i wyjaśnienia treści SWZ, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia;
   4) informację o podmiotowych środkach dowodowych, które należy załączyć do oferty, jeżeli zamawiający przewiduje wymóg składania wybranych lub wszystkich podmiotowych środków dowodowych na etapie składania ofert;
-  5) sposób i termin składania ofert oraz język lub języki, w jakich muszą one być sporządzone, a także termin otwarcia ofert.
-2. Jeżeli część SWZ nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający załącza do zaproszenia do składania ofert nieudostępnioną część SWZ oraz jej ewentualne zmiany i wyjaśnienia treści tej części SWZ, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
+  5) sposób i termin składania ofert oraz język lub języki, w jakich muszą one być sporządzone, a także termin otwarcia ofert;
+  6) termin związania ofertą.
+2. Do wyjaśnień oraz zmian treści SWZ, w zakresie niezbędnym do złożenia oferty, odpowiednio stosuje się przepisy art. 135, art. 136, art. 137 ust. 1-3 i ust. 6 zdanie pierwsze oraz art. 143 ust. 4.
 
 **Art. 151.**
 1. Termin składania ofert nie może być krótszy niż 30 dni od dnia przekazania zaproszenia do składania ofert.
@@ -1383,8 +1383,8 @@
 4. W przypadku, o którym mowa w art. 154 ust. 1, opis potrzeb i wymagań zawiera co najmniej informacje, o których mowa w ust. 1 pkt 1-3, 5-13, 18 i 19 oraz w art. 134 ust. 2 pkt 1-10 i 12-18.
 
 **Art. 157.**
-1. Do wyjaśnień oraz zmian treści opisu potrzeb i wymagań w zakresie niezbędnym do złożenia wniosku o dopuszczenie do udziału w postępowaniu odpowiednio stosuje się przepisy art. 135 ust. 1, 4 i 6, art. 136, art. 137 ust. 2 i 4-6 oraz art. 143 ust. 2-4.
-2. Jeżeli zamawiający zastrzegł możliwość udzielenia zamówienia na podstawie ofert wstępnych bez negocjacji do wyjaśnień oraz zmian treści opisu potrzeb i wymagań niezbędnych do złożenia tych ofert odpowiednio stosuje się przepisy art. 135-137 oraz art. 143 ust. 3.
+1. Do wyjaśnień oraz zmian treści opisu potrzeb i wymagań, w zakresie niezbędnym do złożenia wniosku o dopuszczenie do udziału w postępowaniu, odpowiednio stosuje się przepisy art. 135 ust. 1 i 6, art. 136, art. 137 ust. 1-6 oraz art. 143 ust. 2-5.
+2. Jeżeli zamawiający zastrzegł możliwość udzielenia zamówienia na podstawie ofert wstępnych bez negocjacji, do wyjaśnień oraz zmian treści opisu potrzeb i wymagań niezbędnych do złożenia tych ofert odpowiednio stosuje się przepisy art. 135, art. 136, art. 137 ust. 1-3, ust. 6 zdanie pierwsze i ust. 7 oraz art. 143 ust. 4.
 
 **Art. 158.**
 1. Termin składania wniosków o dopuszczenie do udziału w postępowaniu nie może być krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
@@ -1406,7 +1406,7 @@
   3) adres strony internetowej, na której jest dostępny opis potrzeb i wymagań oraz zmiany i wyjaśnienia jego treści, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia;
   4) informację o podmiotowych środkach dowodowych, które należy załączyć do oferty wstępnej, jeżeli zamawiający przewiduje wymóg składania wybranych lub wszystkich podmiotowych środków dowodowych na etapie składania ofert wstępnych;
   5) sposób i termin składania ofert wstępnych oraz język lub języki, w jakich muszą one być sporządzone, oraz termin otwarcia ofert wstępnych.
-2. Jeżeli część opisu potrzeb i wymagań nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający załącza do zaproszenia do składania ofert wstępnych nieudostępnioną część opisu potrzeb i wymagań oraz jego ewentualne zmiany i wyjaśnienia treści tej części opisu potrzeb i wymagań, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
+2. Jeżeli część opisu potrzeb i wymagań nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający udostępnia wraz z zaproszeniem do składania ofert wstępnych nieudostępnioną część opisu potrzeb i wymagań oraz jego ewentualne zmiany i wyjaśnienia treści tej części opisu potrzeb i wymagań, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
 
 **Art. 162.**
 1. Termin składania ofert wstępnych nie może być krótszy niż 30 dni od dnia przekazania zaproszenia do składania ofert wstępnych.
@@ -1439,7 +1439,7 @@
 1. W przypadku gdy zamawiający zamierza zakończyć negocjacje, informuje o tym równocześnie wszystkich pozostałych w postępowaniu wykonawców oraz wyznacza termin na złożenie ofert ostatecznych.
 2. Po zakończeniu negocjacji zamawiający sporządza SWZ, która stanowi doprecyzowanie oraz uzupełnienie informacji zawartych w opisie potrzeb i wymagań, wyłącznie w zakresie, w jakim było to przedmiotem negocjacji.
 3. SWZ zawiera informacje, o których mowa w art. 134 ust. 1 i ust. 2 pkt 1-10 i 12-18.
-4. Do wyjaśnień i zmiany treści SWZ przepisy art. 135, art. 136, art. 137 ust. 1-4 i 6 oraz art. 143 ust. 3 stosuje się odpowiednio.
+4. Do wyjaśnień i zmiany treści SWZ przepisy art. 135, art. 136, art. 137 ust. 1-3 i ust. 6 zdanie pierwsze oraz art. 143 ust. 4 stosuje się odpowiednio.
 
 **Art. 168.**
 1. Zamawiający zaprasza do składania ofert ostatecznych wszystkich pozostałych w postępowaniu wykonawców.
@@ -1448,7 +1448,7 @@
   2) adres strony internetowej, na której jest dostępna SWZ oraz jej ewentualne zmiany i wyjaśnienia treści SWZ, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia;
   3) informację o podmiotowych środkach dowodowych, które należy załączyć do oferty, jeżeli zamawiający przewiduje wymóg składania wybranych lub wszystkich środków dowodowych na etapie składania ofert ostatecznych;
   4) sposób i termin składania ofert ostatecznych oraz język lub języki, w jakich muszą one być sporządzone, oraz termin otwarcia ofert ostatecznych.
-3. Jeżeli część SWZ nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający załącza do zaproszenia do składania ofert ostatecznych nieudostępnioną część SWZ, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
+3. Jeżeli część SWZ nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający udostępnia wraz z zaproszeniem do składania ofert ostatecznych nieudostępnioną część SWZ, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
 
 #### Oddział 5 — Dialog konkurencyjny
 
@@ -1475,7 +1475,7 @@
   6) informację o podziale dialogu na etapy, jeżeli zamawiający przewiduje taki podział w celu ograniczenia liczby rozwiązań, które będą przedmiotem dialogu na kolejnych etapach.
 3. Informacje zawarte w opisie potrzeb i wymagań formułuje się w sposób wystarczająco precyzyjny , aby umożliwić wykonawcom ustalenie charakteru i zakresu zamówienia oraz podjęcie decyzji co do złożenia wniosku o dopuszczenie do udziału w postępowaniu.
 
-**Art. 175.** Do wyjaśnień oraz zmian treści opisu potrzeb i wymagań w zakresie niezbędnym do złożenia wniosku o dopuszczenie do udziału w postępowaniu odpowiednio stosuje się przepisy art. 135 ust. 1 i 5, art. 136, art. 137 ust. 2-4 i 6 oraz art. 143 ust. 2-4.
+**Art. 175.** Do wyjaśnień oraz zmian treści opisu potrzeb i wymagań w zakresie niezbędnym do złożenia wniosku o dopuszczenie do udziału w postępowaniu odpowiednio stosuje się przepisy art. 135 ust. 1 i 6, art. 136, art. 137 ust. 1-6 oraz art. 143 ust. 2-5.
 
 **Art. 176.**
 1. Termin składania wniosków o dopuszczenie do udziału w postępowaniu nie może być krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
@@ -1488,7 +1488,7 @@
 
 **Art. 178.**
 1. Zamawiający zaprasza jednocześnie do dialogu wykonawców, których wnioski o dopuszczenie do udziału w postępowaniu nie podlegały odrzuceniu, a w przypadku ustalenia kryteriów selekcji, zaprasza wykonawców, którzy spełniają te kryteria w liczbie określonej przez zamawiającego, zgodnie z art. 177.
-2. Jeżeli liczba wykonawców, którzy spełniają warunki udziału w postępowaniu, jest większa niż określona w ogłoszeniu o zamówieniu, zamawiający zaprasza do dialogu wykonawców wyłonionych na podstawie kryteriów selekcji.
+2. (uchylony)
 3. W przypadku gdy liczba wykonawców, którzy złożyli niepodlegające odrzuceniu wnioski o dopuszczenie do udziału w postępowaniu, jest mniejsza od minimalnej liczby określonej przez zamawiającego zgodnie z art. 177, zamawiający może kontynuować postępowanie, zapraszając do udziału w dialogu tych wykonawców, albo unieważnić postępowanie na podstawie art. 258 ust. 1.
 
 **Art. 179.**
@@ -1500,7 +1500,7 @@
   5) wagę przypisaną kryteriom oceny ofert lub w stosownych przypadkach, kolejność tych kryteriów od najważniejszego do najmniej ważnego, jeśli nie zostało to wskazane w ogłoszeniu o zamówieniu lub w opisie potrzeb i wymagań;
   6) informację o miejscu i terminie rozpoczęcia dialogu;
   7) informację o języku lub językach, w jakich będzie prowadzony dialog.
-2. Jeżeli część opisu potrzeb i wymagań nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający załącza do zaproszenia do dialogu nieudostępnioną część opisu potrzeb i wymagań oraz jego ewentualne zmiany i wyjaśnienia treści tej części opisu potrzeb i wymagań, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
+2. Jeżeli część opisu potrzeb i wymagań nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający udostępnia wraz z zaproszeniem do dialogu nieudostępnioną część opisu potrzeb i wymagań oraz jego ewentualne zmiany i wyjaśnienia treści tej części opisu potrzeb i wymagań, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
 
 **Art. 180.** Zamawiający podczas dialogu może omawiać z zaproszonymi wykonawcami wszystkie warunki zamówienia.
 
@@ -1523,7 +1523,7 @@
 **Art. 185.**
 1. Po zakończeniu dialogu zamawiający sporządza SWZ, która stanowi doprecyzowanie oraz uzupełnienie informacji zawartych w opisie potrzeb i wymagań, na podstawie rozwiązań przedstawionych podczas dialogu.
 2. SWZ zawiera informacje, o których mowa w art. 134 ust. 1 i ust. 2 pkt 1-10 i 12-18.
-3. Do wyjaśnień i zmian treści SWZ przepisy art. 135, art. 136, art. 137 ust. 1-4 i 6 oraz art. 143 ust. 3 stosuje się odpowiednio.
+3. Do wyjaśnień i zmian treści SWZ przepisy art. 135, art. 136, art. 137 ust. 1-3 i ust. 6 zdanie pierwsze oraz art. 143 ust. 4 stosuje się odpowiednio.
 
 **Art. 186.**
 1. Zamawiający zaprasza do składania ofert wykonawców, z którymi prowadził dialog i którzy nie zostali wyeliminowani z postępowania na poszczególnych etapach.
@@ -1533,7 +1533,7 @@
   3) informację o podmiotowych środkach dowodowych, które należy załączyć do oferty, jeżeli zamawiający przewiduje wymóg składania wybranych lub wszystkich środków dowodowych na etapie składania ofert;
   4) wagę poszczególnych kryteriów oceny ofert, jeżeli nie została ona przypisana na wcześniejszym etapie postępowania o udzielenie zamówienia;
   5) sposób i termin składania ofert oraz język lub języki, w jakich muszą one być sporządzone, oraz termin otwarcia ofert.
-3. Jeżeli część SWZ nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający załącza do zaproszenia do składania ofert nieudostępnioną część SWZ, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
+3. Jeżeli część SWZ nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający udostępnia wraz z zaproszeniem do składania ofert nieudostępnioną część SWZ, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
 
 **Art. 187.** W toku badania i oceny ofert zamawiający może żądać od wykonawców uszczegółowienia, wyjaśnienia i ulepszenia treści ofert oraz przedstawienia informacji dodatkowych, z tym że niedopuszczalne jest dokonywanie istotnych zmian w treści ofert oraz zmian wymagań zawartych w opisie potrzeb i wymagań lub SWZ.
 
@@ -1543,7 +1543,7 @@
 
 **Art. 189.**
 1. Zamawiający może udzielić zamówienia w trybie partnerstwa innowacyjnego w przypadku zapotrzebowania na innowacyjny produkt, usługę lub roboty budowlane, jeżeli nie są one dostępne na rynku.
-2. Partnerstwo innowacyjne to tryb udzielenia zamówienia, w którym w odpowiedzi na ogłoszenie o zamówieniu wnioski o dopuszczenie do udziału w postępowaniu mogą składać wszyscy zainteresowani wykonawcy. Zamawiający zaprasza wykonawców dopuszczonych do udziału w postępowaniu do składania ofert wstępnych, prowadzi z nimi negocjacje w celu ulepszenia treści ofert wstępnych, ofert składanych na etapie negocjacji, po zakończeniu których zaprasza do składania ofert na prace badawczo-rozwojowe, których celem jest opracowanie innowacyjnego produktu, usługi lub robót budowlanych, a następnie dokonuje zakupu dostaw, usług lub robót budowlanych, będących wynikiem prac badawczo-rozwojowych, na podstawie których dokonano opracowania innowacyjnego produktu, usługi lub robót budowlanych, pod warunkiem że odpowiadają one poziomom wydajności i maksymalnym kosztom, uzgodnionym między zamawiającym a wykonawcą lub wykonawcami.
+2. Partnerstwo innowacyjne to tryb udzielenia zamówienia, w którym w odpowiedzi na ogłoszenie o zamówieniu wnioski o dopuszczenie do udziału w postępowaniu mogą składać wszyscy zainteresowani wykonawcy. Zamawiający zaprasza wykonawców dopuszczonych do udziału w postępowaniu do składania ofert wstępnych, prowadzi z nimi negocjacje w celu ulepszenia treści ofert wstępnych, ofert składanych na etapie negocjacji, po zakończeniu których zaprasza do składania ofert obejmujących prace badawczo-rozwojowe, których celem jest opracowanie innowacyjnego produktu, usługi lub robót budowlanych, a po ich opracowaniu dokonuje zakupu dostaw, usług lub robót budowlanych, pod warunkiem że odpowiadają one poziomom wydajności i maksymalnym kosztom, uzgodnionym między zamawiającym a wykonawcą lub wykonawcami.
 
 **Art. 190.**
 1. Zamawiający może podjąć decyzję o ustanowieniu partnerstwa innowacyjnego z jednym partnerem lub kilkoma partnerami prowadzącymi odrębne prace badawczo-rozwojowe, w szczególności w celu zapobieżenia ograniczeniu lub zakłóceniu konkurencji.
@@ -1565,8 +1565,8 @@
   7) informacje o wysokości nagród dla wykonawców, którzy podczas negocjacji przedstawili propozycję innowacyjnych rozwiązań w zakresie przedmiotu zamówienia, jeżeli je przewiduje;
   8) informację o wypłacie wynagrodzenia w częściach.
 3. Informacje zawarte w opisie potrzeb i wymagań formułuje się w sposób wystarczająco precyzyjny, aby umożliwić wykonawcom ustalenie charakteru i zakresu wymaganego rozwiązania oraz podjęcie decyzji o złożeniu wniosku o dopuszczenie do udziału w postępowaniu.
-4. Do wyjaśnień treści opisu potrzeb i wymagań w zakresie niezbędnym do złożenia wniosku o dopuszczenie do udziału w postępowaniu odpowiednio stosuje się przepisy art. 135 ust. 1 i 5, art. 136, art. 137 ust. 2-4 i 6.
-5. W uzasadnionych przypadkach zamawiający może przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu zmienić treść opisu potrzeb i wymagań. Przepisy art. 143 ust. 3 i 4 stosuje się odpowiednio.
+4. Do wyjaśnień treści opisu potrzeb i wymagań w zakresie niezbędnym do złożenia wniosku o dopuszczenie do udziału w postępowaniu odpowiednio stosuje się przepisy art. 135 ust. 1 i 6, art. 136, art. 137 ust. 1-6 oraz art. 143 ust. 2, 3 i 5.
+5. W uzasadnionych przypadkach zamawiający może przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu zmienić treść opisu potrzeb i wymagań. Przepisy art. 143 ust. 4 i 5 stosuje się odpowiednio.
 
 **Art. 193.**
 1. Zamawiający, określając spełnianie przez wykonawcę warunków udziału w postępowaniu, uwzględnia w szczególności zdolności wykonawców w zakresie badań i rozwoju oraz opracowywania i wdrażania innowacyjnych produktów, usług lub robót budowlanych.
@@ -1574,13 +1574,13 @@
 
 **Art. 194.**
 1. Termin składania wniosków o dopuszczenie do udziału w postępowaniu nie może być krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej.
-2. Do wniosków o dopuszczenie do udziału w postępowaniu stosuje się przepisy art. 145, art. 146 ust. 1 i art. 147.
+2. Do wniosków o dopuszczenie do udziału w postępowaniu stosuje się przepisy art. 145, art. 146 ust. 1, art. 147 i art. 158 ust. 3.
 
 **Art. 195.**
 1. Zamawiający zaprasza jednocześnie do składania ofert wstępnych wykonawców, których wnioski o dopuszczenie do udziału w postępowaniu nie podlegały odrzuceniu, a w przypadku ustalenia kryteriów selekcji, zaprasza wykonawców, którzy spełniają te kryteria w liczbie określonej przez zamawiającego, zgodnie z art. 159. Przepisy art. 258 stosuje się.
 2. Zaproszenie do składania ofert wstępnych zawiera co najmniej informacje, o których mowa w art. 161 ust. 1.
 3. W zaproszeniu do składania ofert wstępnych zamawiający wskazuje również kryteria oceny ofert wraz z podaniem ich wag, a jeżeli przypisanie wag nie jest, z obiektywnych przyczyn, możliwe na tym etapie postępowania, wskazuje kryteria oceny ofert w kolejności od najważniejszego do najmniej ważnego.
-4. Jeżeli część opisu potrzeb i wymagań nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający załącza do zaproszenia do składania ofert wstępnych nieudostępnioną część opisu potrzeb i wymagań oraz jego ewentualne zmiany i wyjaśnienia treści tej części opisu potrzeb i wymagań, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
+4. Jeżeli część opisu potrzeb i wymagań nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający udostępnia wraz z zaproszeniem do składania ofert wstępnych nieudostępnioną część opisu potrzeb i wymagań oraz jego ewentualne zmiany i wyjaśnienia treści tej części opisu potrzeb i wymagań, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
 
 **Art. 196.** Termin składania ofert wstępnych nie może być krótszy niż 30 dni od dnia przekazania wykonawcom zaproszenia do składania ofert wstępnych.
 
@@ -1614,8 +1614,8 @@
   1) nazwę oraz adres zamawiającego, numer telefonu, adres poczty elektronicznej oraz strony internetowej prowadzonego postępowania;
   2) adres strony internetowej, na której jest dostępny opis potrzeb i wymagań, o którym mowa w art. 202, oraz jego ewentualne zmiany i wyjaśnienia, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia;
   3) sposób i termin składania ofert oraz język lub języki, w jakich muszą one być sporządzone, a także termin otwarcia ofert.
-3. Jeżeli część opisu potrzeb i wymagań, o którym mowa w art. 202, nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający załącza do zaproszenia do składania ofert nieudostępnioną część opisu potrzeb i wymagań, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
-4. Do wyjaśnień i zmian treści opisu potrzeb i wymagań, o którym mowa w art. 202, odpowiednio stosuje się przepisy art. 135, art. 136, art. 137 ust. 1-4 i 6 oraz art. 143 ust. 3.
+3. Jeżeli część opisu potrzeb i wymagań, o którym mowa w art. 202, nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 133 ust. 2 i 3, zamawiający udostępnia wraz z zaproszeniem do składania ofert nieudostępnioną część opisu potrzeb i wymagań, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
+4. Do wyjaśnień i zmian treści opisu potrzeb i wymagań, o którym mowa w art. 202, odpowiednio stosuje się przepisy art. 135, art. 136, art. 137 ust. 1-3 i ust. 6 zdanie pierwsze oraz art. 143 ust. 4.
 
 **Art. 204.**
 1. Zamawiający wybiera najkorzystniejszą ofertę, która przedstawia najkorzystniejszy bilans ceny lub kosztu oraz kryteriów jakościowych, odnoszących się do przedmiotu zamówienia.
@@ -1671,7 +1671,7 @@
 2. Zaproszenie do składania ofert zawiera co najmniej informacje, o których mowa w art. 168 ust. 2.
 3. Wraz z zaproszeniem do składania ofert zamawiający przekazuje SWZ zawierającą co najmniej informacje, o których mowa w art. 134 ust. 1.
 4. W przypadku, o którym mowa w art. 209 ust. 1 pkt 4, zamawiający może odstąpić od żądania złożenia przez wykonawcę oświadczenia, o którym mowa w art. 125 ust. 1.
-5. Do wyjaśnień i zmian treści SWZ przepisy art. 135 ust. 1, art. 136, art. 137 ust. 1-3 i 5 stosuje się odpowiednio.
+5. Do wyjaśnień i zmian treści SWZ przepisy art. 135 ust. 1, art. 136, art. 137 ust. 1 i ust. 6 zdanie pierwsze stosuje się odpowiednio.
 
 #### Oddział 8 — Zamówienie z wolnej ręki
 
@@ -1714,7 +1714,7 @@
     b) wdrożeniem tej współpracy kierują jedynie względy związane z interesem publicznym,
     c) zamawiający realizujący współpracę wykonują na otwartym rynku mniej niż 10% działalności będącej przedmiotem współpracy.
 2. W opisie zamówienia podstawowego, o którym mowa w ust. 1 pkt 7, należy wskazać ewentualny zakres tych usług lub robót budowlanych oraz warunki, na jakich zostaną one udzielone.
-3. Okres obowiązywania umowy w sprawie zamówienia publicznego zawartej w wyniku udzielenia zamówienia, o którym mowa w ust. 1 pkt 8, nie może przekraczać 3 lat.
+3. Okres obowiązywania umowy w sprawie zamówienia publicznego zawartej w wyniku udzielenia zamówienia, o którym mowa w ust. 1 pkt 8, nie może przekraczać 3 lat od udzielenia zamówienia podstawowego.
 4. Istnienie okoliczności, o których mowa w ust. 1 pkt 11-14, jest wymagane przez cały okres, na jaki została zawarta umowa w sprawie zamówienia publicznego. Zamawiający zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o spełnianiu okoliczności, o których mowa w ust. 1 pkt 11-14, w terminie 30 dni po upływie każdych 12 miesięcy od dnia zawarcia umowy w sprawie zamówienia publicznego, na zasadach określonych w dziale III rozdziale 2.
 5. Do obliczania procentu działalności, o którym mowa w ust. 1 pkt 11 lit. b, pkt 12 lit. b, pkt 13 lit. b i pkt 14 lit. c, uwzględnia się średni przychód osiągnięty przez osobę prawną lub zamawiającego w odniesieniu do usług, dostaw lub robót budowlanych za 3 lata poprzedzające udzielenie zamówienia.
 6. W przypadku gdy ze względu na dzień utworzenia lub rozpoczęcia działalności przez osobę prawną lub zamawiającego lub reorganizację ich działalności dane dotyczące średniego przychodu za 3 lata poprzedzające udzielenie zamówienia są niedostępne lub nieadekwatne, procent działalności, o którym mowa w ust. 1 pkt 11 lit. b, pkt 12 lit. b, pkt 13 lit. b i pkt 14 lit. c, ustala się za pomocą wiarygodnych prognoz handlowych.
@@ -1742,7 +1742,7 @@
 
 **Art. 217.**
 1. Zamawiający, wraz z zaproszeniem do negocjacji, przekazuje wykonawcy informacje niezbędne do przeprowadzenia postępowania, w tym projektowane postanowienia, które zostaną wprowadzone do treści zawieranej umowy w sprawie zamówienia publicznego.
-2. Wykonawca składa podmiotowe środki dowodowe nie później niż wraz z zawarciem umowy w sprawie zamówienia publicznego.
+2. Wykonawca składa oświadczenie, o którym mowa w art. 125 ust. 1, oraz podmiotowe środki dowodowe nie później niż wraz z zawarciem umowy w sprawie zamówienia publicznego.
 3. Zamawiający może odstąpić od żądania złożenia przez wykonawcę oświadczenia, o którym mowa w art. 125 ust. 1.
 
 ### Rozdział 4 — Składanie i otwarcie ofert
@@ -1761,7 +1761,7 @@
 1. Wykonawca jest związany ofertą nie dłużej niż:
   1) 90 dni,
   2) 120 dni - jeżeli wartość zamówienia dla robót budowlanych jest równa lub przekracza wyrażoną w złotych równowartość kwoty 20 000 000 euro, a dla dostaw lub usług - 10 000 000 euro
-- od dnia upływu terminu składania ofert.
+od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu związania ofertą jest dzień, w którym upływa termin składania ofert.
 2. Zamawiający określa w dokumentach zamówienia termin związania ofertą przez wskazanie daty.
 3. W przypadku gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu związania ofertą, o którym mowa w ust. 2, zamawiający przed upływem terminu związania ofertą, zwraca się jednokrotnie do wykonawców o wyrażenie zgody na przedłużenie tego terminu o wskazywany przez niego okres, nie dłuższy niż 60 dni.
 4. Przedłużenie terminu związania ofertą, o którym mowa w ust. 2, wymaga złożenia przez wykonawcę pisemnego oświadczenia o wyrażeniu zgody na przedłużenie terminu związania ofertą.
@@ -1790,12 +1790,12 @@
   2) oczywiste omyłki rachunkowe, z uwzględnieniem konsekwencji rachunkowych dokonanych poprawek,
   3) inne omyłki polegające na niezgodności oferty z dokumentami zamówienia, niepowodujące istotnych zmian w treści oferty
 - niezwłocznie zawiadamiając o tym wykonawcę, którego oferta została poprawiona.
-3. W przypadku, o którym mowa w ust. 2 pkt 3, zamawiający wyznacza wykonawcy odpowiedni termin na wyrażenie zgody na poprawienie w ofercie omyłki lub zakwestionowanie sposobu jej poprawienia. Brak odpowiedzi w wyznaczonym terminie uznaje się za wyrażenie zgody na poprawienie omyłki.
+3. W przypadku, o którym mowa w ust. 2 pkt 3, zamawiający wyznacza wykonawcy odpowiedni termin na wyrażenie zgody na poprawienie w ofercie omyłki lub zakwestionowanie jej poprawienia. Brak odpowiedzi w wyznaczonym terminie uznaje się za wyrażenie zgody na poprawienie omyłki.
 
 **Art. 224.**
 1. Jeżeli zaoferowana cena lub koszt, lub ich istotne części składowe, wydają się rażąco niskie w stosunku do przedmiotu zamówienia lub budzą wątpliwości zamawiającego co do możliwości wykonania przedmiotu zamówienia zgodnie z wymaganiami określonymi w dokumentach zamówienia lub wynikającymi z odrębnych przepisów, zamawiający żąda od wykonawcy wyjaśnień, w tym złożenia dowodów w zakresie wyliczenia ceny lub kosztu, lub ich istotnych części składowych.
 2. W przypadku gdy cena całkowita oferty złożonej w terminie jest niższa o co najmniej 30% od:
-  1) wartości zamówienia powiększonej o należny podatek od towarów i usług, ustalonej przed wszczęciem postępowania lub średniej arytmetycznej cen wszystkich złożonych ofert niepodlegających odrzuceniu na podstawie art. 226 ust. 1 pkt 1, 5 i 10, zamawiający zwraca się o udzielenie wyjaśnień, o których mowa w ust. 1, chyba że rozbieżność wynika z okoliczności oczywistych, które nie wymagają wyjaśnienia;
+  1) wartości zamówienia powiększonej o należny podatek od towarów i usług, ustalonej przed wszczęciem postępowania lub średniej arytmetycznej cen wszystkich złożonych ofert niepodlegających odrzuceniu na podstawie art. 226 ust. 1 pkt 1 i 10, zamawiający zwraca się o udzielenie wyjaśnień, o których mowa w ust. 1, chyba że rozbieżność wynika z okoliczności oczywistych, które nie wymagają wyjaśnienia;
   2) wartości zamówienia powiększonej o należny podatek od towarów i usług, zaktualizowanej z uwzględnieniem okoliczności, które nastąpiły po wszczęciu postępowania, w szczególności istotnej zmiany cen rynkowych, zamawiający może zwrócić się o udzielenie wyjaśnień, o których mowa w ust. 1.
 3. Wyjaśnienia, o których mowa w ust. 1, mogą dotyczyć w szczególności:
   1) zarządzania procesem produkcji, świadczonych usług lub metody budowy;
@@ -1804,11 +1804,11 @@
   4) zgodności z przepisami dotyczącymi kosztów pracy, których wartość przyjęta do ustalenia ceny nie może być niższa od minimalnego wynagrodzenia za pracę albo minimalnej stawki godzinowej, ustalonych na podstawie przepisów ustawy z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2018 r. poz. 2177 oraz z 2019 r. poz. 1564) lub przepisów odrębnych właściwych dla spraw, z którymi związane jest realizowane zamówienie;
   5) zgodności z prawem w rozumieniu przepisów o postępowaniu w sprawach dotyczących pomocy publicznej;
   6) zgodności z przepisami z zakresu prawa pracy i zabezpieczenia społecznego, obowiązującymi w miejscu, w którym realizowane jest zamówienie;
-  7) zgodności z przepisami dotyczącymi z zakresu ochrony środowiska;
+  7) zgodności z przepisami z zakresu ochrony środowiska;
   8) wypełniania obowiązków związanych z powierzeniem wykonania części zamówienia podwykonawcy.
 4. W przypadku zamówień na roboty budowlane lub usługi, zamawiający jest obowiązany żądać wyjaśnień, o których mowa w ust. 1, co najmniej w zakresie określonym w ust. 3 pkt 4 i 6.
 5. Obowiązek wykazania, że oferta nie zawiera rażąco niskiej ceny lub kosztu spoczywa na wykonawcy.
-6. Odrzuceniu, jako oferta z rażąco niską ceną lub kosztem, podlega oferta wykonawcy, który nie udzielił wyjaśnień w wyznaczonym terminie, lub jeżeli złożone wyjaśnienia wraz z dowodami nie uzasadniają rażąco niskiej ceny lub kosztu tej oferty.
+6. Odrzuceniu, jako oferta z rażąco niską ceną lub kosztem, podlega oferta wykonawcy, który nie udzielił wyjaśnień w wyznaczonym terminie, lub jeżeli złożone wyjaśnienia wraz z dowodami nie uzasadniają podanej w ofercie ceny lub kosztu.
 7. Jeżeli wartość zamówienia jest równa lub przekracza progi unijne, zamawiający zawiadamia Prezesa Urzędu oraz Komisję Europejską o odrzuceniu ofert, które według zamawiającego zawierały rażąco niską cenę lub koszt z powodu udzielenia pomocy publicznej, a wykonawca, w terminie wyznaczonym przez zamawiającego, nie udowodnił, że pomoc ta jest zgodna z prawem w rozumieniu przepisów o postępowaniu w sprawach dotyczących pomocy publicznej.
 
 **Art. 225.**
@@ -1825,7 +1825,7 @@
   2) została złożona przez wykonawcę:
     a) podlegającego wykluczeniu z postępowania lub
     b) niespełniającego warunków udziału w postępowaniu, lub
-    c) który nie złożył w przewidzianym terminie oświadczenia, o którym mowa w art. 125 ust. 1, lub podmiotowego środka dowodowego, potwierdzających brak podstaw wykluczenia lub spełnianie warunków udziału w postępowaniu, lub innych dokumentów lub oświadczeń;
+    c) który nie złożył w przewidzianym terminie oświadczenia, o którym mowa w art. 125 ust. 1, lub podmiotowego środka dowodowego, potwierdzających brak podstaw wykluczenia lub spełnianie warunków udziału w postępowaniu, przedmiotowego środka dowodowego, lub innych dokumentów lub oświadczeń;
   3) jest niezgodna z przepisami ustawy;
   4) jest nieważna na podstawie odrębnych przepisów;
   5) jej treść jest niezgodna z warunkami zamówienia;
@@ -2028,7 +2028,7 @@
 
 **Art. 262.** W przypadku unieważnienia postępowania o udzielenie zamówienia zamawiający niezwłocznie zawiadamia wykonawców, którzy ubiegali się o udzielenie zamówienia w tym postępowaniu, o wszczęciu kolejnego postępowania, które dotyczy tego samego przedmiotu zamówienia lub obejmuje ten sam przedmiot zamówienia.
 
-**Art. 263.** Jeżeli wykonawca, którego oferta została wybrana jako najkorzystniejsza, uchyla się od zawarcia umowy w sprawie zamówienia publicznego lub nie wnosi wymaganego zabezpieczenia należytego wykonania umowy, zamawiający może dokonać ponownego badania i oceny ofert spośród ofert pozostałych w postępowaniu wykonawców albo unieważnić postępowanie.
+**Art. 263.** Jeżeli wykonawca, którego oferta została wybrana jako najkorzystniejsza, uchyla się od zawarcia umowy w sprawie zamówienia publicznego lub nie wnosi wymaganego zabezpieczenia należytego wykonania umowy, zamawiający może dokonać ponownego badania i oceny ofert spośród ofert pozostałych w postępowaniu wykonawców oraz wybrać najkorzystniejszą ofertę albo unieważnić postępowanie.
 
 **Art. 264.**
 1. Zamawiający zawiera umowę w sprawie zamówienia publicznego, z uwzględnieniem art. 577, w terminie nie krótszym niż 10 dni od dnia przesłania zawiadomienia o wyborze najkorzystniejszej oferty, jeżeli zawiadomienie to zostało przesłane przy użyciu środków komunikacji elektronicznej, albo 15 dni - jeżeli zostało przesłane w inny sposób.
@@ -2046,7 +2046,7 @@
 
 ### Rozdział 1 — Zakres zastosowania
 
-**Art. 266.** Do przygotowania i prowadzenia przez zamawiających publicznych postępowania o udzielenie zamówienia klasycznego o wartości mniejszej niż progi unijne stosuje się przepisy działu II, z wyjątkiem przepisów art. 83, art. 86, art. 87 ust. 3, art. 88-90, art. 97 ust. 2, art. 124, art. 125 ust. 2 i 6, art. 126, art. 127 ust. 1, art. 129, art. 130, art. 132-188, art. 220, art. 227 ust. 1, art. 257, art. 264 i art. 265.
+**Art. 266.** Do przygotowania i prowadzenia przez zamawiających publicznych postępowania o udzielenie zamówienia klasycznego o wartości mniejszej niż progi unijne stosuje się przepisy działu II, z wyjątkiem przepisów art. 83, art. 86, art. 87 ust. 3, art. 88-90, art. 97 ust. 2, art. 124, art. 125 ust. 2 i 6, art. 126, art. 127 ust. 1, art. 129, art. 130, art. 132-188, art. 220, art. 227 ust. 1, art. 257, art. 264 i art. 265, chyba że przepisy niniejszego działu stanowią inaczej.
 
 ### Rozdział 2 — Ogłoszenia
 
@@ -2061,13 +2061,10 @@
   6) ogłoszenie o zmianie ogłoszenia;
   7) ogłoszenie o zmianie umowy;
   8) ogłoszenie o wykonaniu umowy;
-  9) ogłoszenie o zamówieniu bagatelnym.
+  9) ogłoszenie o spełnianiu okoliczności, o których mowa w art. 214 ust. 1 pkt 11-14.
 3. Zamawiający jest obowiązany udokumentować zamieszczenie ogłoszenia w Biuletynie Zamówień Publicznych i przechowywać dowód jego zamieszczenia.
 
-**Art. 268.**
-1. Zamawiający zamieszcza ogłoszenie o zamówieniu bagatelnym w Biuletynie Zamówień Publicznych wraz z przekazaniem potencjalnym wykonawcom informacji o zamiarze udzielenia tego zamówienia.
-2. Ogłoszenie o zamówieniu bagatelnym zawiera informacje niezbędne z uwagi na okoliczności jego udzielenia, w szczególności termin składania ofert odpowiadający terminowi składania ofert przez potencjalnych wykonawców, do których została przekazana informacja o zamiarze udzielenia zamówienia.
-3. W uzasadnionym przypadku zamawiający może odstąpić od zamieszczenia ogłoszenia o zamówieniu bagatelnym w Biuletynie Zamówień Publicznych.
+**Art. 268.** (uchylony)
 
 **Art. 269.**
 1. Zamawiający zamieszcza ogłoszenie w Biuletynie Zamówień Publicznych, przy użyciu środków komunikacji elektronicznej, za pomocą formularzy umieszczonych na stronach portalu internetowego Urzędu.
@@ -2101,9 +2098,10 @@
 2. W trybie podstawowym oświadczenie, o którym mowa w art. 125 ust. 1, wykonawca dołącza do oferty składanej w odpowiedzi na ogłoszenie o zamówieniu.
 
 **Art. 274.**
-1. Zamawiający wzywa wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, nie krótszym niż 5 dni od dnia wezwania, podmiotowych środków dowodowych, jeżeli wymagał ich złożenia w ogłoszeniu o zamówieniu lub dokumentach zamówienia, aktualnych na dzień składania, chyba że zamawiający jest w posiadaniu lub ma dostęp do tych podmiotowych środków dowodowych.
+1. Zamawiający wzywa wykonawcę, którego oferta została najwyżej oceniona, do złożenia w wyznaczonym terminie, nie krótszym niż 5 dni od dnia wezwania, podmiotowych środków dowodowych, jeżeli wymagał ich złożenia w ogłoszeniu o zamówieniu lub dokumentach zamówienia, aktualnych na dzień złożenia podmiotowych środków dowodowych.
 2. Jeżeli jest to niezbędne do zapewnienia odpowiedniego przebiegu postępowania o udzielenie zamówienia, zamawiający może na każdym etapie postępowania, w tym na etapie składania ofert podlegających negocjacjom lub niezwłocznie po ich złożeniu, wezwać wykonawców do złożenia wszystkich lub niektórych podmiotowych środków dowodowych, jeżeli wymagał ich złożenia w ogłoszeniu o zamówieniu lub dokumentach zamówienia, aktualnych na dzień ich złożenia.
 3. Jeżeli zachodzą uzasadnione podstawy do uznania, że złożone uprzednio podmiotowe środki dowodowe nie są już aktualne, zamawiający może w każdym czasie wezwać wykonawcę lub wykonawców do złożenia wszystkich lub niektórych podmiotowych środków dowodowych, aktualnych na dzień ich złożenia.
+4. Zamawiający nie wzywa do złożenia podmiotowych środków dowodowych, jeżeli może je uzyskać za pomocą bezpłatnych i ogólnodostępnych baz danych, w szczególności rejestrów publicznych w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, o ile wykonawca wskazał w oświadczeniu, o którym mowa w art. 125 ust. 1, dane umożliwiające dostęp do tych środków.
 
 ### Rozdział 4 — Tryby udzielania zamówień
 
@@ -2111,8 +2109,8 @@
 
 **Art. 275.** Zamawiający udziela zamówienia w trybie podstawowym, w którym w odpowiedzi na ogłoszenie o zamówieniu oferty mogą składać wszyscy zainteresowani wykonawcy, a następnie zamawiający:
 1) wybiera najkorzystniejszą ofertę bez przeprowadzenia negocjacji albo
-2) może negocjować treść ofert w celu ich ulepszenia, o ile przewidział taką możliwość, albo
-3) negocjuje treść ofert złożonych w celu ich ulepszenia.
+2) może prowadzić negocjacje w celu ulepszenia treści ofert, które podlegają ocenie w ramach kryteriów oceny ofert, o ile przewidział taką możliwość, a po zakończeniu negocjacji zamawiający zaprasza wykonawców do składania ofert dodatkowych, albo
+3) prowadzi negocjacje w celu ulepszenia treści ofert, a po zakończeniu negocjacji zamawiający zaprasza wykonawców do składania ofert ostatecznych.
 
 **Art. 276.**
 1. Zamawiający wszczyna postępowanie o udzielenie zamówienia w trybie podstawowym przez zamieszczenie ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych.
@@ -2132,8 +2130,9 @@
 
 **Art. 280.**
 1. Od dnia zamieszczenia ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do:
-  1) SWZ - w przypadkach, o których mowa w art. 275 pkt 1 i 2;
-  2) opisu potrzeb i wymagań - w przypadku, o którym mowa w art. 275 pkt 3.
+  1) SWZ - w przypadkach, o których mowa w art. 275 pkt 1 i 2,
+  2) opisu potrzeb i wymagań - w przypadku, o którym mowa w art. 275 pkt 3
+- nie krócej niż do dnia udzielenia zamówienia.
 2. Jeżeli zamawiający nie może udostępnić części SWZ albo części opisu potrzeb i wymagań na stronie internetowej prowadzonego postępowania, z powodu jednej z sytuacji określonej w art. 65 ust. 1, udostępnia je w inny sposób, określony w ogłoszeniu o zamówieniu.
 3. Jeżeli zamawiający nie może udostępnić części SWZ albo części opisu potrzeb i wymagań na stronie internetowej prowadzonego postępowania, z powodu ochrony poufnego charakteru informacji w nich zawartych, określa w ogłoszeniu o zamówieniu sposób dostępu do tych informacji oraz wymagania związane z ochroną ich poufnego charakteru.
 
@@ -2168,7 +2167,7 @@
   7) wymagania w zakresie zatrudnienia na podstawie stosunku pracy, w okolicznościach, o których mowa w art. 95;
   8) wymagania w zakresie zatrudnienia osób, o których mowa w art. 96 ust. 2 pkt 2, jeżeli zamawiający przewiduje takie wymagania;
   9) informację o zastrzeżeniu możliwości ubiegania się o udzielenie zamówienia wyłącznie przez wykonawców, o których mowa w art. 94, jeżeli zamawiający przewiduje takie wymagania;
-  10) wymagania dotyczące wadium, w tym jego kwotę w wysokości nie większej niż 1,5% wartości zamówienia, jeżeli zamawiający przewiduje obowiązek wniesienia wadium;
+  10) wymagania dotyczące wadium, w tym jego kwotę, jeżeli zamawiający przewiduje obowiązek wniesienia wadium;
   11) informację o przewidywanych zamówieniach, o których mowa w art. 214 ust. 1 pkt 7 i 8, jeżeli zamawiający przewiduje udzielenie takich zamówień;
   12) informacje dotyczące przeprowadzenia przez wykonawcę wizji lokalnej lub sprawdzenia przez niego dokumentów niezbędnych do realizacji zamówienia, o których mowa w art. 131 ust. 2, jeżeli zamawiający przewiduje możliwość albo wymaga złożenia oferty po odbyciu wizji lokalnej lub sprawdzeniu tych dokumentów;
   13) informacje dotyczące walut obcych, w jakich mogą być prowadzone rozliczenia między zamawiającym a wykonawcą, jeżeli zamawiający przewiduje rozliczenia w walutach obcych;
@@ -2179,11 +2178,12 @@
   18) wymóg lub możliwość złożenia ofert w postaci katalogów elektronicznych lub dołączenia katalogów elektronicznych do oferty, w sytuacji określonej w art. 93;
   19) informacje dotyczące zabezpieczenia należytego wykonania umowy, jeżeli zamawiający je przewiduje.
 3. W przypadku, o którym mowa w art. 275 pkt 2, SWZ zawiera również informację, czy zamawiający przewiduje możliwość ograniczenia liczby wykonawców, których zaprosi do negocjacji, stosując kryteria oceny ofert.
+4. Kwota wadium, o której mowa w ust. 2 pkt 10, nie może być większa niż 1,5% wartości zamówienia.
 
 **Art. 282.**
 1. W przypadku, o którym mowa w art. 275 pkt 3, opis potrzeb i wymagań zawiera odpowiednio informacje, o których mowa w art. 281 ust. 1 pkt 1-3, 8-10, 12-15 i 19.
 2. Opis potrzeb i wymagań zawiera również:
-  1) informacje, o których mowa w art. 281 ust. 2 pkt 1-9 i 11-19;
+  1) informacje, o których mowa w art. 281 ust. 2 pkt 1-9 i 11-19 i ust. 3;
   2) określenie przedmiotu zamówienia;
   3) opis potrzeb zamawiającego i cechy charakterystyczne dostaw, robót budowlanych lub usług, stanowiące przedmiot zamówienia;
   4) minimalne wymagania dotyczące przedmiotu zamówienia lub realizacji zamówienia, niepodlegające negocjacjom, które muszą spełnić wszystkie oferty;
@@ -2213,8 +2213,20 @@
 6. Informację o przedłużonym terminie składania odpowiednio ofert albo ofert podlegających negocjacjom zamawiający zamieszcza w ogłoszeniu, o którym mowa w art. 267 ust. 2 pkt 6.
 7. Dokonaną zmianę treści odpowiednio SWZ albo opisu potrzeb i wymagań zamawiający udostępnia na stronie internetowej prowadzonego postępowania.
 8. Jeżeli zmiana dotyczy części odpowiednio SWZ albo opisu potrzeb i wymagań, które nie zostały udostępnione na stronie internetowej prowadzonego postępowania, zgodnie z art. 280 ust. 2 i 3, dokonaną zmianę treści SWZ albo odpowiednio opisu potrzeb i wymagań przekazuje w inny sposób wskazany w ogłoszeniu o zamówieniu.
+9. W przypadku gdy zmiana treści odpowiednio SWZ albo opisu potrzeb i wymagań prowadzi do zmiany treści ogłoszenia o zamówieniu, zamawiający zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie, o którym mowa w art. 267 ust. 2 pkt 6.
 
-**Art. 287.** W przypadku gdy zmiana treści odpowiednio SWZ albo opisu potrzeb i wymagań prowadzi do zmiany treści ogłoszenia o zamówieniu, zamawiający zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie, o którym mowa w art. 267 ust. 2 pkt 6.
+**Art. 287.**
+1. W przypadku, o którym mowa w art. 275 pkt 2, gdy zamawiający nie prowadzi negocjacji, dokonuje wyboru najkorzystniejszej oferty spośród niepodlegających odrzuceniu ofert złożonych w odpowiedzi na ogłoszenie o zamówieniu.
+2. W przypadku, o którym mowa w art. 275 pkt 3, do ofert złożonych w odpowiedzi na ogłoszenie o zamówieniu nie stosuje się przepisów art. 222 ust. 4, art. 224, art. 225 oraz art. 226 ust. 1 pkt 8-14, 17 i 18. Zamawiający odrzuca oferty, które nie spełniają minimalnych wymagań dotyczących opisu przedmiotu zamówienia lub realizacji zamówienia, określonych przez zamawiającego.
+3. W przypadku, o którym mowa w art. 275 pkt 2, zamawiający informuje równocześnie wszystkich wykonawców, którzy w odpowiedzi na ogłoszenie o zamówieniu złożyli oferty, o wykonawcach:
+  1) których oferty nie zostały odrzucone, oraz punktacji przyznanej ofertom w każdym kryterium oceny ofert i łącznej punktacji,
+  2) których oferty zostały odrzucone,
+  3) którzy nie zostali zakwalifikowani do negocjacji, oraz punktacji przyznanej ich ofertom w każdym kryterium oceny ofert i łącznej punktacji, w przypadku, o którym mowa w art. 288 ust. 1
+- podając uzasadnienie faktyczne i prawne.
+4. W przypadku, o którym mowa w art. 275 pkt 3, zamawiający informuje równocześnie każdego z wykonawców z osobna o:
+  1) odrzuceniu jego oferty albo
+  2) w przypadku, o którym mowa w art. 288 ust. 1, o niezakwalifikowaniu jego oferty do negocjacji oraz o przyznanej punktacji w każdym kryterium oceny oferty i łącznej punktacji
+- podając uzasadnienie faktyczne i prawne.
 
 **Art. 288.**
 1. W przypadkach, o których mowa w art. 275 pkt 2 i 3, zamawiający może ograniczyć liczbę wykonawców, których zaprosi do negocjacji ofert, o ile liczba ta jest wystarczająca, aby zapewnić konkurencję i nie jest mniejsza niż 3.
@@ -2223,10 +2235,9 @@
 **Art. 289.**
 1. W przypadku, o którym mowa w art. 275 pkt 2, zamawiający może zaprosić, a przypadku, o którym mowa w art. 275 pkt 3, zaprasza jednocześnie wykonawców do negocjacji ofert złożonych w odpowiedzi na ogłoszenie o zamówieniu, jeżeli nie podlegały one odrzuceniu, a jeżeli zamawiający ustalił kryteria, o których mowa w art. 288 ust. 2, zaproszenie kieruje do tych wykonawców, których oferty spełniają w najwyższym stopniu te kryteria, w liczbie ustalonej przez zamawiającego.
 2. Ofertę wykonawcy niezaproszonego do negocjacji uznaje się za odrzuconą.
-3. O wynikach oceny ofert zamawiający informuje niezwłocznie wykonawców, podając uzasadnienie faktyczne i prawne.
-4. Jeżeli liczba wykonawców, którzy złożyli oferty niepodlegające odrzuceniu na podstawie art. 226 ust. 1 pkt 1-6, jest mniejsza niż 3, zamawiający:
-  1) w przypadku, o którym mowa w art. 275 pkt 2 - kontynuuje postępowanie;
-  2) w przypadku, o którym mowa w art. 275 pkt 3 - może kontynuować postępowanie, zapraszając do negocjacji ofert tych wykonawców albo unieważnia postępowanie na podstawie art. 258 ust. 2.
+3. Jeżeli liczba wykonawców, którzy w odpowiedzi na ogłoszenie o zamówieniu złożyli oferty niepodlegające odrzuceniu, jest mniejsza niż 3, zamawiający w przypadku, o którym mowa w art. 275 pkt 2, kontynuuje postępowanie.
+4. Jeżeli liczba wykonawców, którzy w odpowiedzi na ogłoszenie o zamówieniu złożyli oferty niepodlegające odrzuceniu, jest mniejsza niż 3, zamawiający w przypadku, o którym mowa w art. 275 pkt 3, może kontynuować postępowanie, zapraszając do negocjacji ofert tych wykonawców, albo unieważnia postępowanie.
+5. Zamawiający w zaproszeniu do negocjacji wskazuje miejsce, termin i sposób prowadzenia negocjacji, a w przypadku, o którym mowa w art. 275 pkt 2, również kryteria oceny ofert, w ramach których będą prowadzone negocjacje w celu ulepszenia treści ofert.
 
 **Art. 290.**
 1. Podczas negocjacji ofert zamawiający zapewnia równe traktowanie wszystkich wykonawców.
@@ -2242,11 +2253,13 @@
 1. W przypadku, o którym mowa w art. 275 pkt 3, po zakończeniu negocjacji, zamawiający sporządza SWZ, która stanowi doprecyzowanie oraz uzupełnienie informacji zawartych w opisie potrzeb i wymagań, w zakresie, w jakim było to przedmiotem negocjacji.
 2. SWZ nie może zawierać postanowień, które prowadzą do zmiany minimalnych wymagań dotyczących przedmiotu zamówienia lub realizacji zamówienia określonych w opisie potrzeb i wymagań oraz do zmiany istotnych elementów treści ogłoszenia o zamówieniu.
 
-**Art. 293.** W przypadkach, o których mowa w art. 275 pkt 2 i 3, zamawiający informuje równocześnie wszystkich wykonawców, którzy pozostali w postępowaniu, o zakończeniu negocjacji oraz zaprasza ich do składania ofert ostatecznych.
+**Art. 293.**
+1. W przypadku, o którym mowa w art. 275 pkt 2, zamawiający informuje równocześnie wszystkich wykonawców, których oferty złożone w odpowiedzi na ogłoszenie o zamówieniu nie zostały odrzucone, o zakończeniu negocjacji oraz zaprasza ich do składania ofert dodatkowych.
+2. W przypadku, o którym mowa w art. 275 pkt 3, zamawiający informuje równocześnie wszystkich wykonawców, których oferty złożone w odpowiedzi na ogłoszenie o zamówieniu nie zostały odrzucone, i którzy brali udział w negocjacjach, o zakończeniu negocjacji oraz zaprasza ich do składania ofert ostatecznych.
 
-**Art. 294.** W przypadku, o którym mowa w art. 275 pkt 2, zaproszenie do składania ofert ostatecznych zawiera co najmniej:
+**Art. 294.** W przypadku, o którym mowa w art. 275 pkt 2, zaproszenie do składania ofert dodatkowych zawiera co najmniej:
 1) nazwę oraz adres zamawiającego, numer telefonu, adres poczty elektronicznej oraz strony internetowej prowadzonego postępowania;
-2) sposób i termin składania ofert ostatecznych oraz język lub języki, w jakich muszą one być sporządzone, oraz termin otwarcia ofert ostatecznych.
+2) sposób i termin składania ofert dodatkowych oraz język lub języki, w jakich muszą one być sporządzone, oraz termin otwarcia tych ofert.
 
 **Art. 295.**
 1. W przypadku, o którym mowa w art. 275 pkt 3, zaproszenie do składania ofert ostatecznych zawiera co najmniej:
@@ -2255,11 +2268,14 @@
   3) informację o podmiotowych środkach dowodowych, które należy załączyć do oferty ostatecznej, jeżeli zamawiający przewiduje wymóg składania wybranych lub wszystkich środków dowodowych na etapie składania ofert ostatecznych;
   4) wagi poszczególnych kryteriów oceny ofert, jeżeli nie zostały one określone w opisie potrzeb i wymagań na wcześniejszym etapie postępowania o udzielenie zamówienia;
   5) sposób i termin składania ofert ostatecznych oraz język lub języki, w jakich muszą one być sporządzone, oraz termin otwarcia ofert ostatecznych.
-2. Jeżeli część SWZ nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 280 ust. 2 i 3, zamawiający dołącza do zaproszenia do składania ofert ostatecznych nieudostępnioną część SWZ, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
-3. SWZ zawiera informacje, o których mowa w art. 281 ust. 1 i 2.
-4. Do wyjaśnień i zmian treści SWZ stosuje się odpowiednio przepisy art. 284, art. 285, art. 286 ust. 1, 3 i 5-8 oraz art. 287.
+2. Jeżeli część SWZ nie została udostępniona przez zamawiającego na stronie internetowej prowadzonego postępowania z powodów, o których mowa w art. 280 ust. 2 i 3, zamawiający udostępnia wraz z zaproszeniem do składania ofert ostatecznych nieudostępnioną część SWZ, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia.
+3. SWZ zawiera informacje, o których mowa w art. 281 ust. 1 pkt 1-3 i 5-19 i ust. 2.
+4. Do wyjaśnień i zmian treści SWZ stosuje się odpowiednio przepisy art. 284, art. 285 i art. 286 ust. 1, 3, 5, 7 i 8.
 
-**Art. 296.** Zamawiający wyznacza termin na złożenie ofert ostatecznych z uwzględnieniem złożoności zamówienia oraz czasu potrzebnego na ich przygotowanie, z tym że termin ten, w przypadku dostaw i usług, nie może być krótszy niż 5 dni od dnia przekazania zaproszenia do składania ofert ostatecznych, a w przypadku robót budowlanych nie może być krótszy niż 10 dni od dnia przekazania zaproszenia do składania ofert ostatecznych.
+**Art. 296.**
+1. W przypadku, o którym mowa w art. 275 pkt 2, zamawiający wyznacza termin na złożenie ofert dodatkowych z uwzględnieniem czasu potrzebnego na przygotowanie tych ofert, z tym że termin ten nie może być krótszy niż 5 dni od dnia przekazania zaproszenia do składania ofert dodatkowych.
+2. Wykonawca może złożyć ofertę dodatkową, która zawiera nowe propozycje w zakresie treści oferty podlegających ocenie w ramach kryteriów oceny ofert wskazanych przez zamawiającego w zaproszeniu do negocjacji. Oferta dodatkowa nie może być mniej korzystna w żadnym z kryteriów oceny ofert wskazanych w zaproszeniu do negocjacji niż oferta złożona w odpowiedzi na ogłoszenie o zamówieniu. Oferta przestaje wiązać wykonawcę w zakresie, w jakim złoży on ofertę dodatkową zawierającą korzystniejsze propozycje w ramach każdego z kryteriów oceny ofert wskazanych w zaproszeniu do negocjacji. Oferta dodatkowa, która jest mniej korzystna w którymkolwiek z kryteriów oceny ofert wskazanych w zaproszeniu do negocjacji niż oferta złożona w odpowiedzi na ogłoszenie o zamówieniu, podlega odrzuceniu.
+3. W przypadku, o którym mowa w art. 275 pkt 3, zamawiający wyznacza termin na złożenie ofert ostatecznych z uwzględnieniem złożoności zamówienia oraz czasu potrzebnego na ich przygotowanie, z tym że termin ten w przypadku dostaw i usług nie może być krótszy niż 5 dni od dnia przekazania zaproszenia do składania ofert ostatecznych, a w przypadku robót budowlanych nie może być krótszy niż 10 dni od dnia przekazania zaproszenia do składania ofert ostatecznych.
 
 #### Oddział 2 — Partnerstwo innowacyjne
 
@@ -2268,6 +2284,7 @@
 **Art. 298.**
 1. Zamawiający wszczyna postępowanie o udzielenie zamówienia w trybie partnerstwa innowacyjnego przez zamieszczenie ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych.
 2. Zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań, od dnia zamieszczenia ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych.
+3. Po zakończeniu negocjacji zamawiający sporządza opis potrzeb i wymagań, który stanowi doprecyzowanie oraz uzupełnienie informacji zawartych w opisie potrzeb i wymagań udostępnianym od dnia zamieszczenia ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych, wyłącznie w zakresie, w jakim było to przedmiotem negocjacji.
 
 **Art. 299.**
 1. Termin składania wniosków o dopuszczenie do udziału w postępowaniu nie może być krótszy niż 7 dni od dnia zamieszczenia ogłoszenia o zamówieniu w Biuletynie Zamówień Publicznych.
@@ -2281,7 +2298,7 @@
 **Art. 301.**
 1. Zamawiający może udzielić zamówienia w trybie negocjacji bez ogłoszenia, jeżeli:
   1) zachodzi jedna z okoliczności, o których mowa w art. 209 ust. 1 pkt 2 i 3;
-  2) w postępowaniu prowadzonym uprzednio w trybie podstawowym nie złożono żadnej oferty albo wszystkie oferty zostały odrzucone na podstawie art. 226 ust. 1 pkt 5, a pierwotne warunki zamówienia nie zostały w istotny sposób zmienione;
+  2) w postępowaniu prowadzonym uprzednio w trybie podstawowym nie złożono żadnej oferty albo wszystkie oferty zostały odrzucone na podstawie art. 226 ust. 1 pkt 2 lub 5, a pierwotne warunki zamówienia nie zostały w istotny sposób zmienione;
   3) ze względu na pilną potrzebę udzielenia zamówienia, niewynikającą z przyczyn leżących po stronie zamawiającego, której wcześniej nie można było przewidzieć, nie można zachować terminów określonych dla trybu podstawowego;
   4) w okresie 3 lat od udzielenia zamówienia na roboty budowlane zamawiający odstąpił od umowy w sprawie zamówienia publicznego z przyczyn leżących po stronie wykonawcy i udzielenie zamówienia jest niezbędne do zakończenia robót budowlanych stanowiących przedmiot wcześniejszego zamówienia.
 2. W przypadku, o którym mowa w ust. 1 pkt 4, zamawiający zaprasza, w terminie 3 miesięcy od dnia odstąpienia od umowy w sprawie zamówienia publicznego, do negocjacji co najmniej tych wykonawców, którzy złożyli oferty we wcześniejszym postępowaniu, z wyjątkiem wykonawcy, z którym została zawarta umowa, od której zamawiający odstąpił.
@@ -2299,7 +2316,7 @@
 
 **Art. 305.** Zamawiający może udzielić zamówienia w trybie zamówienia z wolnej ręki, jeżeli:
 1) zachodzi jedna z okoliczności, o których mowa w art. 214 ust. 1 pkt 1-5 i 7-14;
-2) w postępowaniu prowadzonym uprzednio w trybie podstawowym nie złożono żadnej oferty albo wszystkie oferty zostały odrzucone na podstawie art. 226 ust. 1 pkt 5, a pierwotne warunki zamówienia nie zostały w istotny sposób zmienione;
+2) w postępowaniu prowadzonym uprzednio w trybie podstawowym nie złożono żadnej oferty albo wszystkie oferty zostały odrzucone na podstawie art. 226 ust. 1 pkt 2 lub 5, a pierwotne warunki zamówienia nie zostały w istotny sposób zmienione;
 3) zamówienie jest udzielane przez placówkę zagraniczną w rozumieniu ustawy z dnia 27 lipca 2001 r. o służbie zagranicznej (Dz. U. z 2018 r. poz. 2040 oraz z 2019 r. poz. 9);
 4) zamówienie jest udzielane na potrzeby własne jednostki wojskowej w rozumieniu ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa;
 5) zamówienie jest udzielane przez zamawiających mających siedzibę poza granicami państwa i jest wykonywane poza jego granicami.
@@ -2311,7 +2328,7 @@
 ### Rozdział 5 — Wybór najkorzystniejszej oferty
 
 **Art. 307.**
-1. Wykonawca jest związany ofertą do upływu terminu określonego datą w dokumentach zamówienia, jednak nie dłużej niż 30 dni, od dnia upływu terminu składania ofert.
+1. Wykonawca jest związany ofertą do upływu terminu określonego datą w dokumentach zamówienia, jednak nie dłużej niż 30 dni od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu związania ofertą jest dzień, w którym upływa termin składania ofert.
 2. W przypadku gdy wybór najkorzystniejszej oferty nie nastąpi przed upływem terminu związania ofertą określonego w dokumentach zamówienia, zamawiający przed upływem terminu związania ofertą zwraca się jednokrotnie do wykonawców o wyrażenie zgody na przedłużenie tego terminu o wskazywany przez niego okres, nie dłuższy niż 30 dni.
 3. Przedłużenie terminu związania ofertą, o którym mowa w ust. 2, wymaga złożenia przez wykonawcę pisemnego oświadczenia o wyrażeniu zgody na przedłużenie terminu związania ofertą.
 4. W przypadku gdy zamawiający żąda wniesienia wadium, przedłużenie terminu związania ofertą, o którym mowa w ust. 2, następuje wraz z przedłużeniem okresu ważności wadium albo, jeżeli nie jest to możliwe, z wniesieniem nowego wadium na przedłużony okres związania ofertą.
@@ -2340,7 +2357,7 @@
 **Art. 311.**
 1. Zamawiający może zawrzeć umowę ramową po przeprowadzeniu postępowania, stosując odpowiednio przepisy dotyczące trybu:
   1) przetargu nieograniczonego, przetargu ograniczonego, negocjacji z ogłoszeniem, dialogu konkurencyjnego lub partnerstwa innowacyjnego, w przypadku gdy wartość zamówienia klasycznego jest równa lub przekracza progi unijne;
-  2) podstawowego lub partnerstwa innowacyjnego, o którym mowa w dziale III rozdziale 2 oddziale 4, w przypadku gdy wartość zamówienia klasycznego jest mniejsza niż progi unijne.
+  2) podstawowego lub partnerstwa innowacyjnego, o którym mowa w dziale III rozdziale 4 oddziale 2, w przypadku gdy wartość zamówienia klasycznego jest mniejsza niż progi unijne.
 2. Do umów ramowych stosuje się przepisy działu VII.
 3. Umowę ramową zawiera się na okres nie dłuższy niż 4 lata, z tym że ze względu na przedmiot zamówienia i szczególny interes zamawiającego umowa taka może być zawarta na okres dłuższy.
 4. Zamawiający nie może wykorzystywać umowy ramowej do ograniczania konkurencji.
@@ -2449,7 +2466,8 @@
 2. Jeżeli zamawiający zamierza udzielić zamówienia na usługi projektowania architektonicznego lub projektowania architektoniczno-budowlanego, zamówienie takie poprzedzone jest konkursem.
 3. Przepisu ust. 2 nie stosuje się do zamówień:
   1) udzielanych w trybie negocjacji z ogłoszeniem, dialogu konkurencyjnego, negocjacji bez ogłoszenia lub zamówienia z wolnej ręki;
-  2) o wartościach mniejszych niż progi unijne.
+  2) o wartościach mniejszych niż progi unijne;
+  3) których przedmiotem jest obiekt liniowy w rozumieniu ustawy z dnia 7 lipca 1994 r. - Prawo budowlane.
 4. Do konkursu przepisy działu I rozdziału 2 stosuje się odpowiednio, z tym że przepisu art. 17 nie stosuje się.
 
 **Art. 326.** W konkursie nagrodą jest:
@@ -2473,7 +2491,7 @@
 
 **Art. 330.**
 1. Uczestnikami konkursu mogą być osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej.
-2. Jeżeli przepisy szczególne wymagają posiadania uprawnień do opracowania pracy konkursowej, uczestnikami konkursu mogą być wyłącznie osoby fizyczne posiadające wymagane uprawnienia lub podmioty posługujące się osobami fizycznymi posiadającymi wymagane uprawnienia.
+2. Jeżeli przepisy szczególne wymagają posiadania uprawnień do opracowania pracy konkursowej lub wykonania na jej podstawie usługi, uczestnikami konkursu mogą być wyłącznie osoby fizyczne posiadające wymagane uprawnienia lub podmioty posługujące się osobami fizycznymi posiadającymi wymagane uprawnienia.
 3. W przypadku konkursu ograniczonego zamawiający ustala także inne niż określone w ust. 2, obiektywne wymagania, których niespełnienie uniemożliwia wzięcie udziału w konkursie.
 4. Obiektywne wymagania mogą obejmować podstawy wykluczenia, warunki udziału w postępowaniu lub kryteria selekcji. Przepisy art. 108-123 stosuje się odpowiednio.
 5. W okolicznościach, o których mowa w ust. 2-4, zamawiający może żądać podmiotowych środków dowodowych, o których mowa w art. 124. Przepisy art. 127 i art. 128 stosuje się.
@@ -2561,7 +2579,7 @@
   2) w konkursie ograniczonym, przed upływem terminu składania wniosków o dopuszczenie do udziału w konkursie.
 2. Zmiana treści regulaminu konkursu po upływie terminów, o których mowa w ust. 1, jest niedopuszczalna, chyba że dotyczy zmiany składu sądu konkursowego.
 3. Zmianę treści regulaminu konkursu zamawiający udostępnia na stronie internetowej prowadzonego konkursu.
-4. Do zmian treści regulaminu konkursu stosuje się odpowiednio przepisy art. 137 ust. 1, 2 i 4-7, a jeżeli wartość konkursu jest mniejsza niż progi unijne - przepisy art. 286 ust. 1, 3 i 5-7 oraz art. 287.
+4. Do zmian treści regulaminu konkursu stosuje się odpowiednio przepisy art. 137 ust. 4-7, a jeżeli wartość konkursu jest mniejsza niż progi unijne - przepisy art. 286 ust. 3, 5, 6 i 9.
 
 **Art. 343.**
 1. W konkursie ograniczonym zamawiający wyznacza termin składania wniosków o dopuszczenie do udziału w konkursie, z uwzględnieniem czasu na złożenie wymaganych podmiotowych środków dowodowych, z tym że termin ten nie może być krótszy niż 21 dni od dnia przekazania do publikacji ogłoszenia o konkursie Urzędowi Publikacji Unii Europejskiej. Przepisy art. 145, art. 146 ust. 2 i art. 148 stosuje się odpowiednio.
@@ -2579,7 +2597,7 @@
 
 **Art. 345.**
 1. Uczestnik konkursu może złożyć jedną pracę konkursową.
-2. Nie podlega ocenie praca konkursowa nieodpowiadająca ogłoszeniu o konkursie lub regulaminowi konkursu, złożona po terminie oraz złożona przez uczestnika, którego wniosek został odrzucony.
+2. Nie podlega ocenie praca konkursowa niezgodna z przepisami ustawy, nieodpowiadająca ogłoszeniu o konkursie lub regulaminowi konkursu, złożona po terminie oraz złożona przez uczestnika, którego wniosek został odrzucony.
 
 **Art. 346.** Z zawartością prac konkursowych sąd konkursowy nie może zapoznać się przed upływem terminu ich składania.
 
@@ -2701,9 +2719,10 @@
 
 **Art. 366.**
 1. Przepisów ustawy nie stosuje się do zamówień sektorowych udzielanych przez podmiot utworzony przez zamawiających w celu wspólnego wykonywania działalności sektorowej, o której mowa w art. 5 ust. 4:
-  1) jednemu z tych zamawiających lub
+  1) jednemu z tych zamawiających, pod warunkiem że podmiot ten został utworzony na okres co najmniej 3 lat, a z dokumentu, na podstawie którego został utworzony, wynika, że zamawiający pozostaną jego członkami w tym okresie, lub
   2) podmiotowi powiązanemu z jednym z tych zamawiających w sposób określony w art. 365, jeżeli w okresie poprzednich 3 lat co najmniej 80% przeciętnych przychodów tego podmiotu osiąganych ze świadczenia dostaw, świadczenia usług lub wykonywania robót budowlanych pochodziło odpowiednio ze świadczenia dostaw, świadczenia usług lub wykonywania robót budowlanych na rzecz podmiotów, z którymi jest powiązany.
 2. Przepisów ustawy nie stosuje się do zamówień sektorowych udzielanych podmiotowi utworzonemu przez zamawiających w celu wspólnego wykonywania działalności sektorowej, o której mowa w art. 5 ust. 4, przez jednego z tych zamawiających, pod warunkiem że podmiot ten został utworzony na okres co najmniej 3 lat, a z dokumentu, na podstawie którego został utworzony, wynika, że zamawiający pozostaną jego członkami w tym okresie.
+3. W przypadku, o którym mowa w ust. 1 pkt 2, stosuje się przepis art. 365 ust. 4.
 
 **Art. 367.** Jeżeli spośród podmiotów, o których mowa w art. 365, więcej niż jeden podmiot świadczy na rzecz zamawiającego takie same lub podobne usługi albo świadczy takie same lub podobne dostawy albo wykonuje takie same lub podobne roboty budowlane, uwzględnia się całkowity przychód wszystkich tych podmiotów osiągany odpowiednio ze świadczenia usług albo ze świadczenia dostaw albo wykonywania robót budowlanych.
 
@@ -2787,8 +2806,8 @@
 
 **Art. 377.**
 1. Zamawiający sektorowi wszczynają postępowanie o udzielenie zamówienia przez przekazanie zaproszenia do ubiegania się o zamówienie za pomocą:
-  1) ogłoszenia o zamówieniu w przypadku trybu przetargu nieograniczonego, przetargu ograniczonego, negocjacji z ogłoszeniem, dialogu konkurencyjnego lub partnerstwa innowacyjnego;
-  2) ogłoszenia o systemie kwalifikowania wykonawców stanowiącego zaproszenie do ubiegania się o zamówienie w przypadku trybu przetargu ograniczonego, sektorowych negocjacji z ogłoszeniem, dialogu konkurencyjnego lub partnerstwa innowacyjnego;
+  1) ogłoszenia o zamówieniu w przypadku trybu przetargu nieograniczonego, przetargu ograniczonego, sektorowych negocjacji z ogłoszeniem, dialogu konkurencyjnego lub partnerstwa innowacyjnego;
+  2) ogłoszenia o systemie kwalifikowania wykonawców stanowiącego zaproszenie do ubiegania się o zamówienie w przypadku trybu przetargu ograniczonego, sektorowych sektorowych negocjacji z ogłoszeniem, dialogu konkurencyjnego lub partnerstwa innowacyjnego;
   3) okresowego ogłoszenia informacyjnego stanowiącego zaproszenie do ubiegania się o zamówienie w przypadku trybu przetargu ograniczonego lub sektorowych negocjacji z ogłoszeniem;
   4) zaproszenia do negocjacji w przypadku trybu negocjacji bez ogłoszenia lub zamówienia z wolnej ręki.
 2. Zamawiający przekazuje ogłoszenia zgodnie z formatem i procedurami elektronicznego przesyłania ogłoszeń, ustanowionymi przez Komisję Europejską, dostępnymi na stronie internetowej, o której mowa w ust. 3 załącznika IX do dyrektywy 2014/25/UE.
@@ -2808,7 +2827,7 @@
 **Art. 380.** Sektorowe negocjacje z ogłoszeniem to tryb udzielenia zamówienia, w którym w odpowiedzi na ogłoszenie opublikowane w Dzienniku Urzędowym Unii Europejskiej, stanowiące zaproszenie do ubiegania się o zamówienie, wykonawcy składają wnioski o dopuszczenie do udziału w postępowaniu, zamawiający zaprasza do negocjacji wykonawców dopuszczonych do udziału w postępowaniu, prowadzi z nimi negocjacje, a następnie zaprasza ich do składania ofert.
 
 **Art. 381.**
-1. Do sektorowych negocjacji z ogłoszeniem stosuje się przepisy art. 155 ust. 1, art. 156 ust. 1 pkt 1-16, 18 i 19, ust. 2 i 3, art. 157 ust. 1, art. 158 ust. 2 oraz art. 203.
+1. Do sektorowych negocjacji z ogłoszeniem przepisy art. 155 ust. 1, art. 156 ust. 1 pkt 1-5 i 7-16, 18 i 19 oraz ust. 2 i 3, art. 157 ust. 1, art. 158 ust. 2, art. 167 i art. 168 stosuje się odpowiednio.
 2. Zamawiający zapewnia, na stronie internetowej prowadzonego postępowania, bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej lub od dnia wysłania zaproszenia do potwierdzenia zainteresowania, nie krócej niż do dnia udzielenia zamówienia. Przepisy art. 133 ust. 2 i 3 stosuje się odpowiednio.
 3. W postępowaniu prowadzonym w trybie sektorowych negocjacji z ogłoszeniem zamawiający może wyznaczyć:
   1) termin składania wniosków o dopuszczenie do udziału w postępowaniu nie krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania, a w wyjątkowych przypadkach 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania;
@@ -2821,9 +2840,9 @@
 8. Negocjacje nie mogą prowadzić do zmiany minimalnych wymagań oraz kryteriów oceny ofert i ich wag, określonych przez zamawiającego w ogłoszeniu wszczynającym postępowanie oraz w opisie potrzeb i wymagań.
 9. Podczas negocjacji zamawiający zapewnia równe traktowanie wszystkich wykonawców. Prowadzone negocjacje mają charakter poufny.
 
-**Art. 382.** Do dialogu konkurencyjnego stosuje się przepisy art. 169, art. 171-175 i art. 177-188.
+**Art. 382.** Do dialogu konkurencyjnego stosuje się przepisy art. 169, art. 171-175, art. 176 ust. 2 i 3 i art. 177-188.
 
-**Art. 383.** Do partnerstwa innowacyjnego stosuje się przepisy art. 189-193, art. 195 i art. 197-207.
+**Art. 383.** Do partnerstwa innowacyjnego stosuje się przepisy art. 189-193, art. 194 ust. 2, art. 195 i art. 197-207.
 
 **Art. 384.** W postępowaniu prowadzonym w trybie dialogu konkurencyjnego lub partnerstwa innowacyjnego zamawiający może wyznaczyć termin składania:
 1) wniosków o dopuszczenie do udziału w postępowaniu nie krótszy niż 30 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania, a w wyjątkowych przypadkach 15 dni od dnia przekazania ogłoszenia o zamówieniu Urzędowi Publikacji Unii Europejskiej lub przekazania zaproszenia do potwierdzenia zainteresowania;
@@ -2833,24 +2852,29 @@
 1. W przypadku postępowania o udzielenie zamówienia sektorowego prowadzonego w trybie przetargu ograniczonego, sektorowych negocjacji z ogłoszeniem, dialogu konkurencyjnego albo partnerstwa innowacyjnego, zamawiający może ograniczyć liczbę wykonawców, których zaprosi odpowiednio do składania ofert, do negocjacji, do udziału w dialogu albo do składania ofert wstępnych.
 2. Zamawiający wskazuje w ogłoszeniu o zamówieniu, ogłoszeniu o systemie kwalifikowania wykonawców lub w zaproszeniu do potwierdzenia zainteresowania kryteria selekcji, które zamierza stosować, oraz liczbę wykonawców, których zamierza zaprosić, zapewniającą konkurencję.
 
-**Art. 386.** Do negocjacji bez ogłoszenia stosuje się przepisy art. 208-212.
+**Art. 386.**
+1. Do negocjacji bez ogłoszenia stosuje się przepisy art. 208 i art. 210-212.
+2. Zamówienia sektorowego można udzielić w trybie negocjacji bez ogłoszenia:
+  1) w przypadkach określonych w art. 209 ust. 1 pkt 2-4;
+  2) jeżeli w postępowaniu prowadzonym uprzednio w trybie przetargu nieograniczonego, przetargu ograniczonego, sektorowych negocjacji z ogłoszeniem, dialogu konkurencyjnego albo partnerstwa innowacyjnego nie wpłynął żaden wniosek o dopuszczenie do udziału w postępowaniu albo wszystkie wnioski o dopuszczenie do udziału w postępowaniu zostały odrzucone na podstawie art. 146 ust. 1 pkt 2, albo nie zostały złożone żadne oferty, albo wszystkie oferty zostały odrzucone na podstawie art. 226 ust. 1 pkt 2 lub, ze względu na ich niezgodność z opisem przedmiotu zamówienia, na podstawie art. 226 ust. 1 pkt 5, a pierwotne warunki zamówienia nie zostały w istotny sposób zmienione.
 
 **Art. 387.** Do zamówienia z wolnej ręki stosuje się przepisy art. 213 i art. 215-217.
 
 **Art. 388.** Zamówienia sektorowego można udzielić w trybie zamówienia z wolnej ręki:
-1) w przypadkach określonych w art. 214 ust. 1 pkt 1-6 i 9-14;
+1) w przypadkach określonych w art. 214 ust. 1 pkt 1-5 i 9-14;
 2) jeżeli:
   a) w związku z trwającymi przez bardzo krótki okres szczególnie korzystnymi okolicznościami możliwe jest udzielenie zamówienia po cenie znacząco niższej od cen rynkowych,
   b) w przypadku udzielania dotychczasowemu wykonawcy zamówienia podstawowego, zamówienia na dodatkowe dostawy, których celem jest częściowa wymiana dostarczonych produktów lub instalacji albo zwiększenie bieżących dostaw lub rozbudowa istniejących instalacji, jeżeli zmiana wykonawcy zobowiązywałaby zamawiającego do nabywania materiałów o innych właściwościach technicznych, co powodowałoby niekompatybilność techniczną lub nieproporcjonalnie duże trudności techniczne w użytkowaniu i utrzymaniu tych produktów lub instalacji,
-  c) zamówienie jest udzielane dotychczasowemu wykonawcy usług lub robót budowlanych i polega na powtórzeniu podobnych usług lub robót budowlanych, jeżeli takie zamówienie było przewidziane w ogłoszeniu o zamówieniu dla zamówienia podstawowego i jest zgodne z jego przedmiotem oraz całkowita wartość tego zamówienia została uwzględniona przy szacowaniu jego wartości, a w opisie zamówienia podstawowego wskazano zakres tych usług lub robót budowlanych oraz warunki, na jakich zostaną one udzielone.
+  c) zamówienie jest udzielane dotychczasowemu wykonawcy usług lub robót budowlanych i polega na powtórzeniu podobnych usług lub robót budowlanych, jeżeli takie zamówienie było przewidziane w ogłoszeniu o zamówieniu dla zamówienia podstawowego i jest zgodne z jego przedmiotem oraz całkowita wartość tego zamówienia została uwzględniona przy szacowaniu jego wartości, a w opisie zamówienia podstawowego wskazano zakres tych usług lub robót budowlanych oraz warunki, na jakich zostaną one udzielone,
+  d) w postępowaniu prowadzonym uprzednio w trybie przetargu nieograniczonego, przetargu ograniczonego, sektorowych negocjacji z ogłoszeniem, dialogu konkurencyjnego albo partnerstwa innowacyjnego nie wpłynął żaden wniosek o dopuszczenie do udziału w postępowaniu albo wszystkie wnioski o dopuszczenie do udziału w postępowaniu zostały odrzucone na podstawie art. 146 ust. 1 pkt 2, albo nie zostały złożone żadne oferty, albo wszystkie oferty zostały odrzucone na podstawie art. 226 ust. 1 pkt 2 lub, ze względu na ich niezgodność z opisem przedmiotu zamówienia, na podstawie art. 226 ust. 1 pkt 5, a pierwotne warunki zamówienia nie zostały w istotny sposób zmienione.
 
 ### Rozdział 5 — Szczególne instrumenty i procedury w zakresie zamówień sektorowych
 
 **Art. 389.**
 1. Zamawiający może zawrzeć umowę ramową po przeprowadzeniu postępowania w jednym z trybów udzielenia zamówienia sektorowego przewidzianych w ustawie.
 2. Zamówień na podstawie umowy ramowej udziela się w oparciu o obiektywne zasady i kryteria, które mogą obejmować ponowne poddanie zamówienia konkurencji między wykonawcami będącymi stroną zawartej umowy ramowej.
-3. Zamawiający określa zasady i sposób udzielania zamówień na podstawie umowy ramowej odpowiednio w SWZ albo opisie potrzeb i wymagań.
-4. Zamawiający może zawrzeć umowę ramową na okres nie dłuższy niż 8 lat, chyba że zachodzą wyjątkowe sytuacje uzasadnione przedmiotem umowy.
+3. Zamawiający określa zasady i sposób udzielania zamówień na podstawie umowy ramowej w dokumentach zamówienia dotyczących umowy ramowej.
+4. Zamawiający może zawrzeć umowę ramową na okres nie dłuższy niż 8 lat, chyba że zachodzą wyjątkowe sytuacje uzasadnione przedmiotem umowy. Do umowy ramowej stosuje się przepisy działu VII.
 5. Udzielenie zamówienia objętego umową ramową może nastąpić wyłącznie między zamawiającymi wskazanymi w ogłoszeniu o zamówieniu a wykonawcami będącymi stronami umowy ramowej.
 6. Do zamówień objętych umową ramową udzielanych po ponownym poddaniu zamówienia konkurencji między wykonawcami będącymi stroną zawartej umowy ramowej stosuje się przepis art. 253 ust. 1.
 7. Jeżeli umowa ramowa została zawarta z większą liczbą wykonawców po złożeniu wszystkich ofert w postaci katalogów elektronicznych, zamawiający może postanowić, że ponowne poddanie zamówienia konkurencji będzie odbywało się w oparciu o zaktualizowane katalogi elektroniczne.
@@ -2893,9 +2917,9 @@
 
 **Art. 393.**
 1. W postępowaniu o udzielenie zamówienia sektorowego:
-  1) zamawiający, o których mowa w art. 5 ust. 1 pkt 2 i 3, mogą nie badać podstaw wykluczenia wykonawcy, o których mowa w art. 108;
+  1) zamawiający, o których mowa w art. 5 ust. 1 pkt 2 i 3, mogą nie stosować podstaw wykluczenia wykonawcy, o których mowa w art. 108;
   2) zamawiający może zastosować podstawy wykluczenia oraz warunki udziału w postępowaniu, inne niż określone w art. 108, art. 109 i art. 112, o ile mają one obiektywny charakter i zostały określone w dokumentach zamówienia;
-  3) zamawiający może żądać przedstawienia także innych podmiotowych środków dowodowych niż określone w przepisach wydanych na podstawie art. 128 ust. 6, jeżeli jest to niezbędne do oceny spełniania przez wykonawców warunków oraz braku podstaw wykluczenia, o których mowa w pkt 2;
+  3) zamawiający może żądać przedstawienia także innych podmiotowych środków dowodowych niż określone w przepisach wydanych na podstawie art. 128 ust. 6, jeżeli jest to niezbędne do oceny spełniania przez wykonawców warunków oraz braku podstaw wykluczenia;
   4) zamawiający może, w przypadku zamówienia na dostawy, odrzucić ofertę, w której udział produktów, w tym oprogramowania wykorzystywanego w wyposażeniu sieci telekomunikacyjnych pochodzących z państw członkowskich Unii Europejskiej, państw, z którymi Unia Europejska zawarła umowy o równym traktowaniu przedsiębiorców, lub państw, wobec których na mocy decyzji Rady stosuje się przepisy dyrektywy 2014/25/UE, nie przekracza 50%, jeżeli przewidział to w ogłoszeniu o zamówieniu, a jeżeli postępowanie nie jest wszczynane za pomocą ogłoszenia o zamówieniu - w SWZ.
 2. Jeżeli nie można wybrać najkorzystniejszej oferty ze względu na to, że złożono dwie lub więcej ofert o takiej samej cenie lub przedstawiających taki sam bilans ceny i innych kryteriów oceny ofert, a w SWZ nie przewidziano odrzucenia oferty na podstawie ust. 1 pkt 4, zamawiający wybiera ofertę, która nie mogłaby zostać odrzucona na podstawie ust. 1 pkt 4. Ceny przedstawione w ofertach są takie same, jeżeli różnica między ceną najkorzystniejszej oferty a cenami innych ofert, które nie mogłyby zostać odrzucone na podstawie ust. 1 pkt 4, nie przekracza 3%.
 3. Przepisu ust. 2 nie stosuje się, jeżeli jego zastosowanie prowadziłoby do nabycia urządzeń niekompatybilnych z urządzeniami, którymi dysponuje zamawiający, innymi trudnościami technicznymi w eksploatacji i utrzymaniu urządzeń lub wymagałoby poniesienia niewspółmiernie wysokich kosztów.
@@ -2904,7 +2928,7 @@
 
 **Art. 394.**
 1. Zamawiający albo organ właściwy z własnej inicjatywy lub na wniosek zamawiającego może, po przeprowadzeniu analizy właściwego rynku, wystąpić do Komisji Europejskiej z wnioskiem o stwierdzenie, że zamawiający, wykonujący działalność sektorową, o której mowa w art. 5 ust. 4, działają na rynku konkurencyjnym, do którego dostęp nie jest ograniczony. Zamawiający niezwłocznie przekazuje kopię wniosku organowi właściwemu.
-2. Zamawiający albo organ właściwy przeprowadza analizę rynku w zakresie danej działalności i sporządza wniosek zgodnie z wymaganiami określonymi w decyzji wykonawczej Komisji (UE) 2016/1804 z dnia 10 października 2016 r. dotyczącej szczegółowych zasad stosowania art. 34 i 35 dyrektywy 2014/25/UE w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych (Dz. Urz. UE L 275 z 12.10.2016, str. 39).
+2. Zamawiający albo organ właściwy przeprowadza analizę rynku w zakresie danej działalności i sporządza wniosek, o którym mowa w ust. 1, zgodnie z wymaganiami określonymi w decyzji wykonawczej Komisji (UE) 2016/1804 z dnia 10 października 2016 r. dotyczącej szczegółowych zasad stosowania art. 34 i 35 dyrektywy 2014/25/UE w sprawie udzielania zamówień przez podmioty działające w sektorach gospodarki wodnej, energetyki, transportu i usług pocztowych (Dz. Urz. UE L 275 z 12.10.2016, str. 39).
 3. Zamawiający, którzy zgodnie z opublikowaną decyzją Komisji Europejskiej działają na rynku konkurencyjnym, do którego dostęp nie jest ograniczony, nie stosują przepisów ustawy. Przepis ten stosuje się odpowiednio w przypadku niewydania przez Komisję Europejską decyzji w terminie 7 miesięcy od dnia otrzymania wniosku, o którym mowa w ust. 1.
 4. Rada Ministrów określi, w drodze rozporządzenia, organy właściwe do występowania z wnioskiem, o którym mowa w ust. 1, mając na względzie rodzaj działalności oraz zakres działania organów, a także znajomość przez te organy funkcjonowania rynku w zakresie danej działalności.
 
@@ -2916,11 +2940,11 @@
 1. Do zamówień w dziedzinach obronności i bezpieczeństwa:
   1) stosuje się przepisy:
     a) działu II:
-      – z wyjątkiem art. 83, art. 87 ust. 2, art. 89, art. 91 ust. 2, art. 92, art. 94, art. 97 ust. 10, art. 100-102, art. 110 ust. 2 i 3, art. 115 ust. 2, art. 125 ust. 2, 3 i 6, art. 126 ust. 1 i 2, art. 127, art. 222 ust. 2-5, art. 245 ust. 6 i art. 262,
+      – z wyjątkiem art. 83, art. 87 ust. 2, art. 89 ust. 1 i 3, art. 91 ust. 2, art. 92, art. 94, art. 100-102, art. 110 ust. 2 i 3, art. 115 ust. 2, art. 125 ust. 2, 3 i 6, art. 126 ust. 1 i 2, art. 127, art. 222 ust. 2-5, art. 245 ust. 6 i art. 262,
       – rozdziału 3, z wyjątkiem art. 129 i art. 130 ust. 2, chyba, że przepisy niniejszego działu stanowią inaczej,
     b) działu IV rozdziału 1, z wyjątkiem art. 311 ust. 1 i 3;
   2) nie stosuje się przepisów art. 21-23, art. 72 ust. 1 pkt 5, art. 78 ust. 4, art. 442 ust. 1 i 2, art. 443, art. 446 i art. 448.
-2. Do zamówień w dziedzinach obronności i bezpieczeństwa nie stosuje się przepisów działu I rozdziału 7, w zakresie, w jakim przewidują obowiązek komunikacji z wykonawcą wyłącznie przy użyciu środków komunikacji elektronicznej.
+2. Do zamówień w dziedzinach obronności i bezpieczeństwa nie stosuje się przepisów działu I rozdziału 7 w zakresie, w jakim przewidują obowiązek komunikacji z wykonawcą wyłącznie przy użyciu środków komunikacji elektronicznej, oraz art. 97 ust. 10 w zakresie, w jakim przewiduje obowiązek przekazania oryginału gwarancji lub poręczenia w postaci elektronicznej.
 3. Do zamówień w dziedzinach obronności i bezpieczeństwa nie stosuje się przepisów ustawy właściwych dla przetargu nieograniczonego, partnerstwa innowacyjnego, dynamicznego systemu zakupów oraz konkursu.
 
 **Art. 396.**
@@ -2990,7 +3014,7 @@
 2. Komunikacja, wymiana i przechowywanie informacji odbywa się w sposób zapewniający integralność, autentyczność, nienaruszalność oraz poufność tych informacji, w tym zapewniający możliwość zapoznania się z treścią wniosków o dopuszczenie do udziału w postępowaniu lub ofert wyłącznie po upływie terminu na ich składanie.
 3. Zgłoszenie wniosku o dopuszczenie do udziału w postępowaniu może nastąpić telefonicznie przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu. Wniosek uważa się za złożony w terminie, jeżeli przed upływem terminu składania wniosków o dopuszczenie do udziału w postępowaniu został on wysłany i zamawiający otrzymał go nie później niż w terminie 14 dni od dnia upływu terminu składania wniosków.
 4. Zamawiający może wymagać, aby wnioski o dopuszczenie do udziału w postępowaniu, składane przy użyciu faksu, były potwierdzane w określonym przez zamawiającego terminie za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe lub przy użyciu środków komunikacji elektronicznej. Wymaganie takie, w tym termin przesyłania potwierdzeń za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe lub przy użyciu środków komunikacji elektronicznej, zamawiający wskazuje w ogłoszeniu o zamówieniu.
-5. Ofertę, wniosek o dopuszczenie do udziału w postępowaniu oraz oświadczenie, o którym mowa w art. 125 ust. 1, składa się, pod rygorem nieważności, w formie pisemnej albo, za zgodą zamawiającego, w formie elektronicznej.
+5. Ofertę, wniosek o dopuszczenie do udziału w postępowaniu oraz oświadczenie, o którym mowa w art. 125 ust. 1, składa się, pod rygorem nieważności, w formie pisemnej lub, za zgodą zamawiającego, w formie elektronicznej.
 
 **Art. 402.**
 1. Zamawiający, po zatwierdzeniu albo uchwaleniu planu finansowego zgodnie z obowiązującymi zamawiającego przepisami, statutem lub umową, a w przypadku zamawiających, którzy nie sporządzają planu finansowego - raz w roku, może przekazać do publikacji Urzędowi Publikacji Unii Europejskiej lub zamieścić na stronie internetowej zamawiającego wstępne ogłoszenie informacyjne o zamówieniach lub umowach ramowych planowanych do udzielenia w trybie przetargu ograniczonego, negocjacji z ogłoszeniem albo dialogu konkurencyjnego.
@@ -3132,11 +3156,11 @@
 1. Do dialogu konkurencyjnego nie stosuje się przepisów art. 170, art. 173, art. 174 ust. 1, art. 178 ust. 1 i 3, art. 179, art. 185 ust. 2 oraz art. 186 ust. 2.
 2. Zamówienia w dziedzinach obronności i bezpieczeństwa można udzielić w trybie dialogu konkurencyjnego, jeżeli ze względu na szczególnie złożony charakter zamówienia nie jest możliwe udzielenie zamówienia w trybie przetargu ograniczonego lub negocjacji z ogłoszeniem. W takim przypadku cena nie jest jedynym kryterium wyboru najkorzystniejszej oferty.
 3. W przypadku gdy opis potrzeb i wymagań jest przekazywany wykonawcom wraz z zaproszeniem do dialogu, opis potrzeb i wymagań zawiera co najmniej:
-  1) informacje, o których mowa w art. 134 ust. 2 pkt 2-5, 7, 9, 10, 12-15, 17 i 18 oraz art. 156 ust. 1 pkt 3, 4 i 19;
+  1) informacje, o których mowa w art. 134 ust. 2 pkt 2-5, 7, 9, 10, 13-15, 17 i 18 oraz art. 156 ust. 1 pkt 3, 4 i 19;
   2) informacje, o których mowa w art. 174 ust. 2;
   3) informacje, o których mowa w art. 411 ust. 2 pkt 1 i 3-5.
 4. W przypadku gdy zamawiający zapewnia na stronie internetowej prowadzonego postępowania bezpłatny, pełny, bezpośredni i nieograniczony dostęp do opisu potrzeb i wymagań oraz innych dokumentów zamówienia, od dnia publikacji ogłoszenia o zamówieniu w Dzienniku Urzędowym Unii Europejskiej, nie krócej niż do dnia udzielenia zamówienia, opis potrzeb i wymagań zawiera co najmniej:
-  1) informacje, o których mowa w art. 134 ust. 2 pkt 2-5, 7, 9, 10, 12-15, 17 i 18 oraz art. 156 ust. 1 pkt 2-4, 9, 10, 14-16 i 19;
+  1) informacje, o których mowa w art. 134 ust. 2 pkt 2-5, 7, 9, 10, 13-15, 17 i 18 oraz art. 156 ust. 1 pkt 2-4, 9, 10, 14-16 i 19;
   2) informacje, o których mowa w art. 174 ust. 2;
   3) informacje, o których mowa w art. 411 ust. 2 pkt 1 i 3-5;
   4) podstawy wykluczenia, o których mowa w art. 405 ust. 2, jeżeli zamawiający je przewiduje;
@@ -3147,7 +3171,7 @@
   2) zawiesić postępowanie i ponownie opublikować ogłoszenie o zamówieniu, określając, z zastosowaniem przepisów dotyczących terminów składania wniosków o dopuszczenie do udziału w postępowaniu, nowy termin składania wniosków oraz informując o tym wykonawców, którzy spełniają warunki udziału w postępowaniu, albo
   3) unieważnić postępowanie na podstawie art. 258 ust. 1.
 7. Zaproszenie do dialogu zawiera co najmniej nazwę i adres zamawiającego oraz informacje, o których mowa w art. 179 ust. 1 pkt 2 oraz 5-7. Zamawiający załącza do zaproszenia do dialogu opis potrzeb i wymagań oraz jego ewentualne zmiany i wyjaśnienia treści opisu potrzeb i wymagań, a także inne dokumenty zamówienia bezpośrednio związane z postępowaniem o udzielenie zamówienia, o ile opis potrzeb i wymagań nie został udostępniony na stronie internetowej zgodnie z ust. 4.
-8. Po zakończeniu dialogu zamawiający przekazuje wykonawcom, z którymi prowadził dialog i którzy nie zostali wyeliminowani z postępowania na poszczególnych etapach, zaproszenie do składania ofert, które zawiera co najmniej nazwę i adres zamawiającego oraz informacje, o których mowa w art. 186 ust. 2 pkt 4 i 5. Zamawiający załącza do zaproszenia do składania ofert SWZ, która zawiera co najmniej informacje, o których mowa w art. 411 ust. 2.
+8. Po zakończeniu dialogu zamawiający przekazuje wykonawcom, z którymi prowadził dialog i którzy nie zostali wyeliminowani z postępowania na poszczególnych etapach, zaproszenie do składania ofert, które zawiera co najmniej nazwę i adres zamawiającego oraz informacje, o których mowa w art. 186 ust. 2 pkt 4 i 5. Zamawiający załącza do zaproszenia do składania ofert SWZ, która zawiera co najmniej informacje, o których mowa w art. 134 ust. 1 pkt 3-6 i 13-21 i ust. 2 pkt 2-5, 7, 9, 10, 13-15, 17 i 18 oraz art. 411 ust. 2 pkt 1 i 3-5.
 
 **Art. 414.**
 1. Do negocjacji bez ogłoszenia nie stosuje się przepisów art. 209 i art. 210 ust. 3 i 4.
@@ -3168,11 +3192,11 @@
   2) określonych w przepisach art. 414 ust. 2 pkt 1 i 3-7, gdy niecelowe albo niemożliwe jest zwrócenie się do innych wykonawców lub gdy wymagają tego pilne potrzeby operacyjne;
   3) ze względu na sytuację kryzysową, o której mowa w art. 408 ust. 3, wymagane jest natychmiastowe wykonanie zamówienia, a nie można zachować terminów, w tym terminów skróconych, określonych dla przetargu ograniczonego lub negocjacji z ogłoszeniem;
   4) ze względu na wyjątkową sytuację niewynikającą z przyczyn leżących po stronie zamawiającego, której nie mógł on przewidzieć, wymagane jest natychmiastowe wykonanie zamówienia, a nie można zachować terminów, w tym terminów skróconych, określonych dla przetargu ograniczonego lub negocjacji z ogłoszeniem;
-  5) zamówienie dotyczy dodatkowych dostaw realizowanych przez dotychczasowego wykonawcę, których celem jest częściowe powtórzenie dostaw lub odnowienie instalacji, lub zwiększenie dostaw, lub rozbudowa instalacji istniejących, jeżeli zmiana wykonawcy zobowiązywałaby zamawiającego do nabywania materiałów o innych właściwościach technicznych, co powodowałoby niekompatybilność lub nieproporcjonalnie duże trudności techniczne w użytkowaniu i utrzymaniu, przy czym czas trwania takich zamówień nie może przekraczać 5 lat;
+  5) zamówienie dotyczy dodatkowych dostaw realizowanych przez dotychczasowego wykonawcę, których celem jest częściowe powtórzenie dostaw lub odnowienie instalacji, lub zwiększenie dostaw, lub rozbudowa instalacji istniejących, jeżeli zmiana wykonawcy zobowiązywałaby zamawiającego do nabywania materiałów o innych właściwościach technicznych, co powodowałoby niekompatybilność lub nieproporcjonalnie duże trudności techniczne w użytkowaniu i utrzymaniu, przy czym czas trwania takich zamówień nie może przekraczać 5 lat od udzielenia zamówienia podstawowego;
   6) w okresie 5 lat od udzielenia zamówienia podstawowego dotychczasowemu wykonawcy usług lub robót budowlanych udzielane jest zamówienie uzupełniające tego samego rodzaju co zamówienie podstawowe, pod warunkiem że zamówienie podstawowe zostało udzielone w trybie przetargu ograniczonego, negocjacji z ogłoszeniem albo dialogu konkurencyjnego, a zamówienie uzupełniające było przewidziane w ogłoszeniu o zamówieniu dla zamówienia podstawowego, i jest zgodne z przedmiotem zamówienia podstawowego;
   7) w postępowaniu prowadzonym uprzednio w trybie przetargu ograniczonego, negocjacji z ogłoszeniem albo dialogu konkurencyjnego nie wpłynął żaden wniosek o dopuszczenie do udziału w postępowaniu albo wszystkie wnioski o dopuszczenie do udziału w postępowaniu zostały odrzucone na podstawie art. 146 ust. 1 pkt 2, nie zostały złożone żadne oferty albo wszystkie oferty zostały odrzucone na podstawie art. 226 ust. 1 pkt 2 lub, ze względu na ich niezgodność z opisem przedmiotu zamówienia na podstawie art. 226 ust. 1 pkt 5, a pierwotne warunki zamówienia nie zostały w istotny sposób zmienione.
 3. W nadzwyczajnych okolicznościach związanych z oczekiwanym okresem funkcjonowania dostarczonych urządzeń, instalacji lub systemów, a także trudnościami technicznymi, jakie może spowodować zmiana wykonawcy, do zamówień w dziedzinach obronności i bezpieczeństwa udzielanych w trybie zamówienia z wolnej ręki na podstawie:
-  1) ust. 2 pkt 5 - nie stosuje się wymagania, aby czas trwania takich zamówień nie przekraczał 5 lat;
+  1) ust. 2 pkt 5 - nie stosuje się wymagania, aby czas trwania takich zamówień nie przekraczał 5 lat od udzielenia zamówienia podstawowego;
   2) ust. 2 pkt 6 - nie stosuje się wymagania udzielenia zamówienia w okresie 5 lat od udzielenia zamówienia podstawowego.
 
 **Art. 416.** W przypadku gdy SWZ albo opis potrzeb i wymagań znajduje się w posiadaniu podmiotu innego niż zamawiający, zaproszenie do składania ofert, do negocjacji albo do udziału w dialogu zawiera adres instytucji, do której można zwrócić się z wnioskiem o taką dokumentację, oraz datę, do której można składać wnioski o udostępnienie takiej dokumentacji, jak również kwotę należną za ich udostępnienie wraz z określeniem sposobu płatności. Właściwy podmiot przesyła żądaną dokumentację wykonawcom niezwłocznie po otrzymaniu ich wniosków wraz z dowodem dokonania płatności kwoty należnej za jej udostępnienie.
@@ -3226,7 +3250,7 @@
 ### Rozdział 4 — Umowa ramowa
 
 **Art. 422.**
-1. Zamawiający, udzielając zamówienia w dziedzinach obronności i bezpieczeństwa, może zawrzeć umowę ramową po przeprowadzeniu postępowania, stosując odpowiednio przepisy dotyczące udzielania zamówienia w trybie przetargu ograniczonego, negocjacji z ogłoszeniem lub dialogu konkurencyjnego.
+1. Zamawiający, udzielając zamówienia w dziedzinach obronności i bezpieczeństwa, może zawrzeć umowę ramową po przeprowadzeniu postępowania, stosując odpowiednio przepisy dotyczące udzielania zamówienia w trybie przetargu ograniczonego, negocjacji z ogłoszeniem, dialogu konkurencyjnego, negocjacji bez ogłoszenia lub zamówienia z wolnej ręki.
 2. Umowę ramową zawiera się na okres nie dłuższy niż 7 lat.
 3. Umowę ramową można zawrzeć na okres dłuższy niż 7 lat, jeżeli jest to konieczne ze względu na wystąpienie nadzwyczajnych okoliczności, przy uwzględnianiu oczekiwanego okresu funkcjonowania dostarczonych urządzeń, instalacji lub systemów, a także trudności technicznych, jakie może spowodować zmiana wykonawcy.
 4. W przypadku zawarcia umowy ramowej na okres dłuższy niż 7 lat zamawiający podaje w ogłoszeniu o udzieleniu zamówienia uzasadnienie nadzwyczajnych okoliczności, o których mowa w ust. 3.
@@ -3239,9 +3263,9 @@
 2. W ogłoszeniu o zamówieniu na podwykonawstwo wykonawca wskazuje podstawy wykluczenia i warunki udziału w postępowaniu lub kryteria selekcji przewidziane przez zamawiającego w postępowaniu o udzielenie zamówienia, a także wszelkie inne kryteria, które wykonawca zamierza zastosować do wyboru podwykonawców. Wszystkie kryteria, które wykonawca zamierza zastosować do wyboru podwykonawców, muszą mieć charakter obiektywny, niedyskryminujący i spójny z podstawami wykluczenia i warunkami udziału w postępowaniu stosowanymi przez zamawiającego w postępowaniu o udzielenie zamówienia. Wymagane warunki udziału w postępowaniu lub kryteria selekcji muszą być bezpośrednio związane z przedmiotem umowy o podwykonawstwo i muszą być współmierne do przedmiotu umowy o podwykonawstwo.
 3. Przepisu ust. 1 nie stosuje się w przypadku spełnienia co najmniej jednej z przesłanek udzielenia zamówienia w trybie negocjacji bez ogłoszenia lub zamówienia z wolnej ręki, o których mowa w art. 414 i art. 415 .
 
-**Art. 424.** Jeżeli wykonawca zobowiązany do zawarcia umowy o podwykonawstwo, zgodnie z art. 409 ust. 1 pkt 4, jest zamawiającym, o którym mowa w art. 4 lub art. 5 ust. 4, do wyboru podwykonawców stosuje przepisy ustawy właściwe dla udzielania zamówień.
+**Art. 424.** Jeżeli wykonawca zobowiązany do zawarcia umowy o podwykonawstwo, zgodnie z art. 409 ust. 1 pkt 4, jest zamawiającym publicznym lub zamawiającym sektorowym do wyboru podwykonawców stosuje przepisy ustawy właściwe dla udzielania zamówień.
 
-**Art. 425.** Wykonawca może spełnić wymagania zamawiającego dotyczące wyboru podwykonawcy także przez zawarcie umowy ramowej w sprawie powierzenia podwykonawstwa. Przepis art. 422 stosuje się.
+**Art. 425.** Wykonawca może spełnić wymagania zamawiającego dotyczące wyboru podwykonawcy także przez zawarcie umowy ramowej w sprawie powierzenia podwykonawstwa. Przepisy art. 423 i art. 424 stosuje się.
 
 **Art. 426.**
 1. Wykonawca, w ofercie, może zaproponować realizację w ramach podwykonawstwa części wartości umowy w sprawie zamówienia publicznego w dziedzinach obronności i bezpieczeństwa, która wykracza poza przedział, o którym mowa w art. 409 ust. 1 pkt 4 .
@@ -3288,7 +3312,7 @@
 4) możliwości ograniczenia zakresu zamówienia przez zamawiającego bez wskazania minimalnej wartości lub wielkości świadczenia stron.
 
 **Art. 434.**
-1. Umowę zawiera się na czas oznaczony, nie dłuższy niż 4 lata.
+1. Umowę zawiera się na czas oznaczony.
 2. Zamawiający może zawrzeć umowę, której przedmiotem są świadczenia powtarzające się lub ciągłe, na okres dłuższy niż 4 lata, jeżeli wykonanie zamówienia w dłuższym okresie spowoduje oszczędności kosztów realizacji zamówienia w stosunku do okresu czteroletniego lub jest to uzasadnione zdolnościami płatniczymi zamawiającego lub zakresem planowanych nakładów oraz okresem niezbędnym do ich spłaty.
 
 **Art. 435.**
@@ -3345,7 +3369,7 @@
     b) przez wskazanie innej podstawy, w szczególności wykazu rodzajów materiałów lub kosztów, w przypadku których zmiana ceny uprawnia strony umowy do żądania zmiany wynagrodzenia;
   3) sposób określenia wpływu zmiany ceny materiałów lub kosztów na koszt wykonania zamówienia oraz określenie okresów, w których może następować zmiana wynagrodzenia wykonawcy;
   4) maksymalną wartość zmiany wynagrodzenia, jaką dopuszcza zamawiający w efekcie zastosowania postanowień o zasadach wprowadzania zmian wysokości wynagrodzenia.
-3. Jeżeli umowa została zawarta po upływie 180 dni od dnia upływu terminu składania ofert, w celu ustalenia zmiany wysokości wynagrodzenia należnego wykonawcy, oblicza się różnicę między średnią ceną materiałów lub kosztów, obowiązującą w dniu otwarcia ofert, a ceną nabycia materiałów lub rzeczywiście poniesionych kosztów przez wykonawcę, zgodnie z ust. 2.
+3. Jeżeli umowa została zawarta po upływie 180 dni od dnia upływu terminu składania ofert, początkowym terminem ustalenia zmiany wynagrodzenia jest dzień otwarcia ofert, chyba że zamawiający określi termin wcześniejszy.
 4. Przez zmianę ceny materiałów lub kosztów rozumie się wzrost odpowiednio cen lub kosztów, jak i ich obniżenie, względem ceny lub kosztu przyjętych w celu ustalenia wynagrodzenia wykonawcy zawartego w ofercie.
 5. Wykonawca, którego wynagrodzenie zostało zmienione zgodnie z ust. 1-3, zobowiązany jest do zmiany wynagrodzenia przysługującego podwykonawcy, z którym zawarł umowę, w zakresie odpowiadającym zmianom cen materiałów lub kosztów dotyczących zobowiązania podwykonawcy, jeżeli łącznie spełnione są następujące warunki:
   1) przedmiotem umowy są roboty budowlane lub usługi;
@@ -3394,7 +3418,9 @@
 1. Zamawiający sporządza raport z realizacji zamówienia, w którym dokonuje oceny tej realizacji, w przypadku gdy:
   1) na realizację zamówienia wydatkowano kwotę wyższą co najmniej o 10% od wartości ceny ofertowej;
   2) na wykonawcę zostały nałożone kary umowne w wysokości co najmniej 10% wartości ceny ofertowej;
-  3) wystąpiły opóźnienia w realizacji umowy przekraczające co najmniej 30 dni;
+  3) wystąpiły opóźnienia w realizacji umowy przekraczające co najmniej:
+    a) 90 dni, w przypadku zamówień na roboty budowlane o wartości równej lub przekraczającej wyrażoną w złotych równowartość kwoty dla robót budowlanych - 20 000 000 euro, a dla dostaw lub usług - 10 000 000 euro,
+    b) 30 dni, w przypadku zamówień o wartości mniejszej niż wyrażona w złotych równowartość kwoty dla robót budowlanych - 20 000 000 euro, a dla dostaw lub usług - 10 000 000 euro;
   4) zamawiający lub wykonawca odstąpił od umowy w całości lub w części, albo dokonał jej wypowiedzenia w całości lub w części.
 2. Zamawiający może sporządzić raport w przypadkach innych niż określone w ust. 1.
 3. Raport zawiera:
@@ -3416,7 +3442,7 @@
 - w części równej sumie kwot wynikających z nieprzedstawionych dowodów zapłaty.
 3. W przypadku, o którym mowa w ust. 1 pkt 1, zamawiający może wskazać w SWZ procentową wartość ostatniej części wynagrodzenia, która nie może wynosić więcej niż 50% wynagrodzenia należnego wykonawcy.
 
-**Art. 448.** Zamawiający, w terminie 30 dni od wykonania umowy, zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o wykonaniu umowy.
+**Art. 448.** Zamawiający, w terminie 30 dni od wykonania umowy, zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o wykonaniu umowy, na zasadach określonych w dziale III rozdziale 2.
 
 ### Rozdział 2 — Zabezpieczenie należytego wykonania umowy
 
@@ -3524,9 +3550,8 @@
 
 **Art. 459.**
 1. Prezes Urzędu może wystąpić do sądu o unieważnienie:
-  1) zmiany umowy dokonanej z naruszeniem art. 454 i art. 455,
-  2) umowy, o której mowa w art. 457 ust. 1
-- jeżeli dokonanie przez zamawiającego czynności lub zaniechania dokonania czynności z naruszeniem ustawy miało lub mogło mieć wpływ na wynik postępowania.
+  1) zmiany umowy dokonanej z naruszeniem art. 454 i art. 455;
+  2) umowy, o której mowa w art. 457 ust. 1.
 2. Uprawnienie, o którym mowa w ust. 1, wygasa z upływem 4 lat od dnia zawarcia umowy lub jej zmiany.
 
 **Art. 460.** O unieważnienie umowy może wystąpić wykonawca, który ma lub miał interes w uzyskaniu danego zamówienia, w przypadku, o którym mowa w art. 457 ust. 1 pkt 1. Uprawnienie to wygasa z upływem 4 lat od dnia zawarcia umowy.
@@ -3705,14 +3730,14 @@
 2. Członkiem Izby może być osoba, która:
   1) jest obywatelem polskim;
   2) posiada wyższe wykształcenie prawnicze;
-  3) złożyła egzamin sędziowski, prokuratorski, notarialny, adwokacki lub radcowski lub zajmowała stanowisko sędziego lub prokuratora, wykonywała zawód notariusza lub posiada tytuł zawodowy adwokata lub radcy prawnego;
-  4) wyróżnia się wiedzą z zakresu zamówień lub prawa cywilnego i posiada minimum pięcioletnie doświadczenie zawodowe w tym zakresie;
+  3) złożyła egzamin sędziowski, prokuratorski, notarialny, adwokacki oraz radcowski oraz zajmowała stanowisko sędziego oraz prokuratora, wykonywała zawód notariusza oraz posiada tytuł zawodowy adwokata oraz radcy prawnego;
+  4) wyróżnia się wiedzą z zakresu zamówień oraz prawa cywilnego i posiada minimum pięcioletnie doświadczenie zawodowe w tym zakresie;
   5) posiada pełną zdolność do czynności prawnych;
   6) korzysta z pełni praw publicznych;
   7) ma nieposzlakowaną opinię;
-  8) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+  8) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo oraz umyślne przestępstwo skarbowe;
   9) ukończyła 29 lat;
-  10) posiada poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych o klauzuli „poufne” lub wyższej, albo złożyła oświadczenie o wyrażeniu zgody na przeprowadzenie postępowania sprawdzającego, o którym mowa w art. 22 ust. 1 pkt 1 lub 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych, w zależności od klauzuli nadanej informacjom, o dostęp do których ubiega się członek Izby, lub funkcji, którą ma pełnić.
+  10) posiada poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych o klauzuli „poufne” oraz wyższej, albo złożyła oświadczenie o wyrażeniu zgody na przeprowadzenie postępowania sprawdzającego, o którym mowa w art. 22 ust. 1 pkt 1 oraz 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych, w zależności od klauzuli nadanej informacjom, o dostęp do których ubiega się członek Izby, oraz funkcji, którą ma pełnić.
 3. Przed podjęciem obowiązków członek Izby jest obowiązany złożyć przed ministrem właściwym do spraw gospodarki ślubowanie według następującej roty: „Ślubuję uroczyście wypełniać obowiązki członka Izby, orzekać bezstronnie, zgodnie z przepisami prawa, a w postępowaniu kierować się zasadami godności i uczciwości”. Składający ślubowanie może na końcu dodać: „Tak mi dopomóż Bóg”. Złożenie ślubowania członek Izby potwierdza podpisem pod jego treścią.
 
 **Art. 475.**
@@ -3726,7 +3751,7 @@
   3) członkostwem w kolegium regionalnej izby obrachunkowej lub samorządowym kolegium odwoławczym;
   4) przynależnością do partii politycznej lub prowadzeniem działalności politycznej.
 2. Członek Izby nie może:
-  1) bez zgody Prezesa Izby, podejmować dodatkowych zajęć zarobkowych, z wyjątkiem zatrudnienia na stanowisku dydaktycznym, naukowo-dydaktycznym lub naukowym, w łącznym wymiarze nieprzekraczającym pełnego wymiaru czasu pracy pracowników zatrudnionych na tych stanowiskach;
+  1) podejmować dodatkowych zajęć zarobkowych, z wyjątkiem zatrudnienia na stanowisku dydaktycznym, badawczym lub badawczo-dydaktycznym, w łącznym wymiarze nieprzekraczającym pełnego wymiaru czasu pracy pracowników zatrudnionych na tych stanowiskach;
   2) prowadzić działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami, a także zarządzać taką działalnością lub być przedstawicielem czy pełnomocnikiem w prowadzeniu takiej działalności;
   3) być członkiem zarządu, rady nadzorczej lub komisji rewizyjnej lub pełnomocnikiem spółek handlowych;
   4) być członkiem zarządu fundacji lub stowarzyszenia prowadzących działalność gospodarczą;
@@ -3734,31 +3759,37 @@
 3. Zajęcia dodatkowe podejmowane przez członka Izby nie mogą być sprzeczne z pełnieniem obowiązków członka Izby oraz nie mogą osłabiać zaufania do jego bezstronności lub godzić w powagę pełnionej funkcji.
 4. Członek Izby składa Prezesowi Urzędu co roku, do dnia 31 marca, oświadczenie:
   1) czy toczą się przeciwko niemu postępowania karne, wraz z informacją dotyczącą przedmiotu postępowania;
-  2) o stanie majątkowym według stanu na dzień 31 grudnia roku poprzedniego, stosując odpowiednio formularz, którego wzór jest określony w ustawie z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2017 r. poz. 1393 oraz z 2019 r. poz. 371 i 492).
+  2) o stanie majątkowym według stanu na dzień 31 grudnia roku poprzedniego, stosując odpowiednio formularz, którego wzór jest określony w przepisach wydanych na podstawie ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2017 r. poz. 1393 oraz z 2019 r. poz. 371 i 492).
 
 **Art. 477.**
-1. Członków Izby wyłania się w drodze postępowania kwalifikacyjnego, które składa się z:
-  1) egzaminu pisemnego z teoretycznej i praktycznej znajomości przepisów związanych z udzielaniem zamówień oraz prawa cywilnego;
-  2) rozmowy kwalifikacyjnej.
+1. Członków Izby wyłania się w drodze postępowania kwalifikacyjnego:
+  1) które składa się z:
+    a) egzaminu pisemnego z teoretycznej i praktycznej wiedzy z zakresu zamówień oraz prawa cywilnego oraz
+    b) rozmowy kwalifikacyjnej;
+  2) od wyników którego kandydatowi na członka Izby przysługuje prawo wniesienia odwołania do ministra właściwego do spraw gospodarki, w terminie 7 dni od dnia otrzymania przez kandydata informacji o wyniku na danym etapie postępowania; prawo wniesienia odwołania przysługuje kandydatowi również w przypadku odmowy dopuszczenia go do udziału w postępowaniu kwalifikacyjnym.
 2. Postępowanie kwalifikacyjne ogłasza minister właściwy do spraw gospodarki na wniosek Prezesa Urzędu.
 3. Ogłoszenie zamieszcza się w Biuletynie Informacji Publicznej, na stronie podmiotowej Urzędu, stronie podmiotowej urzędu obsługującego ministra właściwego do spraw gospodarki oraz stronie podmiotowej Kancelarii Prezesa Rady Ministrów, a także w prasie o zasięgu ogólnopolskim.
 4. Ogłoszenie zawiera:
   1) informację o liczbie osób, które mogą zostać powołane w skład Izby w danym postępowaniu kwalifikacyjnym;
-  2) określenie terminu, formy i miejsca przyjmowania zgłoszeń;
-  3) wykaz dokumentów, które należy dołączyć, potwierdzających spełnianie warunków, o których mowa w art. 474 ust. 2;
+  2) określenie terminu, formy i miejsca przyjmowania zgłoszeń kandydatów na członka Izby;
+  3) wykaz dokumentów, które należy dołączyć do zgłoszenia kandydata na członka Izby, potwierdzających spełnianie warunków, o których mowa w art. 474 ust. 2 pkt 1-6 i 8-10, oraz wskazanie danych, które ma zawierać to zgłoszenie;
   4) określenie terminu przeprowadzenia postępowania kwalifikacyjnego;
   5) informację o niezbędnej do uzyskania minimalnej liczbie punktów.
 5. Termin, o którym mowa w ust. 4 pkt 2, nie może być krótszy niż 30 dni od dnia zamieszczenia ogłoszenia w Biuletynie Informacji Publicznej, na stronie podmiotowej Urzędu.
-6. Do przeprowadzenia postępowania kwalifikacyjnego minister właściwy do spraw gospodarki powołuje komisję kwalifikacyjną spośród osób wskazanych przez Prezesa Urzędu.
+6. Minister właściwy do spraw gospodarki powołuje komisję kwalifikacyjną do przeprowadzenia postępowania kwalifikacyjnego, w tym przygotowania zadań na egzamin pisemny, o którym mowa w ust. 1 pkt 1, spośród osób wskazanych przez Prezesa Urzędu.
 7. Komisja kwalifikacyjna składa się z siedmiu członków. Członkiem komisji może być wyłącznie osoba, której wiedza i doświadczenie w zakresie przepisów związanych z udzielaniem zamówień lub w zakresie prawa cywilnego, oraz jej autorytet, dają rękojmię prawidłowego i bezstronnego przebiegu postępowania kwalifikacyjnego.
 8. Jeżeli w postępowaniu kwalifikacyjnym minimalną liczbę punktów uzyska mniejsza liczba osób, niż wynika to z limitu określonego na podstawie ust. 4 pkt 1, minister właściwy do spraw gospodarki może ogłosić uzupełniające postępowanie kwalifikacyjne na członka Izby nie później niż w terminie 30 dni od dnia zakończenia postępowania kwalifikacyjnego. Do uzupełniającego postępowania kwalifikacyjnego przepisy ust. 1-7 stosuje się.
 9. W skład Izby, w miejsce kandydata wybranego w drodze postępowania kwalifikacyjnego albo uzupełniającego postępowania kwalifikacyjnego, który po ogłoszeniu wyniku postępowania zrezygnował z powołania, można powołać kolejną osobę, która uzyskała minimalną liczbę punktów, a nie została powołana w skład Izby w wyniku postępowania kwalifikacyjnego albo uzupełniającego postępowania kwalifikacyjnego, o ile powołanie to nastąpi w ciągu roku od dnia zakończenia odpowiednio postępowania kwalifikacyjnego albo uzupełniającego postępowania kwalifikacyjnego.
 10. Prezes Rady Ministrów określi, w drodze rozporządzenia:
-  1) tryb przeprowadzania postępowania kwalifikacyjnego oraz uzupełniającego postępowania kwalifikacyjnego,
-  2) dokumenty, które należy dołączyć, potwierdzające spełnianie warunków, o których mowa w art. 474 ust. 2,
+  1) tryb przeprowadzania postępowania kwalifikacyjnego oraz uzupełniającego postępowania kwalifikacyjnego, a także sposób ustalania jego wyniku, jak również sposób wniesienia odwołania od wyniku postępowania kwalifikacyjnego oraz tryb i sposób rozpatrzenia odwołania,
+  2) dokumenty, które należy dołączyć do zgłoszenia kandydata na członka Izby, potwierdzające spełnianie warunków, o których mowa w art. 474 ust. 2 pkt 1-6 i 8-10, oraz zakres danych, które ma zawierać to zgłoszenie,
   3) szczegółowy zakres zagadnień, w oparciu o które przeprowadzane jest postępowanie kwalifikacyjne oraz uzupełniające postępowanie kwalifikacyjne,
-  4) sposób i tryb powoływania komisji kwalifikacyjnej, szczegółowe wymagania wobec członków komisji kwalifikacyjnej oraz organizację jej pracy
-- kierując się potrzebą zapewnienia prawidłowego i sprawnego przeprowadzenia postępowania kwalifikacyjnego oraz uzupełniającego postępowania kwalifikacyjnego, potrzebą zapewnienia efektywnej i bezstronnej pracy komisji kwalifikacyjnej, a także mając na względzie potrzebę obiektywnego sprawdzenia teoretycznego i praktycznego przygotowania kandydatów na członka Izby, które będzie zapewniało prawidłowe i sprawne przeprowadzanie postępowań odwoławczych, oraz biorąc pod uwagę okoliczność, że potwierdzeniem spełniania warunków, o których mowa w art. 474 ust. 2, mogą być dokumenty i oświadczenia, w tym zawierające informacje podlegające ochronie danych osobowych.
+  4) sposób powoływania komisji kwalifikacyjnej, szczegółowe wymagania wobec członków komisji kwalifikacyjnej oraz organizację jej pracy
+kierując się potrzebą zapewnienia prawidłowego i sprawnego przeprowadzenia postępowania kwalifikacyjnego oraz uzupełniającego postępowania kwalifikacyjnego, potrzebą obiektywnego sprawdzenia teoretycznego i praktycznego przygotowania kandydatów na członka Izby, a także tym, że dane podane w zgłoszeniu muszą jednoznacznie potwierdzać tożsamość kandydata na członka Izby, wskazywać dotychczasowy przebieg jego kariery zawodowej, jego doświadczenie i wykształcenie, a dołączone dokumenty lub oświadczenia mają umożliwiać weryfikację w niezbędnym zakresie spełniania przez kandydata wymaganych warunków, przy czym weryfikacja ta może nastąpić na podstawie dokumentów lub oświadczeń zawierających informacje podlegające ochronie danych osobowych, jak również mając na uwadze, że termin na wniesienie odwołania ma być liczony od dnia otrzymania przez kandydata informacji o wyniku na danym etapie postępowania kwalifikacyjnego, oraz mając na względzie potrzebę zapewnienia efektywnej i bezstronnej pracy komisji kwalifikacyjnej.
+11. Administratorem danych osobowych kandydata przekazanych w zgłoszeniu kandydata na członka Izby oraz dołączonych do niego dokumentach, przetwarzanych w postępowaniu kwalifikacyjnym oraz w związku z wniesieniem odwołania od wyniku tego postępowania, a także danych osobowych członków komisji kwalifikacyjnej jest Prezes Urzędu.
+12. Minister właściwy do spraw gospodarki jest administratorem danych osobowych kandydata w związku z wniesieniem przez niego odwołania od wyniku postępowania kwalifikacyjnego, a także danych osobowych członków komisji kwalifikacyjnej, w celu realizacji jego zadań, obowiązków i uprawnień wynikających z ustawy.
+13. Okres przechowywania danych osobowych wynosi 10 lat od końca roku, w którym zakończyło się postępowanie kwalifikacyjne, w którym dane osobowe zostały zgromadzone.
+14. W związku z przetwarzaniem danych osobowych w postępowaniu kwalifikacyjnym wykonanie obowiązków, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, następuje przez umieszczenie informacji określonych w art. 13 ust. 1 i 2 tego rozporządzenia w Biuletynie Informacji Publicznej na stronie podmiotowej Urzędu Zamówień Publicznych oraz stronie podmiotowej urzędu obsługującego ministra właściwego do spraw gospodarki. W takim przypadku, pozyskując dane osobowe, organ przekazuje osobie, której dane dotyczą, informacje o sposobie wykonania tego obowiązku.
 
 **Art. 478.**
 1. Członkostwo w Izbie wygasa z powodu śmierci albo odwołania.
@@ -3774,7 +3805,8 @@
   9) odmowy wydania albo cofnięcia mu poświadczenia bezpieczeństwa, o którym mowa w ustawie z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych;
   10) odmowy złożenia ślubowania;
   11) nieobjęcia stanowiska w terminie określonym w akcie powołania;
-  12) złożenia przez członka Izby wniosku o odwołanie.
+  12) złożenia przez członka Izby wniosku o odwołanie;
+  13) trwałej niezdolności do pełnienia obowiązków członka Izby stwierdzonej przez orzecznika Zakładu Ubezpieczeń Społecznych lub odmowy bez uzasadnionej przyczyny poddania się ocenie zdolności do pełnienia tych obowiązków, mimo zalecenia Prezesa Izby.
 3. W skład Izby, w miejsce członka Izby odwołanego na podstawie ust. 2 pkt 10 lub 11, można powołać kolejną osobę, która uzyskała minimalną liczbę punktów, a nie została powołana w skład Izby w wyniku postępowania kwalifikacyjnego albo uzupełniającego postępowania kwalifikacyjnego, o ile postępowanie to zakończyło się nie wcześniej niż na rok przed dniem odwołania.
 
 **Art. 479.**
@@ -3801,7 +3833,8 @@
 1. Prezesa Izby i wiceprezesa Izby powołuje, na wniosek Prezesa Urzędu, minister właściwy do spraw gospodarki na trzyletnią kadencję.
 2. Prezes Izby i wiceprezes Izby są powoływani spośród członków Izby, którzy posiadają poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych o klauzuli „ściśle tajne” albo złożyli oświadczenie o wyrażeniu zgody na przeprowadzenie postępowania sprawdzającego, o którym mowa w art. 22 ust. 1 pkt 2 ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
 3. Prezes Izby i wiceprezes Izby mogą być powołani również spośród kandydatów spełniających warunki, o których mowa w art. 474 ust. 2, wyłonionych w drodze konkursu. Kandydat przed powołaniem przedstawia poświadczenie bezpieczeństwa, o którym mowa w ust. 2.
-4. Konkurs na Prezesa Izby lub wiceprezesa Izby, o którym mowa w ust. 2, ogłasza minister właściwy do spraw gospodarki, na wniosek Prezesa Urzędu. Do przeprowadzenia konkursu stosuje się przepisy art. 477 ust. 1 i 3, ust. 4 pkt 2-5 i ust. 5-7 oraz odpowiednio stosuje się przepisy wydane na podstawie art. 477 ust. 10.
+ Kandydat powołany na Prezesa Izby albo wiceprezesa Izby z dniem powołania staje się członkiem Izby.
+4. Konkurs na Prezesa Izby lub wiceprezesa Izby, o którym mowa w ust. 3, ogłasza minister właściwy do spraw gospodarki, na wniosek Prezesa Urzędu. Do przeprowadzenia konkursu stosuje się przepisy art. 477 ust. 1 i 3, ust. 4 pkt 2-5 i ust. 5-7 oraz odpowiednio stosuje się przepisy wydane na podstawie art. 477 ust. 10.
 5. Minister właściwy do spraw gospodarki odwołuje Prezesa Izby lub wiceprezesa Izby w przypadku, gdy odmówiono mu wydania albo cofnięto mu poświadczenie bezpieczeństwa, o którym mowa w ust. 2.
 6. Do odwołania Prezesa Izby i wiceprezesa Izby stosuje się przepis art. 478 ust. 2.
 
@@ -3809,7 +3842,7 @@
 1. Zgromadzenie ogólne Izby zwołuje Prezes Izby co najmniej dwa razy w roku, a także na pisemny wniosek co najmniej połowy składu Izby albo przewodniczącego sądu dyscyplinarnego, w terminie 14 dni od dnia jego złożenia.
 2. Uchwały zgromadzenia ogólnego Izby zapadają większością głosów w obecności co najmniej połowy składu Izby. W przypadku równej liczby głosów rozstrzyga głos Prezesa Izby.
 
-**Art. 482.** Prezes Izby określa, w drodze zarządzenia, wewnętrzny regulamin organizacji pracy Izby oraz zadania wiceprezesa Izby, mając na uwadze potrzebę zapewnienia sprawnego i rzetelnego wykonywania zadań powierzonych Izbie.
+**Art. 482.** Prezes Izby określa, w drodze zarządzenia, wewnętrzny regulamin organizacji pracy Izby oraz zadania wiceprezesa Izby, mając na uwadze potrzebę zapewnienia sprawnego i rzetelnego wykonywania zadań Izby.
 
 **Art. 483.**
 1. Nawiązanie stosunku pracy z członkiem Izby następuje na podstawie powołania, w terminie określonym w akcie powołania. Czynności w sprawach z zakresu prawa pracy dotyczące członka Izby wykonuje Prezes Urzędu.
@@ -3945,7 +3978,7 @@
 2. Do zadań Rady należy:
   1) wyrażanie opinii w szczególnie istotnych sprawach systemu zamówień, przedstawionych jej przez Prezesa Urzędu;
   2) opiniowanie projektów aktów normatywnych dotyczących zamówień, przedstawionych jej przez Prezesa Urzędu;
-  3) opiniowanie sprawozdania z funkcjonowania systemu zamówień, o którym mowa w art. 469 pkt 21;
+  3) opiniowanie sprawozdania z funkcjonowania systemu zamówień, o którym mowa w art. 469 pkt 20;
   4) ustalanie zasad etyki zawodowej osób wykonujących określone w ustawie zadania w systemie zamówień;
   5) wykonywanie innych zadań zleconych przez Prezesa Urzędu.
 3. Obsługę prac Rady zapewnia Urząd.
@@ -4000,7 +4033,7 @@
 1. Postępowanie odwoławcze jest prowadzone w języku polskim.
 2. Wszystkie dokumenty przedstawia się w języku polskim, a jeżeli zostały sporządzone w języku obcym, strona oraz uczestnik postępowania odwoławczego, który się na nie powołuje, przedstawia ich tłumaczenie na język polski. W uzasadnionych przypadkach Izba może żądać przedstawienia tłumaczenia dokumentu na język polski poświadczonego przez tłumacza przysięgłego.
 
-**Art. 507.** Pisma składane w toku postępowania odwoławczego przez strony oraz uczestników postępowania odwoławczego wnosi się z odpisami dla stron oraz uczestników postępowania odwoławczego.
+**Art. 507.** Pisma składane w toku postępowania odwoławczego przez strony oraz uczestników postępowania odwoławczego wnosi się z odpisami dla stron oraz uczestników postępowania odwoławczego, jeżeli pisma te składane są w formie pisemnej.
 
 **Art. 508.**
 1. Pisma w postępowaniu odwoławczym wnosi się w formie pisemnej albo w formie elektronicznej albo w postaci elektronicznej, z tym że odwołanie i przystąpienie do postępowania odwoławczego, wniesione w postaci elektronicznej, wymagają opatrzenia podpisem zaufanym.
@@ -4011,15 +4044,15 @@
 2. Jeżeli koniec terminu do wykonania czynności przypada na sobotę lub dzień ustawowo wolny od pracy, termin upływa dnia następnego po dniu lub dniach wolnych od pracy.
 
 **Art. 510.**
-1. Pełnomocnikiem może być adwokat lub radca prawny, a ponadto osoba sprawująca zarząd majątkiem lub interesami strony oraz osoba pozostająca ze stroną w stosunku zlecenia, jeżeli przedmiot sprawy wchodzi w zakres tego zlecenia.
-2. Pełnomocnikiem osoby prawnej lub przedsiębiorcy, w tym nieposiadającego osobowości prawnej, może być również pracownik tej jednostki.
+1. Pełnomocnikiem może być adwokat lub radca prawny, a ponadto osoba sprawująca zarząd majątkiem lub interesami strony lub uczestnika postępowania oraz osoba pozostająca ze stroną lub uczestnikiem postępowania w stosunku zlecenia, jeżeli przedmiot sprawy wchodzi w zakres tego zlecenia.
+2. Pełnomocnikiem osoby prawnej, przedsiębiorcy, w tym nieposiadającego osobowości prawnej, lub jednostki nieposiadającej osobowości prawnej może być również pracownik tej jednostki.
 
 **Art. 511.**
-1. Pełnomocnik jest obowiązany, przy pierwszej czynności przed Prezesem Izby lub przed Izbą, dołączyć do akt sprawy pełnomocnictwo z podpisem mocodawcy lub wierzytelny odpis pełnomocnictwa wraz z odpisem dla stron i uczestników postępowania odwoławczego, chyba że odpis pełnomocnictwa został doręczony przez pełnomocnika bezpośrednio stronie i uczestnikowi. Adwokat i radca prawny mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie.
+1. Pełnomocnik jest obowiązany, przy pierwszej czynności przed Prezesem Izby lub przed Izbą, dołączyć do akt sprawy pełnomocnictwo z podpisem mocodawcy lub wierzytelny odpis pełnomocnictwa. Jeżeli pełnomocnictwo składane jest w formie pisemnej, pełnomocnik składa je wraz z odpisem dla stron i uczestników postępowania odwoławczego, chyba że odpis pełnomocnictwa został doręczony przez pełnomocnika bezpośrednio stronie i uczestnikowi. Adwokat i radca prawny mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie.
 2. Jeżeli braki w zakresie pełnomocnictwa albo w składzie właściwych organów dają się uzupełnić, Izba wyznaczy w tym celu odpowiedni termin.
 3. Izba może dopuścić tymczasowo do czynności osobę niemogącą przedstawić pełnomocnictwa, z zastrzeżeniem że przed upływem wyznaczonego terminu braki będą uzupełnione, a czynności zatwierdzone przez powołaną do tego osobę.
 
-**Art. 512.** Członkowie Izby zachowują poufność informacji zawartych w dokumentach przekazanych przez strony i uczestników postępowania odwoławczego oraz przystępujących do postępowania odwoławczego i działają w postępowaniu odwoławczym zgodnie z interesem publicznym, w szczególności w dziedzinach obronności i bezpieczeństwa.
+**Art. 512.** Członkowie Izby zachowują poufność informacji zawartych w dokumentach przekazanych przez strony i uczestników postępowania odwoławczego i działają w postępowaniu odwoławczym zgodnie z interesem publicznym, w szczególności w dziedzinach obronności i bezpieczeństwa.
 
 #### Oddział 2 — Odwołanie
 
@@ -4030,8 +4063,8 @@
 
 **Art. 514.**
 1. Odwołanie wnosi się do Prezesa Izby.
-2. Odwołujący przekazuje kopię odwołania zamawiającemu przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.
-3. Domniemywa się, że zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.
+2. Odwołujący przekazuje zamawiającemu odwołanie wniesione w formie elektronicznej albo postaci elektronicznej albo kopię tego odwołania, jeżeli zostało ono wniesione w formie pisemnej, przed upływem terminu do wniesienia odwołania w taki sposób, aby mógł on zapoznać się z jego treścią przed upływem tego terminu.
+3. Domniemywa się, że zamawiający mógł zapoznać się z treścią odwołania przed upływem terminu do jego wniesienia, jeżeli przekazanie odpowiednio odwołania albo jego kopii nastąpiło przed upływem terminu do jego wniesienia przy użyciu środków komunikacji elektronicznej.
 
 **Art. 515.**
 1. Odwołanie wnosi się:
@@ -4064,7 +4097,7 @@
   4) numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku - numer w innym właściwym rejestrze, ewidencji lub NIP odwołującego niebędącego osobą fizyczną, który nie ma obowiązku wpisu we właściwym rejestrze lub ewidencji, jeżeli jest on obowiązany do jego posiadania;
   5) określenie przedmiotu zamówienia;
   6) wskazanie numeru ogłoszenia w przypadku zamieszczenia w Biuletynie Zamówień Publicznych albo publikacji w Dzienniku Urzędowym Unii Europejskiej;
-  7) wskazanie czynności lub zaniechania czynności zamawiającego, której zarzuca się niezgodność z przepisami ustawy;
+  7) wskazanie czynności lub zaniechania czynności zamawiającego, której zarzuca się niezgodność z przepisami ustawy, lub wskazanie zaniechania przeprowadzenia postępowania o udzielenie zamówienia lub zorganizowania konkursu na podstawie ustawy;
   8) zwięzłe przedstawienie zarzutów;
   9) żądanie co do sposobu rozstrzygnięcia odwołania;
   10) wskazanie okoliczności faktycznych i prawnych uzasadniających wniesienie odwołania oraz dowodów na poparcie przytoczonych okoliczności;
@@ -4072,7 +4105,7 @@
   12) wykaz załączników.
 2. Do odwołania dołącza się:
   1) dowód uiszczenia wpisu od odwołania w wymaganej wysokości;
-  2) dowód przesłania kopii odwołania zamawiającemu;
+  2) dowód przekazania odpowiednio odwołania albo jego kopii zamawiającemu;
   3) dokument potwierdzający umocowanie do reprezentowania odwołującego.
 
 **Art. 517.**
@@ -4082,15 +4115,15 @@
 2. Wpis uiszcza się najpóźniej do dnia upływu terminu do wniesienia odwołania.
 
 **Art. 518.**
-1. Jeżeli odwołanie nie może otrzymać prawidłowego biegu wskutek niezachowania warunków formalnych, braku pełnomocnictwa lub braku dowodu uiszczenia wpisu w terminie, o którym mowa w art. 517 ust. 2, Prezes Izby wzywa odwołującego, pod rygorem zwrócenia odwołania, do poprawienia lub uzupełnienia odwołania lub złożenia dowodu uiszczenia wpisu, w terminie 3 dni od dnia doręczenia wezwania.
+1. Jeżeli odwołanie nie może otrzymać prawidłowego biegu wskutek niezachowania warunków formalnych, braku pełnomocnictwa lub braku dowodu uiszczenia wpisu w terminie, o którym mowa w art. 517 ust. 2, Prezes Izby wzywa odwołującego, pod rygorem zwrócenia odwołania, do poprawienia lub uzupełnienia odwołania lub złożenia dowodu uiszczenia wpisu lub dokumentu potwierdzającego umocowanie do reprezentowania odwołującego, w terminie 3 dni od dnia doręczenia wezwania.
 2. Nieprawidłowe oznaczenie odwołania lub inne oczywiste niedokładności nie stanowią przeszkody do nadania mu biegu i rozpoznania przez Izbę.
-3. Prezes Izby poucza w wezwaniu, o którym mowa w ust. 1, że w przypadku niepoprawienia, nieuzupełnienia lub niedołączenia dowodu uiszczenia wpisu w terminie 3 dni, odwołanie zostanie zwrócone.
+3. Prezes Izby poucza w wezwaniu, o którym mowa w ust. 1, że w przypadku niepoprawienia, nieuzupełnienia lub niedołączenia dowodu uiszczenia wpisu lub dokumentu potwierdzającego umocowanie do reprezentowania odwołującego w terminie 3 dni, odwołanie zostanie zwrócone.
 4. W przypadku doręczenia odwołującemu wezwania, o którym mowa w ust. 1, wcześniej niż na 3 dni przed upływem terminu do wniesienia odwołania, odwołujący może uzupełnić dowód uiszczenia wpisu najpóźniej do upływu terminu do wniesienia odwołania.
 
 **Art. 519.**
 1. W przypadku nieuiszczenia wpisu w terminie, o którym mowa w art. 517 ust. 2, oraz po bezskutecznym upływie terminu, o którym mowa w art. 518 ust. 1, Prezes Izby zwraca odwołanie w formie postanowienia.
 2. Odwołanie zwrócone nie wywołuje skutków, jakie ustawa wiąże z wniesieniem odwołania do Prezesa Izby.
-3. O zwrocie odwołania Prezes Izby informuje zamawiającego, przesyłając odpis postanowienia.
+3. O zwrocie odwołania Prezes Izby informuje zamawiającego, przesyłając odpis postanowienia wraz z uzasadnieniem. Przepis art. 559 ust. 2 stosuje się odpowiednio.
 4. Przepisy ust. 1-3 stosuje się w przypadku niezachowania warunków formalnych odwołania lub braku pełnomocnictwa, stwierdzonych przez skład orzekający. Kompetencje Prezesa Izby przysługują składowi orzekającemu.
 
 **Art. 520.**
@@ -4139,12 +4172,12 @@
 2) odwołanie zostało wniesione przez podmiot nieuprawniony;
 3) odwołanie zostało wniesione po upływie terminu określonego w ustawie;
 4) odwołujący powołuje się wyłącznie na te same okoliczności, które były przedmiotem rozstrzygnięcia przez Izbę w sprawie innego odwołania, dotyczącego tego samego postępowania wniesionego przez tego samego odwołującego;
-5) odwołanie dotyczy czynności, którą zamawiający wykonał zgodnie z treścią wyroku Izby lub sądu lub, w przypadku uwzględnienia zarzutów w odwołaniu, którą wykonał zgodnie z żądaniem zawartym w odwołaniu;
-6) odwołujący nie przesłał zamawiającemu kopii odwołania, zgodnie z art. 514 ust. 2.
+5) odwołanie dotyczy czynności, którą zamawiający wykonał zgodnie z treścią wyroku Izby lub sądu lub, w przypadku uwzględnienia zarzutów przedstawionych w odwołaniu, którą wykonał zgodnie z żądaniem zawartym w odwołaniu;
+6) odwołujący nie przekazał zamawiającemu odpowiednio odwołania albo jego kopii, zgodnie z art. 514 ust. 2.
 
 **Art. 529.**
 1. Izba może odrzucić odwołanie na posiedzeniu niejawnym.
-2. Izba, jeżeli uzna to za konieczne, może dopuścić do udziału w posiedzeniu strony, świadków lub biegłych.
+2. Izba, jeżeli uzna to za konieczne, może dopuścić do udziału w posiedzeniu strony, uczestników postępowania odwoławczego, świadków lub biegłych.
 
 **Art. 530.** W przypadku stwierdzenia, że nie zachodzą podstawy do odrzucenia odwołania, Izba kieruje sprawę na rozprawę.
 
@@ -4172,20 +4205,31 @@
 1) wykonawcy, który ją złożył, jeżeli jest stroną albo uczestnikiem postępowania odwoławczego;
 2) zamawiającym, jeżeli wykonawca, który złożył ofertę, nie jest uczestnikiem postępowania odwoławczego.
 
-**Art. 538.** Dowodami są w szczególności dokumenty, zeznania świadków, opinie biegłych oraz przesłuchanie stron.
+**Art. 538.**
+1. Dowodami są w szczególności dokumenty, zeznania świadków, opinie biegłych oraz przesłuchanie stron.
+2. W postanowieniu o dopuszczeniu dowodu skład orzekający oznaczy środek dowodowy i fakty, które mają nim zostać wykazane.
+3. Skład orzekający dopuszcza dowody na rozprawie. Postanowienie o dopuszczeniu dowodu może być wydane również na posiedzeniu niejawnym.
+4. Skład orzekający nie jest związany swym postanowieniem dowodowym i może je stosownie do okoliczności uchylić lub zmienić.
 
 **Art. 539.**
-1. Izba może powołać biegłego spośród osób wpisanych na listę biegłych sądowych albo spoza tej listy, jeżeli ustalenie stanu faktycznego sprawy wymaga wiadomości specjalnych. Biegłemu przysługuje wynagrodzenie w wysokości ustalonej zgodnie z przepisami tytułu III działu 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2019 r. poz. 785, z późn. zm.).
-2. Dopuszczając dowód z opinii biegłego, skład orzekający powołuje biegłego i określa przedmiot opinii oraz odracza rozprawę do czasu sporządzenia przez biegłego pisemnej opinii.
+1. Dopuszczając dowód z opinii biegłego, skład orzekający, w postanowieniu, określa przedmiot opinii i dziedzinę, z której biegły jest powoływany, a także wskazuje dokumentację niezbędną do sporządzenia opinii.
+2. Izba może powołać biegłego spośród osób wpisanych na listę biegłych sądowych albo spoza tej listy, jeżeli ustalenie stanu faktycznego sprawy wymaga wiadomości specjalnych. Biegłemu przysługuje wynagrodzenie oraz zwrot poniesionych wydatków, w wysokości ustalonej zgodnie z przepisami tytułu III działu 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2020 r. poz. 755, 807, 956 i 2186). Przepisy o biegłych dotyczące wynagrodzenia oraz zwrotu wydatków stosuje się odpowiednio do tłumaczy.
 3. W przypadku postępowania odwoławczego, którego dokumentacja zawiera informacje niejawne, skład orzekający powołuje biegłego, który posiada dostęp do informacji niejawnych.
-4. W przypadku dopuszczenia przez skład orzekający na rozprawie dowodu z opinii biegłego, w protokole zawiera się postanowienie w przedmiocie dopuszczenia dowodu z opinii biegłego, w którym określa się przedmiot opinii i dziedzinę, z której biegły ma zostać powołany, a także wskazuje się dokumentację niezbędną do sporządzenia opinii.
-5. Skład orzekający na posiedzeniu niejawnym bez udziału stron wydaje postanowienie, w którym wskazuje imię i nazwisko biegłego powołanego do wydania opinii.
-6. Prezes Izby, w drodze zarządzenia, określa termin sporządzenia opinii oraz wykonuje czynności organizacyjne wynikające z powołania biegłego, w szczególności przekazuje biegłemu, potwierdzoną za zgodność z oryginałem, kopię postanowienia o powołaniu biegłego oraz kopię dokumentacji postępowania o udzielenie zamówienia lub dokumentację postępowania w postaci elektronicznej, niezbędne do sporządzenia opinii, wraz z potwierdzoną za zgodność z oryginałem kopią protokołu z rozprawy, w toku której zapadło postanowienie o dopuszczeniu dowodu z opinii biegłego.
-7. Po sporządzeniu opinii przez biegłego skład orzekający, w uzgodnieniu z Prezesem Izby, wyznacza termin odroczonej rozprawy i zawiadamia o nim strony oraz uczestników postępowania odwoławczego. Skład orzekający może zażądać od biegłego, podczas rozprawy, ustnej opinii uzupełniającej składanej do protokołu.
-8. Prezes Izby, przed wyznaczeniem terminu odroczonej rozprawy, przesyła stronom oraz uczestnikom postępowania odwoławczego potwierdzoną za zgodność z oryginałem kopię opinii biegłego.
-9. Izba może zażądać opinii odpowiedniego podmiotu, o którym mowa w art. 7 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce. W opinii należy wskazać osoby, które przeprowadziły badanie i wydały opinię. Przepisy ust. 2-8 stosuje się odpowiednio.
+4. Prezes Izby, w drodze zarządzenia, określa termin sporządzenia opinii oraz wykonuje czynności organizacyjne wynikające z dopuszczenia dowodu z opinii biegłego, w szczególności przekazuje biegłemu potwierdzoną za zgodność z oryginałem kopię postanowienia o dopuszczeniu dowodu z opinii biegłego oraz dokumentację postępowania o udzielenie zamówienia w postaci elektronicznej albo kopię tej dokumentacji potwierdzoną za zgodność z oryginałem, w przypadku gdy zamawiający odstąpił od wymagania użycia środków komunikacji elektronicznej, niezbędne do sporządzenia opinii, wraz z, potwierdzoną za zgodność z oryginałem, kopią pisma złożonego w postępowaniu odwoławczym, w którym zawarto wniosek o dopuszczenie tego dowodu, lub kopią protokołu z rozprawy sporządzonego pisemnie, jeżeli wniosek o dopuszczenie dowodu z opinii biegłego został złożony lub dopuszczono go na rozprawie.
+5. W przypadku złożenia wniosku o dopuszczenie dowodu z opinii biegłego lub dopuszczenia go na rozprawie, jeżeli rozprawa została odroczona w celu przeprowadzenia tego dowodu, skład orzekający, w uzgodnieniu z Prezesem Izby, wyznacza termin odroczonej rozprawy po sporządzeniu opinii biegłego i zawiadamia o nim strony oraz uczestników postępowania odwoławczego. Skład orzekający może zażądać od biegłego złożenia opinii uzupełniającej na piśmie lub ustnie do protokołu. W przypadku złożenia opinii uzupełniającej na piśmie, zdanie pierwsze stosuje się odpowiednio.
+6. Prezes Izby przesyła stronom oraz uczestnikom postępowania odwoławczego potwierdzoną za zgodność z oryginałem kopię opinii biegłego lub kopię opinii uzupełniającej przed wyznaczeniem terminu odroczonej rozprawy. Jeżeli dowód z opinii biegłego został dopuszczony na posiedzeniu niejawnym przed wyznaczeniem terminu rozprawy zgodnie z art. 544 ust. 3, Prezes Izby przesyła stronom oraz uczestnikom postępowania odwoławczego, przed wyznaczeniem tego terminu, potwierdzoną za zgodność z oryginałem, kopię postanowienia o dopuszczeniu tego dowodu oraz kopię opinii biegłego, o ile sporządzenie opinii w tym terminie było możliwe.
+7. Strona lub uczestnik postępowania odwoławczego, aż do ukończenia czynności biegłego, może żądać jego wyłączenia z przyczyn, z jakich można żądać wyłączenia członka składu orzekającego. W przypadku wniosku o wyłączenie biegłego po rozpoczęciu przez niego czynności, odpowiednio strona lub uczestnik są obowiązani uprawdopodobnić, że przyczyna wyłączenia powstała później lub że przedtem nie była im znana. O wyłączeniu biegłego rozstrzyga skład orzekający po wysłuchaniu odpowiednio strony lub uczestnika postępowania i biegłego, chyba że miałoby to doprowadzić do nadmiernej zwłoki w postępowaniu.
+8. Izba może zażądać opinii podmiotu, o którym mowa w art. 7 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce. W opinii należy wskazać osoby, które przeprowadziły badanie i wydały opinię. Przepisy ust. 1, ust. 2 zdanie drugie i ust. 3-7 stosuje się odpowiednio.
 
-**Art. 540.** W przypadku powołania dowodu z zeznań świadka przewodniczący składu orzekającego poucza świadka o odpowiedzialności karnej za składanie fałszywych zeznań.
+**Art. 540.**
+1. W przypadku powołania dowodu z zeznań świadka przewodniczący składu orzekającego poucza świadka o prawie odmowy zeznań oraz odpowiedzialności karnej za składanie fałszywych zeznań. Od świadka, który ma składać zeznania, odbiera się przyrzeczenie, po pouczeniu go o znaczeniu tego aktu.
+2. Świadkami nie mogą być:
+  1) osoby niezdolne do spostrzegania lub komunikowania swych spostrzeżeń;
+  2) wojskowi i urzędnicy niezwolnieni od zachowania w tajemnicy informacji niejawnych o klauzuli „zastrzeżone” lub „poufne” oraz osoby zobowiązane do zachowania tajemnicy Prokuratorii Generalnej Rzeczypospolitej Polskiej, jeżeli ich zeznanie miałoby być połączone z jej naruszeniem;
+  3) przedstawiciele ustawowi stron lub uczestników postępowania oraz osoby, które mogą być przesłuchane w charakterze strony lub uczestnika postępowania, jako organy osoby prawnej lub innej organizacji mającej legitymację do wniesienia odwołania.
+3. Nikt nie ma prawa odmówić zeznań w charakterze świadka, z wyjątkiem małżonków stron lub uczestników postępowania, ich wstępnych, zstępnych i rodzeństwa oraz powinowatych w tej samej linii lub stopniu, jak również osób pozostających ze stronami lub uczestnikami postępowania w stosunku przysposobienia. Prawo odmowy zeznań trwa po ustaniu małżeństwa lub rozwiązaniu stosunku przysposobienia.
+4. Świadek może odmówić odpowiedzi na zadane mu pytanie, jeżeli zeznanie mogłoby narazić jego lub osoby określone w ust. 3 na odpowiedzialność karną, dotkliwą i bezpośrednią szkodę majątkową albo jeżeli zeznanie miałoby być połączone z pogwałceniem istotnej tajemnicy zawodowej. Duchowny może odmówić zeznań co do faktów powierzonych mu na spowiedzi.
+5. Świadek ma prawo żądać zwrotu wydatków koniecznych, związanych ze stawiennictwem na rozprawę lub posiedzenie niejawne, a ponadto wynagrodzenia za utratę zarobku, w wysokości ustalonej zgodnie z przepisami tytułu III działu 2 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych.
 
 **Art. 541.** Izba odmawia przeprowadzenia wnioskowanych dowodów, jeżeli fakty będące ich przedmiotem zostały już stwierdzone innymi dowodami lub gdy zostały powołane jedynie dla zwłoki.
 
@@ -4199,13 +4243,13 @@
 
 **Art. 544.**
 1. Izba rozpoznaje odwołanie w terminie 15 dni od dnia jego doręczenia Prezesowi Izby.
-2. Prezes Izby może zarządzić łączne rozpoznanie odwołań przez Izbę, jeżeli zostały one złożone w tym samym postępowaniu o udzielenie zamówienia lub dotyczą takich samych czynności i zaniechań czynności zamawiającego.
+2. Prezes Izby może zarządzić łączne rozpoznanie odwołań przez Izbę, jeżeli zostały one złożone w tym samym postępowaniu o udzielenie zamówienia lub dotyczą takich samych czynności lub zaniechań czynności zamawiającego.
 3. Termin rozprawy wyznacza Prezes Izby.
 4. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy tryb postępowania przy rozpoznawaniu odwołań, szczegółowy sposób wnoszenia odwołania i innych pism w postępowaniu odwoławczym, tryb postępowania z wniesionym odwołaniem, oraz sposób przygotowania rozprawy, mając na względzie potrzebę zapewnienia sprawnej organizacji rozprawy, szybkiego przebiegu postępowania odwoławczego oraz jawności rozprawy.
 
 **Art. 545.**
 1. Izba rozpoznaje odwołanie na jawnej rozprawie, chyba że ustawa stanowi inaczej.
-2. Izba, na wniosek strony lub z urzędu, wyłącza jawność rozprawy w całości lub w części, jeżeli przy rozpoznawaniu odwołania może być ujawniona informacja stanowiąca tajemnicę chronioną na podstawie odrębnych przepisów, inna niż informacja niejawna. Rozprawa odbywa się wówczas wyłącznie z udziałem stron i uczestników postępowania odwoławczego lub ich pełnomocników.
+2. Izba, na wniosek lub z urzędu, wyłącza jawność rozprawy w całości lub w części, jeżeli przy rozpoznawaniu odwołania może być ujawniona informacja stanowiąca tajemnicę chronioną na podstawie odrębnych przepisów, inna niż informacja niejawna. Rozprawa odbywa się wówczas wyłącznie z udziałem stron i uczestników postępowania odwoławczego lub ich pełnomocników.
 3. Izba, na wniosek lub z urzędu, może w niezbędnym zakresie ograniczyć stronom i uczestnikom postępowania odwoławczego prawo wglądu do materiału dowodowego załączonego do akt sprawy, jeżeli udostępnienie tego materiału groziłoby ujawnieniem informacji stanowiącej tajemnicę chronioną na podstawie odrębnych przepisów, inną niż informacja niejawna.
 
 **Art. 546.**
@@ -4219,13 +4263,13 @@
 **Art. 548.** W rozprawie strona oraz uczestnik postępowania odwoławczego, którzy nie władają językiem polskim, biorą udział przy udziale tłumacza.
 
 **Art. 549.**
-1. Rozprawę prowadzi przewodniczący składu orzekającego, w szczególności otwiera rozprawę, zarządza przerwy w rozprawie, udziela głosu stronom oraz uczestnikom postępowania odwoławczego, zadaje pytania, umożliwia zadawanie pytań członkom składu orzekającego, podaje brzmienie zapisów do protokołu oraz zamyka rozprawę i ogłasza orzeczenie.
+1. Rozprawę prowadzi przewodniczący składu orzekającego, w szczególności otwiera rozprawę, zarządza przerwy w rozprawie, udziela głosu stronom oraz uczestnikom postępowania odwoławczego, zadaje pytania, umożliwia członkom składu orzekającego zadawanie pytań, podaje brzmienie zapisów do protokołu oraz zamyka rozprawę i ogłasza orzeczenie.
 2. Po otwarciu rozprawy przewodniczący składu orzekającego sprawdza, czy strony oraz uczestnicy postępowania odwoławczego zostali prawidłowo zawiadomieni o terminie rozprawy oraz czy osoby reprezentujące strony oraz uczestników są uprawnione do występowania w ich imieniu.
 3. W przypadku niestawiennictwa strony lub uczestnika postępowania odwoławczego na rozprawie i braku dowodu skutecznego doręczenia zawiadomienia o terminie rozprawy, przewodniczący składu orzekającego odracza rozprawę i wyznacza, w uzgodnieniu z Prezesem Izby, nowy termin rozprawy.
 4. Niestawiennictwo strony lub uczestnika postępowania odwoławczego prawidłowo zawiadomionego o terminie rozprawy nie wstrzymuje rozpoznania odwołania.
 
 **Art. 550.**
-1. Skład orzekający może odroczyć rozprawę w celu przeprowadzenia dowodu, którego nie można było przeprowadzić w wyznaczonym terminie, albo z innych ważnych przyczyn i wyznacza nowy termin rozprawy.
+1. Skład orzekający może odroczyć rozprawę w celu przeprowadzenia dowodu, którego nie można było przeprowadzić w wyznaczonym terminie albo z innych ważnych przyczyn, i wyznacza, w uzgodnieniu z Prezesem Izby, nowy termin rozprawy, z uwzględnieniem art. 539 ust. 5.
 2. W przypadku, o którym mowa w ust. 1, przewodniczący składu orzekającego poucza strony oraz uczestników postępowania odwoławczego o obowiązku stawienia się w nowym terminie bez osobnego zawiadomienia. Nieobecne na rozprawie strony oraz nieobecnych uczestników postępowania odwoławczego zawiadamia się o nowym terminie.
 
 **Art. 551.**
@@ -4272,7 +4316,7 @@
 
 **Art. 559.**
 1. Izba z urzędu sporządza uzasadnienie orzeczenia w terminie 7 dni od dnia ogłoszenia orzeczenia.
-2. Uzasadnienie wyroku zawiera wskazanie podstawy faktycznej rozstrzygnięcia, w tym ustalenie faktów, które Izba uznała za udowodnione, dowodów, na których się oparła, i przyczyn, dla których innym dowodom odmówiła wiarygodności i mocy dowodowej, oraz wskazanie podstawy prawnej wyroku z przytoczeniem przepisów prawa.
+2. Uzasadnienie orzeczenia zawiera wskazanie podstawy faktycznej rozstrzygnięcia, w tym ustalenie faktów, które Izba uznała za udowodnione, dowodów, na których się oparła, i przyczyn, dla których innym dowodom odmówiła wiarygodności i mocy dowodowej, oraz wskazanie podstawy prawnej orzeczenia z przytoczeniem przepisów prawa.
 
 **Art. 560.** Odpisy orzeczenia wraz z uzasadnieniem doręcza się stronom oraz uczestnikom postępowania odwoławczego lub ich pełnomocnikom niezwłocznie po sporządzeniu uzasadnienia.
 
@@ -4317,13 +4361,14 @@
 **Art. 570.**
 1. Protokół sporządza się, utrwalając przebieg posiedzenia za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk oraz pisemnie, pod kierunkiem przewodniczącego składu orzekającego.
 2. Jeżeli ze względów technicznych utrwalenie przebiegu posiedzenia za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk nie jest możliwe, protokół jest sporządzany wyłącznie pisemnie, pod kierunkiem przewodniczącego składu orzekającego.
+3. Do utrwalania przebiegu posiedzenia za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk stosuje się odpowiednio przepisy wydane na podstawie art. 158 § 5 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.
 
 **Art. 571.**
 1. Protokół sporządzony pisemnie zawiera:
   1) oznaczenie miejsca i daty posiedzenia, imiona i nazwiska członków składu orzekającego, protokolanta, stron i uczestników postępowania odwoławczego, jak również obecnych na posiedzeniu przedstawicieli ustawowych i pełnomocników oraz oznaczenie sprawy i wzmiankę co do jawności;
   2) przebieg posiedzenia, w szczególności wnioski i twierdzenia stron i uczestników postępowania odwoławczego, wymienienie zarządzeń i orzeczeń wydanych na posiedzeniu oraz stwierdzenie, czy zostały ogłoszone;
   3) czynności stron i uczestników postępowania odwoławczego mające znaczenie dla rozstrzygnięcia sprawy.
-2. Jeżeli przebiegu posiedzenia jawnego nie utrwala się za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk, protokół sporządzony pisemnie zawiera, oprócz danych i okoliczności wskazanych w ust. 1, wnioski oraz twierdzenia stron i uczestników postępowania odwoławczego oraz inne okoliczności istotne dla przebiegu posiedzenia.
+2. Jeżeli przebiegu posiedzenia jawnego nie utrwala się za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk, protokół sporządzony pisemnie zawiera, oprócz danych i okoliczności wskazanych w ust. 1, wyniki postępowania dowodowego oraz inne okoliczności istotne dla przebiegu posiedzenia.
 3. Protokół sporządzony za pomocą urządzenia rejestrującego dźwięk albo obraz i dźwięk protokolant podpisuje podpisem elektronicznym gwarantującym identyfikację osoby protokolanta oraz rozpoznawalność jakiejkolwiek późniejszej zmiany protokołu.
 4. Protokół sporządzony pisemnie podpisują przewodniczący składu orzekającego i protokolant.
 
@@ -4332,18 +4377,19 @@
 2. O sprostowaniu protokołu decyduje przewodniczący składu orzekającego.
 3. Dokonując sprostowania, czyni się o tym wzmiankę w protokole.
 4. O odmowie sprostowania protokołu skład orzekający rozstrzyga postanowieniem, na które nie przysługuje skarga do sądu.
+5. Zapis dźwięku albo obrazu i dźwięku nie podlega sprostowaniu.
 
 #### Oddział 11 — Koszty postępowania odwoławczego
 
 **Art. 573.** Do czasu zamknięcia rozprawy strona, uczestnik postępowania odwoławczego wnoszący sprzeciw lub ich pełnomocnicy mogą złożyć wniosek dotyczący kosztów postępowania odwoławczego.
 
-**Art. 574.** Do kosztów postępowania odwoławczego zalicza się wpis i uzasadnione koszty stron postępowania odwoławczego.
+**Art. 574.** Do kosztów postępowania odwoławczego zalicza się wpis i uzasadnione koszty stron i uczestników postępowania odwoławczego wnoszących sprzeciw.
 
 **Art. 575.** Strony oraz uczestnik postępowania odwoławczego wnoszący sprzeciw ponoszą koszty postępowania odwoławczego stosownie do jego wyniku.
 
 **Art. 576.** Prezes Rady Ministrów określi, w drodze rozporządzenia:
-1) wysokość i sposób pobierania wpisu od odwołania, mając na względzie zróżnicowaną wysokość wpisu zależną od wartości i rodzaju zamówienia, a także to że wpis nie może być wyższy niż 20 000 złotych, oraz biorąc pod uwagę dostępne formy jego uiszczenia;
-2) szczegółowe rodzaje kosztów postępowania odwoławczego, objętych wpisem oraz uzasadnionymi kosztami stron, a także sposób i tryb ich rozliczania, mając na uwadze zróżnicowaną wysokość wpisu, zależną od wartości i rodzaju zamówienia, a także zasadność zwrotu stronie kosztów koniecznych do celowego dochodzenia praw lub do celowej obrony oraz treść orzeczenia wydanego przez Izbę.
+1) wysokość i sposób pobierania wpisu od odwołania, mając na względzie zróżnicowaną wysokość wpisu zależną od wartości i rodzaju zamówienia, a także to, że wpis nie może być wyższy niż 20 000 złotych, oraz biorąc pod uwagę dostępne formy jego uiszczenia;
+2) szczegółowe rodzaje kosztów postępowania odwoławczego oraz limit kosztów poniesionych na wynagrodzenie oraz wydatki pełnomocnika, a także szczegółowe warunki ponoszenia kosztów oraz sposób ich rozliczania przez Izbę, mając na uwadze zasadność zwrotu stronie oraz uczestnikowi postępowania odwoławczego wnoszącemu sprzeciw kosztów koniecznych do celowego dochodzenia praw lub do celowej obrony, a także to, że limit kosztów ponoszonych na wynagrodzenie oraz wydatki może dotyczyć wyłącznie jednego pełnomocnika oraz nie może być wyższy niż minimalne stawki opłat określone dla wartości przedmiotu sprawy do 50 000 złotych, na podstawie przepisów o wynagrodzeniu adwokata lub radcy prawnego, oraz kierując się treścią orzeczenia wydanego przez Izbę.
 
 #### Oddział 12 — Zakaz zawarcia umowy
 
@@ -4441,7 +4487,7 @@
   1) Prezesa Urzędu,
   2) organy, o których mowa w art. 6 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej, z wyłączeniem Prezesa Rady Ministrów,
   3) regionalne izby obrachunkowe,
-  4) instytucję audytową oraz instytucje zarządzające w rozumieniu przepisów dotyczących realizacji programów w zakresie polityki spójności
+  4) instytucję audytową oraz instytucję zarządzającą w rozumieniu przepisów dotyczących realizacji programów w zakresie polityki spójności oraz programów realizowanych z wykorzystaniem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz funduszy wspierających sektory morski lub rybacki
 - prowadzące kontrole w zakresie udzielania zamówień publicznych.
 3. W przypadku sprzeczności między przepisami niniejszego rozdziału a przepisami odrębnymi, o których mowa w ust. 1, stosuje się przepisy niniejszego rozdziału.
 
@@ -4451,6 +4497,7 @@
   1) zwraca się z wnioskiem o udostępnienie informacji o jej wyniku, w tym dokumentu kończącego kontrolę, do organu, który tę kontrolę przeprowadził, chyba że uzyskał tę informację w inny sposób;
   2) uwzględnia wyniki przeprowadzonej wcześniej kontroli innego organu kontroli.
 3. Organ kontroli udostępnia informację, o której mowa w ust. 2, niezwłocznie, nie później jednak niż w terminie 30 dni od dnia otrzymania wniosku o jej udostępnienie.
+4. Zamawiający niezwłocznie po wszczęciu kontroli informuje organ kontroli o przeprowadzonej wcześniej kontroli danego zamówienia przez inny organ kontroli i udostępnia jej wyniki.
 
 **Art. 598.**
 1. Organy kontroli planują i przeprowadzają kontrolę po uprzednim dokonaniu analizy prawdopodobieństwa naruszenia prawa w ramach udzielania zamówienia.
@@ -4478,10 +4525,8 @@
 #### Oddział 1 — Przepisy ogólne
 
 **Art. 603.**
-1. Prezes Urzędu przeprowadza kontrolę.
-2. Celem kontroli jest sprawdzenie zgodności z przepisami ustawy:
-  1) postępowania o udzielenie zamówienia;
-  2) dokonywania zmiany umowy.
+1. Prezes Urzędu przeprowadza kontrolę w zakresie zgodności z przepisami ustawy działań lub zaniechań zamawiającego.
+2. Przepisy niniejszego rozdziału stosuje się do kontroli postępowania o udzielenie zamówienia, zawarcia lub zmiany umowy. Przepisy niniejszego rozdziału stosuje się odpowiednio do kontroli postępowania o zawarcie umowy ramowej, dynamicznego systemu zakupów, systemu kwalifikowania wykonawców lub konkursu oraz zawarcia lub zmiany umowy ramowej.
 3. Kontrolę przeprowadza się w siedzibie Urzędu, z tym że kontrolę dotyczącą dokumentów zawierających informację niejawną, której nadano klauzulę „tajne” albo „ściśle tajne”, można przeprowadzić w siedzibie zamawiającego.
 4. W przypadku braku podstaw do wszczęcia kontroli, Prezes Urzędu informuje wnioskodawcę o odmowie wszczęcia kontroli.
 
@@ -4515,21 +4560,21 @@
 #### Oddział 2 — Kontrola doraźna
 
 **Art. 607.**
-1. Prezes Urzędu może wszcząć, z urzędu lub na wniosek, kontrolę doraźną w przypadku uzasadnionego przypuszczenia, że w postępowaniu o udzielenie zamówienia lub w konkursie doszło do naruszenia przepisów ustawy, które mogło mieć wpływ na jego wynik.
-2. Kontrola doraźna wszczęta na wniosek prowadzona jest wyłącznie w zakresie zarzutów wynikających z informacji zawartych we wniosku o wszczęcie kontroli. W przypadku ujawnienia innych naruszeń ustawy mogących mieć wpływ na wynik postępowania, niewskazanych we wniosku o wszczęcie kontroli, Prezes Urzędu może rozszerzyć zakres kontroli z urzędu. Wówczas mają zastosowanie przepisy o kontroli prowadzonej z urzędu.
-3. Do kontroli doraźnej wszczętej na wniosek, o którym mowa w ust. 2 zdanie pierwsze i ust. 6, przepisów art. 613-617 nie stosuje się.
+1. Prezes Urzędu może wszcząć, z urzędu lub na wniosek, kontrolę doraźną w przypadku uzasadnionego przypuszczenia, że doszło do naruszenia przepisów ustawy, które mogło mieć wpływ na wynik postępowania lub konkursu albo zawarto lub zmieniono umowę lub umowę ramową z naruszeniem przepisów ustawy.
+2. Kontrola doraźna wszczęta na wniosek prowadzona jest wyłącznie w zakresie zarzutów wynikających z informacji zawartych we wniosku o wszczęcie kontroli. W przypadku ujawnienia, że doszło do innego naruszenia przepisów ustawy niewskazanego we wniosku o wszczęcie kontroli, które mogło mieć wpływ na wynik postępowania lub konkursu albo zawarcia lub zmiany umowy lub umowy ramowej z naruszeniem przepisów ustawy, Prezes Urzędu może rozszerzyć zakres kontroli z urzędu.
+3. (uchylony)
 4. Wszczęcie kontroli doraźnej może nastąpić nie później niż w terminie 4 lat od dnia udzielenia zamówienia lub unieważnienia postępowania o udzielenie zamówienia. W przypadku wszczęcia tej kontroli przed zawarciem umowy mają zastosowanie przepisy art. 613 ust. 4, art. 615 ust. 2 oraz art. 616 ust. 1, 3 i 5.
-5. Prezes Urzędu informuje wnioskodawcę oraz zamawiającego o wszczęciu kontroli doraźnej albo o odmowie jej wszczęcia w przypadku, o którym mowa w art. 603 ust. 4.
+5. Prezes Urzędu informuje zamawiającego, a w przypadku kontroli wszczynanej na wniosek, wnioskodawcę oraz zamawiającego, o wszczęciu kontroli doraźnej.
 6. Prezes Urzędu wszczyna kontrolę doraźną na wniosek instytucji zarządzającej, o której mowa w ustawie z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2019 r. poz. 1465), ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2019 r. poz. 1295), ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 (Dz. U. z 2018 r. poz. 1431 i 1544 oraz z 2019 r. poz. 60, 730 i 1572), ustawie z dnia 7 marca 2007 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2007-2013 (Dz. U. z 2018 r. poz. 1936 oraz z 2019 r. poz. 1824), ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 (Dz. U. z 2018 r. poz. 627 oraz z 2019 r. poz. 83, 504 i 1824) lub w ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2019 r. poz. 1507, 1622, 1690 i 1818), zwanej dalej „instytucją zarządzającą”, lub na wniosek agencji płatniczej, o której mowa w ustawie z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020, jeżeli z uzasadnienia wniosku instytucji zarządzającej lub agencji płatniczej wynika, że zachodzi uzasadnione przypuszczenie, że w postępowaniu o udzielenie zamówienia doszło do naruszenia przepisów ustawy.
 
 **Art. 608.**
-1. Postępowanie wyjaśniające stanowi wstępny etap kontroli doraźnej i ma na celu ustalenie, czy zachodzi uzasadnione przypuszczenie, że w postępowaniu o udzielenie zamówienia lub konkursie doszło do naruszenia przepisów ustawy, które mogło mieć wpływ na jego wynik.
-2. W przypadku niepotwierdzenia uzasadnionego przypuszczenia, że w postępowaniu o udzielenie zamówienia doszło do naruszenia przepisów ustawy, które mogło mieć wpływ na jego wynik, postępowanie wyjaśniające kończy się informacją o braku podstaw do dalszego prowadzenia kontroli. Do postępowania wyjaśniającego przepisów art. 606, art. 609 ust. 1 pkt 2 oraz art. 610 nie stosuje się.
+1. Postępowanie wyjaśniające stanowi wstępny etap kontroli doraźnej i ma na celu ustalenie, czy zachodzi uzasadnione przypuszczenie, że doszło do naruszenia przepisów ustawy, które mogło mieć wpływ na wynik postępowania lub konkursu albo zawarto lub zmieniono umowę lub umowę ramową z naruszeniem przepisów ustawy.
+2. W przypadku niepotwierdzenia uzasadnionego przypuszczenia, o którym mowa w ust. 1, postępowanie wyjaśniające kończy się informacją o braku podstaw do dalszego prowadzenia kontroli. Do postępowania wyjaśniającego przepisów art. 606, art. 609 ust. 1 pkt 2 oraz art. 610 nie stosuje się.
 3. Postępowanie wyjaśniające musi zostać zakończone bez zbędnej zwłoki, nie później jednak niż w terminie 6 miesięcy od dnia wszczęcia kontroli doraźnej.
 
 **Art. 609.**
 1. Zakończenie kontroli doraźnej następuje po przeprowadzeniu:
-  1) postępowania wyjaśniającego, w sytuacji niepotwierdzenia uzasadnionego przypuszczenia, że w postępowaniu o udzielenie zamówienia lub konkursie doszło do naruszenia przepisów ustawy, które mogło mieć wpływ na jego wynik, poprzez przekazanie informacji o braku podstaw do dalszego prowadzenia kontroli;
+  1) postępowania wyjaśniającego, w sytuacji niepotwierdzenia uzasadnionego przypuszczenia, że w postępowaniu o udzielenie zamówienia lub konkursie doszło do naruszenia przepisów ustawy, które mogło mieć wpływ na jego wynik albo zawarto lub zmieniono umowę lub umowę ramową z naruszeniem przepisów ustawy, poprzez przekazanie do wnioskodawcy i zamawiającego informacji o braku podstaw do dalszego prowadzenia kontroli;
   2) postępowania kontrolnego, przez doręczenie zamawiającemu informacji o wyniku kontroli zawierającej w szczególności:
     a) określenie postępowania, które było przedmiotem kontroli,
     b) informację o stwierdzeniu naruszeń lub ich braku.
@@ -4551,8 +4596,8 @@
 #### Oddział 3 — Kontrola uprzednia
 
 **Art. 613.**
-1. Przepisy niniejszego rozdziału stosuje się do zamówień lub umów ramowych, w tym współfinansowanych ze środków Unii Europejskiej.
-2. Prezes Urzędu przeprowadza kontrolę udzielanych zamówień przed zawarciem umowy (kontrola uprzednia) współfinansowanych ze środków Unii Europejskiej, jeżeli wartość zamówienia albo umowy ramowej dla:
+1. Przepisy niniejszego rozdziału stosuje się do zamówień, w tym współfinansowanych ze środków Unii Europejskiej.
+2. Prezes Urzędu przeprowadza kontrolę udzielanych zamówień przed zawarciem umowy (kontrola uprzednia) współfinansowanych ze środków Unii Europejskiej, jeżeli wartość zamówienia dla:
   1) robót budowlanych - jest równa lub przekracza wyrażoną w złotych równowartość kwoty 20 000 000 euro;
   2) dostaw lub usług - jest równa lub przekracza wyrażoną w złotych równowartość kwoty 10 000 000 euro.
 3. W przypadku udzielania zamówień w częściach, kontroli, o której mowa w ust. 2, podlegają zamówienia, których wartość określona dla danej części jest równa lub przekracza wyrażoną w złotych równowartość kwoty 1 000 000 euro.
@@ -4600,7 +4645,7 @@
   3) prowadzi postępowanie o udzielenie zamówienia z naruszeniem art. 18,
   4) nie przestrzega terminów określonych w ustawie,
   5) odrzuca ofertę, wniosek o dopuszczenie do udziału w postępowaniu lub wniosek o dopuszczenie do udziału w konkursie z naruszeniem przepisów ustawy określających przesłanki odrzucenia oferty lub tych wniosków,
-  6) dokonuje wyboru najkorzystniejszej oferty z naruszeniem przepisów ustawy w sposób inny niż określony w ust. 1 pkt 1 lub ust. 2 pkt 1-5
+  6) dokonuje wyboru najkorzystniejszej oferty z naruszeniem przepisów ustawy w sposób inny niż określony w ust. 1 pkt 1 lub pkt 1-5
 - jeżeli naruszenie to ma wpływ na wynik postępowania o udzielenie zamówienia.
 
 **Art. 620.**
