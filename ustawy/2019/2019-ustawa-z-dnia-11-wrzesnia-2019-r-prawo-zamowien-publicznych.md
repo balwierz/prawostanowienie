@@ -332,7 +332,7 @@
   2) kalkulacji kosztów w cyklu życia produktów;
   3) społecznej odpowiedzialności przedsiębiorców;
   4) upowszechniania dobrych praktyk i narzędzi zakupowych;
-  5) stosowania aspektów społecznych.
+  5) stosowania aspektów społecznych i zdrowotnych.
 2. W polityce zakupowej państwa, określając planowane działania administracji rządowej, uwzględnia się cele i kierunki określone w średniookresowej strategii rozwoju kraju.
 3. Politykę zakupową państwa opracowuje się raz na 4 lata.
 4. Politykę zakupową państwa przyjmuje Rada Ministrów, w drodze uchwały, na wniosek ministra właściwego do spraw gospodarki.
