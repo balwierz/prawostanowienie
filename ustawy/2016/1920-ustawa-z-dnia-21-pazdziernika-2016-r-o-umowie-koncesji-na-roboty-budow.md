@@ -11,8 +11,9 @@
 4) minimalnych wymaganiach - należy przez to rozumieć określone przez zamawiającego w dokumentach koncesji wymagania techniczne, fizyczne, funkcjonalne i prawne, którym ma odpowiadać oferta;
 5) obiekcie budowlanym - należy przez to rozumieć obiekt budowlany w rozumieniu art. 7 pkt 14 Prawa zamówień publicznych;
 6) postępowaniu o zawarcie umowy koncesji - należy przez to rozumieć postępowanie wszczynane w drodze publicznego ogłoszenia o koncesji, wstępnego ogłoszenia informacyjnego albo przekazania zaproszenia do ubiegania się o zawarcie umowy koncesji w celu dokonania wyboru wykonawcy, z którym zostanie zawarta umowa koncesji;
-7) robotach budowlanych - należy przez to rozumieć wykonanie albo zaprojektowanie i wykonanie robót budowlanych związanych z jednym z rodzajów działalności określonych w załączniku I do dyrektywy 2014/23/UE Parlamentu Europejskiego i Rady z dnia 26 lutego 2014 r. w sprawie udzielania koncesji (Dz. Urz. UE L 94 z 28.03.2014, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2014/23/UE”, lub obiektu budowlanego, lub realizację obiektu budowlanego, za pomocą dowolnych środków, zgodnie z wymaganiami określonymi przez zamawiającego;
-8) środkach komunikacji elektronicznej - należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2016 r. poz. 1030 i 1579)lub faks;
+6a) progu unijnym - należy przez to rozumieć kwotę wartości umów koncesji określoną w art. 8 ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2014/23/UE z dnia 26 lutego 2014 r. w sprawie udzielania koncesji (Dz. Urz. UE L 94 z 28.03.2014, str. 1, z późn. zm.), zwanej dalej „dyrektywą 2014/23/UE”, aktualizowaną w aktach wykonawczych Komisji Europejskiej wydawanych na podstawie art. 9 ust. 4 dyrektywy 2014/23/UE;
+7) robotach budowlanych - należy przez to rozumieć wykonanie albo zaprojektowanie i wykonanie robót budowlanych związanych z jednym z rodzajów działalności określonych w załączniku I do dyrektywy 2014/23/UE ”, lub obiektu budowlanego, lub realizację obiektu budowlanego, za pomocą dowolnych środków, zgodnie z wymaganiami określonymi przez zamawiającego;
+8) środkach komunikacji elektronicznej - należy przez to rozumieć środki komunikacji elektronicznej w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344);
 9) usługach - należy przez to rozumieć świadczenia, których przedmiotem nie są roboty budowlane lub dostawy w rozumieniu art. 7 pkt 4 Prawa zamówień publicznych;
 10) wykonawcy - należy przez to rozumieć osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej lub grupę takich podmiotów, które ubiegają się o zawarcie umowy koncesji lub złożyły ofertę;
 11) zamawiającym - należy przez to rozumieć:
@@ -37,9 +38,11 @@
 
 **Art. 5.**
 1. Przepisów ustawy nie stosuje się do zawierania umów koncesji:
-  1) w odniesieniu do których zamawiający mają obowiązek przeprowadzić postępowanie zgodnie z procedurami odmiennymi od przewidzianych w ustawie określonymi:
-    a) w umowie międzynarodowej zawartej między Rzecząpospolitą Polską a jednym lub wieloma państwami niebędącymi członkami Unii Europejskiej, dotyczącej realizacji lub prowadzenia przedsięwzięcia przez strony tej umowy,
-    b) przez organizację międzynarodową lub międzynarodową instytucję finansującą, jeżeli umowy koncesji są w całości finansowane przez tę organizację lub instytucję, a w przypadku umów koncesji współfinansowanych w ponad 50% przez tę organizację lub instytucję - jeżeli strony uzgodniły mającą zastosowanie procedurę zawierania umów koncesji inną niż przewidziana w ustawie;
+  1) w odniesieniu do których zamawiający ma obowiązek przeprowadzić postępowanie na podstawie innej niż określona ustawą procedury:
+    a) organizacji międzynarodowej,
+    b) wynikającej z porozumienia tworzącego zobowiązanie prawnomiędzynarodowe, jak umowa międzynarodowa zawarta między Rzecząpospolitą Polską a jednym lub wieloma państwami niebędącymi członkami Unii Europejskiej, w celu pozyskania dostaw, usług lub robót budowlanych na potrzeby zrealizowania lub prowadzenia wspólnego przedsięwzięcia;
+  1a) w całości finansowanych przez organizację międzynarodową lub międzynarodową instytucję finansującą, jeżeli zamawiający stosuje do zawierania tych umów koncesji inną niż określona ustawą procedurę organizacji międzynarodowej lub międzynarodowej instytucji finansującej;
+  1b) finansowanych w ponad 50% przez organizację międzynarodową lub międzynarodową instytucję finansującą, jeżeli uzgodniono z nimi zastosowanie do zawierania tych umów koncesji innej niż określona ustawą procedury organizacji międzynarodowej lub międzynarodowej instytucji finansującej;
   2) w dziedzinach obronności i bezpieczeństwa:
     a) podlegających szczególnej procedurze na podstawie umowy międzynarodowej lub porozumienia, zawartych między Rzecząpospolitą Polską a jednym lub wieloma państwami,
     b) podlegających szczególnej procedurze na podstawie umowy międzynarodowej lub porozumienia, zawartych między Rzecząpospolitą Polską a jednym lub wieloma państwami, związanych ze stacjonowaniem wojsk i dotyczących przedsiębiorców, niezależnie od ich siedziby lub miejsca zamieszkania,
@@ -63,15 +66,14 @@
       – świadczone przez pełnomocników lub inne usługi prawne, których koncesjonariusze są wyznaczani przez sąd lub trybunał danego państwa członkowskiego Unii Europejskiej lub wyznaczani z mocy prawa w celu wykonania konkretnych zadań pod nadzorem takich trybunałów lub sądów,
       – związane z wykonywaniem władzy publicznej,
     g) usługi finansowe związane z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2016 r. poz. 1636) oraz operacje przeprowadzane z Europejskim Instrumentem Stabilności Finansowej i Europejskim Mechanizmem Stabilności,
-    h) pożyczki lub kredyty, bez względu na to, czy wiążą się one z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych, z wyjątkiem kredytów zaciąganych przez jednostki samorządu terytorialnego w granicach upoważnień zawartych w uchwale budżetowej,
+    h) pożyczki lub kredyty, bez względu na to, czy wiążą się one z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych, z wyjątkiem kredytów zaciąganych przez jednostki samorządu terytorialnego w ramach limitów zobowiązań określonych w uchwale budżetowej,
     i) usługi w dziedzinie obrony cywilnej, ochrony ludności i zapobiegania niebezpieczeństwom, świadczone przez organizacje lub stowarzyszenia o charakterze niekomercyjnym i objęte kodami CPV: 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 oraz 85143000-3, określonymi w rozporządzeniu (WE) nr 2195/2002 Parlamentu Europejskiego i Rady z dnia 5 listopada 2002 r. w sprawie Wspólnego Słownika Zamówień (CPV) (Dz. Urz. WE L 340 z 16.12.2002, str. 1, z późn. zm.), zwanym dalej „Wspólnym Słownikiem Zamówień”, z wyjątkiem usług transportu sanitarnego pacjentów,
-    j) usługi transportu lotniczego świadczone w oparciu o koncesję udzieloną na podstawie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty (Dz. Urz. UE L 293 z 31.10.2008, str. 3);
+    j) usługi transportu lotniczego świadczone w oparciu o koncesję udzieloną na podstawie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1008/2008 z dnia 24 września 2008 r. w sprawie wspólnych zasad wykonywania przewozów lotniczych na terenie Wspólnoty (Dz. Urz. UE L 293 z 31.10.2008, str. 3),
+    k) usługi publiczne w zakresie transportu pasażerskiego w rozumieniu rozporządzenia (WE) nr 1370/2007 Parlamentu Europejskiego i Rady z dnia 23 października 2007 r. dotyczącego usług publicznych w zakresie kolejowego i drogowego transportu pasażerskiego oraz uchylającego rozporządzenia Rady (EWG) nr 1191/69 i (EWG) nr 1107/70 (Dz. Urz. UE L 315 z 03.12.2007, str. 1, z późn. zm.);
   4) jeżeli są spełnione następujące warunki:
-    a) koncesji nadano klauzulę zgodnie z przepisami o ochronie informacji niejawnych,
-    b) wymaga tego istotny interes bezpieczeństwa państwa, lub
-    c) wymaga tego ochrona bezpieczeństwa publicznego, lub
-    d) koncesji muszą towarzyszyć, na podstawie odrębnych przepisów, szczególne środki bezpieczeństwa
-  - w zakresie, w jakim ochrona istotnych interesów dotyczących bezpieczeństwa państwa określonych w lit. a-d nie może zostać zagwarantowana w inny sposób niż zawarcie umowy koncesji bez zastosowania przepisów ustawy;
+    a) koncesji nadano klauzulę zgodnie z przepisami ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych (Dz. U. z 2019 r. poz. 742) lub którym muszą towarzyszyć, na podstawie odrębnych przepisów, szczególne środki bezpieczeństwa lub
+    b) jeżeli wymaga tego istotny interes bezpieczeństwa państwa
+      – w zakresie, w jakim ochrona istotnych interesów bezpieczeństwa państwa nie może zostać zagwarantowana w inny sposób;
   5) na usługi zawieranych z innym zamawiającym, o którym mowa w art. 3 ust. 1 pkt 1-3a Prawa zamówień publicznych, który wykonuje działalność na podstawie prawa wyłącznego w rozumieniu art. 3 ust. 2 Prawa zamówień publicznych;
   6) na usługi zawieranych z podmiotami, które wykonują działalność sektorową na podstawie prawa wyłącznego w rozumieniu art. 3 ust. 2 Prawa zamówień publicznych;
   7) przez zamawiającego, o którym mowa w art. 3 ust. 1 pkt 1-3a Prawa zamówień publicznych, którego głównym celem jest:
@@ -83,19 +85,18 @@
     b) całość wynagrodzenia za świadczoną usługę wypłaca zamawiający;
   9) na usługi prowadzenia loterii, objęte kodem CPV 92351100-7, określonym we Wspólnym Słowniku Zamówień, na podstawie prawa wyłącznego innego niż prawo, o którym mowa w art. 3 ust. 2 Prawa zamówień publicznych, o ile przyznanie takiego prawa wyłącznego ogłoszono w Dzienniku Urzędowym Unii Europejskiej;
   10) przez zamawiającego, o którym mowa w art. 3 ust. 1 pkt 1-3a Prawa zamówień publicznych, w celu wykonywania działalności poza obszarem Unii Europejskiej, o ile nie będzie wykorzystywana sieć znajdująca się na obszarze Unii Europejskiej lub obszar Unii Europejskiej;
-  11) przez podmioty wykonujące działalność sektorową, jeżeli umowa koncesji jest zawierana z podmiotami:
-    a) z którymi zamawiający sporządza roczne skonsolidowane sprawozdania finansowe w rozumieniu przepisów o rachunkowości,
-    b) w których zamawiający posiada ponad połowę udziałów albo akcji, kontroluje ponad połowę głosów przypadających na akcje wyemitowane przez te podmioty lub posiada prawo wybierania ponad połowy składu organu nadzorczego lub zarządzającego,
-    c) które posiadają ponad połowę udziałów albo akcji zamawiającego, kontrolują ponad połowę głosów przypadających na akcje wyemitowane przez zamawiającego lub posiadają prawo wybierania ponad połowy składu jego organu nadzorczego lub zarządzającego,
-    d) które wspólnie z zamawiającym podlegają określonemu w lit. c wpływowi innego przedsiębiorcy na podstawie prawa własności, udziału finansowego lub obowiązujących go przepisów
-  - jeżeli w okresie poprzednich 3 lat co najmniej 80% przeciętnych przychodów tych podmiotów osiąganych ze świadczenia usług w przypadku umowy koncesji na usługi lub wykonywania robót budowlanych w przypadku umowy koncesji na roboty budowlane pochodziło odpowiednio ze świadczenia usług lub wykonywania robót budowlanych na rzecz zamawiającego lub podmiotów powiązanych z tym zamawiającym w sposób, o którym mowa w lit. a-d;
-  12) przez podmiot utworzony przez zamawiających w celu wspólnego wykonywania działalności sektorowej z:
-    a) jednym z tych zamawiających, pod warunkiem że podmiot ten został utworzony na okres co najmniej 3 lat, a z dokumentu, na podstawie którego został utworzony, wynika, że zamawiający będą uczestniczyli w tym podmiocie w tym okresie,
-    b) podmiotem powiązanym z jednym z tych zamawiających w sposób, o którym mowa w pkt 11, jeżeli w okresie poprzednich 3 lat co najmniej 80% przeciętnych przychodów tego podmiotu osiąganych ze świadczenia usług w przypadku umowy koncesji na usługi lub wykonywania robót budowlanych w przypadku umowy koncesji na roboty budowlane pochodziło odpowiednio ze świadczenia usług lub wykonywania robót budowlanych na rzecz zamawiającego lub podmiotów powiązanych z zamawiającym w sposób, o którym mowa w pkt 11;
-  13) przez zamawiającego z podmiotem, w którym uczestniczy ten zamawiający na zasadach określonych w pkt 12.
-2. W przypadku gdy ze względu na dzień utworzenia podmiotu powiązanego z zamawiającym w sposób, o którym mowa w ust. 1 pkt 11-13, lub rozpoczęcia jego działalności dane dotyczące średniego przychodu za 3 lata poprzedzające zawarcie umowy koncesji, o których mowa w ust. 1 pkt 11-13, są niedostępne lub nieadekwatne, dane te ustala się za pomocą wiarygodnych prognoz handlowych.
-3. Jeżeli spośród podmiotów powiązanych z zamawiającym w sposób, o którym mowa w ust. 1 pkt 11, więcej niż jeden podmiot świadczy usługi o takim samym lub podobnym przeznaczeniu lub wykonuje roboty budowlane o takim samym lub podobnym przeznaczeniu, na rzecz tego zamawiającego, uwzględnia się całkowity przychód wszystkich tych podmiotów osiągany ze świadczenia usług lub wykonywania robót budowlanych.
-4. Zamawiający, na wniosek Komisji Europejskiej, przekazuje informacje dotyczące niestosowania ustawy na podstawie ust. 1 pkt 11-13, w zakresie nazw i danych zamawiających, charakteru i wartości umów koncesji oraz dowodów uznanych za niezbędne przez Komisję Europejską.
+  11) przez zamawiającego wykonującego jeden z rodzajów działalności sektorowej, jeżeli umowa koncesji jest zawierana z podmiotem:
+    a) którego dane, wraz z danymi zamawiającego, objęte są rocznym skonsolidowanym sprawozdaniem finansowym w rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2019 r. poz. 351, z późn. zm.),
+    b) w którym zamawiający posiada ponad połowę udziałów albo akcji, posiada ponad połowę głosów wynikających z udziałów albo akcji, sprawuje nadzór nad organem zarządzającym lub posiada prawo mianowania ponad połowy składu organu nadzorczego lub zarządzającego,
+    c) który posiada ponad połowę udziałów albo akcji zamawiającego, posiada ponad połowę głosów wynikających z udziałów albo akcji zamawiającego, sprawuje nadzór nad jego organem zarządzającym lub posiada prawo mianowania ponad połowy składu jego organu nadzorczego lub zarządzającego,
+    d) który wspólnie z zamawiającym podlega określonemu w lit. c wpływowi innego przedsiębiorcy - jeżeli w okresie poprzednich 3 lat co najmniej 80% przeciętnych przychodów tego podmiotu osiąganych ze świadczenia usług w przypadku umowy koncesji na usługi lub wykonywania robót budowlanych w przypadku umowy koncesji na roboty budowlane pochodziło ze świadczenia odpowiednio usług lub robót budowlanych na rzecz zamawiającego lub na rzecz podmiotów, o których mowa w lit. a-d;
+  12) w celu wykonywania działalności sektorowej - przez podmiot utworzony przez zamawiających w celu wspólnego wykonywania działalności sektorowej - z podmiotem powiązanym z jednym z tych zamawiających w sposób określony w pkt 11, jeżeli w okresie poprzednich 3 lat co najmniej 80% przeciętnych przychodów tego podmiotu osiąganych ze świadczenia usług lub wykonywania robót budowlanych pochodziło odpowiednio ze świadczenia usług lub wykonywania robót budowlanych na rzecz tego zamawiającego lub na rzecz innego podmiotu, z którym podmiot ten jest powiązany w sposób określony w pkt 11;
+  13) w celu wykonywania działalności sektorowej przez:
+    a) podmiot utworzony przez zamawiających w celu wspólnego wykonywania działalności sektorowej, z jednym z tych zamawiających,
+    b) zamawiającego tworzącego podmiot, o którym mowa w lit. a, z tym podmiotem - pod warunkiem że podmiot ten został utworzony na okres co najmniej 3 lat i z dokumentu, na podstawie którego został utworzony, wynika, że zamawiający pozostaną jego członkami w tym okresie.
+2. W przypadku gdy okresy, o których mowa w ust. 1 pkt 11 i 12, są krótsze niż 3 lata, uwzględnia się przychody osiągnięte w tych okresach oraz przychody, które przewiduje się osiągnąć w okresie pozostałym do upływu 3 lat.
+3. Jeżeli spośród podmiotów powiązanych w sposób określony w ust. 1 pkt 11 więcej niż jeden podmiot świadczy na rzecz zamawiającego takie same lub podobne usługi albo wykonuje takie same lub podobne roboty budowlane, wartości procentowe, o których mowa w ust. 1 pkt 11 i 12, ustala się z uwzględnieniem całkowitego przychodu wszystkich tych podmiotów osiąganego odpowiednio ze świadczenia usług albo wykonywania robót budowlanych.
+4. Zamawiający jest obowiązany przekazać Komisji Europejskiej, na jej wniosek, informacje o charakterze i wartości umów koncesji, podmiotach, które je zawarły, oraz dowody potwierdzające okoliczności, o których mowa w ust. 1 pkt 11-13.
 5. Przepisów ustawy nie stosuje się do zawierania umów koncesji przez zamawiających w odniesieniu do działalności, wobec której Komisja Europejska wydała decyzję, o której mowa w art. 394 ust. 3 Prawa zamówień publicznych, albo bezskutecznie upłynął termin na wydanie takiej decyzji.
 
 ## Rozdział 2 — Szacunkowa wartość umowy koncesji i umowy mieszane
@@ -148,6 +149,16 @@
 1) z których część jest objęta art. 346 Traktatu o funkcjonowaniu Unii Europejskiej, do zawarcia takiej umowy koncesji nie stosuje się przepisów ustawy;
 2) które stanowią zamówienie, o którym mowa w art. 2 ust. 1 pkt 3 Prawa zamówień publicznych, do zawarcia umowy koncesji stosuje się przepisy ustawy albo przepisy Prawa zamówień publicznych, zgodnie z wyborem zamawiającego.
 
+**Art. 11a.**
+1. Jeżeli umowa koncesji służy jednocześnie wykonywaniu działalności sektorowej oraz wykonywaniu innych niż działalność sektorowa rodzajów działalności, zamawiający może zawrzeć odrębne umowy w celu wykonywania poszczególnych rodzajów działalności, stosując do zawarcia każdej z umów przepisy właściwe ze względu na rodzaj działalności, albo zawrzeć jedną umowę
+2. Do zawarcia jednej umowy koncesji stosuje się przepisy właściwe dla działalności głównej.
+3. Jeżeli umowa koncesji dotyczy równocześnie działalności sektorowej oraz zamówień publicznych lub działalności objętej art. 346 Traktatu o funkcjonowaniu Unii Europejskiej lub przepisami Prawa zamówień publicznych dotyczącymi udzielania zamówień w dziedzinach obronności i bezpieczeństwa, do zawarcia umowy stosuje się odpowiednio przepisy art. 10 ust. 2 pkt 1 i 2.
+4. Zamawiający, w przypadkach, o których mowa w ust. 3, nie może zawrzeć jednej umowy w celu uniknięcia stosowania przepisów ustawy lub przepisów Prawa zamówień publicznych.
+5. Jeżeli nie jest możliwe określenie, którego rodzaju działalności zasadniczo dotyczy umowa, do zawarcia umowy stosuje się:
+  1) przepisy Prawa zamówień publicznych, jeżeli do jednego z rodzajów działalności, którego umowa dotyczy, mają zastosowanie te przepisy, a do drugiego przepisy ustawy;
+  2) przepisy ustawy dotyczące zawierania umowy koncesji przez zamawiającego, o którym mowa w art. 2 pkt 11 lit. a, jeżeli do jednego z rodzajów działalności, której ta umowa dotyczy, mają zastosowanie te przepisy, a do drugiego przepisy ustawy dotyczące zawierania umowy koncesji przez zamawiającego, o którym mowa w art. 2 pkt 11 lit. b lub c;
+  3) przepisy ustawy, jeżeli do jednego z rodzajów działalności, którego ta umowa dotyczy, mają zastosowanie przepisy ustawy, a do drugiego nie mają zastosowania przepisy ustawy ani przepisy Prawa zamówień publicznych.
+
 ## Rozdział 3 — Zasady zawierania umowy koncesji
 
 **Art. 12.**
@@ -158,16 +169,18 @@
 1. Zamawiający udostępnia informacje związane z postępowaniem o zawarcie umowy koncesji w przypadkach określonych w ustawie. Po zakończeniu postępowania o zawarcie umowy koncesji albo po unieważnieniu tego postępowania informacje z nim związane podlegają udostępnieniu na zasadach określonych w przepisach o dostępie do informacji publicznej.
 2. Zamawiający udostępnia wykonawcom biorącym udział w postępowaniu o zawarcie umowy koncesji dokumentację postępowania inną niż dokumenty koncesji od dnia przekazania informacji o wyborze najkorzystniejszej oferty, o której mowa w art. 38 ust. 1 pkt 1, albo o unieważnieniu postępowania o zawarcie umowy koncesji.
 2a. Zamawiający udostępnia dane osobowe, o których mowa w art. 10 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), zwanego dalej „rozporządzeniem 2016/679”, w celu umożliwienia korzystania ze środków ochrony prawnej, o których mowa w rozdziale 10, do upływu terminu na ich wniesienie.
-3. Nie ujawnia się informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji, jeżeli wykonawca zastrzegł, że nie mogą być one udostępniane, oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa, z wyjątkiem informacji podawanych do publicznej wiadomości w ogłoszeniu o koncesji lub przekazywanych wykonawcom na podstawie ustawy.
+3. Nie ujawnia się informacji stanowiących tajemnicę przedsiębiorstwa w rozumieniu ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2020 r. poz. 1913), jeżeli wykonawca, wraz z przekazaniem takich informacji, zastrzegł, że nie mogą być one udostępniane, oraz wykazał, że zastrzeżone informacje stanowią tajemnicę przedsiębiorstwa, z wyjątkiem informacji przekazywanych na podstawie ustawy, w szczególności na podstawie art. 38 ust. 1 oraz w ogłoszeniach.
 4. Zamawiający może nakładać na wykonawców wymogi mające na celu ochronę poufnego charakteru informacji, które udostępnia w toku postępowania o zawarcie umowy koncesji.
 
 **Art. 13a.** Zamawiający przechowuje dokumentację postępowania, w tym umowę koncesji, przez okres 5 lat od dnia zakończenia postępowania o zawarcie umowy koncesji, w sposób gwarantujący jej nienaruszalność. Jeżeli czas trwania umowy koncesji przekracza 5 lat, zamawiający przechowuje umowę przez cały czas jej trwania.
 
 **Art. 14.**
-1. W postępowaniu o zawarcie umowy koncesji komunikacja, w tym przekazywanie wniosków o dopuszczenie do udziału w tym postępowaniu, ofert, oświadczeń i zawiadomień, z wyjątkiem przypadków, o których mowa w art. 18 i art. 22, odbywa się zgodnie z wyborem zamawiającego, w formie pisemnej lub w postaci elektronicznej.
+1. W postępowaniu o zawarcie umowy koncesji komunikacja między zamawiającym i wykonawcami, w tym przekazywanie wniosków o dopuszczenie do udziału w tym postępowaniu, ofert, oświadczeń i zawiadomień, odbywa się zgodnie z wyborem zamawiającego, za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2020 r. poz. 1041), osobiście, przez posłańca, przy użyciu faksu lub środków komunikacji elektronicznej.
 2. Za zgodą zamawiającego informacje mogą być przekazywane ustnie, w tym telefonicznie, jeżeli nie dotyczą istotnych elementów postępowania o zawarcie umowy koncesji oraz ich treść zostanie odpowiednio utrwalona na trwałym nośniku.
 3. Wybrany sposób komunikacji musi być ogólnie dostępny i niedyskryminacyjny oraz nie może ograniczać dostępu wykonawców do postępowania o zawarcie umowy koncesji. Środki komunikacji elektronicznej oraz ich właściwości techniczne muszą być interoperacyjne z urządzeniami teleinformatycznymi będącymi w powszechnym użyciu.
 4. Zamawiający zapewnia zachowanie integralności danych oraz poufność wniosków o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji i ofert w ramach komunikacji i przechowywania informacji. Z treścią wniosków o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji i ofert nie można zapoznać się przed upływem terminu na ich składanie.
+5. Ofertę, wniosek o dopuszczenie do udziału w postępowaniu oraz oświadczenia, składa się pod rygorem nieważności w formie pisemnej albo, za zgodą zamawiającego, w formie elektronicznej.
+6. W postępowaniu o zawarcie umowy koncesji o wartości mniejszej niż próg unijny ofertę, wniosek o dopuszczenie do udziału w postępowaniu oraz oświadczenia, składa się pod rygorem nieważności w formie pisemnej albo, za zgodą zamawiającego, w formie elektronicznej lub w postaci elektronicznej opatrzonej podpisem zaufanym lub podpisem osobistym.
 
 **Art. 15.** Wykonawcy mogą wspólnie ubiegać się o zawarcie umowy koncesji, na zasadach określonych w Prawie zamówień publicznych.
 
@@ -191,13 +204,17 @@
 
 **Art. 18.**
 1. Ogłoszenia, o których mowa w ustawie, zamawiający:
-  1) publikuje w Dzienniku Urzędowym Unii Europejskiej;
+  1) przekazuje do publikacji w Dzienniku Urzędowym Unii Europejskiej;
   2) zamieszcza w Biuletynie Zamówień Publicznych.
-2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, kwoty wartości umów koncesji, od których uzależniony jest obowiązek przekazywania ogłoszeń Urzędowi Publikacji Unii Europejskiej, mając na względzie obowiązujące w tym zakresie przepisy prawa Unii Europejskiej.
+2. Minister właściwy do spraw gospodarki informuje o:
+  1) aktualnym progu unijnym oraz jego równowartości w złotych, ustalonej zgodnie z komunikatem Komisji Europejskiej, wydanym na podstawie art. 9 ust. 2 dyrektywy 2014/23/UE,
+  2) średnim kursie złotego w stosunku do euro, stanowiącym podstawę przeliczania wartości umów koncesji, ustalonym na podstawie kwoty określonej w komunikacie Komisji Europejskiej, wydanym na podstawie art. 9 ust. 2 dyrektywy 2014/23/UE
+- mających zastosowanie do postępowań o zawarcie umowy koncesji wszczętych od dnia wejścia w życie aktów wykonawczych Komisji Europejskiej, wydawanych na podstawie art. 9 ust. 4 dyrektywy 2014/23/UE.
+2a. Informacje, o których mowa w ust. 2, są ogłaszane w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, oraz zamieszczane na stronie internetowej Urzędu Zamówień Publicznych niezwłocznie po publikacji komunikatu Komisji Europejskiej, wydanego na podstawie art. 9 ust. 2 dyrektywy 2014/23/UE, w Dzienniku Urzędowym Unii Europejskiej.
 3. Zamawiający przygotowuje ogłoszenia zgodnie ze wzorami standardowych formularzy określonymi w rozporządzeniu wykonawczym Komisji (UE) 2015/1986 z dnia 11 listopada 2015 r. ustanawiającym standardowe formularze do publikacji ogłoszeń w dziedzinie zamówień publicznych i uchylającym rozporządzenie wykonawcze (UE) nr 842/2011 (Dz. Urz. UE L 296 z 12.11.2015, str. 1).
-4. Zamawiający przekazuje ogłoszenia Urzędowi Publikacji Unii Europejskiej zgodnie z formatem i procedurami elektronicznego przesyłania ogłoszeń wskazanymi na stronie internetowej, o której mowa w ust. 2 załącznika IX do dyrektywy 2014/23/UE, jeżeli szacunkowa wartość umowy koncesji jest równa lub przekracza kwotę określoną w przepisach wydanych na podstawie ust. 2.
+4. Zamawiający przekazuje ogłoszenia Urzędowi Publikacji Unii Europejskiej zgodnie z formatem i procedurami elektronicznego przesyłania ogłoszeń wskazanymi na stronie internetowej, o której mowa w ust. 2 załącznika IX do dyrektywy 2014/23/UE, jeżeli szacunkowa wartość umowy koncesji jest równa lub przekracza próg unijny.
 5. Zamawiający zamieszcza ogłoszenia w Biuletynie Zamówień Publicznych za pomocą formularzy umieszczonych na stronie internetowej Urzędu Zamówień Publicznych.
-6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wzory ogłoszeń zamieszczanych w Biuletynie Zamówień Publicznych, mając na względzie zakres wymaganych ustawą informacji, które musi zawierać treść ogłoszenia, oraz wartość umowy koncesji.
+6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, zakres informacji zawartych w ogłoszeniach zamieszczanych w Biuletynie Zamówień Publicznych, mając na względzie rodzaje ogłoszeń oraz wartość umowy koncesji.
 
 **Art. 18a.**
 1. W przypadku danych osobowych zamieszczonych przez zamawiającego w Biuletynie Zamówień Publicznych prawa, o których mowa w art. 15 i art. 16 rozporządzenia 2016/679, są wykonywane w drodze żądania skierowanego do zamawiającego.
@@ -253,7 +270,7 @@
 1) nazwę oraz adres zamawiającego;
 2) określenie przedmiotu umowy koncesji oraz jej wielkości lub zakresu;
 3) uzasadnienie zamiaru zawarcia umowy koncesji bez uprzedniej publikacji ogłoszenia o koncesji w Dzienniku Urzędowym Unii Europejskiej lub zamieszczenia ogłoszenia o koncesji w Biuletynie Zamówień Publicznych;
-4) imię i nazwisko albo nazwę oraz adres wykonawcy, z którym zamawiający zamierza zawrzeć umowę koncesji.
+4) nazwę albo imię i nazwisko, siedzibę albo miejsce zamieszkania, jeżeli jest miejscem wykonywania działalności wykonawcy, z którym zamawiający zamierza zawrzeć umowę koncesji.
 
 **Art. 23.**
 1. Zamawiający w terminie 48 dni od dnia zawarcia umowy koncesji przekazuje do publikacji w Dzienniku Urzędowym Unii Europejskiej albo zamieszcza w Biuletynie Zamówień Publicznych ogłoszenie o zawarciu umowy koncesji.
@@ -325,8 +342,8 @@
 1. Zamawiający ustala termin składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji, uwzględniając w szczególności złożoność umowy koncesji oraz czas wymagany do sporządzenia wniosku o dopuszczenie do udziału w tym postępowaniu lub oferty.
 2. W przypadku gdy oferty lub wnioski o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji mogą być złożone jedynie po odbyciu wizyty na miejscu albo po dokonaniu sprawdzenia dokumentów potwierdzających dokumenty koncesji, zamawiający wyznacza termin składania ofert lub wniosków o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji, z uwzględnieniem czasu niezbędnego do zapoznania się przez wykonawców z informacjami
    koniecznymi do przygotowania oferty lub wniosku o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji, z uwzględnieniem ust. 3 i 4.
-3. W przypadku ofert, o których mowa w art. 29 ust. 1 pkt 1, lub wniosków o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji, o których mowa w art. 29 ust. 1 pkt 2, termin składania ofert lub wniosków nie może być krótszy niż 30 dni od dnia przekazania ogłoszenia o koncesji Urzędowi Publikacji Unii Europejskiej lub zamieszczenia ogłoszenia o koncesji w Biuletynie Zamówień Publicznych.
-4. Jeżeli postępowanie o zawarcie umowy koncesji jest podzielone na etapy, zamawiający wyznacza termin składania ofert wstępnych, który nie może być krótszy niż 22 dni od dnia wysłania zaproszenia.
+3. W przypadku ofert, o których mowa w art. 29 ust. 1 pkt 1, lub wniosków o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji, o których mowa w art. 29 ust. 1 pkt 2, termin składania ofert lub wniosków nie może być krótszy niż 30 dni od dnia przekazania ogłoszenia o koncesji Urzędowi Publikacji Unii Europejskiej i nie krótszy niż 15 dni od dnia zamieszczenia ogłoszenia o koncesji w Biuletynie Zamówień Publicznych.
+4. Jeżeli postępowanie o zawarcie umowy koncesji jest podzielone na etapy, zamawiający wyznacza termin składania ofert wstępnych, który nie może być krótszy niż 22 dni od dnia wysłania zaproszenia w przypadku postępowań o wartości równej lub przekraczającej próg unijny i nie krótszy niż 10 dni w przypadku postępowań o wartości mniejszej niż próg unijny.
 5. Jeżeli zamawiający dopuszcza składanie ofert za pomocą środków komunikacji elektronicznej, termin składania ofert, o których mowa w ust. 3 i 4, może zostać skrócony o 5 dni.
 
 ## Rozdział 6 — Kwalifikacja wykonawców i wybór najkorzystniejszej oferty
@@ -382,9 +399,18 @@
 2. Określone przez zamawiającego kryteria kwalifikacji muszą być związane z przedmiotem umowy koncesji, proporcjonalne do tego przedmiotu, zapewniać rzeczywistą konkurencję oraz muszą umożliwić zamawiającemu zweryfikowanie sytuacji ekonomicznej lub finansowej oraz zdolności technicznej lub zawodowej wykonawcy niezbędnej do wykonania umowy koncesji.
 3. Zamawiający może wymagać od wykonawców wskazania w ofercie lub wniosku o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji imion i nazwisk oraz odpowiednich kwalifikacji zawodowych osób, które będą odpowiedzialne za realizację umowy koncesji.
 
-**Art. 34.**
-1. Zamawiający może zastrzec w ogłoszeniu o koncesji albo we wstępnym ogłoszeniu informacyjnym, że o zawarcie umowy koncesji mogą ubiegać się wyłącznie zakłady pracy chronionej lub inni wykonawcy, których głównym celem jest społeczna i zawodowa integracja osób niepełnosprawnych w rozumieniu przepisów o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych albo w rozumieniu właściwych przepisów państw członkowskich Europejskiego Obszaru Gospodarczego lub osób defaworyzowanych.
-2. W przypadku, o którym mowa w ust. 1, zamawiający określa w ogłoszeniu o koncesji minimalny procentowy wskaźnik zatrudnienia osób, o których mowa w ust. 1, nie mniejszy niż 30% osób zatrudnionych przez zakłady pracy chronionej lub wykonawców, o których mowa w ust. 1.
+**Art. 34.** Zamawiający może zastrzec w ogłoszeniu o koncesji albo we wstępnym ogłoszeniu informacyjnym, że o zawarcie umowy koncesji mogą ubiegać się wyłącznie wykonawcy mający status zakładu pracy chronionej, spółdzielnie socjalne oraz inni wykonawcy, których głównym celem lub głównym celem działalności ich wyodrębnionych organizacyjnie jednostek, które będą realizowały zamówienie, jest społeczna i zawodowa integracja osób społecznie marginalizowanych, w szczególności:
+1) osób niepełnosprawnych w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2020 r. poz. 426, 568 i 875),
+2) bezrobotnych w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2020 r. poz. 1409 i 2023),
+3) osób poszukujących pracy, niepozostających w zatrudnieniu lub niewykonujących innej pracy zarobkowej, w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy,
+4) osób usamodzielnianych, o których mowa w art. 140 ust. 1 i 2 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2020 r. poz. 821),
+5) osób pozbawionych wolności lub zwalnianych z zakładów karnych, o których mowa w ustawie z dnia 6 czerwca 1997 r. - Kodeks karny wykonawczy (Dz. U. z 2020 r. poz. 523 i 568), mających trudności w integracji ze środowiskiem,
+6) osób z zaburzeniami psychicznymi w rozumieniu ustawy z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2020 r. poz. 685),
+7) osób bezdomnych w rozumieniu ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2020 r. poz. 1876),
+8) osób, które uzyskały w Rzeczypospolitej Polskiej status uchodźcy lub ochronę uzupełniającą, o których mowa w ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1666 i 2020 oraz z 2020 r. poz. 322 i 2023),
+9) osób do 30. roku życia oraz po ukończeniu 50. roku życia, posiadających status osoby poszukującej pracy, bez zatrudnienia,
+10) osób będących członkami mniejszości znajdującej się w niekorzystnej sytuacji, w szczególności będących członkami mniejszości narodowych i etnicznych w rozumieniu ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r. poz. 823)
+- pod warunkiem że procentowy wskaźnik zatrudnienia osób należących do jednej lub więcej kategorii, o których mowa w pkt 1-10, jest nie mniejszy niż 30% osób zatrudnionych u wykonawcy albo w jego jednostce, która będzie realizowała zamówienie.
 
 **Art. 35.**
 1. Wykonawca na zasadach określonych w ogłoszeniu o koncesji składa oświadczenie o spełnianiu kryteriów kwalifikacji oraz braku podstaw wykluczenia.
@@ -405,7 +431,7 @@
 
 **Art. 38.**
 1. Zamawiający informuje niezwłocznie wszystkich wykonawców o:
-  1) wyborze najkorzystniejszej oferty, podając imię i nazwisko albo nazwę oraz adres wybranego wykonawcy,
+  1) wyborze najkorzystniejszej oferty, podając nazwę albo imię i nazwisko, siedzibę albo miejsce zamieszkania, jeżeli jest miejscem wykonywania działalności wybranego wykonawcy,
   2) powodach odrzucenia oferty lub wniosku o dopuszczenie do udziału w postępowaniu o zawarcie umowy koncesji oraz o przysługujących wykonawcy środkach odwoławczych,
   3) unieważnieniu postępowania o zawarcie umowy koncesji,
   4) ponownym wszczęciu postępowania o zawarcie umowy koncesji
@@ -465,8 +491,8 @@
     b) w wyniku połączenia, podziału, przekształcenia, upadłości, restrukturyzacji lub nabycia dotychczasowego koncesjonariusza lub jego przedsiębiorstwa, o ile nowy koncesjonariusz spełnia kryteria kwalifikacji, pod warunkiem że nie pociąga to za sobą innych istotnych zmian umowy koncesji i nie ma na celu uniknięcia stosowania przepisów ustawy,
     c) w wyniku przejęcia przez zamawiającego zobowiązania koncesjonariusza względem jego podwykonawców;
   5) zmiany, niezależnie od ich wartości, nie są istotne w rozumieniu ust. 6;
-  6) wartość zmiany jest mniejsza niż kwota określona w przepisach wydanych na podstawie art. 18 ust. 2, i zarazem jest mniejsza niż 10% wartości umowy koncesji określonej pierwotnie, a w przypadku gdy wprowadzanych jest kilka kolejnych zmian, wartość zmiany jest szacowana na podstawie łącznej wartości kolejnych zmian.
-2. W przypadkach, o których mowa w ust. 1 pkt 1, 3 i 6, zmiany postanowień umowy koncesji nie mogą prowadzić do zmiany jej charakteru.
+  6) wartość zmiany jest mniejsza niż próg unijny i zarazem jest mniejsza niż 10% wartości umowy koncesji określonej pierwotnie, a w przypadku gdy wprowadzanych jest kilka kolejnych zmian, wartość zmiany jest szacowana na podstawie łącznej wartości kolejnych zmian.
+2. W przypadkach, o których mowa w ust. 1 pkt 1, 3 i 6, zmiany postanowień umowy koncesji nie mogą prowadzić do zmiany jej ogólnego charakteru.
 3. W przypadku umowy koncesji zawartej przez zamawiającego do celów wykonywania działalności innej niż działalność sektorowa, każdorazowe zwiększenie wartości umowy koncesji, w okolicznościach, o których mowa w ust. 1 pkt 2 i 3, nie może przekroczyć 50% wartości umowy koncesji określonej pierwotnie. Zmiany nie mogą mieć na celu uniknięcia stosowania przepisów ustawy.
 4. Jeżeli umowa zawiera postanowienia przewidujące możliwość zmiany wynagrodzenia należnego koncesjonariuszowi z powodu okoliczności innych niż zmiana zakresu świadczenia koncesjonariuszowi, dopuszczalną wartość zmiany umowy, o której mowa w ust. 1 pkt 6 i ust. 3, ustala się w oparciu o wartość umowy koncesji określoną pierwotnie, z uwzględnieniem zmian wynikających z tych postanowień.
 5. Jeżeli umowa koncesji nie zawiera postanowień, o których mowa w ust. 4, zaktualizowana wartość umowy jest obliczana z uwzględnieniem wskaźnika cen nakładów inwestycyjnych ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 15 ust. 5b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2016 r. poz. 1888).
@@ -488,7 +514,7 @@
 1. Zamawiający w dokumentach koncesji może zażądać od wykonawców, aby wskazali w ofertach część przedmiotu umowy koncesji, którą zamierzają zlecić podwykonawcom, a także aby wskazali proponowanych podwykonawców.
 2. Powierzenie wykonania części umowy koncesji podwykonawcom nie zwalnia koncesjonariusza z odpowiedzialności za należyte wykonanie tej umowy.
 3. Koncesjonariusz, z którym zawarto umowę koncesji z zastosowaniem art. 20 ust. 1 pkt 4-7, której przedmiotem jest świadczenie usług użyteczności publicznej lub roboty budowlane, jest obowiązany osobiście wykonać kluczowe części tych usług lub robót.
-4. W przypadku umów koncesji, które mają być wykonane na obiekcie budowlanym podlegającym bezpośredniemu nadzorowi zamawiającego, zamawiający wymaga, aby po zawarciu umowy koncesji i nie później niż w chwili rozpoczęcia jej realizacji koncesjonariusz przekazał mu informacje dotyczące nazwy albo imienia i nazwiska, danych kontaktowych podwykonawców i osób do kontaktu z nimi, zaangażowanych w te roboty budowlane lub usługi, o ile są już znane. Koncesjonariusz zawiadamia zamawiającego o zmianach tych informacji, a także przekazuje informacje o nowych podwykonawcach, którym zamierza powierzyć realizację robót budowlanych lub usług.
+4. W przypadku umów koncesji na roboty budowlane oraz umów koncesji na usługi, które mają być wykonane na obiekcie budowlanym podlegającym bezpośredniemu nadzorowi zamawiającego, zamawiający wymaga, aby po zawarciu umowy koncesji i nie później niż w chwili rozpoczęcia jej realizacji koncesjonariusz przekazał mu informacje dotyczące nazwy albo imienia i nazwiska, danych kontaktowych podwykonawców i osób do kontaktu z nimi, zaangażowanych w te roboty budowlane lub usługi, jeżeli są już znani. Koncesjonariusz zawiadamia zamawiającego o zmianach w zakresie tych informacji, w tym przekazuje informacje o nowych podwykonawcach, którym zamierza powierzyć realizację robót budowlanych lub usług.
 5. Zamawiający może wymagać przekazania informacji, o których mowa w ust. 4, w szczególności:
   1) w przypadku umów koncesji na usługi, które nie mają być wykonane na obiekcie budowlanym podlegającym bezpośredniemu nadzorowi zamawiającego;
   2) od dostawców uczestniczących w wykonaniu umowy koncesji;
@@ -541,7 +567,7 @@
 1. Wykonawcy, a także innemu podmiotowi, jeżeli ma lub miał interes w zawarciu umowy koncesji oraz poniósł lub może ponieść szkodę w wyniku naruszenia przez zamawiającego przepisów ustawy, przysługuje prawo do wniesienia odwołania od niezgodnej z przepisami ustawy czynności zamawiającego podjętej w postępowaniu o zawarcie umowy koncesji lub zaniechania czynności, do której zamawiający jest obowiązany na podstawie ustawy.
 2. Do wnoszenia i rozpoznawania odwołań stosuje się odpowiednio przepisy działu IX rozdziału 2 Prawa zamówień publicznych, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 3. Wpis od odwołania uiszcza się w wysokości należnej od odwołania dotyczącego zamówienia publicznego, którego wartość jest:
-  1) mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 Prawa zamówień publicznych - jeżeli wartość koncesji jest mniejsza niż kwota określona w przepisach wydanych na podstawie art. 18 ust. 2;
+  1) mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 Prawa zamówień publicznych - jeżeli wartość koncesji jest mniejsza niż próg unijny;
   2) równa lub przekracza kwoty określone w przepisach wydanych na podstawie art. 11 ust. 8 Prawa zamówień publicznych - jeżeli wartość koncesji jest równa lub przekracza kwotę określoną w przepisach wydanych na podstawie art. 18 ust. 2.
 
 **Art. 55.** Odwołanie wnosi się w terminie:
