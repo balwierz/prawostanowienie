@@ -8,12 +8,12 @@
 1. Ilekroć w ustawie jest mowa o:
   1) budowie statku - oznacza to budowę nowego, kompletnego i zdolnego do żeglugi statku;
   2) okresie opodatkowania - oznacza to okres opodatkowania zryczałtowanym podatkiem;
-  3) przebudowie statku - oznacza to przebudowę przeprowadzoną w całości przez przedsiębiorcę okrętowego, a w przypadku prowadzenia działalności w formie spółki cywilnej, spółki jawnej lub spółki komandytowej - przez tę spółkę:
+  3) przebudowie statku - oznacza to przebudowę przeprowadzoną w całości przez przedsiębiorcę okrętowego, a w przypadku prowadzenia działalności w formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych - przez tę spółkę:
     a) której wartość całkowita wynosi co najmniej równowartość w złotych kwoty 5 000 000 euro lub
     b) polegającą na zmianie przeznaczenia statku lub zmianie źródła napędu;
   4) przedsiębiorcy okrętowym - oznacza to:
-    a) osobę fizyczną, osobę prawną i spółkę komandytowo-akcyjną, mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
-    b) wspólnika spółki cywilnej, spółki jawnej i spółki komandytowej, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej,
+    a) osobę fizyczną, osobę prawną i spółkę, o której mowa w art. 1 ust. 3 pkt 1 i 1a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2020 r. poz. 1406, 1492, 1565, 2122 i 2123), mającą odpowiednio miejsce zamieszkania albo siedzibę lub zarząd na terytorium Rzeczypospolitej Polskiej,
+    b) wspólnika spółki cywilnej i spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych, mającego siedzibę, zarząd lub miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej,
     c) przedsiębiorcę zagranicznego w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 649)
   - prowadzących na terytorium Rzeczypospolitej Polskiej działalność polegającą na budowie statku lub przebudowie statku;
   5) statku - oznacza to jednostkę pływającą używaną do żeglugi morskiej lub śródlądowej, o długości kadłuba powyżej 5 metrów, podlegającą nadzorowi technicznemu uznanej organizacji, o której mowa w ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2016 r. poz. 281), jak również morską platformę wiertniczą lub produkcyjną.
@@ -37,7 +37,7 @@
 3. Do wniosku, o którym mowa w ust. 1, przedsiębiorca okrętowy dołącza:
   1) umowę o budowę statku albo umowę o przebudowę statku;
   2) dokumenty uznanej organizacji wydane na podstawie ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim - w przypadku certyfikatu zakończenia budowy statku lub przebudowy statku.
-4. W przypadku prowadzenia przez przedsiębiorcę okrętowego działalności w formie spółki cywilnej, spółki jawnej lub spółki komandytowej wniosek, o którym mowa w ust. 1, składa ta spółka.
+4. W przypadku prowadzenia przez przedsiębiorcę okrętowego działalności w formie spółki cywilnej lub spółki jawnej niebędącej podatnikiem podatku dochodowego od osób prawnych wniosek, o którym mowa w ust. 1, składa ta spółka.
 5. Certyfikat stanowi zaświadczenie w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868 i 996).
 6. Certyfikat jest wydawany w terminie 30 dni od dnia złożenia kompletnego wniosku zgodnie z ust. 2 i 3.
 7. Organ wydający certyfikat przekazuje jego kopię, niezwłocznie po wydaniu, organowi podatkowemu właściwemu w sprawach zryczałtowanego podatku wskazanemu we wniosku, o którym mowa w ust. 1.
@@ -82,7 +82,7 @@ mając na względzie zakres niezbędnych danych oraz konieczność zapewnienia p
 3. W przypadku prowadzenia przez przedsiębiorcę okrętowego działalności w formie spółki cywilnej albo spółki jawnej obowiązek prowadzenia ewidencji przychodów dotyczy tej spółki.
 
 **Art. 10.**
-1. W okresie opodatkowania zryczałtowanym podatkiem przedsiębiorca okrętowy jest obowiązany prowadzić odrębny wykaz środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością w zakresie budowy statku lub przebudowy statku, a w przypadku gdy tę działalność prowadzi spółka cywilna, spółka jawna lub spółka komandytowa - wykaz obowiązana jest prowadzić ta spółka.
+1. W okresie opodatkowania zryczałtowanym podatkiem przedsiębiorca okrętowy jest obowiązany prowadzić odrębny wykaz środków trwałych oraz wartości niematerialnych i prawnych związanych z działalnością w zakresie budowy statku lub przebudowy statku, a w przypadku gdy tę działalność prowadzi spółka cywilna lub spółka jawna niebędąca podatnikiem podatku dochodowego od osób prawnych - wykaz obowiązana jest prowadzić ta spółka.
 2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób prowadzenia wykazu środków trwałych oraz wartości niematerialnych i prawnych, o którym mowa w ust. 1, kierując się koniecznością prawidłowego określenia, dla celów podatku dochodowego, wartości początkowej środków trwałych oraz wartości niematerialnych i prawnych i stawki amortyzacyjnej.
 
 **Art. 11.** Organem podatkowym właściwym w sprawach zryczałtowanego podatku jest naczelnik urzędu skarbowego właściwy w sprawach podatku dochodowego.
