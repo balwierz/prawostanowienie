@@ -7,13 +7,13 @@
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 1) substancja zabroniona - substancję określoną w załączniku nr 1 do Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r. (Dz. U. z 2007 r. poz. 999, z 2013 r. poz. 1243, z 2014 r. poz. 343, z 2016 r. poz. 79 i 332 oraz z 2017 r. poz. 263);
 2) metoda zabroniona - działanie określone w załączniku nr 1 do konwencji, o której mowa w pkt 1;
-3) okres podczas zawodów - okres rozpoczynający się na 12 godzin przed zawodami, rozumianymi jako pojedynczy wyścig, gra lub konkurencja sportowa, w której zawodnik ma uczestniczyć, trwający do ich zakończenia, o ile przepisy właściwej międzynarodowej organizacji sportowej lub organizatora zawodów nie stanowią inaczej, obejmujący również okres kontroli antydopingowej związanej z zawodami.
+3) okres podczas zawodów - okres rozpoczynający się o godzinie 23.59 w dniu poprzedzającym zawody rozumiane jako pojedynczy wyścig, gra lub konkurencja sportowa, w której zawodnik ma uczestniczyć, trwający do ich zakończenia, o ile przepisy właściwej międzynarodowej organizacji sportowej lub organizatora zawodów nie stanowią inaczej, obejmujący również okres kontroli antydopingowej związanej z zawodami.
 
 **Art. 3.**
 1. Za doping w sporcie uznaje się:
   1) obecność substancji zabronionej, jej metabolitów lub markerów w próbce fizjologicznej zawodnika;
   2) użycie lub usiłowanie użycia przez zawodnika substancji zabronionej lub metody zabronionej;
-  3) niewyrażenie zgody na pobranie próbki fizjologicznej, niezgłoszenie się na to pobranie bez ważnego uzasadnienia lub unikanie w inny sposób pobrania próbki fizjologicznej;
+  3) unikanie pobrania próbki fizjologicznej, niewyrażenie zgody na pobranie próbki fizjologicznej lub niezgłoszenie się na to pobranie bez ważnego uzasadnienia, po uprzednim powiadomieniu zawodnika o wytypowaniu do pobrania próbki fizjologicznej przez osobę upoważnioną do jej pobrania;
   4) nieprzedstawienie wymaganych informacji na temat miejsca pobytu zawodnika na potrzeby kontroli antydopingowej;
   5) manipulowanie lub usiłowanie manipulowania jakąkolwiek częścią kontroli antydopingowej;
   6) posiadanie substancji zabronionej lub przyrządów umożliwiających użycie metody zabronionej;
@@ -24,10 +24,8 @@
     a) podlegając przepisom o odpowiedzialności dyscyplinarnej za doping w sporcie, odbywa karę dyskwalifikacji, lub
     b) nie podlegając przepisom o odpowiedzialności dyscyplinarnej za doping w sporcie, została skazana lub dowiedziono jej udziału w zachowaniu uznawanym za doping w sporcie w postępowaniu karnym, dyscyplinarnym lub dotyczącym odpowiedzialności zawodowej, lub
     c) działa jako przedstawiciel lub pośrednik osób, o których mowa w lit. a lub b.
-2. Współpracę, o której mowa w ust. 1 pkt 10, uznaje się za doping w sporcie, jeżeli:
-  1) zawodnik lub inna osoba podejmująca tę współpracę została uprzednio powiadomiona na piśmie przez właściwą organizację antydopingową lub Światową Agencję Antydopingową o statusie osoby pomagającej w przygotowaniu do współzawodnictwa sportowego, o którym mowa w ust. 1 pkt 10, oraz o konsekwencjach współpracy z tą osobą;
-  2) zawodnik lub inna osoba podejmująca współpracę może jej uniknąć;
-  3) właściwa organizacja antydopingowa dołożyła wszelkich starań w poinformowaniu osoby pomagającej w przygotowaniu do współzawodnictwa sportowego o przysługującym jej, w terminie 15 dni od dnia poinformowania, prawie do złożenia wyjaśnień o braku okoliczności, o których mowa w ust. 1 pkt 10 lit. a lub b.
+      11) poza manipulowaniem lub usiłowaniem manipulowania, o którym mowa w pkt 5, działanie zawodnika lub innej osoby zmierzające do zniechęcenia osoby zgłaszającej naruszenie przepisów antydopingowych lub grożenie osobie zgłaszającej naruszenie przepisów antydopingowych.
+2. Współpracę, o której mowa w ust. 1 pkt 10, uznaje się za doping w sporcie, jeżeli zawodnik lub inna osoba podejmująca tę współpracę nie przedstawi dowodów potwierdzających, że współpraca z osobą o statusie osoby pomagającej w przygotowaniu do współzawodnictwa sportowego nie była związana ze sportem, z wykonywaniem pracy zawodowej lub że nie można było tej współpracy uniknąć.
 3. Zakaz współpracy z osobą, o której mowa w ust. 1 pkt 10 lit. b, trwa przez okres 6 lat, licząc od dnia rozstrzygnięcia w postępowaniu karnym, dyscyplinarnym lub dotyczącym odpowiedzialności zawodowej, albo przez okres odbywania kary orzeczonej w tym postępowaniu, jeżeli jej wymiar przekracza 6 lat.
 4. Za doping w sporcie nie uznaje się przypadków, o których mowa w ust. 1 pkt 1, 2, 6 lub 8, jeżeli są one uzasadnione względami leczniczymi, a zawodnik otrzymał zgodę na używanie danej substancji zabronionej lub metody zabronionej na zasadach określonych w załączniku nr 2 do konwencji, o której mowa w art. 2 pkt 1.
 
@@ -48,7 +46,7 @@
   4) szkolenie i podnoszenie kwalifikacji kontrolerów antydopingowych Agencji, zwanych dalej „kontrolerami”;
   5) przyznawanie zgody na używanie danej substancji zabronionej lub metody zabronionej przez zawodnika, o której mowa w art. 3 ust. 4;
   6) opracowywanie, wdrażanie i wspieranie programów edukacyjnych, informacyjnych i szkoleniowych w zakresie zwalczania dopingu w sporcie;
-  7) powiadamianie zawodników lub innych osób podejmujących współpracę z osobą pomagającą w przygotowaniu do współzawodnictwa sportowego o statusie tej osoby, o którym mowa w art. 3 ust. 1 pkt 10, oraz o konsekwencjach współpracy z tą osobą;
+  7) (uchylony)
   8) opiniowanie projektów założeń projektów ustaw oraz projektów aktów prawnych w zakresie zwalczania dopingu w sporcie;
   9) współpraca z zagranicznymi podmiotami właściwymi w zakresie zwalczania dopingu w sporcie;
   10) współpraca z organami administracji publicznej, instytutami badawczymi oraz innymi podmiotami właściwymi w zakresie badań wspierających zwalczanie dopingu w sporcie.
@@ -134,7 +132,7 @@
 2) rocznego sprawozdania finansowego Agencji;
 3) rocznych i wieloletnich planów działania Agencji;
 4) sprawozdania z działalności Agencji;
-5) kandydatur na członków Panelu Dyscyplinarnego.
+5) (uchylony)
 
 **Art. 13.**
 1. Rada Agencji składa się z siedmiu członków.
@@ -369,7 +367,7 @@
 ## Rozdział 5 — Panel Dyscyplinarny
 
 **Art. 35.**
-1. Przy Agencji działa, w sposób niezależny i bezstronny, zgodnie z regułami, o których mowa w art. 5 ust. 1 pkt 2, Panel Dyscyplinarny, zwany dalej „Panelem”.
+1. Panel Dyscyplinarny, zwany dalej „Panelem”, działa, w sposób niezależny i bezstronny, zgodnie z regułami, o których mowa w art. 5 ust. 1 pkt 2, Światowym Kodeksem Antydopingowym oraz stosownie do przepisów Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r.
 2. Panel rozstrzyga o odpowiedzialności dyscyplinarnej za doping w sporcie zgodnie z zasadami Światowego Kodeksu Antydopingowego oraz stosownie do przepisów konwencji, o której mowa w art. 2 pkt 1.
 3. Panel orzeka w pierwszej i w drugiej instancji.
 
@@ -382,7 +380,8 @@
   4) ma nieposzlakowaną opinię;
   5) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
   6) nie była karana dyscyplinarnie za doping w sporcie;
-  7) posiada doświadczenie w zakresie orzekania w sprawach dyscyplinarnych.
+  7) posiada doświadczenie w zakresie orzekania w sprawach dyscyplinarnych;
+  8) spełnia wymagania w zakresie bezstronności, niezależności oraz zapobiegania konfliktowi interesów zawarte w Światowym Kodeksie Antydopingowym oraz dokumentach o charakterze międzynarodowym określonych przez Światową Agencję Antydopingową.
 3. Członkostwa w Panelu nie można łączyć z funkcją we władzach polskiego związku sportowego.
 
 **Art. 37.**
@@ -408,11 +407,11 @@
   4) naruszyć ważny interes prywatny.
 4. Panel rozpoznaje sprawę na posiedzeniu niejawnym, jeżeli osoba, której sprawa dotyczy, zrezygnuje z przysługującego jej uprawnienia do przeprowadzenia rozprawy.
 5. Decyzje Panelu zapadają zwykłą większością głosów.
-6. Prawo udziału w rozprawie lub posiedzeniu Panelu przysługuje Dyrektorowi Agencji lub wyznaczonej przez niego osobie.
+6. Prawo udziału w rozprawie Panelu przysługuje Dyrektorowi Agencji lub wyznaczonej przez niego osobie.
 7. Panel może orzec podanie treści decyzji do publicznej wiadomości w określony sposób, zgodnie z zasadami Światowego Kodeksu Antydopingowego, jeżeli uzna to za celowe ze względu na okoliczności sprawy.
 
 **Art. 41.**
-1. Członek Panelu podlega wyłączeniu od udziału w sprawie, w której zachodzi konflikt interesów lub istnieje inna okoliczność mogąca wywołać uzasadnioną wątpliwość co do jego bezstronności.
+1. Członek Panelu podlega wyłączeniu od udziału w sprawie, w której zachodzi konflikt interesów lub istnieje inna okoliczność mogąca wywołać uzasadnioną wątpliwość co do jego bezstronności zgodnie ze Światowym Kodeksem Antydopingowym i dokumentami o charakterze międzynarodowym określonymi przez Światową Agencję Antydopingową.
 2. Członek Panelu zawiadamia przewodniczącego Panelu właściwej instancji o zachodzącej podstawie swojego wyłączenia i wstrzymuje się od udziału w sprawie.
 3. W przypadku gdy członek Panelu podlega wyłączeniu, przewodniczący Panelu właściwej instancji wyznacza innego członka Panelu do składu orzekającego w danej sprawie.
 4. W przypadku gdy okoliczność, o której mowa w ust. 1, dotyczy przewodniczącego danej instancji, przewodniczącego i członków składu orzekającego w danej sprawie wyznacza najstarszy stażem członek Panelu właściwej instancji.
@@ -475,9 +474,7 @@
 
 **Art. 47f.**
 1. Dyrektorem Laboratorium może być osoba, która:
-  1) posiada:
-    a) co najmniej stopień naukowy doktora lub równorzędny w zakresie nauk farmaceutycznych, medycznych, biologicznych, chemicznych lub pokrewnych oraz doświadczenie lub ukończone szkolenie w zakresie bioanalizy, w szczególności w obszarze zwalczania dopingu w sporcie, lub
-    b) wiedzę i doświadczenie zawodowe w zakresie zwalczania dopingu w sporcie, w tym w szczególności co najmniej 10-letnie doświadczenie w pracy na stanowisku kierowniczym w laboratorium akredytowanym na zgodność z normą ISO obowiązującą w laboratoriach badawczych oraz kompetencje w zakresie rozwijania i kierowania projektami badawczymi;
+  1) spełnia wymagania zawarte w międzynarodowym standardzie wymagań dla laboratoriów określonym przez Światową Agencję Antydopingową;
   2) posiada doświadczenie i kompetencje w zakresie analizy materiału biologicznego na obecność substancji zabronionych;
   3) posiada doświadczenie lub ukończyła szkolenie w zakresie wykorzystywania analiz kryminalistycznych na potrzeby kontroli antydopingowej;
   4) posiada co najmniej 5-letnie doświadczenie w zarządzaniu zespołami pracowniczymi;
@@ -490,7 +487,7 @@
 2. Dyrektora Laboratorium odwołuje się w przypadku:
   1) złożenia rezygnacji;
   2) utraty zdolności do pełnienia obowiązków na skutek długotrwałej choroby, trwającej co najmniej 6 miesięcy;
-  3) zaprzestania spełniania jednego z wymagań, o których mowa w ust. 1 pkt 7-10;
+  3) zaprzestania spełniania jednego z wymagań, o których mowa w ust. 1 pkt 1 i 7-10;
   4) działania niezgodnego z prawem lub zasadami rzetelności lub gospodarności;
   5) niezatwierdzenia rocznego sprawozdania finansowego Laboratorium lub jego nieprzedstawienia w terminie.
 
@@ -626,8 +623,8 @@
 ## Rozdział 6c — Działalność Laboratorium
 
 **Art. 47v.**
-1. Laboratorium w zakresie, w jakim prowadzi analizy antydopingowe próbek fizjologicznych zawodników, stosuje standardy międzynarodowe Światowej Agencji Antydopingowej.
-2. Laboratorium prowadzi działania związane z zapewnieniem prawidłowych wyników analitycznych, stosownie do standardów międzynarodowych Światowej Agencji Antydopingowej.
+1. Laboratorium w zakresie, w jakim prowadzi analizy antydopingowe próbek fizjologicznych zawodników, stosuje standardy i dokumenty międzynarodowe określone przez Światową Agencję Antydopingową.
+2. Laboratorium prowadzi działania związane z zapewnieniem prawidłowych wyników analitycznych, stosownie do standardów i dokumentów międzynarodowych określonych przez Światową Agencję Antydopingową.
 
 **Art. 47w.**
 1. Laboratorium może zawierać z uczelniami i instytutami badawczymi umowy o współpracy w zakresie prowadzenia badań naukowych i prac rozwojowych, a także zatrudniania i kształcenia kadr, w szczególności:
