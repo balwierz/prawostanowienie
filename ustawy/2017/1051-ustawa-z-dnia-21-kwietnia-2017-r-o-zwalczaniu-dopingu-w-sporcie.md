@@ -389,9 +389,9 @@
 2. Ustanie członkostwa w Panelu następuje również z powodu rezygnacji albo śmierci.
 
 **Art. 38.**
-1. Minister właściwy do spraw kultury fizycznej powołuje i odwołuje członków Panelu, a także stwierdza ustanie ich członkostwa w Panelu, po zasięgnięciu opinii Rady Agencji.
+1. Minister właściwy do spraw kultury fizycznej powołuje i odwołuje członków Panelu.
 2. Kadencja Panelu trwa 3 lata.
-3. W przypadku odwołania członka Panelu lub stwierdzenia ustania jego członkostwa w Panelu, minister właściwy do spraw kultury fizycznej powołuje nowego członka Panelu na okres do końca jego kadencji.
+3. W przypadku odwołania członka Panelu lub ustania jego członkostwa w Panelu, minister właściwy do spraw kultury fizycznej powołuje nowego członka Panelu na okres do końca jego kadencji.
 
 **Art. 39.**
 1. Członkowie Panelu każdej instancji wybierają ze swojego grona przewodniczącego.
