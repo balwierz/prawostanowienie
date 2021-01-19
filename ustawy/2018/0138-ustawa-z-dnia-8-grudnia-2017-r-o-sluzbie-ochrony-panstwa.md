@@ -1574,7 +1574,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 - mając na celu właściwą realizację uprawnień funkcjonariuszy oraz zapewnienie adekwatnego ustalania równoważnika pieniężnego.
 
 **Art. 180.**
-1. Funkcjonariuszowi, który nie otrzymał lokalu mieszkalnego na podstawie decyzji administracyjnej o przydziale, przysługuje pomoc finansowa na uzyskanie lokalu mieszkalnego w spółdzielni mieszkaniowej lub towarzystwie budownictwa społecznego albo domu jednorodzinnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość.
+1. Funkcjonariuszowi, który nie otrzymał lokalu mieszkalnego na podstawie decyzji administracyjnej o przydziale, przysługuje pomoc finansowa na uzyskanie lokalu mieszkalnego w spółdzielni mieszkaniowej, społecznej inicjatywie mieszkaniowej lub towarzystwie budownictwa społecznego albo domu jednorodzinnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość.
 2. Pomoc finansowa na uzyskanie lokalu mieszkalnego nie przysługuje funkcjonariuszowi, którego małżonek otrzymał lokal mieszkalny na podstawie decyzji administracyjnej o przydziale, pomoc finansową na uzyskanie lokalu w innych służbach, odprawę mieszkaniową lub ekwiwalent pieniężny w zamian za rezygnację z lokalu mieszkalnego.
 3. Pomoc finansowa, o której mowa w ust. 1, podlega zwrotowi w przypadku:
   1) jej wypłaty jako nienależnego świadczenia;
