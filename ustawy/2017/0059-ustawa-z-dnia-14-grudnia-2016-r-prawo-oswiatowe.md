@@ -441,6 +441,10 @@
 11. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału przygotowania wojskowego. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia.
 12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na prowadzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa.
 
+**Art. 28b.**
+1. Minister właściwy do spraw oświaty i wychowania inicjuje, koordynuje i wspiera prowadzenie działalności innowacyjnej lub eksperymentalnej w systemie oświaty, a także może zlecić zadania z tego zakresu, w drodze umowy, podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2, 4-6, 7 i 8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086), stowarzyszeniom naukowym, zawodowym i innym podmiotom prowadzącym statutową działalność oświatową.
+2. Jeżeli zadanie, o którym mowa w ust. 1, dotyczy zlecenia nauczania lub kształcenia kadr naukowych podmiotowi, o którym mowa w art. 7 ust. 1 pkt 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, zlecenie tego zadania następuje w trybie określonym odpowiednio w art. 464 ust. 1 lub 2 tej ustawy.
+
 **Art. 29.**
 1. W przypadku szkół i placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego, określone w:
   1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 28a ust. 5, ust. 7 pkt 2 i ust. 9 pkt 2, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 2, 3 i 7 oraz art. 93 ust. 1 - wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;
@@ -656,6 +660,56 @@
   7) aktywności uczniów i ich rozwoju osiąganego adekwatnie do potrzeb i możliwości;
   8) doskonalenia pracy szkoły lub placówki przy zaangażowaniu społeczności szkolnej i środowiska lokalnego.
 
+**Art. 44a.**
+1. W celu wspierania realizacji działań, o których mowa w art. 44 ust. 1 i 2, minister właściwy do spraw oświaty i wychowania udostępnia szkołom i placówkom narzędzie informatyczne oraz zapewnia jego funkcjonowanie, w tym:
+  1) zapewnia ochronę przed nieuprawnionym dostępem do narzędzia informatycznego;
+  2) zapewnia integralność danych w narzędziu informatycznym;
+  3) przeciwdziała uszkodzeniom narzędzia informatycznego;
+  4) zapewnia rozliczalność działań dokonywanych na danych przetwarzanych w narzędziu informatycznym.
+2. Dyrektor szkoły lub placówki, która korzysta z narzędzia informatycznego, udostępnia uczniowi, a w przypadku ucznia niepełnoletniego - także jego rodzicom, oraz nauczycielowi identyfikator (login) i hasło dostępu, które umożliwiają rozpoczęcie korzystania przez ucznia i nauczyciela z narzędzia informatycznego.
+3. Identyfikator (login) i hasło dostępu, które umożliwiają rozpoczęcie korzystania z narzędzia informatycznego, mogą być używane wyłącznie przez ucznia, a w przypadku ucznia niepełnoletniego - ucznia lub jego rodziców, albo nauczyciela, którym dyrektor szkoły albo placówki je udostępnił.
+4. Dostęp do narzędzia informatycznego posiadają również osoby, które korzystają z narzędzia informatycznego niezależnie od struktury organizacyjnej szkoły lub placówki, o której mowa w art. 60a ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej, w szczególności w celu uzupełniania wiedzy dla rozwoju umiejętności z zakresu kształcenia ogólnego oraz kwalifikacji zawodowych i specjalistycznych.
+5. Minister właściwy do spraw oświaty i wychowania może zlecić wykonanie zadań, o których mowa w ust. 1, lub ich części jednostce organizacyjnej podległej temu ministrowi lub przez niego nadzorowanej.
+6. Informację o miejscu udostępnienia narzędzia informatycznego minister właściwy do spraw oświaty i wychowania zamieszcza na stronie internetowej urzędu obsługującego tego ministra.
+7. W narzędziu informatycznym, o którym mowa w ust. 1, przetwarza się:
+  1) dane ucznia:
+    a) imię (imiona) i nazwisko ucznia,
+    b) informacje o: uczęszczaniu ucznia do szkoły lub placówki oraz oddziale, semestrze i klasie, do której uczeń uczęszcza,
+    c) adres poczty elektronicznej ucznia, o ile go posiada,
+    d) wizerunek i głos udostępniany przez ucznia w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej,
+    e) treści wytworzone przez ucznia z wykorzystaniem funkcjonalności narzędzia informatycznego;
+  2) dane nauczyciela:
+    a) imię (imiona) i nazwisko nauczyciela,
+    b) numer PESEL nauczyciela, a w przypadku nauczyciela nieposiadającego numeru PESEL - serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz datę urodzenia,
+    c) informacje o zatrudnieniu nauczyciela w szkole lub placówce oraz nazwie i adresie siedziby tej szkoły lub placówki,
+    d) adres poczty elektronicznej nauczyciela, o ile go posiada,
+    e) wizerunek i głos udostępniany przez nauczyciela w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej,
+    f) treści wytworzone przez nauczyciela z wykorzystaniem funkcjonalności narzędzia informatycznego;
+  3) dane osoby, która korzysta z narzędzia informatycznego niezależnie od struktury organizacyjnej szkoły lub placówki, o której mowa w art. 60a ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej:
+    a) imię (imiona) i nazwisko osoby,
+    b) adres poczty elektronicznej osoby,
+    c) wizerunek i głos udostępniany przez osobę w czasie rzeczywistym za pośrednictwem transmisji audiowizualnej,
+    d) treści wytworzone przez osobę z wykorzystaniem funkcjonalności narzędzia informatycznego.
+8. Dane ucznia oraz dane nauczyciela, o których mowa odpowiednio w ust. 7 pkt 1 lit. a i b oraz pkt 2 lit. a-c, są pozyskiwane zgodnie z art. 60a ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej.
+9. Adres poczty elektronicznej ucznia albo nauczyciela jest przekazywany odpowiednio przez ucznia, a w przypadku ucznia niepełnoletniego - przez jego rodzica, albo przez nauczyciela, w szczególności w celu wykorzystania funkcjonalności narzędzia informatycznego przeznaczonych do komunikowania się.
+10. Dane, o których mowa w ust. 7 pkt 3, za zgodą osoby, o której mowa w ust. 7 pkt 3, są przetwarzane w celu korzystania ze wszystkich funkcjonalności narzędzia informatycznego.
+11. Dane ucznia, o których mowa w ust. 7 pkt 1 lit. a-c i e, są przechowywane w bazie danych narzędzia informatycznego przez okres 3 miesięcy od dnia zakończenia:
+  1) korzystania przez dziecko z wychowania przedszkolnego w danym przedszkolu lub oddziale przedszkolnym w szkole podstawowej;
+  2) uczęszczania do danej szkoły lub placówki albo na kształcenie ustawiczne w formach pozaszkolnych.
+12. Dane nauczyciela, o których mowa w ust. 7 pkt 2 lit. a-d i f, są przechowywane w bazie danych narzędzia informatycznego przez okres 3 miesięcy od dnia zakończenia roku szkolnego, w którym rozwiązano stosunek pracy z tym nauczycielem.
+13. Dane ucznia, o których mowa w ust. 7 pkt 1 lit. a-c i e, na wniosek ucznia, a w przypadku ucznia niepełnoletniego - jego rodzica, są przechowywane w bazie danych narzędzia informatycznego przez okres 12 miesięcy od dnia zakończenia:
+  1) korzystania przez dziecko z wychowania przedszkolnego w danym przedszkolu lub oddziale przedszkolnym w szkole podstawowej;
+  2) uczęszczania do danej szkoły lub placówki albo na kształcenie ustawiczne w formach pozaszkolnych.
+14. Dane nauczyciela, o których mowa w ust. 7 pkt 2 lit. a-d i f, na jego wniosek są przechowywane w bazie danych narzędzia informatycznego przez okres 6 miesięcy od dnia rozwiązania stosunku pracy z tym nauczycielem.
+15. Dane, o których mowa w ust. 7 pkt 3 lit. a, b i d, są przechowywane w bazie danych narzędzia informatycznego do czasu usunięcia ich przez osobę, o której mowa w ust. 7 pkt 3, lub po upływie 6 miesięcy od dnia ostatniej aktywności tej osoby w narzędziu informatycznym.
+16. Dane, o których mowa w ust. 7 pkt 1 lit. d, pkt 2 lit. e i pkt 3 lit. c, są przetwarzane w bazie danych narzędzia informatycznego w czasie rzeczywistym i nie podlegają utrwaleniu i przechowywaniu w tej bazie.
+17. Przepisy ust. 1-3, ust. 7 pkt 1 i 2, ust. 8, 9, 11-14 i 16 stosuje się odpowiednio do innych form wychowania przedszkolnego.
+18. Przepisy ust. 1-3, ust. 7 pkt 1 i 2, ust. 8, 9, 11-14 i 16 stosuje się odpowiednio do szkół i zespołów szkół w Polsce, o których mowa w art. 8 ust. 5 pkt 2 lit. c tiret pierwsze.
+19. Przepisy ust. 1, 4, ust. 7 pkt 3, ust. 10, 15 i 16 stosuje się odpowiednio do:
+  1) szkół polskich;
+  2) szkół i zespołów szkół w Polsce, o których mowa w art. 8 ust. 5 pkt 2 lit. c tiret drugie;
+  3) szkół i zespołów szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c.
+
 **Art. 45.**
 1. Szkoła lub placówka może realizować eksperyment pedagogiczny, który polega na modyfikacji istniejących lub wdrożeniu nowych działań w procesie kształcenia, przy zastosowaniu nowatorskich rozwiązań programowych, organizacyjnych, metodycznych lub wychowawczych, w ramach których są modyfikowane warunki, organizacja zajęć edukacyjnych lub zakres treści nauczania, w szczególności określone w art. 14 ust. 1 pkt 3-5.
 2. Celem eksperymentu pedagogicznego realizowanego w szkole lub placówce jest rozwijanie kompetencji i wiedzy uczniów oraz nauczycieli.
@@ -848,19 +902,11 @@
 **Art. 53.**
 1. Nadzór pedagogiczny nad publicznymi i niepublicznymi szkołami i placówkami artystycznymi, placówkami, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych oraz placówkami doskonalenia nauczycieli szkół artystycznych sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, który w tym celu, a także w celu realizacji zadań organu prowadzącego w odniesieniu do szkół i placówek przez siebie prowadzonych, tworzy, w drodze rozporządzenia, specjalistyczną jednostkę nadzoru oraz określa jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego oraz zadań organu prowadzącego.
 1a. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w rozporządzeniu, o którym mowa w ust. 1, może powierzyć specjalistycznej jednostce nadzoru, o której mowa w ust. 1, również zadania placówki doskonalenia nauczycieli szkół artystycznych.
-1b. Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, sprawuje nadzór pedagogiczny również w formie badania jakości kształcenia artystycznego w szkołach artystycznych, w szczególności przeprowadzając przesłuchania muzyczne, przeglądy plastyczne i baletowe oraz testy w zakresie przedmiotów teoretycznych dla uczniów publicznych szkół artystycznych oraz niepublicznych szkół artystycznych o uprawnieniach publicznej szkoły artystycznej. Badanie jakości kształcenia artystycznego ma na celu w szczególności ocenę poziomu osiągania przez uczniów efektów kształcenia artystycznego, określonych w przepisach wydanych na podstawie art. 46a ust. 2.
-1c. W celu przeprowadzenia badania jakości kształcenia artystycznego, dyrektor specjalistycznej jednostki nadzoru, o której mowa w ust. 1, powołuje komisje składające się z nauczycieli szkół artystycznych, nauczycieli akademickich lub artystów o uznanym dorobku artystycznym w zakresie właściwym dla danego zawodu szkolnictwa artystycznego, z zastrzeżeniem przepisów wydanych na podstawie ust. 1e pkt 2.
-1d. Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, ogłasza do dnia 15 czerwca w Biuletynie Informacji Publicznej, regulaminy poszczególnych form badania jakości kształcenia artystycznego przeprowadzanych w kolejnym roku szkolnym, w których określa w szczególności:
-  1) zakres danej formy badania jakości kształcenia artystycznego;
-  2) szczegółowe zasady i terminy przeprowadzania badania jakości kształcenia artystycznego w danej formie;
-  3) tryb i termin zgłaszania uczniów do uczestnictwa w badaniu jakości kształcenia artystycznego w danej formie.
-1e. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia:
-  1) tryb i formy badania jakości kształcenia artystycznego, o którym mowa w ust. 1b,
-  2) skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego
-- uwzględniając wymogi sprawności, skuteczności i efektywności badania jakości kształcenia artystycznego w szkołach artystycznych, o których mowa w ust. 1b.
-1f. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w rozporządzeniu, o którym mowa w ust. 1e, może określić:
-  1) tryb i formy badania jakości kształcenia artystycznego w niepublicznych szkołach artystycznych nieposiadających uprawnień publicznej szkoły artystycznej lub placówkach artystycznych oraz skład komisji przeprowadzających poszczególne formy badania jakości kształcenia artystycznego;
-  2) przypadki, w których komisję przeprowadzającą badanie jakości kształcenia artystycznego może powołać dyrektor szkoły artystycznej.
+1b. Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, w ramach nadzoru pedagogicznego może również prowadzić badania jakości kształcenia artystycznego w publicznych szkołach artystycznych oraz niepublicznych szkołach artystycznych posiadających uprawnienia publicznej szkoły artystycznej, mające na celu w szczególności ocenę poziomu osiągania przez uczniów efektów kształcenia artystycznego określonych w przepisach wydanych na podstawie art. 46a ust. 2.
+1c. Badania jakości kształcenia artystycznego, o których mowa w ust. 1b, mogą być przeprowadzane przez nauczycieli szkół artystycznych, nauczycieli akademickich lub artystów o uznanym dorobku artystycznym w zakresie właściwym dla danego zawodu szkolnictwa artystycznego, którzy posiadają kwalifikacje w zakresie zgodnym z zakresem objętym danym badaniem jakości kształcenia artystycznego, upoważnionych przez dyrektora specjalistycznej jednostki nadzoru, o której mowa w ust. 1.
+1d. Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, ogłasza w terminie do dnia 30 września w Biuletynie Informacji Publicznej informacje o formach, zakresie i terminach badań jakości kształcenia artystycznego, o których mowa w ust. 1b, zaplanowanych na dany rok szkolny.
+1e. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, tryb i formy badań jakości kształcenia artystycznego, o których mowa w ust. 1b, uwzględniając wymogi sprawności, skuteczności i efektywności tych badań.
+1f. (uchylony)
 2. Minister właściwy do spraw rolnictwa sprawuje nadzór pedagogiczny nad publicznymi szkołami rolniczymi, placówkami rolniczymi oraz placówkami doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, przez siebie prowadzonymi, minister właściwy do spraw środowiska - nad publicznymi szkołami leśnymi przez siebie prowadzonymi, a minister właściwy do spraw zdrowia - nad publiczną placówką doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym. W tym celu, a także w celu realizacji zadań, o których mowa w art. 10 ust. 1, w odniesieniu do szkół i placówek przez siebie prowadzonych odpowiednio minister właściwy do spraw rolnictwa, minister właściwy do spraw środowiska lub minister właściwy do spraw zdrowia mogą, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, w drodze rozporządzenia, utworzyć specjalistyczną jednostkę nadzoru oraz określić jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego.
 2a. Minister Obrony Narodowej sprawuje nadzór pedagogiczny nad realizacją szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6, w szkołach ponadpodstawowych prowadzących oddziały przygotowania wojskowego.
 3. Specjalistyczne jednostki nadzoru, o których mowa w ust. 1 i 2, są państwowymi jednostkami budżetowymi finansowanymi odpowiednio z budżetu ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, ministra właściwego do spraw rolnictwa, ministra właściwego do spraw środowiska lub ministra właściwego do spraw zdrowia.
@@ -2358,6 +2404,7 @@
 **Art. 173.**
 1. Przepisy art. 106 ust. 1-3, 5 i 6 stosuje się odpowiednio do szkół niepublicznych.
 2. Przepisy art. 108 stosuje się do przedszkoli niepublicznych.
+3. Przepisy art. 44a stosuje się odpowiednio do szkół i placówek niepublicznych oraz niepublicznych innych form wychowania przedszkolnego.
 
 **Art. 174.**
 1. Do niepublicznych placówek, o których mowa w art. 2 pkt 7 i 8, stosuje się przepisy wydane na podstawie art. 123 ust. 1 pkt 1, z wyjątkiem przepisów określających wysokość i zasady odpłatności wnoszonej przez rodziców za pobyt ich dzieci w tych placówkach.
