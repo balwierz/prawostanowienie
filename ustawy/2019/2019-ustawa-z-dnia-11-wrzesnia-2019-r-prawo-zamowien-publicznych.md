@@ -1721,7 +1721,7 @@
 7. Wymaganie procentu działalności, o którym mowa w ust. 1 pkt 11 lit. b, pkt 12 lit. b, pkt 13 lit. b i pkt 14 lit. c, nie jest spełnione, jeżeli reorganizacja działalności, o której mowa w ust. 6, została przeprowadzona dla pozoru.
 8. Zakazu udziału kapitału prywatnego, o którym mowa w ust. 1 pkt 11 lit. c, pkt 12 lit. c i pkt 13 lit. c, nie stosuje się do:
   1) osób prawnych z udziałem partnera prywatnego wyłonionego zgodnie z ustawą z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2019 r. poz. 1445 i 1572) lub
-  2) udziału pracowników reprezentujących w sumie do 15% kapitału zakładowego spółki, posiadających łącznie do 15% głosów na zgromadzeniu wspólników albo walnym zgromadzeniu.
+  2) udziału pracowników reprezentujących w sumie do 15% kapitału zakładowego spółki, w przypadku prostej spółki akcyjnej - do 15% akcji tej spółki, posiadających łącznie do 15% głosów na zgromadzeniu wspólników albo walnym zgromadzeniu.
 9. Wykonawca, któremu udzielono zamówienia na podstawie ust. 1 pkt 11-13, nie może powierzyć wykonania części zamówienia podwykonawcy, która dotyczy głównego przedmiotu zamówienia.
 
 **Art. 215.**
