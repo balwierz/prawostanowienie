@@ -860,7 +860,7 @@
 **Art. 114.** Minister Sprawiedliwości na wniosek sędziego kierującego Sądem Najwyższym lub izbą Sądu Najwyższego, wskazanego przez Prezydenta Rzeczypospolitej Polskiej w trybie określonym w art. 111 § 4, może delegować sędziego sądu powszechnego z co najmniej 10-letnim stażem pracy do pełnienia obowiązków w Sądzie Najwyższym.
 
 **Art. 115.**
-§ 1. W okresie 3 lat od dnia wejścia w życie niniejszej ustawy skarga nadzwyczajna może być wniesiona od prawomocnych orzeczeń kończących postępowanie w sprawach, które uprawomocniły się po dniu 17 października 1997 r. Przepisu art. 89 § 3 zdanie pierwsze nie stosuje się.
+§ 1. W okresie 6 lat od dnia wejścia w życie niniejszej ustawy skarga nadzwyczajna może być wniesiona od prawomocnych orzeczeń kończących postępowanie w sprawach, które uprawomocniły się po dniu 17 października 1997 r.
 § 1a. Skarga nadzwyczajna od prawomocnego orzeczenia kończącego postępowanie w sprawie, które uprawomocniło się przed wejściem w życie niniejszej ustawy, może być wniesiona przez Prokuratora Generalnego lub Rzecznika Praw Obywatelskich. Przepisu art. 89 § 2 nie stosuje się.
 § 2. Jeżeli zachodzą przesłanki wskazane w art. 89 § 1, a zaskarżone orzeczenie wywołało nieodwracalne skutki prawne, w szczególności jeżeli od dnia uprawomocnienia się zaskarżonego orzeczenia upłynęło 5 lat, a także jeżeli uchylenie orzeczenia naruszyłoby międzynarodowe zobowiązania Rzeczypospolitej Polskiej, Sąd Najwyższy ogranicza się do stwierdzenia wydania zaskarżonego orzeczenia z naruszeniem prawa oraz wskazania okoliczności, z powodu których wydał takie rozstrzygnięcie, chyba że zasady lub wolności i prawa człowieka i obywatela określone w Konstytucji przemawiają za wydaniem rozstrzygnięcia, o którym mowa w art. 91 § 1.
 
@@ -939,7 +939,7 @@
 
 **Art. 131.** Sędziowie zajmujący w dniu wejścia w życie niniejszej ustawy stanowiska w innych izbach Sądu Najwyższego mogą zostać przeniesieni na stanowiska w Izbie Dyscyplinarnej. Do dnia obsadzenia po raz pierwszy wszystkich stanowisk sędziów Sądu Najwyższego w Izbie Dyscyplinarnej, sędzia zajmujący stanowisko w innej izbie Sądu Najwyższego składa wniosek o przeniesienie na stanowisko w Izbie Dyscyplinarnej do Krajowej Rady Sądownictwa, po uzyskaniu zgody Pierwszego Prezesa Sądu Najwyższego oraz Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej oraz izby, w której zajmuje stanowisko sędzia składający wniosek o przeniesienie. Do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego w Izbie Dyscyplinarnej, do dnia obsadzenia po raz pierwszy wszystkich stanowisk w tej izbie, powołuje Prezydent Rzeczypospolitej Polskiej, na wniosek Krajowej Rady Sądownictwa.
 
-**Art. 132.** Niezwłocznie, nie później jednak niż w terminie 2 lat od wejścia w życie niniejszej ustawy, Sąd Najwyższy opublikuje w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego orzeczenia wraz z uzasadnieniami wydane przez Sąd Najwyższy przed wejściem w życie niniejszej ustawy.
+**Art. 132.** Niezwłocznie, nie później jednak niż w terminie 5 lat od wejścia w życie niniejszej ustawy, Sąd Najwyższy opublikuje w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego orzeczenia wraz z uzasadnieniami wydane przez Sąd Najwyższy przed wejściem w życie niniejszej ustawy.
 
 **Art. 133.**
 § 1. Z dniem wejścia w życie niniejszej ustawy znosi się Izbę Pracy, Ubezpieczeń Społecznych i Spraw Publicznych oraz Izbę Wojskową.
