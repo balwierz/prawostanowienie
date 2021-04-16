@@ -89,7 +89,8 @@
 **Art. 15.**
 § 1. Prezes Sądu Najwyższego kieruje pracą danej izby.
 § 2. Prezes Sądu Najwyższego jest powoływany przez Prezydenta Rzeczypospolitej Polskiej, po zasięgnięciu opinii Pierwszego Prezesa Sądu Najwyższego, na trzyletnią kadencję spośród 3 kandydatów wybranych przez zgromadzenie sędziów izby Sądu Najwyższego i może zostać ponownie powołany tylko dwukrotnie. Osoba powołana na stanowisko Prezesa Sądu Najwyższego może zajmować to stanowisko tylko do czasu przejścia w stan spoczynku, przeniesienia w stan spoczynku albo wygaśnięcia stosunku służbowego sędziego Sądu Najwyższego.
-§ 3. Do kandydatów na stanowisko Prezesa Sądu Najwyższego oraz ich wyboru przez zgromadzenie sędziów izby Sądu Najwyższego przepisy art. 12 § 2 i art. 13 stosuje się odpowiednio.
+§ 3. Do kandydatów na stanowisko Prezesa Sądu Najwyższego oraz ich wyboru przez zgromadzenie sędziów izby Sądu Najwyższego przepisy art. 12 § 2, art. 13 oraz art. 13a § 1 i 2 stosuje się odpowiednio, z tym że do dokonania wyboru kandydatów na stanowisko Prezesa Sądu Najwyższego wymagana jest obecność co najmniej 2/3 członków zgromadzenia sędziów izby Sądu Najwyższego. Jeżeli wyboru nie dokonano ze względu na brak wymaganego kworum, do dokonania wyboru na kolejnym posiedzeniu wymagana jest obecność co najmniej 1/2 członków zgromadzenia sędziów izby Sądu Najwyższego. Jeżeli także na tym posiedzeniu wyboru nie dokonano ze względu na brak wymaganego kworum, wybór może zostać dokonany na kolejnym posiedzeniu w przypadku obecności co najmniej 1/3 członków zgromadzenia sędziów izby Sądu Najwyższego.
+§ 4. Sędzia Sądu Najwyższego, któremu Prezydent Rzeczypospolitej Polskiej powierzył wykonywanie obowiązków Prezesa Sądu Najwyższego, wykonuje obowiązki i uprawnienia Prezesa Sądu Najwyższego określone w ustawie. Do powierzenia wykonywania obowiązków Prezesa Sądu Najwyższego przepis art. 13a § 1 stosuje się odpowiednio.
 
 **Art. 16.**
 § 1. Samorząd sędziów Sądu Najwyższego stanowią wszyscy sędziowie Sądu Najwyższego w stanie czynnym. W skład samorządu nie wchodzą sędziowie delegowani do pełnienia czynności sędziowskich w Sądzie Najwyższym.
@@ -570,6 +571,7 @@
 **Art. 83.**
 § 1. Jeżeli w orzecznictwie sądów powszechnych, sądów wojskowych lub Sądu Najwyższego ujawnią się rozbieżności w wykładni przepisów prawa będących podstawą ich orzekania, Pierwszy Prezes Sądu Najwyższego lub Prezes Sądu Najwyższego może, w celu zapewnienia jednolitości orzecznictwa, przedstawić wniosek o rozstrzygnięcie zagadnienia prawnego Sądowi Najwyższemu w składzie 7 sędziów lub innym odpowiednim składzie.
 § 2. Z wnioskiem, o którym mowa w § 1, mogą wystąpić również Prokurator Generalny, Rzecznik Praw Obywatelskich oraz, w zakresie swojej właściwości, Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej, Rzecznik Praw Dziecka, Rzecznik Praw Pacjenta, Przewodniczący Rady Dialogu Społecznego, Przewodniczący Komisji Nadzoru Finansowego, Rzecznik Finansowy i Rzecznik Małych i Średnich Przedsiębiorców.
+§ 3. Do wniosku, o którym mowa w § 1, przepis art. 80 stosuje się odpowiednio, z tym że jeżeli wniosek został przedstawiony przez Pierwszego Prezesa Sądu Najwyższego albo z wnioskiem o rozstrzygnięcie zagadnienia prawnego w pełnym składzie Sądu Najwyższego albo składzie połączonych izb wystąpił podmiot, o którym mowa w § 2, obowiązki i uprawnienia Prezesa Sądu Najwyższego określone w art. 80 wykonuje Pierwszy Prezes Sądu Najwyższego.
 
 **Art. 84.** Postanowienie o przedstawieniu zagadnienia prawnego oraz uchwała Sądu Najwyższego wymagają pisemnego uzasadnienia.
 
@@ -677,7 +679,7 @@
 § 2. Czynności w sprawach z zakresu prawa pracy w stosunku do osób wykonujących czynności służbowe w Kancelarii Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej dokonuje Prezes kierujący pracą tej izby lub upoważniona przez niego osoba.
 
 **Art. 103.**
-§ 1. Wynagrodzenie Szefa Kancelarii Pierwszego Prezesa Sądu Najwyższego oraz Szefa Kancelarii Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej jest ustalane na podstawie przepisów o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe w zakresie dotyczącym sekretarza stanu.
+§ 1. (uchylony)
 § 2. Wynagrodzenie członków Biura Studiów i Analiz Sądu Najwyższego niebędących sędziami jest równe wynagrodzeniu zasadniczemu sędziego sądu apelacyjnego w stawce podstawowej, z tym że wynagrodzenie to podwyższa się o wartość składki obciążającej pracownika z tytułu podlegania obowiązkowi ubezpieczenia społecznego.
 § 3. Osoby, o których mowa w § 2, mogą podejmować dodatkowe zatrudnienie lub inne zajęcie lub sposób zarobkowania wyłącznie za zgodą Pierwszego Prezesa Sądu Najwyższego. Zgoda może być cofnięta w każdym czasie.
 § 4. W związku z pełnioną funkcją członkowi Biura Studiów i Analiz Sądu Najwyższego przysługuje dodatek funkcyjny.
@@ -913,7 +915,7 @@
 § 1. Wybór ławników Sądu Najwyższego pierwszej kadencji Senat przeprowadza w terminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 § 2. W terminie miesiąca od dnia wejścia w życie niniejszej ustawy Pierwszy Prezes Sądu Najwyższego albo sędzia Sądu Najwyższego, któremu w trybie określonym w art. 111 § 4 Prezydent Rzeczypospolitej Polskiej powierzył kierowanie Sądem Najwyższym, ustala liczbę ławników Sądu Najwyższego.
 § 3. Pierwszy Prezes Sądu Najwyższego albo sędzia kierujący Sądem Najwyższym, wskazany przez Prezydenta Rzeczypospolitej Polskiej w trybie określonym w art. 111 § 4, podaje liczbę ławników Sądu Najwyższego do wiadomości Marszałka Senatu najpóźniej w dniu następującym po dniu jej ustalenia.
-§ 4. Pierwsza kadencja ławników Sądu Najwyższego rozpoczyna się w dniu złożenia ślubowania przez ławników Sądu Najwyższego i kończy się z dniem 31 grudnia 2021 r.
+§ 4. Pierwsza kadencja ławników Sądu Najwyższego rozpoczyna się w dniu złożenia ślubowania przez ławników Sądu Najwyższego i kończy się z dniem 31 grudnia 2022 r.
 
 **Art. 127.**
 § 1. Do dnia rozpoczęcia pierwszej kadencji ławników Sądu Najwyższego obowiązki ławników Sądu Najwyższego wykonują ławnicy wskazani przez Pierwszego Prezesa Sądu Najwyższego albo sędziego Sądu Najwyższego, któremu w trybie określonym w art. 111 § 4 Prezydent Rzeczypospolitej Polskiej powierzył kierowanie Sądem Najwyższym, spośród ławników Sądu Okręgowego w Warszawie oraz Sądu Okręgowego Warszawa-Praga w Warszawie, którzy zgłosili gotowość orzekania w Sądzie Najwyższym. Uprawnienia Pierwszego Prezesa Sądu Najwyższego albo sędziego Sądu Najwyższego, któremu w trybie określonym w art. 111 § 4 Prezydent Rzeczypospolitej Polskiej powierzył kierowanie Sądem Najwyższym w zakresie wskazania ławników orzekających w postępowaniach określonych w art. 27 § 1 pkt 1 wykonuje sędzia, o którym mowa w art. 130.
