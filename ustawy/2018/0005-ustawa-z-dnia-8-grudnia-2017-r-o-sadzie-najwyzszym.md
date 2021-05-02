@@ -395,8 +395,9 @@
 § 4. W przypadku odmowy przedstawienia wniosku, o którym mowa w § 3, zainteresowanemu służy odwołanie do Sądu Najwyższego.
 
 **Art. 53.**
-§ 1. Sędziemu Sądu Najwyższego stale zamieszkałemu poza Warszawą przysługuje bezpłatne zakwaterowanie w Warszawie oraz zwrot kosztów przejazdu i dodatek z tytułu rozłąki z rodziną na zasadach określonych w przepisach wykonawczych wydanych na podstawie art. 26 ust. 2a ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych.
+§ 1. Sędziemu Sądu Najwyższego stale zamieszkałemu poza Warszawą przysługuje bezpłatne zakwaterowanie w Warszawie oraz zwrot kosztów przejazdu i dodatek z tytułu rozłąki z rodziną.
 § 2. Świadczenia i należności, o których mowa w § 1, nie przysługują, gdy odległość od miejscowości, w której sędzia Sądu Najwyższego ma miejsce stałego zamieszkania do Warszawy nie przekracza 60 km, chyba że Pierwszy Prezes Sądu Najwyższego, na wniosek sędziego Sądu Najwyższego uzna, że jest to uzasadnione ze względu na zakres obowiązków i warunki dojazdu.
+§ 3. Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, zasady zapewnienia bezpłatnego zakwaterowania sędziom Sądu Najwyższego stale zamieszkałym poza Warszawą, a także wysokość i warunki wypłacania im zwrotu poniesionych kosztów przejazdu oraz dodatku za rozłąkę, mając na uwadze konieczność zapewnienia sędziom Sądu Najwyższego warunków pracy odpowiadających godności urzędu oraz specyfice i zakresowi ich obowiązków.
 
 **Art. 54.** Sędziemu Sądu Najwyższego przechodzącemu w stan spoczynku przysługuje jednorazowa odprawa w wysokości sześciomiesięcznego wynagrodzenia.
 
