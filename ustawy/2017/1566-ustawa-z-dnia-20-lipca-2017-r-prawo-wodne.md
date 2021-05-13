@@ -4660,7 +4660,11 @@
 8. Nieuregulowany stan prawny nieruchomości, o których mowa w art. 409 ust. 1 pkt 2 lit. e, lub brak danych w ewidencji gruntów i budynków pozwalających na ustalenie właściciela nieruchomości nie stanowi przeszkody do wszczęcia postępowania w sprawach dotyczących pozwolenia wodnoprawnego, wydania i doręczenia decyzji wydawanych w tych sprawach oraz zawiadomień o ich wydaniu. Do zawiadomienia stron o wszczęciu postępowania w sprawach dotyczących pozwolenia wodnoprawnego, innych czynnościach organu lub o wydaniu decyzji w sprawach dotyczących pozwolenia wodnoprawnego stosuje się przepisy art. 49 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
 9. Przez nieruchomość o nieuregulowanym stanie prawnym rozumie się nieruchomość o nieuregulowanym stanie prawnym w rozumieniu art. 113 ust. 6 i 7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
-**Art. 402.** W postępowaniach dotyczących zgód wodnoprawnych nie stosuje się przepisów art. 31 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+**Art. 402.**
+1. W postępowaniach dotyczących zgód wodnoprawnych nie stosuje się przepisów art. 31 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+2. Do postępowania dotyczącego pozwolenia wodnoprawnego, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
+
+**Art. 402a.** Do pozwolenia wodnoprawnego, poprzedzonego decyzją o środowiskowych uwarunkowaniach, stosuje się przepisy art. 72 ust. 6 i 6a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 **Art. 403.**
 1. W pozwoleniu wodnoprawnym ustala się cel projektowanych do wykonania urządzeń wodnych i innych robót, cel i zakres korzystania z wód, warunki wykonywania uprawnienia oraz obowiązki niezbędne ze względu na ochronę zasobów środowiska, interesów ludności i gospodarki, w zasięgu oddziaływania zamierzonego korzystania z wód lub planowanych do wykonania urządzeń wodnych, w szczególności:
@@ -4712,6 +4716,7 @@
 2. Do wniosku dołącza się:
   1) operat wodnoprawny z oznaczeniem daty jego wykonania, zwany dalej „operatem”, wraz z opisem prowadzenia zamierzonej działalności niezawierającym określeń specjalistycznych;
   2) decyzję o środowiskowych uwarunkowaniach, jeżeli jest wymagana;
+  2a) w przypadku przedsięwzięć, dla których wydano decyzję o środowiskowych uwarunkowaniach w postępowaniu wymagającym udziału społeczeństwa - załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
   3) wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, a w przypadku jego braku - decyzję o ustaleniu lokalizacji inwestycji celu publicznego albo decyzję o warunkach zabudowy, jeżeli są wymagane;
   4) ocenę wodnoprawną, jeżeli jest wymagana;
   5) wypisy z rejestru gruntów lub uproszczone wypisy z rejestru gruntów dla nieruchomości usytuowanych w zasięgu oddziaływania zamierzonego korzystania z wód lub w zasięgu oddziaływania planowanych do wykonania urządzeń wodnych.
