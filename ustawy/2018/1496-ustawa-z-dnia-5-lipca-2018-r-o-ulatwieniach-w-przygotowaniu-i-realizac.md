@@ -81,7 +81,7 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
   13) wykazanie, że inwestycja mieszkaniowa odpowiada standardom, o których mowa w rozdziale 3.
 8. Do wniosku, o którym mowa w ust. 1, dołącza się:
   1) koncepcję urbanistyczno-architektoniczną, o której mowa w art. 6;
-  2) oświadczenie inwestora, że nie zachodzi kolizja lokalizacji inwestycji mieszkaniowej z inwestycjami, o których mowa w art. 4 pkt 1-12;
+  2) oświadczenie inwestora, że nie zachodzi kolizja lokalizacji inwestycji mieszkaniowej z inwestycjami, o których mowa w art. 4 pkt 1-13;
   3) uzgodnienie, o którym mowa w art. 10 ust. 2, w przypadku realizacji inwestycji na terenach, o których mowa w art. 10 ust. 1;
   4) uzgodnienie, o którym mowa w art. 11 ust. 2 pkt 1 lub 2, w przypadku realizacji inwestycji na terenach, o których mowa w art. 11 ust. 1;
   5) decyzję o środowiskowych uwarunkowaniach, jeżeli jest wymagana zgodnie z ustawą z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko (Dz. U. z 2017 r. poz. 1405, 1566 i 1999 oraz z 2018 r. poz. 810, 1089 i 1479);
