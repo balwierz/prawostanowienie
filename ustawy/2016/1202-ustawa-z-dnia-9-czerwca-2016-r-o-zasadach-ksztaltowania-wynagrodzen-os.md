@@ -15,7 +15,7 @@
 - w zakresie wykonywania praw z akcji przysługujących tym podmiotom, zwanych dalej „podmiotami uprawnionymi do wykonywania praw udziałowych”.
 3. Ilekroć w ustawie jest mowa o:
   1) członku organu nadzorczego - należy przez to rozumieć członka rady nadzorczej, członka komisji rewizyjnej, członka rady administrującej nieuprawnionego do prowadzenia spraw spółki europejskiej, a także pełnomocnika wspólnika w spółce z ograniczoną odpowiedzialnością, o którym mowa w art. 11 ust. 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2016 r. poz. 981 i 1174);
-  2) członku organu zarządzającego - należy przez to rozumieć członka zarządu spółki kapitałowej, członka rady administrującej uprawnionego do prowadzenia spraw spółki europejskiej, a także likwidatora;
+  2) członku organu zarządzającego - należy przez to rozumieć członka zarządu spółki kapitałowej, dyrektora w prostej spółce akcyjnej, członka rady administrującej uprawnionego do prowadzenia spraw spółki europejskiej, a także likwidatora;
   3) członku organu nadzorczego wskazanym przez podmiot uprawniony do wykonywania praw udziałowych - należy przez to rozumieć członka organu nadzorczego:
     a) powołanego do organu nadzorczego oświadczeniem woli podmiotu uprawnionego do wykonywania praw udziałowych,
     b) którego powołanie do organu nadzorczego spółki zostało poprzedzone wskazaniem przez podmiot uprawniony do wykonywania praw udziałowych na podstawie ustawy lub statutu,
