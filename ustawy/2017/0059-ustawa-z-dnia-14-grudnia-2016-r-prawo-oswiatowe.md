@@ -626,12 +626,12 @@
 **Art. 37.**
 1. Na wniosek rodziców dyrektor odpowiednio publicznego lub niepublicznego przedszkola, szkoły podstawowej i szkoły ponadpodstawowej, do której dziecko zostało przyjęte, może zezwolić, w drodze decyzji, na spełnianie przez dziecko odpowiednio obowiązku, o którym mowa w art. 31 ust. 4, poza przedszkolem, oddziałem przedszkolnym w szkole podstawowej lub inną formą wychowania przedszkolnego i obowiązku szkolnego lub obowiązku nauki poza szkołą.
 2. Zezwolenie, o którym mowa w ust. 1, może być wydane przed rozpoczęciem roku szkolnego albo w trakcie roku szkolnego, jeżeli:
-  1) przedszkole, szkoła podstawowa lub szkoła ponadpodstawowa, do której dziecko zostało przyjęte, znajduje się na terenie województwa, w którym zamieszkuje dziecko;
+  1) (uchylony)
   2) do wniosku o wydanie zezwolenia dołączono:
-    a) opinię publicznej poradni psychologiczno-pedagogicznej,
+    a) (uchylony)
     b) oświadczenie rodziców o zapewnieniu dziecku warunków umożliwiających realizację podstawy programowej obowiązującej na danym etapie edukacyjnym,
     c) zobowiązanie rodziców do przystępowania w każdym roku szkolnym przez dziecko spełniające obowiązek szkolny lub obowiązek nauki do rocznych egzaminów klasyfikacyjnych, o których mowa w ust. 4.
-3. Przepisów ust. 2 pkt 1 i pkt 2 lit. a i c nie stosuje się w przypadku wydawania zezwolenia, o którym mowa w ust. 1, dla dzieci i młodzieży posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym.
+3. Przepisu ust. 2 pkt 2 lit. c nie stosuje się w przypadku wydawania zezwolenia, o którym mowa w ust. 1, dla dzieci i młodzieży posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym.
 4. Uczeń spełniający obowiązek szkolny lub obowiązek nauki poza szkołą uzyskuje roczne oceny klasyfikacyjne na podstawie rocznych egzaminów klasyfikacyjnych z zakresu części podstawy programowej obowiązującej na danym etapie edukacyjnym, uzgodnionej na dany rok szkolny z dyrektorem szkoły. Egzaminy klasyfikacyjne są przeprowadzane przez szkołę, której dyrektor zezwolił na spełnianie obowiązku szkolnego lub obowiązku nauki poza szkołą. Uczniowi takiemu nie ustala się oceny zachowania. Egzamin klasyfikacyjny przeprowadza się odpowiednio zgodnie z art. 44l lub art. 44wa ustawy o systemie oświaty i przepisami wydanymi na podstawie art. 44zb ustawy o systemie oświaty.
 5. Przepisu ust. 4 nie stosuje się do dzieci i młodzieży posiadających orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność intelektualną w stopniu umiarkowanym lub znacznym.
 6. Roczna i końcowa klasyfikacja ucznia spełniającego obowiązek szkolny lub obowiązek nauki poza szkołą odbywa się zgodnie z przepisami rozdziału 3a ustawy o systemie oświaty.
