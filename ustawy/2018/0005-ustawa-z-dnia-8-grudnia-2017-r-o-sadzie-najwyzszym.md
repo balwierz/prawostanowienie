@@ -647,6 +647,18 @@
 § 6. Postanowienie Sądu Najwyższego wraz z uzasadnieniem doręcza się Prokuratorowi Generalnemu oraz stronom bądź uczestnikom postępowania, w którym zostało wydane zaskarżone orzeczenie.
 § 7. W sprawach nieuregulowanych w § 1-6 do postępowania o unieważnienie orzeczenia stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego o skardze kasacyjnej albo ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego o kasacji.
 
+**Art. 96a.**
+§ 1. Dla każdej sprawy z zakresu, o którym mowa w art. 1 pkt 1-3, tworzy się akta. Akta są tworzone w postaci papierowej.
+§ 2. Akta są przetwarzane w postaci papierowej oraz z wykorzystaniem systemu elektronicznego zarządzania dokumentacją w rozumieniu przepisów o narodowym zasobie archiwalnym i archiwach.
+§ 3. Akta sprawy udostępnia się stronom i uczestnikom postępowania. Strony i uczestnicy postępowania mają prawo przeglądać akta sprawy i otrzymywać odpisy, kopie lub wyciągi z tych akt.
+§ 4. Akta wszystkich zakończonych prawomocnie spraw sądowych Sądu Najwyższego przechowuje się w Sądzie Najwyższym przez okres niezbędny ze względu na rodzaj i charakter sprawy oraz znaczenie materiałów zawartych w aktach jako źródła informacji.
+§ 5. Po okresie przechowywania w Sądzie Najwyższym akta sprawy podlegają przekazaniu do właściwych archiwów państwowych albo zniszczeniu.
+§ 6. Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia:
+  1) sposób tworzenia i przetwarzania akt, o których mowa w § 1;
+  2) warunki i tryb przechowywania i przekazywania akt spraw sądowych Sądu Najwyższego;
+  3) warunki i tryb niszczenia akt spraw sądowych Sądu Najwyższego po upływie okresu ich przechowywania.
+§ 7. Prezydent Rzeczypospolitej Polskiej, wydając rozporządzenie, o którym mowa w § 6, uwzględni w szczególności warunki elektronicznego zarządzania dokumentacją, w rozumieniu przepisów, o których mowa w § 2, rodzaje spraw oraz właściwe zabezpieczenie akt przed dostępem osób nieuprawnionych, utratą tych akt lub ich zniszczeniem.
+
 **Art. 97.**
 § 1. Sąd Najwyższy, w przypadku stwierdzenia przy rozpoznawaniu sprawy oczywistej obrazy przepisów - niezależnie od innych uprawnień - wytyka uchybienie właściwemu sądowi. Przed wytknięciem uchybienia obowiązany jest pouczyć sędziego lub sędziów wchodzących w skład sądu orzekającego o możliwości złożenia na piśmie wyjaśnień w terminie 7 dni. Stwierdzenie i wytknięcie uchybienia nie ma wpływu na rozstrzygnięcie sprawy.
 § 2. O wytknięciu uchybienia Sąd Najwyższy zawiadamia prezesa właściwego sądu.
