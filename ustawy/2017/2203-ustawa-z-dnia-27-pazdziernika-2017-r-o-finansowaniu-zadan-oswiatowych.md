@@ -827,6 +827,15 @@
 1. Na współfinansowanie programów, o których mowa w art. 90u ust. 1 pkt 2 i 3 ustawy o systemie oświaty, jest przyznawana dotacja celowa, po zapewnieniu udziału środków własnych jednostki samorządu terytorialnego lub organizacji, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, albo pozyskaniu przez tę jednostkę lub organizację środków z innych źródeł, na realizację tworzonych regionalnych lub lokalnych programów.
 2. Na współfinansowanie programów, o których mowa w art. 90u ust. 1 ustawy o systemie oświaty, mogą być przeznaczane środki zagraniczne w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2014 r. poz. 1448 i 1856, z 2015 r. poz. 1240, z 2016 r. poz. 1948 oraz z 2017 r. poz. 1566) oraz ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2017 r. poz. 1376 i 1475).
 
+**Art. 73a.**
+1. Na programy i przedsięwzięcia, o których mowa w art. 90w ustawy o systemie oświaty, przeznacza się środki finansowe na oświatę i wychowanie.
+2. Minister właściwy do spraw oświaty i wychowania przekazuje środki finansowe w ramach programów i przedsięwzięć na podstawie umowy.
+3. Minister właściwy do spraw oświaty i wychowania może upoważnić dyrektora jednostki organizacyjnej podległej temu ministrowi lub przez niego nadzorowanej do zawierania i rozliczania umów, o których mowa w ust. 2.
+4. Minister właściwy do spraw oświaty i wychowania udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację dotyczącą środków finansowych przyznanych w ramach programu albo przedsięwzięcia obejmującą:
+  1) nazwy podmiotów, które otrzymały środki finansowe;
+  2) wysokość przyznanych środków finansowych.
+5. Do przyznawania środków finansowych, o których mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735).
+
 ## Rozdział 10 — Inne dotacje udzielane z budżetu państwa
 
 **Art. 74.**
