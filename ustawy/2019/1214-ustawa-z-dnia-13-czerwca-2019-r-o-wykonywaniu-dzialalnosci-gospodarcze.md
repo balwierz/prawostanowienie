@@ -4,6 +4,7 @@
 
 **Art. 1.** Ustawa określa zasady:
 1) podejmowania i wykonywania przez przedsiębiorców działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym oraz kontroli tej działalności;
+1a) kontroli broni alarmowej i sygnałowej;
 2) oczyszczania terenów z materiałów wybuchowych i niebezpiecznych.
 
 **Art. 2.**
@@ -16,8 +17,10 @@
     a) nabój scalony do strzeleckiej broni palnej,
     b) naboje do broni palnej innej niż strzelecka broń palna, pociski kierowane, pociski rakietowe, miny, bomby, granaty, torpedy, głowice, zapalniki, ładunki, lonty i środki pozoracji pola walki,
     c) inne środki przeznaczone do niszczenia lub obezwładniania osób lub obiektów, a także do celów pozoracyjnych, ćwiczebnych, szkolno-treningowych, badań lub sportowych,
-    d) komponenty amunicji zawierające materiały wybuchowe, chemiczne środki obezwładniające lub zapalające albo inne substancje, których działanie zagraża życiu lub zdrowiu, a także materiał wybuchowy miotający w postaci prochu;
+    d) komponenty amunicji zawierające materiały wybuchowe, chemiczne środki obezwładniające lub zapalające albo inne substancje, których działanie zagraża życiu lub zdrowiu, a także materiał wybuchowy miotający w postaci prochu,
+    e) komponenty amunicji niezawierające materiałów wybuchowych: korpusy pocisków amunicji artyleryjskiej, łuski amunicji artyleryjskiej, kadłuby min, elementy układów napędowych, naprowadzania i sterowania pocisków rakietowych, bomb lotniczych i głębinowych, torped i imitatorów celów;
   2) broń - jest to broń palna, o której mowa w pkt 3, oraz inne rodzaje broni w rozumieniu art. 4 ust. 1 pkt 2-4 ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2019 r. poz. 284), a także inne urządzenia i narzędzia przeznaczone do niszczenia lub obezwładniania celów;
+  2a) broń alarmowa i sygnałowa - jest to urządzenie z uchwytem na nabój, przeznaczone wyłącznie do strzelania ślepymi nabojami oraz do wystrzeliwania substancji drażniących, innych substancji aktywnych lub pirotechnicznych nabojów sygnalizacyjnych, służące do alarmowania lub sygnalizowania;
   3) broń palna - jest to broń, w której do miotania pocisku lub substancji drażniących, innych substancji aktywnych lub nabojów pirotechnicznych lub do wytwarzania efektów dźwiękowo-wizualnych jest wykorzystywana energia produktów powstałych w wyniku reakcji chemicznej ładunku miotającego;
   4) istotne części - oznaczają lufę, zamek, bęben nabojowy, szkielet lub komorę zamkową strzeleckiej broni palnej, odpowiednio do przyjętych rozwiązań technicznych danego modelu broni;
   5) istotne części artyleryjskiej broni palnej - oznaczają lufę, komorę zamkową lub nasadę zamkową oraz zamek, przeznaczone do broni palnej wyposażonej w lufę o najmniejszej średnicy części prowadzącej przewodu lufy wynoszącej co najmniej 20 mm;
@@ -53,8 +56,10 @@
 - wymaga uzyskania koncesji.
 2. Nie wymaga uzyskania koncesji obrót:
   1) wyrobami pirotechnicznymi, o których mowa w art. 62c ust. 1 pkt 1 lit. a-c, pkt 2 lit. a oraz pkt 3 lit. a ustawy z dnia 21 czerwca 2002 r. o materiałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. z 2019 r. poz. 45, 55 i 60);
-  2) bronią palną pozbawioną cech użytkowych w rozumieniu ustawy oraz wyrobami o przeznaczeniu wojskowym lub policyjnym, pozbawionymi cech użytkowych w rozumieniu ustawy.
+  2) bronią palną pozbawioną cech użytkowych w rozumieniu ustawy oraz wyrobami o przeznaczeniu wojskowym lub policyjnym, pozbawionymi cech użytkowych w rozumieniu ustawy;
+  3) bronią alarmową i sygnałową.
 3. Rada Ministrów określi, w drodze rozporządzenia, klasyfikację rodzajów materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, na których wytwarzanie lub obrót jest wymagane uzyskanie koncesji, uwzględniając aktualną wiedzę techniczną z zakresu wytwarzania materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym oraz konieczność ich wyczerpującego sklasyfikowania.
+4. Kategorie i podkategorie strzeleckiej broni palnej i amunicji do strzeleckiej broni palnej są określone w załączniku do ustawy.
 
 **Art. 8.**
 1. Koncesji na wykonywanie działalności gospodarczej, o której mowa w art. 7 ust. 1, zwanej dalej „koncesją”, udziela, odmawia udzielenia, zmienia, odmawia zmiany lub cofa, w drodze decyzji, minister właściwy do spraw wewnętrznych, zwany dalej „organem koncesyjnym”.
@@ -183,7 +188,7 @@
   3) zaświadczenie komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej albo szefa delegatury Wojskowej Ochrony Przeciwpożarowej - w przypadku komórek i jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej, państwowego powiatowego inspektora sanitarnego oraz wojewódzkiego inspektora ochrony środowiska, stwierdzające, że obiekty budowlane i urządzenia techniczne przeznaczone do wykonywania koncesjonowanej działalności gospodarczej spełniają wymagania określone odpowiednio w przepisach o ochronie przeciwpożarowej, sanitarnych i ochronie środowiska - w przypadku wykonywania działalności gospodarczej w zakresie wytwarzania lub obrotu z prawem magazynowania, a w przypadku mikroprzedsiębiorców, w rozumieniu ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, wykonujących działalność gospodarczą w zakresie wytwarzania i obrotu replikami broni czarnoprochowej - tylko zaświadczenie komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej;
   4) zaświadczenia o niekaralności osób i podmiotów wymienionych w art. 10 ust. 1 pkt 1 i 2 za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
   5) dokumenty potwierdzające posiadane wykształcenie i przygotowanie zawodowe przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 1, oraz osób uprawnionych do kierowania koncesjonowaną działalnością gospodarczą;
-  6) orzeczenie lekarskie i orzeczenie psychologiczne, o których mowa w art. 12 ust. 2 i 3, dla przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 1, oraz osób uprawnionych do kierowania koncesjonowaną działalnością gospodarczą;
+  6) orzeczenie lekarskie i orzeczenie psychologiczne, o których mowa w art. 12 ust. 2 i 3, dotyczące przedsiębiorcy, o którym mowa w art. 10 ust. 1 pkt 1, oraz osób uprawnionych do kierowania koncesjonowaną działalnością gospodarczą, wydane nie wcześniej niż na 3 miesiące przed dniem złożenia wniosku;
   7) dowód zapłaty opłaty skarbowej.
 4. Dokumenty, o których mowa w ust. 3, przedsiębiorca składa w formie oryginału, uwierzytelnionej kopii lub poświadczonego tłumaczenia.
 5. Do wniosku o zmianę koncesji dokumenty wymienione w ust. 3 dołącza się stosownie do zakresu zmiany wskazanej we wniosku.
@@ -247,7 +252,7 @@
   1) wydano prawomocne orzeczenie zakazujące przedsiębiorcy wykonywania koncesjonowanej działalności gospodarczej;
   2) jest to uzasadnione ze względu na zagrożenie obronności lub bezpieczeństwa państwa albo porządku publicznego;
   3) przedsiębiorca nie podjął wykonywania działalności gospodarczej określonej w koncesji w terminie określonym w art. 27 ust. 1 pkt 1 lub zaprzestał wykonywania działalności gospodarczej określonej w koncesji;
-  4) przedsiębiorca inny niż osoba fizyczna przestał spełniać warunki określone w art. 10 ust. 1 pkt 2 w zakresie posiadania co najmniej dwóch osób uprawnionych do kierowania działalnością gospodarczą określoną w koncesji, spełniających warunki z art. 10 ust. 1 pkt 1, z których co najmniej jedna jest członkiem organu zarządzającego, a druga członkiem tego organu, prokurentem lub pełnomocnikiem uprawnionym do kierowania działalnością określoną w koncesji i pomimo wezwania organu koncesyjnego w terminie 6 miesięcy nie spełnił tych warunków;
+  4) przedsiębiorca inny niż osoba fizyczna przestał spełniać warunki określone w art. 10 ust. 1 pkt 2 w zakresie posiadania co najmniej dwóch osób będących członkami organu zarządzającego przedsiębiorstwa albo dwóch osób, z których jedna jest członkiem organu zarządzającego przedsiębiorstwa, a druga uprawnionym do kierowania działalnością określoną w koncesji prokurentem lub pełnomocnikiem, spełniających warunki określone w art. 10 ust. 1 pkt 1 i pomimo wezwania organu koncesyjnego w terminie 3 miesięcy nie spełnił tych warunków;
   5) przedsiębiorca przestał spełniać warunki określone w art. 10 ust. 1:
     a) pkt 1 lit. g,
     b) pkt 2 - w zakresie spełniania przez osoby w nim wymienione warunku, o którym mowa w art. 10 ust. 1 pkt 1 lit. g,
@@ -332,6 +337,7 @@
   5) zabezpiecza obiekty magazynowe przed dostępem osób nieuprawnionych, w tym także zapewnia bezpośrednią ochronę obiektu magazynowego oraz odpowiednie zabezpieczenie techniczne;
   6) prowadzi ewidencję osób wchodzących, zawierającą w szczególności ich imiona i nazwiska, stosownie do przewidzianych zasad ograniczenia dostępu do obiektów magazynowych.
 3. Rodzaje obiektów magazynowych klasyfikuje się w zależności od rodzaju i ilości przechowywanych w nich materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, a także celu i miejsca ich przechowywania.
+3a. W obiekcie magazynowym, w którym przechowuje się materiały wybuchowe, broń, amunicję oraz wyroby i technologie o przeznaczeniu wojskowym lub policyjnym, nie prowadzi się innej działalności gospodarczej.
 4. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
   1) klasyfikację rodzajów obiektów magazynowych,
   2) wymagania organizacyjne i techniczne obiektów magazynowych, w których są przechowywane materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym, w tym szczegółowe wymogi prowadzenia kart kwalifikacyjnych obiektu magazynowego,
@@ -355,7 +361,7 @@
 1. W przypadku wydania ostatecznej decyzji cofającej koncesję przedsiębiorca jest obowiązany:
   1) zabezpieczyć wytworzone i zgromadzone materiały wybuchowe, broń, amunicję, wyroby oraz technologię o przeznaczeniu wojskowym lub policyjnym, na zasadach określonych w art. 33 ust. 1 oraz w przepisach wydanych na podstawie art. 33 ust. 4;
   2) zbyć materiały wybuchowe, broń, amunicję, wyroby oraz technologię o przeznaczeniu wojskowym lub policyjnym;
-  3) przekazać ewidencje, o których mowa w art. 47 ust. 1 i art. 59 ust. 1, organowi koncesyjnemu w terminie 30 dni od dnia zakończenia działalności.
+  3) przekazać ewidencje, o których mowa w art. 47 ust. 1 i art. 59 ust. 1, organowi koncesyjnemu w terminie 3 miesięcy od dnia uprawomocnienia się tej decyzji.
 2. Ewidencje przekazywane organowi koncesyjnemu porządkuje się chronologicznie i przekazuje się wraz ze spisem zawartości. W przypadku stwierdzenia braków w ewidencji albo niezgodności ze spisem zawartości, organ koncesyjny wzywa przedsiębiorcę do uzupełnienia braków w terminie 14 dni.
 3. Organ koncesyjny przechowuje przekazane ewidencje przez okres 10 lat.
 4. Przepisów ust. 1-3 nie stosuje się w przypadku przedsiębiorcy, który nie podjął działalności gospodarczej na podstawie koncesji.
@@ -395,9 +401,9 @@
   3) opis środków zapewniających gotowość na wypadek wystąpienia zdarzeń stwarzających zagrożenie dla życia lub zdrowia ludzi, mienia i środowiska i ograniczanie skutków tych zdarzeń;
   4) sposoby prowadzenia działań ratowniczych, powiadamiania i współdziałania z zewnętrznymi służbami ratowniczymi i innymi podmiotami oraz zasady postępowania po zakończeniu tych działań;
   5) zasady ewakuacji ludzi i mienia z miejsc wystąpienia zdarzeń stwarzających zagrożenie dla życia lub zdrowia ludzi, mienia i środowiska.
-3. Plan, o którym mowa w ust. 1, uzgadnia się z właściwymi ze względu na miejsce wykonywania działalności gospodarczej komendantami powiatowymi (miejskimi) Państwowej Straży Pożarnej, a w przypadku gdy organem założycielskim przedsiębiorcy jest Minister Obrony Narodowej - również z właściwym terytorialnie szefem delegatury Wojskowej Ochrony Przeciwpożarowej.
+3. Plan, o którym mowa w ust. 1, uzgadnia się z właściwymi ze względu na miejsce wykonywania działalności gospodarczej komendantami powiatowymi (miejskimi) Państwowej Straży Pożarnej, a w przypadku jednostki organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej, wykonującej działalność gospodarczą - również z właściwym terytorialnie szefem delegatury Wojskowej Ochrony Przeciwpożarowej.
 4. Plan, o którym mowa w ust. 1, uzgadnia się z właściwym ze względu na miejsce wykonywania działalności gospodarczej komendantem wojewódzkim (Stołecznym) Policji, a w zakresie zagrożeń o charakterze terrorystycznym z właściwym terytorialnie dyrektorem delegatury Agencji Bezpieczeństwa Wewnętrznego albo z Szefem Agencji Bezpieczeństwa Wewnętrznego w przypadku, gdy nie występuje dla danego terytorium właściwy dyrektor delegatury Agencji Bezpieczeństwa Wewnętrznego.
-5. W przypadku gdy organem założycielskim przedsiębiorcy jest Minister Obrony Narodowej, plan, o którym mowa w ust. 1, uzgadnia się z właściwym ze względu na miejsce wykonywania działalności gospodarczej komendantem oddziału Żandarmerii Wojskowej, a w zakresie zagrożeń o charakterze terrorystycznym z Szefem Służby Kontrwywiadu Wojskowego.
+5. W przypadku jednostki organizacyjnej podległej Ministrowi Obrony Narodowej lub przez niego nadzorowanej wykonującej działalność gospodarczą, plan, o którym mowa w ust. 1, uzgadnia się z właściwym ze względu na miejsce wykonywania działalności gospodarczej komendantem oddziału Żandarmerii Wojskowej, a w zakresie zagrożeń o charakterze terrorystycznym z Szefem Służby Kontrwywiadu Wojskowego.
 6. Przedsiębiorca przesyła uzgodniony plan, o którym mowa w ust. 1, organom, o których mowa odpowiednio w ust. 3-5.
 7. Plan, o którym mowa w ust. 1, podlega aktualizacji w przypadku zmian w sposobie używania obiektu lub procesu technologicznego, jednak nie rzadziej niż raz na 5 lat.
 8. Rada Ministrów określi, w drodze rozporządzenia, tryb opracowania, szczegółowy zakres i wymagania, jakim powinien odpowiadać plan postępowania na wypadek zagrożenia życia lub zdrowia ludzi, mienia oraz środowiska, w tym dokumenty dołączane do planu, uwzględniając rodzaj prowadzonej działalności gospodarczej i stopień jej potencjalnego zagrożenia dla życia lub zdrowia ludzi, mienia oraz środowiska.
@@ -407,12 +413,22 @@
 2. Przepisów art. 42 nie stosuje się do działalności gospodarczej wykonywanej przez rusznikarzy oraz mikroprzedsiębiorców, w rozumieniu ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, wytwarzających repliki broni czarnoprochowej.
 
 **Art. 44.**
-1. Każdy egzemplarz broni palnej, w tym strzeleckiej broni palnej, lub każda istotna część podlegają oznakowaniu przez wytwórcę niezwłocznie po wytworzeniu.
+1. Każdy egzemplarz broni palnej, w tym strzeleckiej broni palnej, i każda istotna część podlegają oznakowaniu przez wytwórcę niezwłocznie po wytworzeniu.
 2. Strzelecką broń palną oznakowuje się niepowtarzalnym, czytelnym i trwałym oznakowaniem, które obejmuje:
   1) imię i nazwisko lub nazwę wytwórcy lub oznaczenie handlowe;
   2) państwo lub miejsce wytworzenia, zgodnie z rozporządzeniem Komisji (UE) nr 1106/2012 z dnia 27 listopada 2012 r. w sprawie wykonania rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 471/2009 w sprawie statystyk Wspólnoty dotyczących handlu zagranicznego z państwami trzecimi, w odniesieniu do aktualizacji nazewnictwa państw i terytoriów (Dz. Urz. UE L 328 z 28.11.2012, str. 7), zwanym dalej „rozporządzeniem 1106/2012”;
   3) numer seryjny i rok wytworzenia, jeśli nie został zawarty w numerze seryjnym;
   4) model - w miarę możliwości.
+2a. Minimalna wielkość czcionki użytej do oznakowania wynosi 1,6 mm. W przypadku gdy rozmiar istotnej części nie pozwala na użycie czcionki tej wielkości, dopuszczalne jest użycie mniejszej czcionki.
+2b. Do oznakowywania stosuje się alfabet łaciński i cyfry arabskie.
+2c. Oznakowanie nanosi się, wykorzystując techniki:
+  1) głębokiego grawerowania laserowego;
+  2) grawerowania klasycznego;
+  3) cechowania ręcznego z użyciem stempli lub numeratorów;
+  4) znakowania mikropunktowego.
+2d. W przypadku szkieletów i komór zamkowych strzeleckiej broni palnej wykonanych z materiałów niemetalowych, w szczególności z polimerów syntetycznych lub żywic syntetycznych oraz ich kompozytów wzmocnionych włóknami, w szczególności włóknami węglowymi lub szklanymi, oznakowania dokonuje się przez:
+  1) umieszczenie oznakowania na metalowej płytce osadzanej na stałe w materiale szkieletu lub komory zamkowej w taki sposób, że płytki nie można łatwo usunąć, a jej usunięcie powoduje zniszczenie części szkieletu lub komory zamkowej;
+  2) zastosowanie techniki ubytkowej, z zachowaniem wymogów wielkości oznakowania określonych w ust. 2a.
 3. Oznakowanie, o którym mowa w ust. 2, umieszcza się na szkielecie, komorze zamkowej lub zamku strzeleckiej broni palnej.
 4. Istotne części oznakowuje się w sposób wskazany w ust. 2, a w przypadku gdy rozmiar istotnej części nie pozwala na umieszczenie na niej pełnego oznakowania, oznakowuje się ją co najmniej numerem seryjnym lub kodem alfanumerycznym albo cyfrowym.
 5. Broń palną inną niż strzelecka broń palna oznakowuje się niepowtarzalnym, czytelnym i trwałym oznakowaniem, które obejmuje co najmniej:
@@ -443,6 +459,119 @@
 5. Przepisu ust. 4 nie stosuje się do strzeleckiej broni palnej i odrębnych istotnych części, wytworzonych na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Policji, Agencji Wywiadu, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celno-Skarbowej, Służby Więziennej, Służby Ochrony Państwa, Straży Marszałkowskiej, Straży Ochrony Kolei oraz innych państwowych formacji uzbrojonych, a także przyjętych od tych podmiotów do remontu, naprawy, przerobienia, oznakowania, pozbawienia cech użytkowych lub zniszczenia.
 6. Ewidencja, o której mowa w ust. 1, może być prowadzona łącznie z ewidencją materiałów wybuchowych, broni, amunicji oraz wyrobów i technologii o przeznaczeniu wojskowym lub policyjnym, przeznaczonych do obrotu oraz przyjętych na przechowanie lub w komis, a także z ewidencją zawartych transakcji mających za przedmiot obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym.
 7. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw gospodarki oraz Ministrem Obrony Narodowej, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia, szczegółowy sposób ewidencjonowania materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, wytworzonych oraz przyjętych do remontu, naprawy, przerobienia, oznakowania, pozbawienia cech użytkowych lub zniszczenia, w tym dokumenty stanowiące podstawę wpisu do ewidencji, sposób prowadzenia i szczegółowy zakres danych zawartych w ewidencji i tych dokumentach, mając na względzie potrzebę zapewnienia pełnej rejestracji i jednoznacznej identyfikacji materiałów wybuchowych, broni, amunicji oraz wyrobów o przeznaczeniu wojskowym lub policyjnym, wytworzonych oraz przyjętych do remontu, naprawy, przerobienia, oznakowania, pozbawienia cech użytkowych oraz zniszczenia.
+
+#### Oddział 1a — Broń alarmowa i sygnałowa
+
+**Art. 47a.**
+1. Broni alarmowej i sygnałowej nie uznaje się za strzelecką broń palną, jeżeli została wytworzona zgodnie ze specyfikacjami technicznymi mającymi na celu zapewnienie, aby nie można było jej przerobić tak, aby miotała pocisk w wyniku działania ładunku miotającego, a w szczególności gdy:
+  1) lufa jest skonstruowana w taki sposób, aby nie mogła zostać usunięta lub zmieniona bez znacznego uszkodzenia lub zniszczenia urządzenia;
+  2) w lufie umieszczono niemożliwe do usunięcia przegrody;
+  3) komora nabojowa jest przesunięta, przechylona lub rozłożona w taki sposób, aby uniemożliwić miotanie z urządzenia pocisku z załadowanej w nim amunicji.
+2. Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia, specyfikacje techniczne, jakie powinno spełniać urządzenie, aby zostało uznane za broń alarmową i sygnałową, mające na celu zapewnienie, aby urządzenia takiego nie można było przerobić tak, aby miotało pocisk w wyniku działania ładunku miotającego, uwzględniając aktualną wiedzę techniczną i normy dotyczące wytwarzania broni i amunicji.
+
+**Art. 47b.**
+1. Broń alarmową i sygnałową uznaje się za niezdolną do przerobienia tak, aby miotała pocisk w wyniku działania ładunku miotającego, jeżeli podmiot uprawniony zweryfikował zgodność wytworzenia danego typu lub modelu broni ze specyfikacjami technicznymi i wydał dla danego typu lub modelu broni świadectwo broni alarmowej i sygnałowej.
+2. Podmiotem uprawnionym do weryfikacji i wydania świadectwa broni alarmowej i sygnałowej może być podmiot posiadający potencjał naukowy i techniczny, specjalistyczną wiedzę i doświadczenie w zakresie zasad budowy i eksploatacji broni palnej, ustalania rodzajów, typów, modeli broni palnej oraz ustalania ich zdatności do oddania strzału, prowadzący badania urządzeń miotających produkcji przemysłowej i samodziałowej.
+
+**Art. 47c.**
+1. Świadectwo broni alarmowej i sygnałowej uprawnia przedsiębiorcę do wprowadzania do obrotu broni alarmowej i sygnałowej określonego typu lub modelu.
+2. Do urządzeń, które nie spełniają wymogów, o których mowa w art. 47a, i dla których nie wydano świadectwa broni alarmowej i sygnałowej, stosuje się przepisy dotyczące strzeleckiej broni palnej.
+3. Każda zmiana w dokumentacji technicznej lub technologii wykonania broni alarmowej i sygnałowej podlega ponownemu opiniowaniu przez podmiot uprawniony do weryfikacji oraz wydania świadectwa broni alarmowej i sygnałowej.
+4. Weryfikacja i wydanie świadectwa broni alarmowej i sygnałowej jest odpłatne. Opłata wynosi nie więcej niż wysokość przeciętnego wynagrodzenia.
+5. Podmiot uprawniony przekazuje do rejestru broni alarmowej i sygnałowej, o którym mowa w art. 47l, poświadczoną kopię świadectwa broni alarmowej i sygnałowej.
+6. Świadectwa broni alarmowej i sygnałowej wydawane przez podmiot uprawniony są przez niego przechowywane przez okres 20 lat od dnia wydania opinii.
+
+**Art. 47d.** Urządzenie wytworzone w państwie członkowskim Unii Europejskiej, państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronie umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub w państwie trzecim uznaje się za broń alarmową i sygnałową jeżeli zostało wydane dla tego urządzenia świadectwo broni alarmowej i sygnałowej lub równorzędny dokument o nieuznaniu go za strzelecką broń palną przez podmiot uprawniony przez państwo członkowskie Unii Europejskiej, państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronę umowy o Europejskim Obszarze Gospodarczym lub Konfederację Szwajcarską do wydania takiej opinii.
+
+**Art. 47e.**
+1. Broń alarmową i sygnałową oznakowuje się, umieszczając na jej szkielecie niepowtarzalne, czytelne i trwałe oznakowanie, które obejmuje:
+  1) symbol literowy „BAS”, który umieszcza się w bezpośredniej bliskości nazwy wytwórcy lub oznaczenia handlowego, przy użyciu tej samej techniki;
+  2) imię i nazwisko lub nazwę wytwórcy lub oznaczenie handlowe;
+  3) państwo lub miejsce wytworzenia, zgodnie z rozporządzeniem 1106/2012;
+  4) typ lub model;
+  5) kaliber;
+  6) numer seryjny i rok wytworzenia.
+2. Na komorze nabojowej, zamku pistoletu, bębnie nabojowym lub zamku, odpowiednio do przyjętych rozwiązań technicznych dla danego typu lub modelu broni alarmowej i sygnałowej, umieszcza się numer seryjny.
+3. Do oznakowania broni alarmowej i sygnałowej stosuje się odpowiednio przepisy art. 44 ust. 2a-2d dotyczące oznakowania strzeleckiej broni palnej oraz art. 57 ust. 1.
+
+**Art. 47f.**
+1. Przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania broni alarmowej i sygnałowej ewidencjonuje wytworzoną i przeznaczoną do obrotu broń alarmową i sygnałową oddzielnie dla każdego typu lub modelu określonego w wydanym dla tej broni świadectwie broni alarmowej i sygnałowej, zgodnie z numerem seryjnym naniesionym na tej broni oraz numerem świadectwa broni alarmowej i sygnałowej dla tej broni.
+2. W ewidencji broni alarmowej i sygnałowej, o której mowa w ust. 1, gromadzi się następujące dane:
+  1) numer seryjny urządzenia;
+  2) datę jego wytworzenia lub przekazania do obrotu;
+  3) numer świadectwa broni alarmowej i sygnałowej oraz datę sprzedaży;
+  4) imię i nazwisko wprowadzającego dane urządzenie do ewidencji.
+3. Ewidencję, o której mowa w ust. 1, prowadzi się w formie księgi ewidencyjnej.
+4. Przedsiębiorca wykonujący działalność gospodarczą w zakresie wytwarzania broni alarmowej i sygnałowej przechowuje dokumentację techniczną, na podstawie której wytworzył dany typ lub model broni.
+5. Przedsiębiorca przechowuje świadectwa broni alarmowej i sygnałowej wydane dla wytwarzanej przez niego broni.
+6. Ewidencje, o których mowa w ust. 1, świadectwa broni alarmowej i sygnałowej łącznie z dokumentacją techniczną przechowywane są przez okres 20 lat od dnia wydania tego świadectwa.
+7. W przypadku wydania ostatecznej decyzji cofającej koncesję przedsiębiorca jest obowiązany przekazać organowi koncesyjnemu ewidencje, o których mowa w ust. 1, uporządkowane chronologicznie ze spisem zawartości, w terminie 30 dni od dnia otrzymania tej decyzji.
+
+**Art. 47g.**
+1. Przedsiębiorca dokonujący sprzedaży broni alarmowej i sygnałowej jest obowiązany wydać nabywcy kopię świadectwa broni alarmowej i sygnałowej.
+2. Na wydawanej kopii świadectwa broni alarmowej i sygnałowej przedsiębiorca umieszcza oznaczenie przedsiębiorcy dokonującego sprzedaży oraz numer seryjny broni alarmowej i sygnałowej.
+
+**Art. 47h.** Minister właściwy do spraw wewnętrznych, po zasięgnięciu opinii Szefa Agencji Bezpieczeństwa Wewnętrznego, określi, w drodze rozporządzenia:
+1) podmiot uprawniony do weryfikacji, że broń alarmowa i sygnałowa została wytworzona zgodnie ze specyfikacjami technicznymi, o których mowa w art. 47a, oraz do wydawania świadectwa broni alarmowej i sygnałowej,
+2) wykaz dokumentów wchodzących w skład dokumentacji technicznej broni alarmowej i sygnałowej,
+3) sposób i tryb postępowania z bronią alarmową i sygnałową oraz z dokumentacją techniczną, przekazanymi w celu weryfikacji zgodności wytworzenia ze specyfikacjami technicznymi, o których mowa w art. 47a,
+4) wysokość opłaty za weryfikację oraz wydanie świadectwa broni alarmowej i sygnałowej,
+5) wzór świadectwa broni alarmowej i sygnałowej
+- mając na względzie potencjał naukowo-badawczy podmiotu uprawnionego, jego dotychczasowe doświadczenie w obszarze objętym regulacją, dające gwarancję należytego wykonania zleconych czynności, sprawne przeprowadzenie weryfikacji i jej rzetelne udokumentowanie, adekwatność opłaty do kosztów weryfikacji oraz konieczność objęcia kontrolą wszystkich typów i modeli broni alarmowej i sygnałowej nieuznanej za broń palną wytworzonych lub przywiezionych na teren Rzeczypospolitej Polskiej oraz zawarcia we wzorze świadectwa broni alarmowej i sygnałowej danych umożliwiających jednoznaczną identyfikację broni alarmowej i sygnałowej.
+
+**Art. 47i.**
+1. Podmiot uprawniony, o którym mowa w art. 47b ust. 1, przeprowadza kontrolę wytworzonych na terytorium Rzeczypospolitej Polskiej lub sprowadzonych na terytorium Rzeczypospolitej Polskiej spoza terytorium Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) - strony umowy o Europejskim Obszarze Gospodarczym, Konfederacji Szwajcarskiej lub państwa trzeciego modeli, typów lub egzemplarzy urządzeń, o których mowa w art. 47a ust. 1, w zakresie spełniania przez nie wymogów, o których mowa w art. 47a.
+2. Podmiot uprawniony przeprowadza kontrolę:
+  1) z własnej inicjatywy - w odniesieniu do urządzeń będących w posiadaniu przedsiębiorcy wykonującego działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym;
+  2) na wniosek służb bezpieczeństwa i porządku publicznego, których zadania obejmują zwalczanie przestępstw związanych z nielegalnym wytwarzaniem i posiadaniem broni - w odniesieniu do urządzeń będących w posiadaniu tych służb.
+3. Kontrola może być prowadzona wspólnie z organami innych państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej wykonującymi w nich zadania określone w art. 47b ust. 1.
+4. Do przeprowadzenia kontroli wspólnie z organami innych państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej podmiot uprawniony powołuje zespół kontrolny. Powołując zespół kontrolny, podmiot uprawniony wyznacza jego kierownika, który koordynuje przebieg czynności kontrolnych oraz sporządza protokół kontroli.
+
+**Art. 47j.**
+1. Kontrola jest wykonywana na podstawie upoważnienia do przeprowadzenia kontroli wydanego przez podmiot uprawniony.
+2. Kontrolę przeprowadza się w siedzibie podmiotu uprawnionego.
+3. Z przeprowadzonej kontroli sporządza się protokół kontroli, który zawiera:
+  1) imię i nazwisko kontrolującego albo kontrolujących;
+  2) datę rozpoczęcia i zakończenia czynności kontrolnych;
+  3) wskazanie zakresu kontroli;
+  4) opis stwierdzonego w toku kontroli stanu faktycznego, w tym stwierdzonych nieprawidłowości;
+  5) jeżeli przedmiotem kontroli jest urządzenie, o którym mowa w art. 47a ust. 1, będące w posiadaniu przedsiębiorcy wykonującego działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym - także:
+    a) oznaczenie przedsiębiorcy dokonującego sprzedaży,
+    b) typ, model oraz numer seryjny urządzenia,
+    c) datę wytworzenia urządzenia lub przekazania go do obrotu,
+    d) numer świadectwa broni alarmowej i sygnałowej oraz datę jej sprzedaży.
+4. Kontrolujący może utrwalić przebieg kontroli za pomocą technik fotograficznych i audiowizualnych. Nośniki obrazu i dźwięku, na których utrwalono przebieg kontroli, załącza się do protokołu kontroli. Niezależnie od sporządzenia protokołu, ustalenia dotyczące urządzenia będącego przedmiotem kontroli dokonane w toku kontroli utrwala się w wynikach kontroli w formie pisemnej.
+5. Wyniki kontroli przekazuje się Komendantowi Głównemu Policji, a wyniki kontroli stwierdzające niespełnienie przez urządzenie wymogów, o których mowa w art. 47a, również organowi koncesyjnemu.
+
+**Art. 47k.**
+1. Jeżeli przedmiotem kontroli jest urządzenie, o którym mowa w art. 47a ust. 1, będące w posiadaniu przedsiębiorcy wykonującego działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym:
+  1) podmiot uprawniony zawiadamia przedsiębiorcę o planowanej kontroli na 7 dni przed planowanym terminem jej przeprowadzenia;
+  2) przedsiębiorca przekazuje w sposób uzgodniony z podmiotem uprawnionym urządzenie, o którym mowa w art. 47a ust. 1, wraz z dokumentacją techniczną podmiotowi uprawnionemu;
+  3) przedsiębiorca udziela na żądanie podmiotu uprawnionego ustnych i pisemnych wyjaśnień mających związek z zakresem kontroli.
+2. Koszty przekazania urządzenia do kontroli ponosi przedsiębiorca, o którym mowa w ust. 1.
+3. Kontrolę wykonuje się w sposób sprawny i możliwie niezakłócający funkcjonowania przedsiębiorcy. Urządzenie, o którym mowa w art. 47a ust. 1, oraz dokumentację techniczną zwraca się przedsiębiorcy bezzwłocznie po zakończeniu kontroli.
+4. Podmiot uprawniony może wezwać przedsiębiorcę, o którym mowa w ust. 1, do usunięcia nieprawidłowości w zakresie niespełniania przez urządzenie wymogów, o których mowa w art. 47a, stwierdzonych w toku kontroli.
+5. Jeżeli przedmiotem kontroli jest urządzenie, o którym mowa w art. 47a ust. 1, przekazane przez służby bezpieczeństwa i porządku publicznego, o których mowa w art. 47i ust. 2 pkt 2, przepisy ust. 1 pkt 2 i 3 oraz ust. 2 i 3 stosuje się odpowiednio.
+
+**Art. 47l.**
+1. Komendant Główny Policji prowadzi rejestr broni alarmowej i sygnałowej.
+2. W rejestrze broni alarmowej i sygnałowej gromadzi się:
+  1) wydane, ważne oraz wycofane świadectwa broni alarmowej i sygnałowej dla danych typów lub modeli broni, otrzymane od podmiotów uprawnionych do weryfikacji i wydawania świadectw broni alarmowej i sygnałowej;
+  2) świadectwa broni alarmowej i sygnałowej, która może być wprowadzona do obrotu na terytorium Rzeczypospolitej Polskiej, wydane przez podmioty uprawnione innych państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej.
+
+**Art. 47m.**
+1. Komendant Główny Policji prowadzi Krajowy Punkt Kontaktowy do Spraw Broni Alarmowej i Sygnałowej, zwany dalej „Punktem Kontaktowym”.
+2. Do zadań Punktu Kontaktowego należy:
+  1) wykonywanie zadań Komendanta Głównego Policji w zakresie prowadzenia rejestru broni alarmowej i sygnałowej;
+  2) ewidencjonowanie wyników kontroli, o których mowa w art. 47j ust. 4;
+  3) przekazywanie punktom kontaktowym utworzonym w innych państwach członkowskich Unii Europejskiej, państwach członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) - stronach umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej, na ich wniosek, informacji z rejestru broni alarmowej i sygnałowej, informacji o wynikach kontroli, o której mowa w art. 47j ust. 4, oraz występowanie z wnioskami o udzielenie takich informacji;
+  4) ewidencjonowanie oświadczeń przedsiębiorców, o których mowa w art. 47n;
+  5) prowadzenie elektronicznej skrzynki pocztowej oraz publikowanie na stronie internetowej Punktu Kontaktowego informacji w zakresie swojego działania, w języku polskim oraz w jednym, innym niż język polski, języku oficjalnym Unii Europejskiej.
+3. Komendant Główny Policji może powierzyć wykonywanie zadań Punktu Kontaktowego podległej sobie jednostce organizacyjnej.
+
+**Art. 47n.** Przedsiębiorcy wytwarzający broń alarmową i sygnałową przekazują do Punktu Kontaktowego oświadczenia o:
+1) spełnianiu wymogów, o których mowa w art. 47a, przy wytwarzaniu określonego typu lub modelu broni alarmowej i sygnałowej - raz do roku, licząc od dnia wydania świadectwa broni alarmowej i sygnałowej;
+2) liczbie wytworzonych i wprowadzonych do obrotu w ostatnim okresie rozliczeniowym egzemplarzy broni alarmowej i sygnałowej, określonego typu i modelu.
 
 #### Oddział 2 — Pozbawianie cech użytkowych broni palnej i wyrobów o przeznaczeniu wojskowym lub policyjnym
 
@@ -496,9 +625,10 @@
 **Art. 55.** Przedmiotem obrotu mogą być wyłącznie materiały wybuchowe, broń, amunicja oraz wyroby i technologia o przeznaczeniu wojskowym lub policyjnym zaprojektowane i wytworzone w sposób określony w art. 38.
 
 **Art. 56.**
-1. Do obrotu na terytorium Rzeczypospolitej Polskiej wprowadza się wyłącznie broń, w tym strzelecką broń palną i istotne części, oznakowaną zgodnie z art. 44.
-2. Oznakowanie broni, w tym strzeleckiej broni palnej i istotnych części, przekazywanej z zapasów państwowych formacji uzbrojonych, zawiera dodatkowo oznaczenie pozwalające na identyfikację podmiotu przekazującego.
+1. Do obrotu na terytorium Rzeczypospolitej Polskiej wprowadza się wyłącznie broń palną, w tym strzelecką broń palną, i istotne części, oznakowane zgodnie z art. 44.
+2. Oznakowanie broni palnej, w tym strzeleckiej broni palnej, i istotnych części, przekazywanych z zapasów państwowych formacji uzbrojonych zawiera dodatkowo oznaczenie pozwalające na identyfikację podmiotu przekazującego w postaci oznakowania dwiema albo trzema drukowanymi literami ich skróconej nazwy.
 3. Importowaną broń palną, w tym strzelecką broń palną i istotne części, na których nie umieszczono niepowtarzalnego, czytelnego i trwałego oznakowania odpowiadającego oznakowaniu, o którym mowa w art. 44, oznakowuje się lub uzupełnia oznakowanie przed ich wprowadzeniem do obrotu na terytorium Rzeczypospolitej Polskiej, niezwłocznie po przywozie do Unii Europejskiej.
+4. Strzelecka broń palna i jej istotne części oznakowane cyrylicą lub alfabetem greckim oraz rzymskim systemem liczbowym mogą być przedmiotem obrotu, jeżeli ich oznakowanie jest zgodne z art. 44 ust. 2, 2a, 2c i 2d.
 
 **Art. 57.**
 1. Oznakowania lub uzupełnienia oznakowania broni palnej, w tym strzeleckiej broni palnej i jej istotnych części, może dokonać przedsiębiorca, któremu została udzielona koncesja na wytwarzanie tego rodzaju broni lub jej istotnych części.
@@ -545,7 +675,8 @@
 4. Amunicję sprzedaje się:
   1) osobom fizycznym, przedsiębiorcom oraz innym podmiotom na podstawie:
     a) legitymacji posiadacza broni lub świadectwa broni,
-    b) zaświadczenia wydanego odpowiednio przez właściwy organ Policji lub organ wojskowy, uprawniającego do nabycia określonego rodzaju oraz liczby egzemplarzy broni wraz z amunicją do tej broni;
+    b) zaświadczenia wydanego odpowiednio przez właściwy organ Policji lub organ wojskowy, uprawniającego do nabycia określonego rodzaju oraz liczby egzemplarzy broni wraz z amunicją do tej broni,
+    c) kopii świadectwa broni alarmowej i sygnałowej uprawniającej do nabycia określonego typu amunicji;
   2) cudzoziemcom - na warunkach określonych w ustawie z dnia 21 maja 1999 r. o broni i amunicji;
   3) przedsiębiorcom, którzy przedłożą koncesję na wykonywanie działalności gospodarczej w zakresie obrotu amunicją - zgodnie z zakresem koncesji;
   4) przedsiębiorcom, którzy przedłożą koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania broni - do broni określonej w koncesji;
@@ -604,7 +735,7 @@
       – państwo wytworzenia zgodnie z rozporządzeniem 1106/2012,
       – kaliber,
       – markę,
-      – kategorię, podkategorię i typ,
+      – (uchylony)
     c) strzelecką broń palną oraz istotne części:
       – oznakowanie,
       – kaliber,
@@ -804,6 +935,7 @@
 1. Na wniosek przedsiębiorcy, który zamierza nabyć broń palną, części i istotne komponenty lub amunicję, o których mowa w załączniku 1 do rozporządzenia 258/2012, poza obszarem celnym Unii Europejskiej, minister właściwy do spraw gospodarki wydaje certyfikat importowy lub poświadcza oświadczenie końcowego użytkownika.
 2. W przypadku gdy właściwe organy państwa trzeciego wywozu tego wymagają, minister właściwy do spraw gospodarki, w ramach poświadczenia oświadczenia końcowego użytkownika, może uznać ograniczenia i warunki związane z obrotem bronią palną, częściami i istotnymi komponentami lub amunicją określone przez te organy.
 3. Minister właściwy do spraw gospodarki odmawia poświadczenia oświadczenia końcowego użytkownika, jeżeli nie mogą być spełnione warunki i ograniczenia określone przez właściwe organy państwa trzeciego wywozu.
+4. Do wydania certyfikatu importowego lub poświadczenia oświadczenia końcowego użytkownika stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735) dotyczące wydawania decyzji.
 
 **Art. 95.**
 1. Wniosek o wydanie certyfikatu importowego lub poświadczenie oświadczenia końcowego użytkownika zawiera:
@@ -919,7 +1051,7 @@
   6) kaliber;
   7) oznakowanie istotnych części, jeżeli jest inne od oznakowania na szkielecie, zamku lub komorze zamkowej broni;
   8) określenie rodzaju istotnej części - spośród wymienionych w art. 3 ust. 1 pkt 4 - w profilu dotyczącym istotnej części.
-3. Kategorie i podkategorie strzeleckiej broni palnej i amunicji do strzeleckiej broni palnej są określone w załączniku do ustawy.
+3. (uchylony)
 
 **Art. 108.** Przedsiębiorca, o którym mowa w art. 104, organ właściwy do wydawania pozwoleń na broń oraz zaświadczeń uprawniających do nabycia broni oraz organ właściwy do wydawania świadectw pozbawienia strzeleckiej broni palnej cech użytkowych wprowadzają do SRB historię broni, w zakresie wskazanym w art. 109.
 
@@ -1171,6 +1303,11 @@
    podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 2. Tej samej karze podlega, kto dopuszcza się czynu, o którym mowa w ust. 1, działając w imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
+**Art. 136a.**
+1. Kto, będąc przedsiębiorcą sprzedaje broń alarmową i sygnałową, nie przekazując nabywcy kopii świadectwa broni alarmowej i sygnałowej wydanego dla tego typu lub modelu broni potwierdzającego, że ta broń nie została uznana za broń palną,
+   podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
+2. Tej samej karze podlega, kto dopuszcza się czynu, o którym mowa w ust. 1, działając w imieniu lub interesie osoby fizycznej, osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+
 **Art. 137.**
 1. Kto, wykonując działalność gospodarczą w zakresie wytwarzania i obrotu strzelecką bronią palną, nie dopełnia obowiązku ewidencjonowania tej broni,
    podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
@@ -1365,13 +1502,13 @@
 ## Załącznik — Kategorie i podkategorie strzeleckiej broni palnej i amunicji do strzeleckiej broni palnej
 
  Do celów niniejszego załącznika określenie:
-1) „krótka strzelecka broń palna” oznacza strzelecką broń palną z lufą, której długość nie przekracza 30 cm lub której całkowita długość nie przekracza 60 centymetrów;
+1) Wojskowe pociski o działaniu wybuchowym oraz ich wyrzutnie.
 2) „długa strzelecka broń palna” oznacza każdą strzelecką broń palną inną niż krótka strzelecka broń palna;
-3) „samoczynna strzelecka broń palna” oznacza strzelecką broń palną, która ładuje się automatycznie po każdorazowym wystrzeleniu naboju i która może wystrzelić więcej niż jeden nabój przy jednym naciśnięciu spustu;
-4) „samopowtarzalna strzelecka broń palna” oznacza strzelecką broń palną, która ładuje się automatycznie po każdorazowym wystrzeleniu naboju i która może wystrzelić tylko jeden nabój przy jednym naciśnięciu spustu;
-5) „powtarzalna strzelecka broń palna” oznacza strzelecką broń palną, która po wystrzeleniu naboju może zostać ponownie naładowana ręcznie z magazynka lub cylindra;
-6) „jednostrzałowa strzelecka broń palna” oznacza strzelecką broń palną bez magazynka, którą ładuje się przed każdorazowym strzałem przez ręczny załadunek naboju do komory lub wgłębienia na ładunek w części zamkowej lufy;
-7) „amunicja z pociskami penetrującymi” oznacza amunicję do użytku wojskowego z pociskami osłoniętymi i posiadającymi rdzeń penetrujący;
+3) „samoczynna strzelecka broń palna” oznacza strzelecką broń palną, która ładuje się automatycznie po każdorazowym oddaniu strzału i która może oddać więcej niż jeden strzał przy jednym uruchomieniu urządzenia spustowego;
+4) Amunicja z pociskami przeciwpancernymi, wybuchowymi lub zapalającymi oraz pociski dla takiej amunicji.
+5) Amunicja przeznaczona do pistoletów i rewolwerów z pociskami grzybkującymi (ang. expanding) oraz pociski dla takiej amunicji, oprócz broni przeznaczonej do celów łowieckich i strzelectwa sportowego przez osoby uprawnione do korzystania z niej.
+6) „jednostrzałowa strzelecka broń palna” oznacza strzelecką broń palną bez magazynka, którą ładuje się przed każdorazowym strzałem przez ręczne wprowadzenie naboju do komory nabojowej lub wgłębienia na ładunek w części zamkowej lufy;
+7) „amunicja z pociskami przeciwpancernymi” (ang. penetrating projectiles) oznacza amunicję do użytku wojskowego, w której pocisk ma płaszcz oraz twardy rdzeń penetrujący;
 8) „amunicja z pociskami wybuchającymi” oznacza amunicję do użytku wojskowego z pociskami zawierającymi ładunek eksplodujący przy uderzeniu;
 9) „amunicja z pociskami zapalającymi” oznacza amunicję do użytku wojskowego z pociskami zawierającymi mieszaninę chemiczną, która ulega zapaleniu przy kontakcie z powietrzem lub przy uderzeniu.
  Kategoria A
