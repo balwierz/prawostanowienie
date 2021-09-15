@@ -167,11 +167,11 @@
 
 **Art. 26.**
 1. Prezes Prokuratorii Generalnej tworzy Sąd Polubowny przy Prokuratorii Generalnej właściwy w sprawach sporów z udziałem Skarbu Państwa, jednostek samorządu terytorialnego, państwowych osób prawnych, osób prawnych z udziałem Skarbu Państwa lub państwowych osób prawnych oraz spółek kapitałowych z udziałem tych podmiotów, zwany dalej „Sądem Polubownym”.
-2. W przypadku sporu między innymi niż Skarb Państwa państwowymi osobami prawnymi, osobami prawnymi z udziałem Skarbu Państwa lub państwowych osób prawnych, każda z nich może wystąpić do Sądu Polubownego z wnioskiem o:
+2. W przypadku sporu między innymi niż Skarb Państwa państwowymi osobami prawnymi, osobami prawnymi z udziałem Skarbu Państwa lub państwowych osób prawnych oraz spółkami kapitałowymi z udziałem tych podmiotów, każda z nich może wystąpić do Sądu Polubownego z wnioskiem o:
   1) rozstrzygnięcie sporu;
   2) przeprowadzenie mediacji lub inne polubowne rozwiązanie sporu.
 2a. Mediacja i inne polubowne formy rozwiązania sporu mogą być prowadzone również w przypadku sporów, w których jedną ze stron jest Skarb Państwa, jednostka samorządu terytorialnego, podmiot, o którym mowa w ust. 1, lub spółka kapitałowa z udziałem tych podmiotów.
-2b. Sąd Polubowny może prowadzić również mediacje w postępowaniu administracyjnym, w którym jedną ze stron jest organ administracji publicznej lub podmiot, o którym mowa w ust. 2a.
+2b. Sąd Polubowny może prowadzić również mediacje w postępowaniu administracyjnym z udziałem organu administracji publicznej lub podmiotu, o którym mowa w ust. 2a.
 3. Postępowanie prowadzi się za zgodą drugiej strony lub na podstawie zapisu na sąd polubowny.
 3a. Sąd Polubowny przy Prokuratorii Generalnej Rzeczypospolitej Polskiej może z ważnych powodów odmówić przeprowadzenia mediacji lub innego polubownego rozwiązania sporu. Odmowa przeprowadzenia mediacji lub innego polubownego rozwiązania sporu następuje w terminie 14 dni od dnia doręczenia wniosku o przeprowadzenie mediacji lub innego polubownego rozwiązania sporu, lub postanowienia sądu kierującego strony do mediacji lub innego polubownego rozwiązania sporu, i zawiera wskazanie przyczyn odmowy.
 4. Sędziowie i mediatorzy są uprawnieni do wynagrodzenia za podejmowane czynności pokrywane z opłaty, o której mowa w ust. 5. Wysokość i termin wypłaty wynagrodzenia oraz sposób wynagradzania określa regulamin Sądu Polubownego i postępowania przed Sądem Polubownym, zwany dalej „regulaminem Sądu”, lub umowa zawarta zgodnie z regulaminem Sądu.
