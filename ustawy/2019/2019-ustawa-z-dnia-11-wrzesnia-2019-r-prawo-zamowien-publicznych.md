@@ -181,7 +181,7 @@
     a) o wartości dodanej związanych z systemami teleinformatycznymi w rozumieniu ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, wyłącznie za pomocą takich systemów, w tym bezpiecznego przesyłania kodowanych dokumentów za pomocą systemów teleinformatycznych, usług zarządzania adresami i przesyłania poleconej poczty elektronicznej,
     b) finansowych, objętych kodami CPV od 66100000-1 do 66720000-3, określonymi we Wspólnym Słowniku Zamówień, w szczególności przekazów pocztowych i pocztowych przelewów na konto,
     c) filatelistycznych lub logistycznych;
-  5) instytucję pomostową, o której mowa w art. 2 pkt 26 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2019 r. poz. 795, 730, 1495, 1655 i 1798), lub podmiot zarządzający aktywami, o którym mowa w art. 2 pkt 46 tej ustawy.
+  5) (uchylony)
 2. Przepisów ustawy nie stosuje się do zamówień:
   1) na usługi Narodowego Banku Polskiego;
   2) na usługi Banku Gospodarstwa Krajowego, w zakresie bankowej obsługi jednostek, o których mowa w art. 4 pkt 1 i 2, z wyłączeniem jednostek samorządu terytorialnego;
@@ -220,12 +220,7 @@
   1) z zakresu prawa pracy;
   2) koncesji na roboty budowlane oraz koncesji na usługi w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2019 r. poz. 1528 i 1655), chyba że ustawa stanowi inaczej;
   3) o których mowa w art. 149 ust. 2 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1668, z późn. zm.).
-3. Przepisów ustawy nie stosuje się do zamówień związanych z przygotowaniem i przeprowadzeniem:
-  1) procesu wypłat środków gwarantowanych, o których mowa w art. 2 pkt 65 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, w szczególności usług świadczonych przez podmiot, z którym zostanie zawarta umowa o dokonanie wypłat środków gwarantowanych;
-  2) przymusowej restrukturyzacji albo umorzeniem lub konwersją instrumentów kapitałowych, których przedmiotem jest:
-    a) przeprowadzenie oszacowania,
-    b) świadczenie usług doradztwa, w tym doradztwa strategicznego, ekonomiczno-finansowego, podatkowego, prawnego i informatycznego,
-    c) powierzenie przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywania pośrednictwa w zakresie czynności wymienionych w art. 5 i art. 6 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2018 r. poz. 2187, z późn. zm.) w imieniu i na rzecz banku w restrukturyzacji, oraz czynności związanych z działalnością prowadzoną przez firmę inwestycyjną w restrukturyzacji, w tym z prowadzoną przez nią działalnością maklerską.
+3. (uchylony)
 4. Przepisów ustawy nie stosuje się do zamówień dotyczących wytwarzania:
   1) blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53, 1091 i 1716), oraz ich personalizacji lub indywidualizacji;
   2) znaków akcyzy;
@@ -245,6 +240,19 @@
   7) udzielanych w ramach realizacji współpracy rozwojowej przez jednostki wojskowe, określone na podstawie art. 5 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. z 2014 r. poz. 1510 oraz z 2019 r. poz. 1726);
   8) udzielanych przez Ministra Sprawiedliwości - Prokuratora Generalnego albo jednostki organizacyjne mu podległe lub przez niego nadzorowane przywięziennym zakładom pracy, prowadzonym jako przedsiębiorstwa państwowe albo instytucje gospodarki budżetowej, związanych z zatrudnieniem osób pozbawionych wolności, jeżeli zasadnicza część działalności przywięziennego zakładu pracy dotyczy wykonywania zadań powierzonych mu przez Ministra Sprawiedliwości - Prokuratora Generalnego lub jednostki organizacyjne mu podległe lub przez niego nadzorowane;
   9) udzielanych przez zarządzającego specjalną strefą ekonomiczną, o którym mowa w ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz. U. z 2019 r. poz. 482), będącego podmiotem, o którym mowa w art. 4 pkt 3.
+  10) związanych z procesem wypłat środków gwarantowanych, o których mowa w art. 2 pkt 65 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2020 r. poz. 842 oraz z 2021 r. poz. 680, 1177, 1535 i 1598), w szczególności usług świadczonych przez podmiot, z którym zostanie zawarta umowa o dokonanie wypłat środków gwarantowanych;
+  11) związanych z przymusową restrukturyzacją albo umorzeniem lub konwersją instrumentów kapitałowych, o których mowa w art. 101 ust. 7 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, których przedmiotem jest:
+    a) przeprowadzenie oszacowania,
+    b) świadczenie usług doradztwa, w tym doradztwa strategicznego, ekonomiczno-finansowego, podatkowego, prawnego i informatycznego,
+    c) powierzenie przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywania pośrednictwa w zakresie czynności wymienionych w art. 5 i art. 6 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.), w imieniu i na rzecz banku w restrukturyzacji, oraz czynności związanych z działalnością prowadzoną przez firmę inwestycyjną w restrukturyzacji, w tym z prowadzoną przez nią działalnością maklerską;
+  12) udzielanych przez instytucję pomostową, o której mowa w art. 2 pkt 26 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, lub podmiot zarządzający aktywami, o którym mowa w art. 2 pkt 46 tej ustawy;
+  13) związanych z zastosowaniem rządowych instrumentów stabilizacji finansowej, o których mowa w ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124, z 2019 r. poz. 1798 oraz z 2021 r. poz. 1598), w szczególności zamówień, których przedmiotem jest:
+    a) dokonanie oszacowania określonego w art. 19f ust. 8 tej ustawy,
+    b) świadczenie usług doradztwa, w tym doradztwa strategicznego, ekonomiczno-finansowego, podatkowego, prawnego i informatycznego,
+    c) powierzenie podmiotowi trzeciemu zarządzania prawami, o których mowa w art. 19b ust. 1 tej ustawy;
+  14) na usługi Banku Gospodarstwa Krajowego, w zakresie zlecenia przez:
+    a) ministra właściwego do spraw finansów publicznych spraw i czynności związanych z udzieleniem wsparcia, o którym mowa w art. 3 ust. 1 ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2016 r. poz. 1436 oraz z 2021 r. poz. 1598), lub udzieleniem gwarancji spłaty kredytu refinansowego, o której mowa w art. 4 ust. 1 tej ustawy, w tym związanych z zabezpieczeniem lub obsługą udzielonego wsparcia lub udzielonej gwarancji,
+    b) Narodowy Bank Polski spraw i czynności związanych z udzieleniem kredytów, o których mowa w art. 42 i art. 43 ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2020 r. poz. 2027 oraz z 2021 r. poz. 1598), w tym związanych z zabezpieczeniem lub obsługą tych kredytów.
 6. Do zasadniczej części działalności przywięziennego zakładu pracy, o której mowa w ust. 5 pkt 8, wlicza się działalność związaną z realizacją zamówień w związku ze społeczną i zawodową integracją osób, o których mowa w art. 94 ust. 1 pkt 5.
 
 **Art. 12.**
