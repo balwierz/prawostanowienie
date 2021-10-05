@@ -380,11 +380,13 @@
 1. W Urzędzie Prokuratorii Generalnej są zatrudnieni radcowie.
 2. Prezes Prokuratorii Generalnej prowadzi w systemie teleinformatycznym wykaz radców, który zawiera imię i nazwisko radcy, datę jego zatrudnienia na podstawie mianowania albo umowy o pracę, a także informacje o zawieszeniu w czynnościach służbowych lub zawieszeniu stosunku pracy.
 3. Prezes Prokuratorii Generalnej zapewnia sądom dostęp do wykazu radców za pośrednictwem systemu teleinformatycznego.
+4. Prezes Prokuratorii Generalnej występuje do ministra właściwego do spraw informatyzacji o wykreślenie adresu do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320), z bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy, w przypadku zawieszenia w czynnościach służbowych lub zawieszenia stosunku pracy albo rozwiązania stosunku pracy radcy.
 
 **Art. 51.**
 1. Radcowie przy wykonywaniu czynności kierują się własnym przekonaniem, opartym na doświadczeniu i wiedzy prawniczej.
 2. Radcowie przy wykonywaniu czynności są niezależni.
 3. Radcowie są zobowiązani do stosowania dobrych praktyk zawartych w kodeksie dobrych praktyk. Radca, który zamierza odstąpić od dobrej praktyki, powinien przedstawić Prezesowi Prokuratorii Generalnej pisemne uzasadnienie swojej decyzji.
+4. Radcowie obowiązani są do posiadania adresu do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, wpisanego do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
 
 **Art. 52.**
 1. Radcowie wykonują polecenia przełożonych dotyczące treści czynności. Na żądanie radcy przełożony wydaje polecenie na piśmie wraz z uzasadnieniem.
