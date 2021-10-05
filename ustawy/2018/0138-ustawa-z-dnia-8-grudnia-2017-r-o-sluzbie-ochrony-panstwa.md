@@ -60,6 +60,13 @@
 3. Podmioty, o których mowa w ust. 2, udostępniają środki techniczne rejestrujące obraz, jeżeli takie istnieją, zapewniają dostęp do infrastruktury teleinformatycznej i technicznej obiektu, jeżeli taka istnieje, a także umożliwiają wykorzystanie środków technicznych, w tym rejestrujących obraz, będących własnością SOP.
 4. W odniesieniu do obiektów, o których mowa w art. 3 pkt 1 lit. e, środki techniki ochronnej są zapewniane przez SOP.
 
+**Art. 6a.**
+1. Obowiązku doręczenia korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej, o których mowa w ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. poz. 2320), nie stosuje się:
+  1) w sprawach osobowych funkcjonariuszy i pracowników Służby Ochrony Państwa;
+  2) w sprawach osobowych byłych funkcjonariuszy i pracowników Służby Ochrony Państwa;
+  3) jeżeli doręczenie korespondencji przy wykorzystaniu publicznej usługi rejestrowanego doręczenia elektronicznego albo publicznej usługi hybrydowej mogłoby istotnie utrudniać lub uniemożliwić realizację zadań Służby Ochrony Państwa.
+2. Przepis ust. 1 stosuje się odpowiednio do byłych funkcjonariuszy i pracowników Biura Ochrony Rządu.
+
 **Art. 7.** Dzień 12 czerwca ustanawia się świętem SOP.
 
 **Art. 8.**
