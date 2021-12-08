@@ -4441,11 +4441,12 @@
   1) podstawowej sieci pomiarowo-obserwacyjnej, systemu gromadzenia, przetwarzania i wymiany danych oraz biur prognoz hydrologicznych i biur prognoz meteorologicznych państwowej służby hydrologiczno-meteorologicznej,
   2) sieci obserwacyjno-badawczej wód podziemnych państwowej służby hydrogeologicznej
 - ponoszą koszty utrzymywania, odbudowy, rozbudowy i przebudowy tych sieci, systemów i biur lub koszty wykonania tych badań, pomiarów i ocen, na zasadach uzgodnionych przez strony w umowie.
+6. Przepisu ust. 5 nie stosuje się do informacji stanowiących dane o wysokiej wartości, o których mowa w art. 26 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 1641).
 
 **Art. 386.**
 1. Skarb Państwa jest właścicielem wszystkich informacji zbieranych i przetwarzanych przez służby państwowe.
 2. W imieniu Skarbu Państwa informacjami, o których mowa w ust. 1, rozporządzają odpowiednio Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy.
-3. Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy przekazują nieodpłatnie w celu ponownego wykorzystywania informacje zbierane i przetwarzane odpowiednio przez państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę hydrogeologiczną na zasadach określonych w przepisach ustawy z dnia 25 lutego 2016 r. o ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. poz. 352 oraz z 2017 r. poz. 60).
+3. Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy przekazują nieodpłatnie w celu ponownego wykorzystywania informacje zbierane i przetwarzane odpowiednio przez państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę hydrogeologiczną na zasadach określonych w przepisach ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.
 
 **Art. 387.**
 1. Państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna publikują informacje zebrane i przetworzone w ostrzeżeniach, prognozach, komunikatach, biuletynach lub rocznikach.
