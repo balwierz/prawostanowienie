@@ -109,6 +109,7 @@
 1) organizowanie ochrony oraz działań, o których mowa w art. 3;
 2) prowadzenie polityki kadrowej;
 3) określanie oraz zapewnienie realizacji programu szkolenia funkcjonariuszy i doskonalenia zawodowego pracowników, a także zapewnianie właściwych warunków i sposobu szkolenia;
+3a) określenie kryteriów zdrowotnych i użytkowych doboru psów do realizacji zadań SOP, sposobu szkolenia przewodników psów służbowych, kandydatów na przewodników psów służbowych i szkolenia psów służbowych oraz sposób prowadzenia ewidencji psów służbowych;
 4) współdziałanie z centralnymi organami administracji rządowej podległymi ministrowi właściwemu do spraw wewnętrznych, jednostkami organizacyjnymi podporządkowanymi, podległymi lub nadzorowanymi przez ministra właściwego do spraw wewnętrznych lub Ministra Obrony Narodowej, Szefa Kancelarii Sejmu oraz innymi organami administracji rządowej i samorządu terytorialnego w zakresie zadań realizowanych przez SOP i te organy;
 5) współdziałanie z organami i służbami innych państw oraz organizacjami międzynarodowymi na podstawie umów i porozumień oraz odrębnych przepisów;
 6) zapewnienie przestrzegania dyscypliny służbowej przez funkcjonariuszy;
@@ -136,6 +137,7 @@
   2) operacyjno-rozpoznawcze w celu pozyskiwania informacji dotyczących zagrożeń względem osób i obiektów, o których mowa w art. 3 pkt 1 lit. a-e, a także rozpoznawania i zapobiegania przestępstwom, o których mowa w art. 3 pkt 2, oraz rozpoznawania, zapobiegania i wykrywania przestępstw, o których mowa w art. 3 pkt 3.
 2. Funkcjonariusz w toku wykonywania czynności służbowych jest obowiązany do respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka.
 3. W przypadku nagłego, bezpośredniego zamachu na życie lub zdrowie osoby ochranianej lub podejrzenia możliwości jego bezpośredniego wystąpienia działania związane z ochroną jej życia lub zdrowia oraz ewakuacją z miejsca zagrożenia są realizowane przed innymi zadaniami wynikającymi z art. 3.
+4. W celu realizacji zadań, o których mowa w art. 3 pkt 1 i 2, SOP może używać psów służbowych.
 
 **Art. 20.** W celu zapewnienia ochrony osób i obiektów, o których mowa w art. 3 pkt 1, SOP w szczególności:
 1) planuje sposoby zabezpieczenia osób oraz możliwości ich ewakuacji w przypadku powstania zagrożenia;
@@ -2292,6 +2294,103 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 **Art. 244.** Od orzeczenia oraz postanowienia kończącego postępowanie dyscyplinarne funkcjonariuszowi przysługuje prawo wniesienia skargi do sądu administracyjnego.
 
 **Art. 245.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, obieg dokumentów związanych z postępowaniem dyscyplinarnym oraz wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie potrzebę zapewnienia rzetelności i sprawności prowadzonego postępowania.
+
+## Rozdział 9a — Psy służbowe
+
+**Art. 245a.**
+1. Do użycia w SOP psy dobiera się w taki sposób, aby spełniały kryteria zdrowotne i użytkowe, o których mowa w przepisach wydanych na podstawie art. 14 pkt 3a, zapewniające przydatność zwierzęcia do użycia go w celu realizacji zadań, o których mowa w art. 3 pkt 1 i 2.
+2. Psy służbowe mogą być używane w SOP po odbyciu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 14 pkt 3a.
+3. Psy służbowe i psy służbowe wycofane z użycia znajdują się na stanie SOP.
+
+**Art. 245b.** Opiekunem psa służbowego jest odpowiednio:
+1) przewodnik - funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i który ukończył szkolenie, o którym mowa w przepisach wydanych na podstawie art. 14 pkt 3a;
+2) kandydat na przewodnika - funkcjonariusz, któremu przydzielono pod opiekę psa służbowego i którego wytypowano lub skierowano po raz pierwszy na szkolenie, o którym mowa w przepisach wydanych na podstawie art. 14 pkt 3a.
+
+**Art. 245c.**
+1. Opiekunem psa służbowego wycofanego z użycia w pierwszej kolejności może być dotychczasowy opiekun tego psa, jeżeli złoży pisemną deklarację woli sprawowania opieki.
+2. W następnej kolejności opiekunem psa służbowego wycofanego z użycia może być inny opiekun psa służbowego, jeżeli złoży pisemną deklarację woli sprawowania opieki.
+3. Jeżeli pies służbowy wycofany z użycia nie zostanie powierzony opiekunowi, o którym mowa w ust. 1 albo 2, zwierzę można powierzyć innemu funkcjonariuszowi, emerytowanemu funkcjonariuszowi lub funkcjonariuszowi zwolnionemu ze służby w SOP, który ma ustalone prawo do policyjnej renty inwalidzkiej w rozumieniu ustawy z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej i Służby Więziennej oraz ich rodzin, jeżeli złoży pisemną deklarację woli sprawowania opieki oraz posiada wiedzę i umiejętności w zakresie opieki nad psem.
+4. W przypadku zgłoszenia się większej liczby kandydatów na opiekuna psa służbowego wycofanego z użycia, o których mowa w ust. 2 i 3, Komendant SOP przeprowadza postępowanie rekrutacyjne.
+5. W przypadku śmierci opiekuna psa służbowego wycofanego z użycia opiekunem tego zwierzęcia w pierwszej kolejności może zostać członek rodziny zmarłego opiekuna, który prowadził z tym opiekunem wspólne gospodarstwo domowe, jeżeli złoży pisemną deklarację woli sprawowania opieki. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+6. W przypadku gdy pies służbowy wycofany z użycia nie zostanie powierzony osobom, o których mowa w ust. 1-3 i 5, opiekę nad tym psem sprawuje SOP. Komendant SOP wyznacza opiekuna psa służbowego wycofanego z użycia.
+7. Komendant SOP może powierzyć opiekę nad psem służbowym wycofanym z użycia organizacji społecznej, której statutowym celem działania jest ochrona zwierząt.
+8. Opiekunem psa służbowego wycofanego z użycia nie może zostać osoba, która w następstwie swojego zawinionego działania przyczyniła się do wycofania z użycia psa służbowego.
+9. Opiekunem psa służbowego wycofanego z użycia nie może zostać opiekun, któremu odebrano zwierzę z powodów, o których mowa w art. 245k ust. 1 pkt 1 lub 2. Do organizacji, o której mowa w ust. 7, zdanie pierwsze stosuje się.
+
+**Art. 245d.** Opiekun psa służbowego oraz opiekun psa służbowego wycofanego z użycia, zwani dalej „opiekunem”, oraz organizacja, o której mowa w art. 245c ust. 7, zapewniają prawidłowe utrzymanie zwierzęcia obejmujące w szczególności:
+1) racjonalne żywienie oraz stały dostęp do czystej i świeżej wody;
+2) dbanie o stan zdrowia i kondycję, w tym poddawanie terminowym szczepieniom i zabiegom profilaktycznym oraz zapewnienie możliwości codziennego ruchu;
+3) pielęgnację i utrzymanie w czystości;
+4) warunki utrzymania dostosowane do potrzeb biologicznych.
+
+**Art. 245e.**
+1. Żywienie psa służbowego oraz psa służbowego wycofanego z użycia jest dostosowane do potrzeb jego organizmu, wagi, wieku, stanu zdrowia, warunków klimatycznych, funkcji fizjologicznych oraz wysiłku fizycznego lub wskazań lekarza weterynarii.
+2. Żywienie psa służbowego oraz psa służbowego wycofanego z użycia odbywa się na podstawie normy wyżywienia, którą stanowi dobowa ilość karmy i artykułów spożywczych, niezbędnych do prawidłowego żywienia jednego psa. Z uwagi na zwiększone zapotrzebowanie energetyczne i odżywcze w trakcie odbywania szkolenia przez psa służbowego norma ta może zostać podwyższona. W przypadku wycofania psa służbowego z użycia norma ta jest zmniejszana w związku ze zmniejszonym wysiłkiem fizycznym zwierzęcia.
+3. W przypadku stwierdzenia przez lekarza weterynarii konieczności zastosowania w żywieniu psa służbowego lub psa służbowego wycofanego z użycia diety lub karmy leczniczej norma, o której mowa w ust. 2, może zostać podwyższona.
+4. Opiekun psa służbowego otrzymuje wyżywienie dla psa w naturze albo równoważnik pieniężny w formie ryczałtu na pokrycie kosztów wyżywienia zwierzęcia. Ryczałt wypłaca się co miesiąc z góry.
+5. Opiekun psa służbowego wycofanego z użycia oraz organizacja, o której mowa w art. 245c ust. 7, otrzymują równoważnik pieniężny w formie ryczałtu na pokrycie kosztów wyżywienia zwierzęcia. Ryczałt wypłaca się co miesiąc z góry.
+6. Opiekun oraz organizacja, o której mowa w art. 245c ust. 7, są obowiązani do proporcjonalnego zwrotu wypłaconego ryczałtu na pokrycie kosztów wyżywienia zwierzęcia w przypadku:
+  1) padnięcia albo konieczności bezzwłocznego uśmiercenia zwierzęcia na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2020 r. poz. 638 oraz z 2021 r. poz. 1718 i 1728);
+  2) odebrania zwierzęcia, o którym mowa w art. 245k ust. 1;
+  3) utraty lub zaginięcia zwierzęcia;
+  4) rezygnacji ze sprawowania opieki nad zwierzęciem;
+  5) powierzenia opieki nad psem służbowym innemu opiekunowi, o którym mowa w art. 245k ust. 3 albo 4;
+  6) korzystania przez zwierzę w trakcie odbywania szkolenia z wyżywienia w naturze.
+7. W sprawach, o których mowa w ust. 3-6, właściwy jest Komendant SOP.
+
+**Art. 245f.**
+1. Psa służbowego oraz psa służbowego wycofanego z użycia poddaje się zabiegom profilaktycznym i leczeniu według wskazań lekarza weterynarii. Leczenie psa służbowego oraz psa służbowego wycofanego z użycia następuje po uprzednim uzgodnieniu z Komendantem SOP lub z osobą przez niego upoważnioną.
+2. W sytuacjach nagłych, wymagających udzielenia natychmiastowej pomocy lekarsko-weterynaryjnej w celu ratowania życia lub zdrowia psa służbowego lub psa służbowego wycofanego z użycia dopuszcza się możliwość odstąpienia od uzgodnienia zakresu udzielanej pomocy z Komendantem SOP lub z osobą przez niego upoważnioną.
+3. W przypadku wystąpienia sytuacji nagłej, o której mowa w ust. 2, należy niezwłocznie poinformować o zaistniałej sytuacji i zakresie udzielonej pomocy lekarsko-weterynaryjnej Komendanta SOP lub osobę przez niego upoważnioną.
+4. Koszty zabiegów profilaktycznych i leczenia psa służbowego oraz psa służbowego wycofanego z użycia, w tym koszty lekarstw, pokrywa się ze środków budżetowych SOP na podstawie faktury.
+5. Koszt utylizacji zwłok psa służbowego oraz psa służbowego wycofanego z użycia pokrywa się ze środków budżetowych SOP na podstawie faktury.
+6. W sprawach, o których mowa w ust. 4 i 5, właściwy jest Komendant SOP.
+
+**Art. 245g.** Opiekunowi oraz organizacji, o której mowa w art. 245c ust. 7, zabrania się:
+1) zbywania zwierzęcia;
+2) rozmnażania zwierzęcia;
+3) wykorzystywania zwierzęcia w celach zarobkowych.
+
+**Art. 245h.**
+1. Psa służbowego wycofuje się z użycia w przypadku:
+  1) trwałej utraty sprawności użytkowej;
+  2) wystąpienia stanu chorobowego nierokującego poprawy;
+  3) padnięcia albo konieczności jego bezzwłocznego uśmiercenia na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt;
+  4) braku postępów w szkoleniu rokujących osiągnięcie odpowiedniego poziomu wyszkolenia zwierzęcia;
+  5) upływu 6 miesięcy od dnia jego utraty albo zaginięcia.
+2. Pies służbowy będący po raz pierwszy w trakcie szkolenia w przypadkach, o których mowa w ust. 1 pkt 2 lub 4, podlega wymianie albo zwrotowi sprzedawcy na zasadach określonych w ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz. U. z 2020 r. poz. 1740 i 2320 oraz z 2021 r. poz. 1509). W przypadkach, o których mowa w zdaniu pierwszym, nie mają zastosowania przepisy art. 245a ust. 3, art. 245c-245g i art. 245i-245k.
+3. Psa służbowego można wycofać z użycia po ukończeniu 9. roku życia.
+4. Psa służbowego wycofuje z użycia Komendant SOP.
+
+**Art. 245i.** Nadzór nad psami służbowymi oraz psami służbowymi wycofanymi z użycia sprawuje Komendant SOP.
+
+**Art. 245j.**
+1. Opiekun i przedstawiciel organizacji, o której mowa w art. 245c ust. 7, w celu umożliwienia sprawowania nadzoru, na żądanie funkcjonariusza lub pracownika SOP wyznaczonego przez Komendanta SOP, okazuje zwierzę.
+2. Opiekun oraz organizacja, o której mowa w art. 245c ust. 7, niezwłocznie powiadamiają Komendanta SOP o:
+  1) zmianie stałego miejsca przebywania lub chowu zwierzęcia oraz zmianie miejsca przebywania zwierzęcia trwającej dłużej niż 30 dni, o ile nie przebywa ono w obiekcie należącym do SOP;
+  2) padnięciu albo konieczności bezzwłocznego uśmiercenia zwierzęcia na zasadach określonych w ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt, utracie albo zaginięciu zwierzęcia oraz o okolicznościach tych zdarzeń.
+
+**Art. 245k.**
+1. Psa służbowego lub psa służbowego wycofanego z użycia odbiera się opiekunowi lub organizacji, o której mowa w art. 245c ust. 7, w przypadku:
+  1) stwierdzenia zaniedbania zwierzęcia;
+  2) niewywiązywania się z obowiązku opieki nad zwierzęciem lub postępowania wbrew zakazom, o których mowa w art. 245g;
+  3) rezygnacji ze sprawowania opieki nad zwierzęciem.
+2. Do czasu powierzenia psa służbowego lub psa służbowego wycofanego z użycia innemu opiekunowi opiekę nad zwierzęciem sprawuje SOP.
+3. W przypadku przeniesienia opiekuna psa służbowego na inne stanowisko służbowe niezwiązane z realizacją czynności służbowych związanych z użyciem zwierzęcia opieka nad tym psem może zostać powierzona innemu opiekunowi psa służbowego.
+4. W przypadku czasowego braku możliwości sprawowania opieki nad psem służbowym przez opiekuna Komendant SOP może wyznaczyć czasowego opiekuna psa służbowego. Do czasowego opiekuna stosuje się odpowiednio przepisy dotyczące opiekuna psa służbowego, z zastrzeżeniem, że ryczałt na pokrycie kosztów wyżywienia zwierzęcia wypłaca się co miesiąc z góry, proporcjonalnie do okresu sprawowania opieki nad psem służbowym.
+
+**Art. 245l.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
+1) tryb przydzielania opiekunowi psa służbowego,
+2) tryb rekrutacji kandydatów, którzy mogą zostać opiekunami psów służbowych wycofanych z użycia,
+3) tryb wycofywania z użycia psa służbowego,
+4) sposób utrzymania, zakres i sposób zapewnienia zabiegów profilaktycznych oraz sposób transportu psów służbowych oraz psów służbowych wycofanych z użycia,
+5) sposób wyżywienia, wysokość normy wyżywienia psa służbowego oraz wysokość normy wyżywienia psa służbowego wycofanego z użycia, w tym maksymalną wysokość normy w przypadku jej podwyższenia, jak również wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia,
+6) tryb przyznawania, wypłacania oraz zwrotu ryczałtu na pokrycie kosztów wyżywienia psa służbowego lub psa służbowego wycofanego z użycia,
+7) tryb pokrywania kosztów zabiegów profilaktycznych i kosztów leczenia, w tym kosztów lekarstw, psa służbowego lub psa służbowego wycofanego z użycia,
+8) sposób sprawowania nadzoru oraz dokumentowania wykonywania czynności związanych z nadzorem nad psami służbowymi oraz psami służbowymi wycofanymi z użycia,
+9) tryb odbierania psa służbowego lub psa służbowego wycofanego z użycia opiekunowi lub organizacji, o której mowa w art. 245c ust. 7,
+10) wzory dokumentów stosowanych w tych sprawach
+- uwzględniając potrzebę zapewnienia prawidłowej realizacji zadań związanych z użyciem psa służbowego, prawidłowej opieki nad zwierzęciem, racjonalnego wydatkowania środków finansowych, prawidłowego dokumentowania realizowanych czynności oraz to, że wysokość dziennej stawki pieniężnej na wyżywienie zwierzęcia jest uzależniona od wagi, okresu roku i zadań wykonywanych przez psa służbowego, a także że nie może ona przekroczyć 1/30 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207).
 
 ## Rozdział 10
 
