@@ -1941,7 +1941,7 @@ od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu zwi�
 
 **Art. 243.** W postępowaniach, których przedmiot zamówienia obejmuje świadczenia z zakresu działalności twórczej lub naukowej, których rezultatu nie można z góry opisać w sposób jednoznaczny lub wyczerpujący, najkorzystniejsza oferta jest wybierana wyłącznie na podstawie ceny lub kosztu oraz kryteriów jakościowych.
 
-**Art. 244.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, inne niż cena kryteria oceny ofert, które mają zastosowanie w odniesieniu do niektórych rodzajów zamówień, oraz sposób opisania i oceny tych kryteriów, kierując się potrzebą wdrożenia przepisów prawa Unii Europejskiej oraz mając na względzie szczególny charakter lub cel zamówienia oraz ułatwienie stosowania tych kryteriów oceny ofert.
+**Art. 244.** (uchylony)
 
 **Art. 245.**
 1. Kryterium kosztu może być oparte na metodzie efektywności kosztowej, jaką jest rachunek kosztów cyklu życia.
@@ -2700,7 +2700,7 @@ od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu zwi�
 
 **Art. 364.**
 1. Zamawiający prowadzący działalność sektorową, o której mowa w art. 5 ust. 4 pkt 2, 3 i 7, nie stosują przepisów ustawy do udzielenia zamówień sektorowych na:
-  1) dostawy energii oraz paliw do wytwarzania energii;
+  1) dostawy energii oraz paliw do wytwarzania energii, a także zakup świadectw pochodzenia lub świadectw pochodzenia biogazu rolniczego, w celu wykonania obowiązku, o którym mowa w art. 52 ust. 1 pkt 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2021 r. poz. 610, 1093 i 1873), zakup świadectw efektywności energetycznej, w celu wykonania obowiązku, o którym mowa w art. 10 ust. 1 pkt 2 ustawy z dnia 20 maja 2016 r. o efektywności energetycznej (Dz. U. z 2021 r. poz. 2166), oraz zakup gwarancji pochodzenia, o których mowa w art. 120 ust. 1 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
   2) usługi przesyłania, magazynowania, dystrybucji paliw gazowych, skraplania gazu ziemnego i regazyfikacji skroplonego gazu ziemnego.
 2. Zamawiający prowadzący działalność sektorową, o której mowa w art. 5 ust. 4 pkt 1, nie stosują przepisów ustawy do udzielania zamówień na dostawy wody.
 
@@ -3210,7 +3210,7 @@ od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu zwi�
 **Art. 416.** W przypadku gdy SWZ albo opis potrzeb i wymagań znajduje się w posiadaniu podmiotu innego niż zamawiający, zaproszenie do składania ofert, do negocjacji albo do udziału w dialogu zawiera adres instytucji, do której można zwrócić się z wnioskiem o taką dokumentację, oraz datę, do której można składać wnioski o udostępnienie takiej dokumentacji, jak również kwotę należną za ich udostępnienie wraz z określeniem sposobu płatności. Właściwy podmiot przesyła żądaną dokumentację wykonawcom niezwłocznie po otrzymaniu ich wniosków wraz z dowodem dokonania płatności kwoty należnej za jej udostępnienie.
 
 **Art. 417.**
-1. W przypadku zamówień w dziedzinach obronności i bezpieczeństwa kryteriami oceny ofert są cena albo cena lub koszt i inne kryteria odnoszące się do przedmiotu zamówienia, o których mowa w art. 242 ust. 2, lub inne kryteria, w szczególności rentowność, bezpieczeństwo dostaw, interoperacyjność oraz właściwości operacyjne, określone w SWZ. Do zamówień w dziedzinach obronności i bezpieczeństwa nie stosuje się przepisów wydanych na podstawie art. 244.
+1. W przypadku zamówień w dziedzinach obronności i bezpieczeństwa kryteriami oceny ofert są cena albo cena lub koszt i inne kryteria odnoszące się do przedmiotu zamówienia, o których mowa w art. 242 ust. 2, lub inne kryteria, w szczególności rentowność, bezpieczeństwo dostaw, interoperacyjność oraz właściwości operacyjne, określone w SWZ.
 2. Zamawiający, udzielając zamówienia w dziedzinach obronności i bezpieczeństwa w trybie przetargu ograniczonego, negocjacji z ogłoszeniem, dialogu konkurencyjnego albo negocjacji bez ogłoszenia, określa w dokumentach zamówienia kryteria oceny ofert wraz z ich opisem, podaniem wagi tych kryteriów oraz sposobem oceny ofert.
 
 **Art. 418.**
