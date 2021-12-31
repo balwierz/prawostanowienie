@@ -5986,10 +5986,10 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
   1) pięciodobowego biochemicznego zapotrzebowania tlenu (BZT5);
   2) chemicznego zapotrzebowania tlenu;
   3) zawiesiny ogólnej.
-3. W okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2021 r. Wody Polskie ustalają wysokość opłat za usługi wodne, nie uwzględniając średniego niskiego przepływu z wielolecia (SNQ).
+3. W okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2023 r. Wody Polskie ustalają wysokość opłat za usługi wodne, nie uwzględniając średniego niskiego przepływu z wielolecia (SNQ).
 4. Przepisy wydane na podstawie art. 277 ust. 1 stosuje się.
 5. Przepisy art. 272 ust. 10 i 17-21 oraz art. 273 stosuje się odpowiednio.
-6. Do dnia 31 grudnia 2021 r. Wody Polskie opracują metodykę wyznaczania średniego niskiego przepływu z wielolecia (SNQ), na potrzeby ustalania wysokości opłat za usługi wodne.
+6. Do dnia 31 grudnia 2023 r. Wody Polskie opracują metodykę wyznaczania średniego niskiego przepływu z wielolecia (SNQ) na potrzeby ustalania wysokości opłat za usługi wodne.
 7. Do dnia 31 grudnia 2020 r. Wody Polskie wyposażą w przyrządy pomiarowe podmioty obowiązane do ponoszenia opłaty za usługi wodne, o której mowa w art. 268 ust. 1.
 
 **Art. 552a.** W przypadku gdy pozwolenie wodnoprawne albo pozwolenie zintegrowane nie określa zakresu korzystania z wód w m3/s, ustalenia wysokości opłaty stałej za usługi wodne, o których mowa w art. 271 ust. 2-5, dokonuje się z uwzględnieniem wyrażonych w m3na godzinę maksymalnych ilości możliwych do:
@@ -6056,7 +6056,7 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
   7) wielopierścieniowe węglowodory aromatyczne.
 4. W terminie do dnia 22 grudnia 2027 r. zostanie osiągnięty dobry stan chemiczny wód powierzchniowych w odniesieniu do substancji priorytetowych, o których mowa w ust. 1.
 
-**Art. 561.** Do dnia 31 grudnia 2021 r. górne jednostkowe stawki opłat za pobór wód w formie opłaty stałej wynoszą:
+**Art. 561.** Do dnia 31 grudnia 2023 r. górne jednostkowe stawki opłat za pobór wód w formie opłaty stałej wynoszą:
 1) za pobór wód podziemnych - 500 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wody;
 2) za pobór wód powierzchniowych - 250 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wody.
 
@@ -6125,5 +6125,5 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
 1) art. 102-112, art. 494, art. 502, art. 506, art. 515, art. 525 ust. 3-6 oraz 8 i 9, art. 539 ust. 3-5 i 7, art. 540 ust. 1-4, 6 i 7, art. 541, art. 542, art. 544 ust. 1, art. 554 oraz art. 570, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 2) art. 532 ust. 5 i 6, które wchodzą w życie z dniem 31 grudnia 2017 r.;
 3) art. 524, który wchodzi w życie z dniem 1 stycznia 2019 r.;
-4) art. 274 pkt 1, który wchodzi w życie z dniem 1 stycznia 2022 r.;
+4) art. 274 pkt 1, który wchodzi w życie z dniem 1 stycznia 2024 r.;
 5) art. 36 ust. 1-3 oraz 6 i 7 oraz art. 303 ust. 1 i 4, które wchodzą w życie z dniem 1 stycznia 2027 r.
