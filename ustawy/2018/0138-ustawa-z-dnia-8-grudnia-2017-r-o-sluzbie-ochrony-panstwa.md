@@ -1465,7 +1465,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   5) nagroda roczna;
   6) rekompensata pieniężna za czas służby przekraczający normę, o której mowa w art. 81 ust. 2.
   7) świadczenie pieniężne w zamian za wyżywienie;
-  8) świadczenie motywacyjne.
+  8) świadczenie motywacyjne;
+  9) świadczenie teleinformatyczne, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. poz. 2333), zwane dalej „świadczeniem teleinformatycznym”.
 2. W przypadku śmierci funkcjonariusza lub członka jego rodziny przysługują:
   1) zasiłek pogrzebowy;
   2) odprawa pośmiertna.
@@ -1510,6 +1511,15 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 10. Świadczenie motywacyjne wypłaca się w każdym kolejnym miesiącu kalendarzowym, począwszy od miesiąca następującego po miesiącu, w którym wydano decyzję o przyznaniu świadczenia motywacyjnego.
 11. Świadczenie motywacyjne jest płatne z dołu do dziesiątego dnia miesiąca następującego po miesiącu, za który świadczenie motywacyjne przysługuje.
 12. Prawo do wypłaty świadczenia motywacyjnego ustaje w miesiącu, w którym decyzja, o której mowa w ust. 7, stała się ostateczna lub nastąpiło rozwiązanie stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem. Świadczenia motywacyjnego za ten miesiąc nie wypłaca się.
+
+**Art. 172c.**
+1. Funkcjonariuszowi wykonującemu zadania, o których mowa w art. 26, art. 42 ust. 1, art. 44 i art. 62 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2020 r. poz. 1369 oraz z 2021 r. poz. 2333), lub w zakresie zapewnienia cyberbezpieczeństwa w Służbie Ochrony Państwa przyznaje się na okres ich wykonywania świadczenie teleinformatyczne.
+2. Do ustalenia wysokości świadczenia teleinformatycznego, o którym mowa w ust. 1, stosuje się przepisy wydane na podstawie art. 8 ust. 1 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa.
+3. Decyzję o przyznaniu świadczenia teleinformatycznego Komendant SOP wydaje nie później niż w terminie 30 dni po rozpoczęciu przez funkcjonariusza wykonywania zadań, o których mowa w ust. 1.
+4. Przed wydaniem decyzji, o której mowa w ust. 3, funkcjonariusz podlega opiniowaniu służbowemu na zasadach, o których mowa w art. 82, jeżeli od dnia wydania ostatniej opinii o tym funkcjonariuszu upłynęły co najmniej 3 miesiące.
+5. Świadczenia teleinformatycznego nie przyznaje się w przypadkach, o których mowa w art. 172b ust. 6. Przepisy art. 172b ust. 7 i 8 stosuje się.
+6. Świadczenia teleinformatycznego nie wypłaca się w przypadkach, o których mowa w art. 172b ust. 9.
+7. Do wypłaty świadczenia teleinformatycznego stosuje się przepisy art. 172b ust. 10-12.
 
 **Art. 173.**
 1. Funkcjonariuszowi mogą być przyznawane nagrody uznaniowe i zapomogi.
