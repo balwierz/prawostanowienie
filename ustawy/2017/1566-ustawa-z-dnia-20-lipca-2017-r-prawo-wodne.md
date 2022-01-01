@@ -2181,14 +2181,14 @@
 **Art. 209.** Utrzymywanie urządzeń melioracji wodnych w granicach parku narodowego jest zadaniem parku narodowego.
 
 **Art. 210.**
-1. Minister właściwy do spraw gospodarki wodnej oraz minister właściwy do spraw rozwoju wsi określą, w drodze rozporządzenia, sposób:
+1. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, sposób:
   1) prowadzenia ewidencji melioracji wodnych;
   2) zbierania, aktualizowania oraz udostępniania danych z ewidencji melioracji wodnych;
   3) ustalania obszaru, na który urządzenia melioracji wodnych wywierają korzystny wpływ.
-2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wodnej oraz minister właściwy do spraw rozwoju wsi:
-  1) uwzględnią potrzebę stworzenia bazy informacyjnej dla planowania, odbudowy, przebudowy oraz utrzymania urządzeń melioracji wodnych;
-  2) uwzględnią zasadę interoperacyjności, o której mowa w art. 7 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, a także potrzebę harmonizacji zbiorów danych ewidencji melioracji wodnych z innymi zbiorami danych tworzącymi infrastrukturę informacji przestrzennej;
-  3) kierują się zasięgiem wpływu poszczególnych rodzajów urządzeń melioracji wodnych na poprawę zdolności produkcyjnej gleby.
+2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wodnej:
+  1) uwzględni potrzebę stworzenia bazy informacyjnej dla planowania, odbudowy, przebudowy oraz utrzymania urządzeń melioracji wodnych;
+  2) uwzględni zasadę interoperacyjności, o której mowa w art. 7 ustawy z dnia 4 marca 2010 r. o infrastrukturze informacji przestrzennej, a także potrzebę harmonizacji zbiorów danych ewidencji melioracji wodnych z innymi zbiorami danych tworzącymi infrastrukturę informacji przestrzennej;
+  3) kieruje się zasięgiem wpływu poszczególnych rodzajów urządzeń melioracji wodnych na poprawę zdolności produkcyjnej gleby.
 
 ## Dział VI — Gospodarowanie mieniem Skarbu Państwa
 
