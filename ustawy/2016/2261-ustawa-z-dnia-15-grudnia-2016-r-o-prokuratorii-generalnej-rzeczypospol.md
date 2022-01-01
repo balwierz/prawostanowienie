@@ -130,12 +130,13 @@
 3. Wydanie opinii prawnej lub odmowa jej wydania następuje w terminie 14 dni od dnia doręczenia wniosku, o którym mowa w ust. 1. Odmowa wydania opinii prawnej jest wiążąca. W uzgodnieniu z podmiotem reprezentującym Skarb Państwa termin wydania opinii prawnej może ulec wydłużeniu.
 
 **Art. 18.**
-1. Podmioty reprezentujące Skarb Państwa są obowiązane uzyskać opinię prawną Prokuratorii Generalnej o projektach umów, ugód oraz jednostronnych czynności prawnych dokonywanych przez Skarb Państwa, jeżeli wartość przedmiotu czynności prawnej przekracza kwotę 100 000 000 zł. Wniosek o wydanie opinii prawnej przedkładany jest Prokuratorii Generalnej nie później niż na 15 dni, a w uzgodnieniu z Prezesem Prokuratorii Generalnej nie później niż na 4 dni, przed planowanym dokonaniem czynności prawnej.
-2. Podmioty reprezentujące Skarb Państwa są obowiązane uzyskać opinię prawną Prokuratorii Generalnej w przedmiocie wzoru umowy, istotnych postanowień umowy, ogólnych warunków umowy lub projektu umowy udzielanych na podstawie ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych, jeżeli wartość przedmiotu zamówienia przekracza kwotę 100 000 000 zł. Wniosek o wydanie opinii prawnej przedkładany jest Prokuratorii Generalnej nie później niż na 15 dni, a w uzgodnieniu z Prezesem Prokuratorii Generalnej nie później niż na 4 dni, przed planowanym udostępnieniem specyfikacji istotnych warunków zamówienia albo zawarciem umowy, w przypadku gdy sporządzenie specyfikacji istotnych warunków zamówienia nie jest wymagane.
+1. Podmioty reprezentujące Skarb Państwa są obowiązane uzyskać opinię prawną Prokuratorii Generalnej o projektach umów, ugód oraz jednostronnych czynności prawnych dokonywanych przez Skarb Państwa, jeżeli wartość przedmiotu czynności prawnej przekracza kwotę 50 000 000 zł.
+2. Podmioty reprezentujące Skarb Państwa są obowiązane uzyskać opinię prawną Prokuratorii Generalnej w przedmiocie wzoru umowy, istotnych postanowień umowy, ogólnych warunków umowy lub projektu umowy dotyczących zamówień udzielanych na podstawie ustawy z dnia 11 września 2019 r. - Prawo zamówień publicznych, jeżeli wartość przedmiotu zamówienia przekracza kwotę 50 000 000 zł.
 3. Opinie, o których mowa w ust. 1 i 2, Prokuratoria Generalna wydaje w terminie 14 dni od dnia otrzymania wniosku, nie później jednak niż w dniu poprzedzającym dzień dokonania planowanej czynności prawnej lub udostępnienia dokumentów zamówienia. Niewydanie w tym terminie opinii przez Prokuratorię Generalną jest równoznaczne z brakiem zastrzeżeń Prokuratorii Generalnej do opiniowanej czynności prawnej, wzoru umowy, istotnych postanowień umowy lub ogólnych warunków umowy.
 
 **Art. 19.**
 1. Prokuratoria Generalna wydaje opinie prawne na zlecenie osoby zastępowanej. W szczególności Prokuratoria Generalna opiniuje projekty umów, ugód oraz jednostronnych czynności prawnych.
+1a. Osoba zastępowana może zlecić Prokuratorii Generalnej wydanie opinii prawnej niezależnie od tego, czy wyraziła zgodę, o której mowa w art. 12 ust. 5 pkt 2.
 2. Prezes Prokuratorii Generalnej nie może odmówić wydania opinii prawnej, jeżeli wartość przedmiotu sprawy przekracza kwotę 10 000 000 zł.
 3. Wydanie opinii prawnej lub odmowa jej wydania następuje w terminie 14 dni od dnia doręczenia zlecenia, o którym mowa w ust. 1. Odmowa wydania opinii prawnej jest wiążąca. W uzgodnieniu z osobą zastępowaną termin wydania opinii prawnej może ulec wydłużeniu.
 4. Opinie wydawane na zlecenie osoby zastępowanej są odpłatne. Osoba zastępowana, uiszcza na rzecz Skarbu Państwa - Prokuratorii Generalnej opłaty w sposób i w wysokości wskazanych w przepisach wydanych na podstawie art. 27 pkt 2 lit. b.
@@ -213,6 +214,8 @@
 2. Pisemny i uzasadniony wniosek podmiotu reprezentującego Skarb Państwa, organu administracji rządowej lub osoby zastępowanej w przedmiocie wszczęcia postępowania, cofnięcia pozwu lub wniosku, uznania roszczenia lub wniosku, zrzeczenia się roszczenia, ograniczenia roszczenia lub zawarcia ugody sądowej jest wiążący dla Prokuratorii Generalnej.
 3. Jeżeli podmiot reprezentujący Skarb Państwa, organ administracji rządowej lub osoba zastępowana będąca państwową osobą prawną, pomimo żądania Prokuratorii Generalnej, nie składa w określonym terminie wniosków, o których mowa w ust. 1 lub 2, Prokuratoria Generalna, jeżeli jest to konieczne dla zachowania terminów wynikających z przepisów prawa albo ustalonych przez sąd, trybunał lub inny organ orzekający, podejmuje czynności według swojego uznania, zawiadamiając o tym podmiot reprezentujący Skarb Państwa, organ administracji rządowej lub osobę zastępowaną będącą państwową osobą prawną.
 
+**Art. 30a.** Organ administracji rządowej, państwowa jednostka organizacyjna nieposiadająca osobowości prawnej lub podmiot reprezentujący Skarb Państwa niezwłocznie zawiadamia Prokuratorię Generalną o wszczęciu postępowania przed sądem administracyjnym, w którym jest stroną albo uczestnikiem na prawach strony, jeżeli w tym postępowaniu może zachodzić potrzeba ochrony ważnych praw lub interesów Rzeczypospolitej Polskiej.
+
 **Art. 31.** Radcowie Prokuratorii Generalnej, zwani dalej „radcami”, mają prawo sporządzania poświadczeń odpisów dokumentów za zgodność z okazanym oryginałem w zakresie określonym odrębnymi przepisami. Poświadczenie powinno zawierać podpis radcy, datę i oznaczenie miejsca jego sporządzenia, na żądanie - również godzinę dokonania czynności. Jeżeli dokument zawiera cechy szczególne (dopiski, poprawki lub uszkodzenia) radca stwierdza to w poświadczeniu.
 
 **Art. 32.**
@@ -276,6 +279,7 @@
   1) reprezentuje Prokuratorię Generalną;
   2) kieruje Urzędem Prokuratorii Generalnej;
   3) jest przełożonym radców, referendarzy i innych pracowników Urzędu Prokuratorii Generalnej.
+2a. Prezes Prokuratorii Generalnej, po zawiadomieniu Prezesa Rady Ministrów, może powoływać rady i zespoły w sprawach należących do zakresu działania Prokuratorii Generalnej. Prezes Prokuratorii Generalnej informuje niezwłocznie Prezesa Rady Ministrów o zakończeniu działalności powołanych rad i zespołów.
 3. Wiceprezesi Prokuratorii Generalnej kierują działami jej pracy, wyznaczonymi przez Prezesa Prokuratorii Generalnej.
 4. Jeżeli przepisy ustawy nie stanowią inaczej, do Prezesa Prokuratorii Generalnej i wiceprezesów Prokuratorii Generalnej stosuje się odpowiednio przepisy dotyczące radców i podejmowanych przez nich czynności.
 5. Prokuratoria Generalna używa wizerunku orła ustalonego dla godła Rzeczypospolitej Polskiej oraz pieczęci urzędowej określonej w przepisach o pieczęciach państwowych.
@@ -832,11 +836,15 @@
   3) 2019 r. - 51 498 193 zł;
   4) 2020 r. - 51 498 193 zł;
   5) 2021 r. - 51 498 193 zł;
-  6) 2022 r. - 51 498 193 zł;
-  7) 2023 r. - 51 498 193 zł;
-  8) 2024 r. - 51 498 193 zł;
-  9) 2025 r. - 51 498 193 zł;
-  10) 2026 r. - 51 498 193 zł.
+  6) 2022 r. - 56 493 193 zł;
+  7) 2023 r. - 56 493 193 zł;
+  8) 2024 r. - 56 493 193 zł;
+  9) 2025 r. - 56 493 193 zł;
+  10) 2026 r. - 56 493 193 zł;
+  11) 2027 r. - 56 493 193 zł;
+  12) 2028 r. - 56 493 193 zł;
+  13) 2029 r. - 56 493 193 zł;
+  14) 2030 r. - 56 493 193 zł.
 2. Prezes Prokuratorii Generalnej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, oraz wdraża mechanizmy korygujące, o których mowa w ust. 3.
 3. W przypadku gdy wysokość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65% limitu wydatków przewidzianych na dany rok, dysponent środków zmniejsza wysokość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę pomiędzy wysokością tego limitu a kwotą przekroczenia wydatków.
 4. W przypadku gdy wysokość wydatków w poszczególnych miesiącach jest zgodna z planem finansowym, przepisu ust. 3 nie stosuje się.
