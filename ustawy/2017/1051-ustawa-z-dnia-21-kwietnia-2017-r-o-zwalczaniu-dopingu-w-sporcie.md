@@ -235,7 +235,7 @@
 3. W przypadku gdy osoba przystępująca do egzaminu nie uzyska wyniku pozytywnego z jego całości lub części, albo nie przystąpi do niego w całości lub do jego części z powodu choroby potwierdzonej zaświadczeniem lekarskim lub wskutek działania siły wyższej, może ponownie przystąpić do egzaminu bez odbycia powtórnego szkolenia tylko raz, w najbliższym wyznaczonym terminie. Ponowny egzamin nie może być przeprowadzony wcześniej niż przed upływem dwóch tygodni od pierwszego egzaminu.
 
 **Art. 26.**
-1. Osobie, która uzyskała pozytywny wynik z egzaminu kończącego szkolenie kontrolerów, Dyrektor Agencji przyznaje certyfikat kontrolera, który jest ważny przez 3 lata od dnia jego przyznania.
+1. Osobie, która uzyskała pozytywny wynik z egzaminu kończącego szkolenie kontrolerów, Dyrektor Agencji przyznaje certyfikat kontrolera, który jest ważny przez 2 lata od dnia jego przyznania.
 2. Na podstawie ważnego certyfikatu kontrolera Agencja wydaje kontrolerowi legitymację służbową.
 3. Kontrolerowi uprawnionemu do pobierania krwi na podstawie przepisów ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2017 r. poz. 125 i 767) lub ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2016 r. poz. 1251, 1579 i 2020) Agencja wydaje legitymację służbową zawierającą informację o możliwości pobierania przez niego próbek krwi.
 4. Przed upływem okresu ważności certyfikatu kontrolera kontroler, w celu potwierdzenia posiadania kwalifikacji do przeprowadzania kontroli antydopingowej, odbywa ponownie szkolenie kontrolerów, zakończone egzaminem.
@@ -430,13 +430,17 @@
 
 **Art. 46.** (uchylony)
 
-**Art. 47.** Minister właściwy do spraw kultury fizycznej może dofinansowywać działania mające na celu przeciwdziałanie dopingowi w sporcie oraz opłacać składki na rzecz organizacji międzynarodowych zajmujących się zwalczaniem dopingu w sporcie.
+**Art. 47.**
+1. Minister właściwy do spraw kultury fizycznej może dofinansowywać działania mające na celu przeciwdziałanie dopingowi w sporcie, w tym udzielać Agencji dotacji celowych, o których mowa w art. 30 ust. 2 pkt 1, oraz opłacać składki na rzecz organizacji międzynarodowych zajmujących się zwalczaniem dopingu w sporcie.
+2. Minister właściwy do spraw zdrowia może udzielać Polskiemu Laboratorium Antydopingowemu z siedzibą w Warszawie dotacji celowych na:
+  1) realizację przez Laboratorium projektów badawczych, o których mowa w art. 47b ust. 1 pkt 3;
+  2) finansowanie lub dofinansowanie kosztów inwestycji niezbędnych do utrzymania akredytacji Światowej Agencji Antydopingowej.
 
 ## Rozdział 6a — Polskie Laboratorium Antydopingowe
 
 **Art. 47a.**
 1. Polskie Laboratorium Antydopingowe, zwane dalej „Laboratorium”, z siedzibą w Warszawie jest państwową osobą prawną.
-2. Nadzór nad Laboratorium sprawuje minister właściwy do spraw kultury fizycznej.
+2. Nadzór nad Laboratorium sprawuje minister właściwy do spraw zdrowia.
 3. Minister właściwy do spraw kultury fizycznej nadaje, w drodze rozporządzenia, statut Laboratorium, w którym określa jego organizację wewnętrzną oraz tryb pracy jego organów, mając na względzie sprawne wykonywanie zadań przez Laboratorium.
 
 **Art. 47b.**
@@ -492,7 +496,7 @@
   5) niezatwierdzenia rocznego sprawozdania finansowego Laboratorium lub jego nieprzedstawienia w terminie.
 
 **Art. 47g.**
-1. Dyrektora Laboratorium powołuje i odwołuje minister właściwy do spraw kultury fizycznej, po zasięgnięciu opinii Rady Laboratorium. 2. Kadencja Dyrektora Laboratorium trwa 5 lat. 3. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.). 4. Kandydatów na stanowisko Dyrektora Laboratorium wyłania się w drodze otwartego i konkurencyjnego naboru przeprowadzonego przez ministra właściwego do spraw kultury fizycznej. 5. W razie śmierci lub odwołania Dyrektora Laboratorium, do czasu powołania jego następcy, funkcję Dyrektora Laboratorium pełni zastępca Dyrektora Laboratorium wskazany przez ministra właściwego do spraw kultury fizycznej.
+1. Dyrektora Laboratorium powołuje i odwołuje minister właściwy do spraw zdrowia, po zasięgnięciu opinii Rady Laboratorium. 2. Kadencja Dyrektora Laboratorium trwa 5 lat. 3. Powołanie, o którym mowa w ust. 1, stanowi nawiązanie stosunku pracy na podstawie powołania w rozumieniu przepisów ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz. U. z 2018 r. poz. 917, z późn. zm.). 4. Kandydatów na stanowisko Dyrektora Laboratorium wyłania się w drodze otwartego i konkurencyjnego naboru przeprowadzonego przez ministra właściwego do spraw kultury fizycznej. 5. W razie śmierci lub odwołania Dyrektora Laboratorium, do czasu powołania jego następcy, funkcję Dyrektora Laboratorium pełni zastępca Dyrektora Laboratorium wskazany przez ministra właściwego do spraw kultury fizycznej.
 
 **Art. 47h.**
 1. Informację o naborze na stanowisko Dyrektora Laboratorium ogłasza się przez umieszczenie w miejscu powszechnie dostępnym w siedzibie urzędu obsługującego ministra właściwego do spraw kultury fizycznej oraz na jego stronie podmiotowej Biuletynu Informacji Publicznej ogłoszenia o naborze, które zawiera:
@@ -545,9 +549,9 @@
 2. Ustanie członkostwa w Radzie Laboratorium następuje również z powodu rezygnacji albo śmierci.
 
 **Art. 47l.**
-1. Minister właściwy do spraw kultury fizycznej powołuje i odwołuje członków Rady Laboratorium, a także stwierdza ustanie ich członkostwa w Radzie Laboratorium, z tym że powołanie członków, o których mowa w art. 47j ust. 2 pkt 1 i 2, następuje na wniosek organów, których są przedstawicielami.
+1. Minister właściwy do spraw zdrowia powołuje i odwołuje członków Rady Laboratorium, a także stwierdza ustanie ich członkostwa w Radzie Laboratorium, z tym że powołanie członka, o którym mowa w art. 47j ust. 2 pkt 1, następuje na wniosek organu, którego jest przedstawicielem.
 2. Kadencja Rady Laboratorium trwa 4 lata.
-3. W przypadku odwołania członka Rady Laboratorium lub stwierdzenia ustania jego członkostwa w Radzie Laboratorium, minister właściwy do spraw kultury fizycznej powołuje nowego członka Rady Laboratorium na okres do końca jej kadencji.
+3. W przypadku odwołania członka Rady Laboratorium lub stwierdzenia ustania jego członkostwa w Radzie Laboratorium, minister właściwy do spraw zdrowia powołuje nowego członka Rady Laboratorium na okres do końca jej kadencji.
 
 **Art. 47m.**
 1. Rada Laboratorium wybiera ze swojego grona, w głosowaniu tajnym, bezwzględną większością głosów, w obecności co najmniej 3 członków Rady Laboratorium, Przewodniczącego Rady Laboratorium i jego zastępcę.
@@ -559,7 +563,7 @@
   1) z własnej inicjatywy lub
   2) na wniosek członka Rady Laboratorium, Dyrektora Laboratorium lub ministra właściwego do spraw kultury fizycznej.
 3. W przypadku, o którym mowa w ust. 2 pkt 2, posiedzenie Rady Laboratorium zwołuje się w terminie nie dłuższym niż 14 dni od dnia wpłynięcia wniosku.
-4. Pierwsze posiedzenie Rady Laboratorium nowej kadencji zwołuje minister właściwy do spraw kultury fizycznej, w terminie nie dłuższym niż 14 dni od dnia powołania członków Rady Laboratorium.
+4. Pierwsze posiedzenie Rady Laboratorium nowej kadencji zwołuje minister właściwy do spraw zdrowia, w terminie nie dłuższym niż 14 dni od dnia powołania członków Rady Laboratorium.
 
 **Art. 47o.**
 1. Rada Laboratorium wyraża swoje stanowisko w formie uchwał podejmowanych zwykłą większością głosów, w obecności co najmniej połowy składu Rady Laboratorium.
@@ -592,6 +596,7 @@
   7) zapisy, spadki i darowizny.
 3. Laboratorium może prowadzić działalność gospodarczą na podstawie przepisów o działalności gospodarczej w zakresie realizacji zadań, o których mowa w art. 47b ust. 1 pkt 2 i 3 oraz ust. 2, a także w zakresie działalności Jednostki do spraw Zarządzania Paszportem Zawodnika, o której mowa w art. 47x ust. 1.
 4. Przychody z działalności gospodarczej służą wyłącznie realizacji zadań Laboratorium, o których mowa w art. 47b.
+5. Dotacja, o której mowa w ust. 1 pkt 1, jest przekazywana Laboratorium z budżetu państwa z części, której dysponentem jest minister właściwy do spraw zdrowia.
 
 **Art. 47s.**
 1. Laboratorium prowadzi samodzielną gospodarkę finansową na podstawie rocznego planu finansowego ustalanego na okres roku obrotowego, zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
@@ -612,13 +617,13 @@
   2) fundusz rezerwowy.
 2. Fundusz podstawowy Laboratorium odzwierciedla równowartość mienia Laboratorium na dzień jego utworzenia.
 3. Fundusz rezerwowy zwiększa się o zysk netto i zmniejsza o stratę netto.
-4. Decyzję w sprawie podziału wyniku finansowego Laboratorium za rok obrotowy podejmuje, po zatwierdzeniu sprawozdania finansowego przez ministra właściwego do spraw kultury fizycznej oraz po przedstawieniu propozycji przez organy Laboratorium, minister właściwy do spraw kultury fizycznej.
+4. Decyzję w sprawie podziału wyniku finansowego Laboratorium za rok obrotowy podejmuje, po zatwierdzeniu sprawozdania finansowego przez ministra właściwego do spraw kultury fizycznej oraz po przedstawieniu propozycji przez organy Laboratorium, minister właściwy do spraw zdrowia.
 
 **Art. 47u.**
 1. Roczne sprawozdanie finansowe Laboratorium podlega badaniu przez firmę audytorską.
-2. Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Laboratorium dokonuje minister właściwy do spraw kultury fizycznej.
+2. Wyboru firmy audytorskiej do badania rocznego sprawozdania finansowego Laboratorium dokonuje minister właściwy do spraw zdrowia.
 3. Dyrektor Laboratorium przedstawia ministrowi właściwemu do spraw kultury fizycznej zaopiniowane przez Radę Laboratorium roczne sprawozdanie finansowe Laboratorium wraz z opinią Rady Laboratorium i sprawozdaniem z badania w rozumieniu art. 2 pkt 31 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
-4. Roczne sprawozdanie finansowe Laboratorium zatwierdza minister właściwy do spraw kultury fizycznej.
+4. Roczne sprawozdanie finansowe Laboratorium zatwierdza minister właściwy do spraw zdrowia.
 
 ## Rozdział 6c — Działalność Laboratorium
 
@@ -703,23 +708,22 @@
 3. Minister właściwy do spraw kultury fizycznej, po zatwierdzeniu planu finansowego Agencji na rok 2017, niezwłocznie przekazuje go ministrowi właściwemu do spraw finansów publicznych.
 
 **Art. 57.**
-1. W latach 2019-2028 maksymalny limit wydatków budżetu państwa, będących skutkiem finansowym ustawy, wynosi w roku:
-  1) 2019 - 13,1 mln zł;
-  2) 2020 - 13,7 mln zł;
-  3) 2021 - 14,3 mln zł;
-  4) 2022 - 14,4 mln zł;
-  5) 2023 - 15,4 mln zł;
-  6) 2024 - 15,5 mln zł;
-  7) 2025 - 16,4 mln zł;
-  8) 2026 - 16,6 mln zł;
-  9) 2027 - 17 mln zł;
-  10) 2028 - 17,4 mln zł.
+1. W latach 2022-2031 maksymalny limit wydatków budżetu państwa z części 25 - Kultura Fizyczna, będących skutkiem finansowym ustawy, w tym wydatków na finansowanie Agencji oraz opłacanie składek na rzecz organizacji międzynarodowych zajmujących się zwalczaniem dopingu w sporcie, wynosi w roku:
+  1) 2022 - 10,7 mln zł;
+  2) 2023 - 11 mln zł;
+  3) 2024 - 11 mln zł;
+  4) 2025 - 11,4 mln zł;
+  5) 2026 - 11,5 mln zł;
+  6) 2027 - 11,9 mln zł;
+  7) 2028 - 12 mln zł;
+  8) 2029 - 12 mln zł;
+  9) 2030 - 12,3 mln zł;
+  10) 2031 - 12,5 mln zł.
 2. W przypadku zagrożenia przekroczenia limitu wydatków na dany rok budżetowy, o którym mowa w ust. 1, stosuje się mechanizm korygujący polegający na wprowadzeniu limitu realizowanych zadań.
 3. Organem właściwym do monitorowania wykorzystania limitu wydatków, o którym mowa w ust. 1, jest minister właściwy do spraw kultury fizycznej.
 4. Organem właściwym do wdrożenia mechanizmu korygującego, o którym mowa w ust. 2, jest w zakresie:
   1) wydatków Agencji - Dyrektor Agencji;
-  2) wydatków Laboratorium - Dyrektor Laboratorium;
-  3) pozostałych wydatków - minister właściwy do spraw kultury fizycznej.
+  2) pozostałych wydatków - minister właściwy do spraw kultury fizycznej.
 
 **Art. 58.**
 1. Członków pierwszego składu Rady Agencji minister właściwy do spraw kultury fizycznej powołuje z dniem wejścia w życie ustawy, z tym że w przypadku członków Rady Agencji, o których mowa w art. 13 ust. 2 pkt 1-4, powołanie następuje na wniosek organów i podmiotu, których są przedstawicielami, złożony nie później niż na 14 dni przed dniem wejścia w życie ustawy.
