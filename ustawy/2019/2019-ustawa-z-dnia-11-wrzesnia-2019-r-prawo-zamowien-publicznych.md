@@ -262,7 +262,7 @@
     b) jeżeli wymaga tego istotny interes bezpieczeństwa państwa
   - w zakresie, w jakim ochrona istotnych interesów bezpieczeństwa państwa nie może zostać zagwarantowana w inny sposób, w szczególności z zastosowaniem przepisów działu VI;
   2) zamówień, dotyczących produkcji lub handlu bronią, amunicją lub materiałami wojennymi, o których mowa w art. 346 Traktatu o funkcjonowaniu Unii Europejskiej, jeżeli wymaga tego podstawowy interes bezpieczeństwa państwa, a udzielenie zamówienia bez zastosowania ustawy nie wpłynie negatywnie na warunki konkurencji na rynku wewnętrznym w odniesieniu do produktów, które nie są przeznaczone wyłącznie do celów wojskowych w zakresie, w jakim ochrona podstawowych interesów bezpieczeństwa państwa nie może zostać zagwarantowana w inny sposób, w szczególności z zastosowaniem przepisów działu VI.
-2. Do udzielenia zamówienia, o którym mowa w ust. 1 pkt 2, zamawiający może stosować przepisy ustawy w zakresie określonym w ocenie występowania podstawowego interesu bezpieczeństwa państwa, o której mowa w art. 15. Zamawiający w oparciu o zasadę proporcjonalności w ogłoszeniu o zamówieniu lub w dokumencie zamówienia wszczynającym postępowanie wskazuje zakres zastosowania przepisów ustawy w przypadku, o którym mowa w zdaniu pierwszym. W takiej sytuacji zamawiający nie może wyłączyć stosowania przepisów działów IX i XI.
+2. (uchylony)
 
 **Art. 13.**
 1. Przepisów ustawy nie stosuje się do zamówień w dziedzinach obronności i bezpieczeństwa:
@@ -292,7 +292,7 @@
   1) finansowanych w całości przez organizację międzynarodową lub międzynarodową instytucję finansującą, jeżeli zamawiający stosuje do nich inną, niż określona ustawą, procedurę organizacji międzynarodowej lub międzynarodowej instytucji finansującej;
   2) finansowanych w ponad 50% przez organizację międzynarodową lub międzynarodową instytucję finansującą, jeżeli uzgodniono z nimi zastosowanie do tych zamówień lub konkursów innej, niż określona ustawą, procedury organizacji międzynarodowej lub międzynarodowej instytucji finansującej.
 
-**Art. 15.** Rada Ministrów określi, w drodze rozporządzenia, na wniosek Ministra Obrony Narodowej i ministra właściwego do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zagranicznych oraz ministrem właściwym do spraw gospodarki, tryb postępowania w sprawie oceny występowania podstawowego interesu bezpieczeństwa państwa, sposób określania środków zapewniających ochronę tego interesu, ocenę proporcjonalności środków stosowanych do zapewnienia ochrony tego interesu oraz podmiot właściwy do kwalifikacji zadań, jako zadań o podstawowym znaczeniu dla interesu bezpieczeństwa państwa, sposób określania zakresu stosowania w procedurze udzielenia zamówienia przepisów ustawy, mając na uwadze obowiązek zapewnienia prawidłowego stosowania przepisu art. 346 Traktatu o funkcjonowaniu Unii Europejskiej oraz potrzebę zapewnienia bezpieczeństwa dostaw sprzętu wojskowego w cyklu życia.
+**Art. 15.** (uchylony)
 
 ### Rozdział 2 — Zasady udzielania zamówień
 
