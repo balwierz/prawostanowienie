@@ -2141,7 +2141,10 @@
 2. Urządzenia melioracji wodnych mogą być wykonywane na koszt Skarbu Państwa, w tym przy udziale środków, o których mowa w ust. 3, za zwrotem, w formie opłaty melioracyjnej, części kosztów przez właścicieli gruntów, na które te urządzenia wywierają korzystny wpływ, zwanych dalej „zainteresowanymi właścicielami gruntów”.
 3. Urządzenia wodne inne niż urządzenia melioracji wodnych, służące celom, o których mowa w art. 195, mogą być wykonywane na koszt osób prawnych lub osób fizycznych, a także współfinansowane z:
   1) publicznych środków wspólnotowych w rozumieniu przepisów ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2014 r. poz. 1448 i 1856, z 2015 r. poz. 1240, z 2016 r. poz. 1948 oraz z 2017 r. poz. 1566);
-  2) innych środków publicznych, na zasadach określonych w przepisach ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2017 r. poz. 1376 i 1475) oraz w przepisach ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 (Dz. U. z 2017 r. poz. 1460 i 1475).
+  2) innych środków publicznych, na zasadach określonych w przepisach:
+    a) ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r. poz. 1057),
+    b) ustawy z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 (Dz. U. z 2020 r. poz. 818),
+    c) ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014-2020 (Dz. U. z 2021 r. poz. 2137 oraz z 2022 r. poz. 88).
 4. Rozstrzygnięcia w sprawach, o których mowa w ust. 2, dokonuje, w drodze decyzji, właściwy organ Wód Polskich w uzgodnieniu z właściwym wojewodą, na wniosek zainteresowanych właścicieli gruntów.
 5. W przypadku wykonywania urządzeń melioracji wodnych w trybie, o którym mowa w ust. 2, są wymagane wnioski zainteresowanych właścicieli gruntów, których grunty stanowią co najmniej 75% powierzchni gruntów planowanych do zmeliorowania.
 6. Zainteresowany właściciel gruntów jest obowiązany umożliwić wejście na grunt oraz do obiektów budowlanych w celu zaprojektowania i wykonania urządzeń melioracji wodnych.
@@ -2535,7 +2538,8 @@
   14) programują, planują i nadzorują wykonywanie urządzeń melioracji wodnych w trybie, o którym mowa w art. 199 ust. 2;
   15) prowadzą ewidencje, o których mowa w art. 194 ust. 2, art. 196 ust. 1 i art. 302 ust. 1, oraz udostępniają dane zawarte w tych ewidencjach;
   16) uzgadniają projekty uchwał, o których mowa w art. 87 ust. 1;
-  17) dokonują uzgodnienia, o którym mowa w art. 53 ust. 4 pkt 6 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2017 r. poz. 1073 i 1566 oraz z 2018 r. poz. 1496 i 1544), w zakresie melioracji wodnych.
+  17) dokonują uzgodnienia, o którym mowa w art. 53 ust. 4 pkt 6 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2017 r. poz. 1073 i 1566 oraz z 2018 r. poz. 1496 i 1544), w zakresie melioracji wodnych;
+  18) prowadzą sprawy dotyczące powiadomień, o których mowa w art. 395a ust. 1 pkt 1, w przypadku robót, czynności lub urządzeń wodnych wykonywanych przez podmioty inne niż Wody Polskie.
 5. Nadzory wodne, z uwzględnieniem przepisów art. 397 ust. 3, wykonują następujące zadania Wód Polskich:
   1) prowadzą sprawy dotyczące decyzji, o których mowa w art. 232 ust. 4, art. 394 ust. 2 oraz w art. 424 ust. 1;
   2) współuczestniczą w zapewnieniu ochrony ludności i mienia przed powodzią i przeciwdziałaniu skutkom suszy, na poziomie zlewni;
@@ -4532,7 +4536,7 @@
   6) prowadzenie robót w wodach oraz innych robót, które mogą być przyczyną zmiany stanu wód podziemnych;
   7) wykonanie urządzeń odwadniających obiekty budowlane, o zasięgu oddziaływania niewykraczającym poza granice terenu, którego zakład jest właścicielem;
   8) odprowadzanie wód z wykopów budowlanych lub z próbnych pompowań otworów hydrogeologicznych;
-  9) wykonanie stawów, które nie są napełniane w ramach usług wodnych, ale wyłącznie wodami opadowymi lub roztopowymi lub wodami gruntowymi o powierzchni nieprzekraczającej 1000 m2igłębokości nieprzekraczającej 3 m od naturalnej powierzchni terenu o zasięgu oddziaływania niewykraczającym poza granice terenu, którego zakład jest właścicielem;
+  9) wykonanie stawów, które nie są napełniane w ramach usług wodnych, ale wyłącznie wodami opadowymi lub roztopowymi, lub wodami gruntowymi o powierzchni nieprzekraczającej 5000 m2 oraz głębokości nieprzekraczającej 3 m od naturalnej powierzchni terenu, o zasięgu oddziaływania niewykraczającym poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na wykonanie stawu;
   10) przebudowa rowu polegająca na wykonaniu przepustu lub innego przekroju zamkniętego na długości nie większej niż 10 m;
   11) przebudowa lub odbudowa urządzeń odwadniających zlokalizowanych w pasie drogowym dróg publicznych, obszarze kolejowym, na lotniskach lub lądowiskach;
   12) wydobywanie kamienia, żwiru, piasku, innych materiałów z wód w związku z utrzymywaniem wód, śródlądowych dróg wodnych oraz remontem urządzeń wodnych, wykonywane w ramach obowiązków właściciela wód.
@@ -4551,10 +4555,28 @@
 8) pobór i odprowadzanie wód w związku z wykonywaniem odwiertów lub otworów strzałowych przy użyciu płuczki wodnej na cele badań sejsmicznych;
 9) odbudowa, rozbudowa, przebudowa lub rozbiórka urządzeń pomiarowych służb państwowych;
 10) wyznaczanie szlaku turystycznego pieszego lub rowerowego oraz budowa, przebudowa lub remont drogi rowerowej, z wyjątkiem prowadzenia dróg rowerowych przez wody powierzchniowe;
-11) zatrzymywanie wody w rowach, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem;
-12) hamowanie odpływu wody z obiektów drenarskich, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem;
-13) przechwytywanie wód opadowych lub roztopowych za pomocą urządzeń melioracji wodnych, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem;
+11) zatrzymywanie wody w rowach, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na zatrzymywanie wody w rowach;
+12) hamowanie odpływu wody z obiektów drenarskich, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na hamowanie odpływu wody z obiektów drenarskich;
+13) (uchylony)
 14) lokalizowanie, na okres do 180 dni, tymczasowych obiektów budowlanych na obszarach szczególnego zagrożenia powodzią.
+15) przebudowa rowów w celu zatrzymywania wody, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na przebudowę rowów w celu zatrzymywania wody;
+16) przebudowa obiektów drenarskich w celu hamowania odpływu wody, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na przebudowę obiektów drenarskich w celu hamowania odpływu wody.
+
+**Art. 395a.**
+1. Przed wykonaniem robót, czynności lub urządzeń wodnych, o których mowa w art. 395 pkt 15 i 16, jest wymagane dokonanie powiadomienia:
+  1) właściwego organu Wód Polskich - w przypadku robót, czynności lub urządzeń wodnych wykonywanych przez podmioty inne niż Wody Polskie;
+  2) ministra właściwego do spraw gospodarki wodnej - w przypadku robót, czynności lub urządzeń wodnych wykonywanych przez Wody Polskie.
+2. Powiadomienie zawiera:
+  1) oznaczenie zakładu dokonującego powiadomienia z podaniem jego siedziby i adresu;
+  2) określenie:
+    a) celu planowanych do wykonania robót, czynności lub urządzeń wodnych,
+    b) stanu prawnego nieruchomości, na której jest planowane wykonanie robót, czynności lub urządzeń wodnych,
+    c) w sposób opisowy zakresu planowanych do wykonania robót, czynności lub urządzeń wodnych, podstawowych parametrów charakteryzujących te roboty, czynności lub urządzenia wodne oraz warunków ich wykonania,
+    d) lokalizacji robót, czynności lub urządzeń wodnych, które są planowane do wykonania, z podaniem nazwy lub numeru obrębu ewidencyjnego wraz z numerem lub numerami działek ewidencyjnych oraz ich współrzędnymi,
+    e) planowanego terminu rozpoczęcia robót lub czynności.
+3. Do powiadomienia dołącza się pisemne zgody właścicieli gruntów, na które będą oddziaływać planowane roboty, czynności lub urządzenia wodne, jeżeli uzyskanie tych zgód jest wymagane.
+4. Jeżeli powiadomienie nie zawiera elementów, o których mowa w ust. 2, odpowiednio właściwy organ Wód Polskich albo minister właściwy do spraw gospodarki wodnej wzywa zakład do uzupełnienia braków w powiadomieniu w wyznaczonym terminie, nie krótszym niż 7 dni od dnia doręczenia tego wezwania, wskazując elementy powiadomienia wymagające uzupełnienia, a także skutki braku uzupełnienia powiadomienia.
+5. Brak uzupełnienia powiadomienia w sposób określony w wezwaniu, o którym mowa w ust. 4, w terminie wyznaczonym w tym wezwaniu powoduje uznanie powiadomienia za niedokonane.
 
 **Art. 396.**
 1. Pozwolenie wodnoprawne nie może naruszać:
