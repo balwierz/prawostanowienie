@@ -35,14 +35,14 @@
   4) w zakładach leczniczych dla zwierząt;
   5) w placówkach handlowych, w których przeważająca działalność polega na handlu pamiątkami lub dewocjonaliami;
   6) w placówkach handlowych, w których przeważająca działalność polega na handlu prasą, biletami komunikacji miejskiej, wyrobami tytoniowymi, kuponami gier losowych i zakładów wzajemnych;
-  7) w placówkach pocztowych w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106 i 138);
+  7) w placówkach pocztowych w rozumieniu art. 3 pkt 15 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2020 r. poz. 1041 i 2320), w których przeważająca działalność polega na świadczeniu usług pocztowych, o których mowa w art. 2 ust. 1 tej ustawy;
   8) w placówkach handlowych w obiektach infrastruktury krytycznej, o której mowa w ustawie z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym (Dz. U. z 2017 r. poz. 209 i 1566);
   9) w placówkach handlowych w zakładach hotelarskich;
   10) w placówkach handlowych w zakładach prowadzących działalność w zakresie kultury, sportu, oświaty, turystyki i wypoczynku;
   11) w placówkach handlowych organizowanych wyłącznie na potrzeby festynów, jarmarków i innych imprez okolicznościowych, tematycznych lub sportowo-rekreacyjnych, także gdy są one zlokalizowane w halach targowych;
   12) w placówkach handlowych w zakładach leczniczych podmiotów leczniczych i innych placówkach służby zdrowia przeznaczonych dla osób, których stan zdrowia wymaga całodobowych lub całodziennych świadczeń zdrowotnych;
   13) w placówkach handlowych na dworcach w rozumieniu ustawy z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym (Dz. U. z 2017 r. poz. 2136 i 2371), w portach i przystaniach morskich w rozumieniu ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2017 r. poz. 1933) oraz w portach i przystaniach w rozumieniu ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2017 r. poz. 2128) - w zakresie związanym z bezpośrednią obsługą podróżnych;
-  14) w centrach pierwszej sprzedaży ryb, w przypadku sprzedaży ryb z burty, w gospodarstwach rybackich, placówkach handlowych zajmujących się odbiorem produktów rybołówstwa i akwakultury oraz handlem takimi produktami;
+  14) w przypadku sprzedaży ryb w gospodarstwach rybackich, ze statku rybackiego i w placówkach handlowych zajmujących się wyłącznie odbiorem produktów rybnych;
   15) w placówkach handlowych w portach lotniczych w rozumieniu ustawy z dnia 3 lipca 2002 r. - Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089 oraz z 2018 r. poz. 138);
   16) w strefach wolnocłowych;
   17) w środkach transportu, na statkach, a także na morskich statkach handlowych, statkach powietrznych, platformach wiertniczych i innych morskich budowlach hydrotechnicznych;
@@ -52,7 +52,7 @@
   21) w przypadku handlu towarami z automatów;
   22) w przypadku rolniczego handlu detalicznego w rozumieniu ustawy z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia (Dz. U. z 2017 r. poz. 149 i 60);
   23) w hurtowniach farmaceutycznych;
-  24) w okresie od dnia 1 czerwca do dnia 30 września każdego roku kalendarzowego - w placówkach handlowych prowadzących handel wyłącznie maszynami rolniczymi i częściami zamiennymi do tych maszyn;
+  24) w okresie od dnia 1 czerwca do dnia 30 września każdego roku kalendarzowego - w placówkach handlowych prowadzących handel wyłącznie maszynami rolniczymi, częściami zamiennymi do tych maszyn, materiałami eksploatacyjnymi do maszyn rolniczych, materiałami używanymi w trakcie bieżącej pracy maszyn rolniczych lub narzędziami do wymiany części zamiennych w maszynach rolniczych;
   25) w przypadku handlu kwiatami, wiązankami, wieńcami i zniczami przy cmentarzach;
   26) w zakładach pogrzebowych;
   27) w placówkach handlowych, w których handel jest prowadzony przez przedsiębiorcę będącego osobą fizyczną wyłącznie osobiście, we własnym imieniu i na własny rachunek;
@@ -60,8 +60,13 @@
   29) w placówkach handlowych, w których przeważającą działalnością jest działalność gastronomiczna;
   30) na terenie rolno-spożywczych rynków hurtowych prowadzonych przez spółki prawa handlowego, których przeważająca działalność polega na wynajmie i zarządzaniu nieruchomościami na użytek handlu hurtowego artykułami rolno-spożywczymi;
   31) w placówkach handlowych prowadzonych przez podmioty nabywające towary na terenie rolno-spożywczych rynków hurtowych, o których mowa w pkt 30, w zakresie czynności związanych z handlem oraz powierzania pracownikowi lub zatrudnionemu wykonywania tych czynności;
-  32) w placówkach handlowych, w których jest prowadzony wyłącznie skup zbóż, buraków cukrowych, owoców, warzyw lub mleka surowego.
-2. Przeważająca działalność, o której mowa w ust. 1 pkt 2, 5, 6, 28, 29 i 30, oznacza rodzaj przeważającej działalności wskazany we wniosku o wpis do krajowego rejestru urzędowego podmiotów gospodarki narodowej, o którym mowa w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2016 r. poz. 1068 oraz z 2017 r. poz. 60).
+  32) w placówkach handlowych, w których jest prowadzony wyłącznie skup produktów pochodzenia rolniczego, w szczególności zboża, rzepaku, rzepiku, buraków cukrowych, roślin białkowych, innych upraw polowych, owoców, warzyw, mleka surowego lub runa leśnego.
+2. Przeważająca działalność, o której mowa w ust. 1 pkt 2, 5-7, 28 i 29, oznacza rodzaj przeważającej działalności wskazany we wniosku o wpis do krajowego rejestru urzędowego podmiotów gospodarki narodowej, o którym mowa w ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2021 r. poz. 955 i 1641), jeżeli działalność ta jest wykonywana w danej placówce handlowej i stanowi co najmniej 40% miesięcznego przychodu ze sprzedaży detalicznej w rozumieniu ustawy z dnia 6 lipca 2016 r. o podatku od sprzedaży detalicznej (Dz. U. z 2020 r. poz. 1293). W przypadku, o którym mowa w ust. 1 pkt 30, przepis zdania pierwszego stosuje się odpowiednio.
+3. Placówki handlowe, korzystające z wyłączeń, o których mowa w ust. 1 pkt 2, 5-7 i 28-30, są obowiązane do prowadzenia ewidencji miesięcznego przychodu ze sprzedaży, z podziałem na przychód z działalności określonej w ust. 1 pkt 2, 5-7 i 28-30 oraz przychód z pozostałej działalności.
+4. Przedsiębiorca, o którym mowa w ust. 1 pkt 27, może korzystać z nieodpłatnej pomocy małżonka, dzieci własnych, dzieci małżonka, dzieci przysposobionych, rodziców, macochy, ojczyma, rodzeństwa, wnuków, dziadków.
+5. Osoby, o których mowa w ust. 4, nie mogą być pracownikami lub zatrudnionymi w placówce handlowej u przedsiębiorcy, który korzysta z ich nieodpłatnej pomocy.
+6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób prowadzenia ewidencji, o której mowa w ust. 3, wzór tej ewidencji oraz szczegółową treść wpisów w tej ewidencji, biorąc pod uwagę konieczność zapewnienia prawidłowego prowadzenia tej ewidencji oraz przejrzystości, kompletności i dostępności zawartych w niej danych.
+7. W toku postępowania kontrolnego inspektor pracy ma prawo żądania przedłożenia ewidencji, o której mowa w ust. 3.
 
 **Art. 7.**
 1. Zakaz, o którym mowa w art. 5, nie obowiązuje w:
@@ -87,7 +92,9 @@
 
 **Art. 10.**
 1. Kto, wbrew zakazowi handlu oraz wykonywania czynności związanych z handlem w niedziele lub święta, powierza wykonywanie pracy w handlu lub wykonywanie czynności związanych z handlem pracownikowi lub zatrudnionemu, podlega karze grzywny w wysokości od 1000 do 100 000 zł.
-2. Tej samej karze podlega, kto wbrew zakazowi handlu oraz wykonywania czynności związanych z handlem po godzinie 1400 w dniu 24 grudnia lub w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy, powierza wykonywanie pracy w handlu lub wykonywanie czynności związanych z handlem pracownikowi lub zatrudnionemu.
+2. Tej samej karze podlega, kto:
+  1) wbrew zakazowi handlu oraz wykonywania czynności związanych z handlem po godzinie 14.00 w dniu 24 grudnia lub w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy, powierza wykonywanie pracy w handlu lub wykonywanie czynności związanych z handlem pracownikowi lub zatrudnionemu;
+  2) wbrew obowiązkowi określonemu w art. 6 ust. 3 nie prowadzi ewidencji miesięcznego przychodu placówki albo tę ewidencję prowadzi w sposób niezgodny z przepisami wydanymi na podstawie art. 6 ust. 6.
 
 **Art. 11.** Orzekanie w sprawach o czyny, o których mowa w art. 10, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.).
 
