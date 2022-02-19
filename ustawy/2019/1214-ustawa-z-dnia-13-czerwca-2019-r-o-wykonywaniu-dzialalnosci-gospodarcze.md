@@ -43,6 +43,8 @@
 2) broni palnej wpisanej do inwentarza muzealiów, o którym mowa w art. 21 ust. 1 i 1a ustawy z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 2019 r. poz. 917), lub wpisanej do rejestru zabytków albo na Listę Skarbów Dziedzictwa lub ujętej w wojewódzkiej ewidencji zabytków, o których mowa odpowiednio w art. 8 ust. 1, art. 14a oraz art. 22 ust. 2 ustawy z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami (Dz. U. z 2018 r. poz. 2067 i 2245 oraz z 2019 r. poz. 730);
 3) atrap broni niezdolnych do miotania pocisków z wykorzystaniem energii produktów powstałych w wyniku reakcji chemicznej ładunku miotającego i przekrojów broni służących do prezentacji sposobu działania mechanizmów broni - jeżeli nie zawierają istotnych części, które można wykorzystać zgodnie z ich przeznaczeniem w broni palnej.
 
+**Art. 4a.** Przepisów ustawy nie stosuje się do Rządowej Agencji Rezerw Strategicznych wykonującej zadania w zakresie tworzenia, utrzymywania i udostępnienia rezerw strategicznych oraz zadania na podstawie art. 29 i art. 32 ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2021 r. poz. 255 i 694 oraz z 2022 r. poz. 202 i 275).
+
 **Art. 5.** Wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym jest dozwolone wyłącznie po spełnieniu warunków określonych w ustawie.
 
 **Art. 6.** Działalność gospodarczą w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym prowadzi się w sposób zapewniający ochronę życia i zdrowia ludzi, mienia oraz środowiska.
