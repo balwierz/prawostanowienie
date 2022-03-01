@@ -6086,6 +6086,8 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
 
 **Art. 568a.** Do dnia 30 września 2020 r. podmioty wykonujące czynności, o których mowa w art. 306 ust. 1, zwalnia się z należności za korzystanie ze śródlądowych dróg wodnych i ich odcinków oraz urządzeń wodnych stanowiących własność Skarbu Państwa, usytuowanych na śródlądowych wodach powierzchniowych.
 
+**Art. 568b.** Od dnia 1 marca 2022 r. do dnia 31 grudnia 2022 r. podmioty wykonujące czynności, o których mowa w art. 306 ust. 1, zwalnia się z należności za korzystanie ze śródlądowych dróg wodnych i ich odcinków oraz z urządzeń wodnych stanowiących własność Skarbu Państwa usytuowanych na śródlądowych wodach powierzchniowych.
+
 **Art. 569.**
 1. W latach 2018-2027 maksymalny limit wydatków Wód Polskich będący skutkiem finansowym wejścia w życie ustawy wynosi 28 751,87 mln zł, przy czym w:
   1) 2018 r. - 2 475,96 mln zł;
