@@ -297,7 +297,7 @@
     c) robót w wodach oraz innych robót, które mogą być przyczyną zmiany naturalnych przepływów wód, stanu wód stojących i stanu wód podziemnych poza granicami nieruchomości gruntowej, na której są prowadzone te roboty;
   4) wykonania urządzeń wodnych - stosuje się odpowiednio do odbudowy, rozbudowy, nadbudowy, przebudowy, rozbiórki lub likwidacji tych urządzeń, z wyłączeniem robót związanych z utrzymywaniem urządzeń wodnych w celu zachowania ich funkcji.
 2. Ilekroć w ustawie jest mowa odpowiednio o właściwym organie Inspekcji Ochrony Środowiska lub o właściwych organach Inspekcji Ochrony Środowiska, należy przez to rozumieć:
-  1) w art. 37 ust. 12, art. 39 ust. 7, art. 109 ust. 14, art. 110 ust. 3, art. 111 ust. 2, art. 116, art. 118 ust. 1 i 2, art. 119 ust. 3, art. 151 ust. 1-11 i 14, art. 152 ust. 1 i 2, art. 154 ust. 1-5, art. 171 ust. 4 pkt 2, art. 297, art. 325 ust. 6, art. 349 ust. 3-7, 9-13 i 15, art. 351 ust. 1 i 3-6 oraz art. 352 ust. 1 i 2 - Głównego Inspektora Ochrony Środowiska;
+  1) w art. 37 ust. 12, art. 39 ust. 8 pkt 2, art. 109 ust. 14, art. 110 ust. 3, art. 111 ust. 2, art. 116, art. 118 ust. 1 i 2, art. 119 ust. 3, art. 151 ust. 1-11 i 14, art. 152 ust. 1 i 2, art. 154 ust. 1-5, art. 171 ust. 4 pkt 2, art. 297, art. 325 ust. 6, art. 349 ust. 3-7, 9-13 i 15, art. 351 ust. 1 i 3-6 oraz art. 352 ust. 1 i 2 - Głównego Inspektora Ochrony Środowiska;
   2) w art. 105b ust. 6, art. 108 ust. 1, 2, 5 i 6, art. 109 ust. 1 i 13, art. 109a, art. 282 ust. 8 i 9, art. 283 ust. 4 i 5, art. 284-287, art. 289, art. 296 ust. 1, 4, 7, 8, 10 i 12-16, art. 300 ust. 1, art. 304 ust. 1 pkt 2, art. 400 ust. 9 oraz art. 416 ust. 4 - wojewódzkiego inspektora ochrony środowiska.
 
 ### Rozdział 3 — Wody oraz jednolite części wód
@@ -460,39 +460,65 @@
 7. Prowadzenie ewidencji kąpielisk i przekazywanie informacji zawartych w tej ewidencji jest zadaniem z zakresu administracji rządowej.
 
 **Art. 39.**
-1. W przypadku gdy nie jest uzasadnione utworzenie kąpieliska, rada gminy może wyrazić, w drodze uchwały będącej aktem prawa miejscowego, zgodę na utworzenie miejsca okazjonalnie wykorzystywanego do kąpieli, funkcjonującego przez okres nie dłuższy niż 30 dni w roku kalendarzowym, określając sezon kąpielowy dla miejsca okazjonalnie wykorzystywanego do kąpieli.
-2. Organizator miejsca okazjonalnie wykorzystywanego do kąpieli, w terminie nie krótszym niż 30 dni przed planowanym otwarciem miejsca okazjonalnie wykorzystywanego do kąpieli, przekazuje wójtowi, burmistrzowi lub prezydentowi miasta wniosek o wyrażenie zgody na utworzenie miejsca okazjonalnie wykorzystywanego do kąpieli.
-3. Wniosek, o którym mowa w ust. 2, zawiera:
-  1) imię i nazwisko albo nazwę oraz adres organizatora;
+1. Miejsce okazjonalnie wykorzystywane do kąpieli, funkcjonujące przez okres nie dłuższy niż 30 kolejnych dni w roku kalendarzowym, może zostać utworzone w przypadku, gdy nie jest uzasadnione utworzenie kąpieliska.
+2. Utworzenie miejsca okazjonalnie wykorzystywanego do kąpieli wymaga zgłoszenia wójtowi, burmistrzowi lub prezydentowi miasta właściwemu ze względu na planowaną lokalizację tego miejsca. Wniesienie tego zgłoszenia oznacza także dokonanie za pośrednictwem wójta, burmistrza lub prezydenta miasta zgłoszenia wodnoprawnego na wyznaczenie miejsca okazjonalnie wykorzystywanego do kąpieli w zakresie i na warunkach wskazanych w zgłoszeniu utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli.
+3. Organizator może utworzyć miejsce okazjonalnie wykorzystywane do kąpieli, jeżeli wójt, burmistrz lub prezydent miasta nie wniesie sprzeciwu, w drodze decyzji, w terminie 30 dni od dnia doręczenia zgłoszenia utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, albo przed upływem terminu na wniesienie sprzeciwu przekaże zawiadomienie o braku sprzeciwu.
+4. Zgłoszenie utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, zawiera:
+  1) imię i nazwisko albo nazwę oraz adres i siedzibę organizatora miejsca okazjonalnie wykorzystywanego do kąpieli;
   2) nazwę i adres miejsca okazjonalnie wykorzystywanego do kąpieli oraz opis granicy miejsca okazjonalnie wykorzystywanego do kąpieli na aktualnej mapie topograficznej albo ortofotomapie lub wykaz współrzędnych punktów załamania granicy miejsca okazjonalnie wykorzystywanego do kąpieli;
   3) wskazanie długości linii brzegowej miejsca okazjonalnie wykorzystywanego do kąpieli;
   4) wskazanie przewidywanej maksymalnej liczby osób korzystających dziennie z miejsca okazjonalnie wykorzystywanego do kąpieli;
-  5) wskazanie terminów otwarcia i zamknięcia miejsca okazjonalnie wykorzystywanego do kąpieli;
-  6) wskazanie terminów poboru próbek wody;
-  7) opis infrastruktury miejsca okazjonalnie wykorzystywanego do kąpieli, w tym urządzeń sanitarnych;
-  8) wskazanie sposobu gospodarki odpadami.
-4. Do wniosku, o którym mowa w ust. 2, dołącza się:
+  5) wskazanie sezonu kąpielowego dla miejsca okazjonalnie wykorzystywanego do kąpieli, w tym terminów otwarcia i zamknięcia tego miejsca;
+  6) opis infrastruktury miejsca okazjonalnie wykorzystywanego do kąpieli, w tym urządzeń sanitarnych i dostępności tego miejsca dla osób niepełnosprawnych;
+  7) wskazanie sposobu gospodarki odpadami dla miejsca okazjonalnie wykorzystywanego do kąpieli.
+5. Do zgłoszenia utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, dołącza się:
   1) zgodę właściciela wód oraz właściciela gruntu przylegającego do planowanego miejsca okazjonalnie wykorzystywanego do kąpieli na utworzenie miejsca okazjonalnie wykorzystywanego do kąpieli;
-  2) informację, czy w poprzednich latach było w tym miejscu tworzone miejsce okazjonalnie wykorzystywane do kąpieli albo kąpielisko;
-  3) uzasadnienie braku potrzeby utworzenia kąpieliska.
-5. Jeżeli wniosek, o którym mowa w ust. 2, jest niekompletny, wójt, burmistrz lub prezydent miasta wzywa do jego uzupełnienia w terminie 7 dni od dnia doręczenia wezwania.
-6. W przypadku braku uzupełnienia, o którym mowa w ust. 5, w wyznaczonym terminie wniosek, o którym mowa w ust. 2, pozostawia się bez rozpatrzenia.
-7. Projekt uchwały, o której mowa w ust. 1, wraz z wnioskiem, o którym mowa w ust. 2, i dokumentami, o których mowa w ust. 4, wójt, burmistrz lub prezydent miasta przekazuje do zaopiniowania Wodom Polskim, właścicielowi wód oraz właściwemu organowi Inspekcji Ochrony Środowiska i państwowemu powiatowemu lub państwowemu granicznemu inspektorowi sanitarnemu, a w przypadku miejsca okazjonalnie wykorzystywanego do kąpieli położonego na: terenie parku narodowego - także dyrektorowi parku narodowego, śródlądowej drodze wodnej - także właściwemu dyrektorowi urzędu żeglugi śródlądowej, polskich obszarach morskich - także właściwemu terytorialnie dyrektorowi urzędu morskiego. Wody Polskie, właściciel wód, właściwy organ Inspekcji Ochrony Środowiska, państwowy powiatowy lub państwowy graniczny inspektor sanitarny, dyrektor parku narodowego, dyrektor urzędu żeglugi śródlądowej i dyrektor urzędu morskiego wyrażają opinie do przekazanego projektu uchwały, o której mowa w ust. 1, w terminie 7 dni. Brak opinii w tym terminie uznaje się za wyrażenie opinii pozytywnej.
-8. Na obszarze parku narodowego miejsce okazjonalnie wykorzystywane do kąpieli może zostać utworzone, jeżeli nie sprzeciwiają się postanowienia planu ochrony parku narodowego albo planu zadań ochronnych oraz zasady udostępniania parku narodowego.
+  2) uzasadnienie braku potrzeby utworzenia kąpieliska;
+  3) poświadczenia wniesienia opłaty za zgłoszenie wodnoprawne;
+  4) zgodę właściciela sztucznego zbiornika wodnego, w przypadku gdy utworzenie miejsca okazjonalnie wykorzystywanego do kąpieli ma nastąpić na terenie sztucznego zbiornika wodnego.
+6. Jeżeli zgłoszenie utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, jest niekompletne, wójt, burmistrz lub prezydent miasta wzywa do jego uzupełnienia w terminie 7 dni od dnia doręczenia wezwania.
+7. W przypadku niezastosowania się w terminie do wezwania, o którym mowa w ust. 6, wójt, burmistrz lub prezydent miasta wnosi sprzeciw, w drodze decyzji.
+8. Zgłoszenie utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, wraz z dokumentami, o których mowa w ust. 5, wójt, burmistrz lub prezydent miasta przekazuje:
+  1) w celu przyjęcia zgłoszenia wodnoprawnego organowi właściwemu w sprawach zgłoszeń wodnoprawnych, jednocześnie informując o tym fakcie organizatora miejsca okazjonalnie wykorzystywanego do kąpieli;
+  2) do zaopiniowania właściwemu organowi Inspekcji Ochrony Środowiska i państwowemu powiatowemu lub państwowemu granicznemu inspektorowi sanitarnemu, a w przypadku miejsca okazjonalnie wykorzystywanego do kąpieli położonego na: terenie parku narodowego - także dyrektorowi parku narodowego, śródlądowej drodze wodnej - także właściwemu dyrektorowi urzędu żeglugi śródlądowej, polskich obszarach morskich - także właściwemu terytorialnie dyrektorowi urzędu morskiego.
+9. Właściwy organ Inspekcji Ochrony Środowiska, państwowy powiatowy lub państwowy graniczny inspektor sanitarny, dyrektor parku narodowego, dyrektor urzędu żeglugi śródlądowej i dyrektor urzędu morskiego wyrażają opinie do przekazanego zgłoszenia utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, w terminie 7 dni od dnia otrzymania zgłoszenia utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli od wójta, burmistrza lub prezydenta miasta. Brak opinii w tym terminie uznaje się za wyrażenie opinii pozytywnej.
+10. Do zgłoszenia wodnoprawnego nie stosuje się przepisów art. 421, art. 422 i art. 423 ust. 5 pkt 2 w zakresie odnoszącym się do art. 396 ust. 1 pkt 7 i 8, a dodatkowo:
+  1) termin na wniesienie sprzeciwu od zgłoszenia wodnoprawnego wynosi 21 dni od dnia otrzymania zgłoszenia wodnoprawnego od wójta, burmistrza lub prezydenta miasta;
+  2) sprzeciw od zgłoszenia wodnoprawnego doręcza się organizatorowi oraz właściwemu w sprawie zgłoszenia utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, wójtowi, burmistrzowi lub prezydentowi miasta;
+  3) w przypadku braku wniesienia sprzeciwu od zgłoszenia wodnoprawnego - organ właściwy w sprawach zgód wodnoprawnych przekazuje w terminie 21 dni od dnia otrzymania zgłoszenia wodnoprawnego od wójta, burmistrza lub prezydenta miasta informację o tym fakcie właściwemu w sprawie zgłoszenia utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, wójtowi, burmistrzowi lub prezydentowi miasta, a także organizatorowi.
+11. W przypadku gdy decyzja w sprawie wniesienia sprzeciwu, o którym mowa w art. 423 ust. 5, stanie się prawomocna, umarza się z mocy prawa postępowanie w sprawie utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli.
+12. Na obszarze parku narodowego miejsce okazjonalnie wykorzystywane do kąpieli może zostać utworzone, jeżeli nie sprzeciwiają się temu postanowienia planu ochrony parku narodowego albo planu zadań ochronnych oraz zasady udostępniania parku narodowego.
+13. Wójt, burmistrz lub prezydent miasta wnosi sprzeciw, w przypadku gdy:
+  1) przemawia za tym ważny interes publiczny;
+  2) jest uzasadnione utworzenie kąpieliska, w szczególności gdy w sezonie kąpielowym, którego dotyczy zgłoszenie utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, na wniosek tego samego organizatora miejsca okazjonalnie wykorzystywanego do kąpieli na tym samym terenie lub w jego sąsiedztwie było już utworzone miejsce okazjonalnie wykorzystywane do kąpieli;
+  3) przemawiają za tym ważne względy:
+    a) ochrony środowiska,
+    b) ochrony zdrowia publicznego,
+    c) bezpieczeństwa osób kąpiących się;
+  4) utworzenie miejsca okazjonalnie wykorzystywanego do kąpieli narusza ustalenia miejscowego planu zagospodarowania przestrzennego, ustalenia decyzji o warunkach zabudowy i zagospodarowaniu terenu, wymagania określone w przepisach wydanych na podstawie art. 48 ust. 1 lub zakazy lub ograniczenia, o których mowa w art. 130 ust. 1 pkt 11 i art. 140 pkt 10.
+14. Do terminu, o którym mowa w ust. 3, wlicza się termin na wniesienie sprzeciwu, o którym mowa w ust. 10 pkt 1.
+15. Jeżeli wójt, burmistrz lub prezydent miasta nie otrzyma w terminie co najmniej 7 dni przed upływem terminu na wniesienie sprzeciwu, o którym mowa w ust. 13:
+  1) sprzeciwu w sprawie zgłoszenia wodnoprawnego lub
+  2) informacji o braku sprzeciwu w sprawie zgłoszenia wodnoprawnego
+- o których mowa w ust. 10 pkt 2 i 3, termin, o którym mowa w ust. 3, wydłuża się do 7 dni od dnia otrzymania przez wójta, burmistrza lub prezydenta miasta jednego z dokumentów, o których mowa w pkt 1 lub 2.
+16. Wójt, burmistrz lub prezydent miasta może przed upływem terminu określonego w ust. 3 przyjąć zgłoszenie utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, jeżeli otrzymał informację, o której mowa w ust. 10 pkt 3, o czym niezwłocznie zawiadamia organizatora miejsca okazjonalnie wykorzystywanego do kąpieli, biorąc pod uwagę stopień skomplikowania sprawy.
+17. W przypadku gdy zgłoszenie utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w ust. 2, wobec którego nie wniesiono sprzeciwu, nie zostało przyjęte w sposób, o którym mowa w ust. 16, wójt, burmistrz lub prezydent miasta wydaje, na wniosek organizatora miejsca okazjonalnie wykorzystywanego do kąpieli, zaświadczenie o niewniesieniu sprzeciwu.
 
 **Art. 40.**
 1. Wójt, burmistrz lub prezydent miasta prowadzi i aktualizuje ewidencję miejsc okazjonalnie wykorzystywanych do kąpieli.
 2. W ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli zamieszcza się następujące informacje dotyczące miejsc okazjonalnie wykorzystywanych do kąpieli:
-  1) zawarte w uchwałach o wyrażeniu zgód na utworzenie miejsc okazjonalnie wykorzystywanych do kąpieli;
+  1) zawarte w zgłoszeniu utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w art. 39 ust. 2;
   2) o ocenie bieżącej jakości wody w miejscu okazjonalnie wykorzystywanym do kąpieli oraz o zakazie kąpieli i zaleceniach wydanych przez właściwego państwowego powiatowego lub państwowego granicznego inspektora sanitarnego.
 3. Wójt, burmistrz lub prezydent miasta wpisuje miejsce okazjonalnie wykorzystywane do kąpieli do ewidencji lub aktualizuje wpis w tej ewidencji w terminie:
-  1) 14 dni od dnia podjęcia uchwały, o której mowa w art. 39 ust. 1;
+  1) 7 dni od dnia upływu terminu na wniesienie sprzeciwu, o którym mowa w art. 39 ust. 13, albo od dnia wysłania zawiadomienia, o którym mowa w art. 39 ust. 16;
   2) 2 dni od dnia otrzymania zgłoszenia, o którym mowa w ust. 4;
   3) 2 dni od dnia otrzymania informacji, o której mowa w art. 41 ust. 2.
 4. Organizator miejsca okazjonalnie wykorzystywanego do kąpieli jest obowiązany niezwłocznie zgłosić zmianę posiadanych informacji zawartych w ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli.
-5. Wójt, burmistrz lub prezydent miasta przechowuje dokumentację stanowiącą podstawę do dokonania wpisu do ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli, w tym wniosek, o którym mowa w art. 39 ust. 2, wraz z załącznikami, przez okres 10 lat od dnia dokonania wpisu danego miejsca okazjonalnie wykorzystywanego do kąpieli do tej ewidencji.
+5. Wójt, burmistrz lub prezydent miasta przechowuje dokumentację stanowiącą podstawę do dokonania wpisu do ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli, w tym zgłoszenie utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w art. 39 ust. 2, wraz z załącznikami, przez okres 10 lat od dnia dokonania wpisu danego miejsca okazjonalnie wykorzystywanego do kąpieli do tej ewidencji.
 6. Wójt, burmistrz lub prezydent miasta jest obowiązany do nieodpłatnego przekazywania informacji zawartych w ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli na wniosek właściciela wód, właściwego państwowego powiatowego lub państwowego granicznego inspektora sanitarnego lub organów właściwych w sprawach gospodarowania wodami.
 7. Prowadzenie ewidencji miejsc okazjonalnie wykorzystywanych do kąpieli i przekazywanie informacji zawartych w tej ewidencji jest zadaniem z zakresu administracji rządowej.
+
+**Art. 40a.** W zakresie nieuregulowanym w niniejszym rozdziale do zgłoszenia utworzenia miejsca okazjonalnie wykorzystywanego do kąpieli, o którym mowa w art. 39 ust. 2, stosuje się przepisy działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
 
 **Art. 41.**
 1. Jakość wody w kąpielisku oraz miejscu okazjonalnie wykorzystywanym do kąpieli powinna odpowiadać wymaganiom określonym w przepisach wydanych na podstawie art. 48 ust. 1 pkt 1.
@@ -2489,7 +2515,7 @@
   1) z uwzględnieniem przepisów art. 397 ust. 3 prowadzą sprawy dotyczące:
     a) decyzji, o których mowa w art. 76 ust. 2, art. 77 ust. 3, 8, 11 i 14, art. 166 ust. 5, art. 175 ust. 1, art. 176 ust. 4 i 9, art. 182 ust. 1, art. 199 ust. 4, art. 201 ust. 1, art. 202 ust. 1, art. 206 oraz w art. 343 ust. 2, 3 i 6,
     b) zgód wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 1, 3 i 4;
-  2) opiniują projekty uchwał, o których mowa w art. 37 ust. 1 i art. 39 ust. 1;
+  2) opiniują projekty uchwał, o których mowa w art. 37 ust. 2;
   3) weryfikują wpływ istniejących urządzeń wodnych i udzielonych zgód wodnoprawnych na warunki bytowania i wędrówki gatunków zwierząt wodnych o znaczeniu gospodarczym;
   4) analizują sprawozdania, o których mowa w art. 89 ust. 1;
   5) uzgadniają projekty aktów prawa miejscowego, o których mowa w art. 135 ust. 1 pkt 2 i ust. 2 oraz w art. 162;
@@ -2769,6 +2795,7 @@
 2a. Umowę użytkowania zawiera się także w przypadku prowadzenia przedsięwzięć związanych z infrastrukturą przesyłową, w tym liniami energetycznymi, na terenie nieruchomości stanowiącej grunt pokryty wodami, pod gruntami pokrytymi wodami lub nad tymi gruntami.
 3. Jeżeli wysokość opłaty rocznej, o której mowa w ust. 1, będzie wyższa niż 5000 zł, umowę sporządza się w formie aktu notarialnego.
 4. Warunkiem oddania w użytkowanie gruntów, o których mowa w ust. 1, jest posiadanie przez użytkownika pozwolenia wodnoprawnego lub dokonanie zgłoszenia wodnoprawnego, jeżeli są wymagane przepisami ustawy.
+4a. Przepisu ust. 4 nie stosuje się do zgłoszeń wodnoprawnych na wyznaczenie miejsc okazjonalnie wykorzystywanych do kąpieli.
 5. Wysokość opłaty rocznej za użytkowanie gruntów, o których mowa w ust. 1, ustala się proporcjonalnie do okresu prowadzenia działalności określonego w pozwoleniu wodnoprawnym lub wynikającego ze zgłoszenia wodnoprawnego:
   1) jeżeli jest on krótszy niż rok;
   2) dotyczącego realizacji przedsięwzięć wymienionych w ust. 1 pkt 3.
@@ -4986,6 +5013,8 @@
 6. Nałożenie obowiązków, o których mowa w ust. 5, następuje w drodze decyzji, bez odszkodowania. W decyzji ustala się termin wykonania obowiązku.
 
 **Art. 424a.** W zakresie nieuregulowanym w niniejszym rozdziale do zgłoszeń wodnoprawnych stosuje się przepisy działu II rozdziału 8a ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
+**Art. 424b.** Do zgłoszeń wodnoprawnych na wyznaczenie miejsc okazjonalnie wykorzystywanych do kąpieli stosuje się przepisy niniejszego rozdziału, o ile nie są odmiennie uregulowane w przepisach działu II rozdziału 2.
 
 ### Rozdział 5 — Oceny wodnoprawne
 
