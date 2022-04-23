@@ -643,8 +643,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
  Funkcjonariusz składający ślubowanie może dodać na końcu zdanie „Tak mi dopomóż Bóg.”.
 
 **Art. 75.**
-1. W razie ogłoszenia mobilizacji i w czasie wojny SOP może być objęta militaryzacją, o której mowa w art. 174 ust. 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2017 r. poz. 1430 i 2217).
-2. Funkcjonariusze pozostający w stosunku służbowym w dniu ogłoszenia mobilizacji lub w dniu, w którym rozpoczyna się czas wojny, określonym przez Prezydenta Rzeczypospolitej Polskiej na podstawie art. 4a ust. 1 pkt 4a ustawy, o której mowa w ust. 1, stają się z mocy prawa funkcjonariuszami pełniącymi służbę w czasie wojny i pozostają w tej służbie do czasu zwolnienia.
+1. W razie ogłoszenia mobilizacji i w czasie wojny SOP może być objęta militaryzacją, o której mowa w art. 600 ust. 1 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. poz. 655).
+2. Funkcjonariusze pozostający w stosunku służbowym w dniu ogłoszenia mobilizacji lub w dniu, w którym rozpoczyna się czas wojny, określonym przez Prezydenta Rzeczypospolitej Polskiej na podstawie art. 24 ust. 1 pkt 7 ustawy, o której mowa w ust. 1, stają się z mocy prawa funkcjonariuszami pełniącymi służbę w czasie wojny i pozostają w tej służbie do czasu zwolnienia.
 3. Osoby przybyłe w celu uzupełnienia potrzeb osobowych, które otrzymały przydziały organizacyjno-mobilizacyjne na stanowiska przewidziane dla funkcjonariuszy, otrzymują uprawnienia funkcjonariuszy, o których mowa w art. 21 i art. 37.
 
 **Art. 76.**
