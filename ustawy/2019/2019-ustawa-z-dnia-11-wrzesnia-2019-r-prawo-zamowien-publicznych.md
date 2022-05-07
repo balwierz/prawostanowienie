@@ -244,10 +244,10 @@
   11) związanych z przymusową restrukturyzacją albo umorzeniem lub konwersją instrumentów kapitałowych, o których mowa w art. 101 ust. 7 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, których przedmiotem jest:
     a) przeprowadzenie oszacowania,
     b) świadczenie usług doradztwa, w tym doradztwa strategicznego, ekonomiczno-finansowego, podatkowego, prawnego i informatycznego,
-    c) powierzenie przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywania pośrednictwa w zakresie czynności wymienionych w art. 5 i art. 6 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.), w imieniu i na rzecz banku w restrukturyzacji, oraz czynności związanych z działalnością prowadzoną przez firmę inwestycyjną w restrukturyzacji, w tym z prowadzoną przez nią działalnością maklerską;
-  12) udzielanych przez instytucję pomostową, o której mowa w art. 2 pkt 26 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, lub podmiot zarządzający aktywami, o którym mowa w art. 2 pkt 46 tej ustawy;
+    c) (uchylony)
+  12) (uchylony)
   13) związanych z zastosowaniem rządowych instrumentów stabilizacji finansowej, o których mowa w ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2018 r. poz. 124, z 2019 r. poz. 1798 oraz z 2021 r. poz. 1598), w szczególności zamówień, których przedmiotem jest:
-    a) dokonanie oszacowania określonego w art. 19f ust. 8 tej ustawy,
+    a) dokonanie aktualizacji oszacowania, o którym mowa w art. 19f ust. 8 tej ustawy,
     b) świadczenie usług doradztwa, w tym doradztwa strategicznego, ekonomiczno-finansowego, podatkowego, prawnego i informatycznego,
     c) powierzenie podmiotowi trzeciemu zarządzania prawami, o których mowa w art. 19b ust. 1 tej ustawy;
   14) na usługi Banku Gospodarstwa Krajowego, w zakresie zlecenia przez:
