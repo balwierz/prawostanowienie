@@ -42,7 +42,7 @@
 
 **Art. 6.**
 1. Przy wykonywaniu zadań Prokuratoria Generalna i Prezes Prokuratorii Generalnej współdziałają z:
-  1) organami władzy publicznej;
+  1) organami władzy publicznej lub podmiotami wykonującymi, na podstawie przepisów prawa, decyzji administracyjnej lub porozumienia, zadania organów władzy publicznej;
   2) państwowymi jednostkami organizacyjnymi nieposiadającymi osobowości prawnej;
   3) organami jednostek samorządu terytorialnego i innymi podmiotami w zakresie, w jakim wykonują zadania z zakresu administracji rządowej;
   4) innymi podmiotami uprawnionymi na podstawie odrębnych przepisów do reprezentowania Skarbu Państwa lub Rzeczypospolitej Polskiej;
