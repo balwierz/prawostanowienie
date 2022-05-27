@@ -830,7 +830,7 @@
 **Art. 73a.**
 1. Na programy i przedsięwzięcia, o których mowa w art. 90w ustawy o systemie oświaty, przeznacza się środki finansowe na oświatę i wychowanie.
 2. Minister właściwy do spraw oświaty i wychowania przekazuje środki finansowe w ramach programów i przedsięwzięć na podstawie umowy.
-3. Minister właściwy do spraw oświaty i wychowania może upoważnić dyrektora jednostki organizacyjnej podległej temu ministrowi lub przez niego nadzorowanej do zawierania i rozliczania umów, o których mowa w ust. 2.
+3. Minister właściwy do spraw oświaty i wychowania może zlecić jednostce organizacyjnej podległej temu ministrowi lub przez niego nadzorowanej zawieranie i rozliczanie umów, o których mowa w ust. 2.
 4. Minister właściwy do spraw oświaty i wychowania udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację dotyczącą środków finansowych przyznanych w ramach programu albo przedsięwzięcia obejmującą:
   1) nazwy podmiotów, które otrzymały środki finansowe;
   2) wysokość przyznanych środków finansowych.
@@ -844,6 +844,17 @@
 3. Minister Obrony Narodowej określi, w drodze rozporządzenia, zakres wsparcia dla organu prowadzącego oddział przygotowania wojskowego, uwzględniając program szkolenia, organizację i formy zajęć realizowanych w ramach tego szkolenia oraz warunki realizacji zajęć praktycznych, określone w przepisach wydanych na podstawie art. 18 ust. 6 ustawy - Prawo oświatowe.
 
 **Art. 75.** Na realizację zadań, o których mowa w art. 90v ust. 1 ustawy o systemie oświaty, minister właściwy do spraw oświaty i wychowania może udzielić jednostkom samorządu terytorialnego dotacji celowej.
+
+**Art. 75a.** Minister właściwy do spraw oświaty i wychowania w celu realizacji zadań publicznych w zakresie oświaty i wychowania może udzielić dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji związanych z:
+1) realizacją programów inwestycyjnych, o których mowa w art. 90x ustawy o systemie oświaty;
+2) zakupem nieruchomości oraz budową lub dostosowaniem obiektów, niezbędnych dla rozwoju przedszkoli, szkół lub placówek;
+3) wyposażeniem przedszkoli, szkół lub placówek.
+
+**Art. 75b.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+1) szczegółowe kryteria i tryb przyznawania oraz rozliczania, a także tryb przekazywania dotacji celowej, o której mowa w art. 75a,
+2) zakres informacji zawartych we wniosku o przyznanie dotacji celowej, o której mowa w art. 75a, oraz w sprawozdaniu z wykonania zadania,
+3) sposób rozliczenia udzielonej dotacji celowej, o której mowa w art. 75a
+- mając na uwadze konieczność zapewnienia jednolitości danych przekazywanych na potrzeby przyznawania i rozliczania tej dotacji.
 
 ## Rozdział 11 — Zmiany w przepisach
 
