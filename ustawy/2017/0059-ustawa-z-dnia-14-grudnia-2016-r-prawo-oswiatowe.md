@@ -47,7 +47,7 @@
 **Art. 3.**
 1. System oświaty wspierają organizacje pozarządowe, w tym organizacje harcerskie, a także osoby prawne prowadzące statutową działalność w zakresie oświaty i wychowania.
 1a. System oświaty w zakresie kształcenia zawodowego wspierają także pracodawcy, organizacje pracodawców, samorządy gospodarcze lub inne organizacje gospodarcze, stowarzyszenia lub samorządy zawodowe, sektorowe rady do spraw kompetencji oraz Rada Programowa do spraw kompetencji, o których mowa w ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2018 r. poz. 110, 650, 1000 i 1669).
-2. Organy administracji publicznej prowadzące szkoły i placówki współdziałają z podmiotami, o których mowa w ust. 1 i 1a, w wykonywaniu zadań wymienionych w art. 1.
+2. Organy administracji publicznej, w tym organy prowadzące szkoły i placówki, współdziałają z podmiotami, o których mowa w ust. 1 i 1a, w wykonywaniu zadań wymienionych w art. 1.
 3. System oświaty mogą wspierać także jednostki organizacyjne Państwowej Straży Pożarnej oraz jednostki innych właściwych służb w działaniach służących podnoszeniu bezpieczeństwa dzieci i młodzieży, w tym w zakresie ochrony przeciwpożarowej.
 4. Organy administracji publicznej, w tym organy prowadzące szkoły i placówki, współdziałają z podmiotami, o których mowa w ust. 3, w zapewnieniu właściwych warunków realizacji zadań wymienionych w ust. 3, w szczególności w prowadzeniu zajęć edukacyjnych z zakresu podnoszenia bezpieczeństwa dzieci i młodzieży, w tym bezpieczeństwa przeciwpożarowego.
 
@@ -472,9 +472,9 @@
 21. Po usunięciu danych zgodnie z ust. 20 monitoring karier absolwentów odbywa się wyłącznie na podstawie danych zanonimizowanych.
 22. Minister właściwy do spraw oświaty i wychowania w terminie do dnia 1 października roku, w którym jest prowadzony monitoring karier absolwentów, przekazuje, w postaci elektronicznej, Instytutowi Badań Edukacyjnych w Warszawie dane zanonimizowane, o których mowa w ust. 21, w celu opracowania wyników monitoringu karier absolwentów.
 23. Minister właściwy do spraw oświaty i wychowania przechowuje dane zanonimizowane, o których mowa w ust. 21, przez okres 5 lat od dnia, w którym nastąpiła ich anonimizacja.
-24. Instytut Badań Edukacyjnych w Warszawie przekazuje wyniki monitoringu karier absolwentów ministrowi właściwemu do spraw oświaty i wychowania w terminie do dnia 30 listopada roku, w którym jest prowadzony monitoring karier absolwentów.
-25. Instytut Badań Edukacyjnych w Warszawie przechowuje dane, o których mowa w ust. 22, nie dłużej niż do dnia przekazania wyników monitoringu karier absolwentów ministrowi właściwemu do spraw oświaty i wychowania.
-26. Minister właściwy do spraw oświaty i wychowania udostępnia wyniki monitoringu karier absolwentów w postaci zagregowanej w Biuletynie Informacji Publicznej na swojej stronie podmiotowej. Nie udostępnia się zagregowanych wyników monitoringu karier absolwentów obejmujących mniej niż 10 osób.
+24. Instytut Badań Edukacyjnych w Warszawie przekazuje ministrowi właściwemu do spraw oświaty i wychowania wyniki monitoringu karier absolwentów, opracowane w szczególności w formie raportu krajowego, raportów wojewódzkich i branżowych oraz raportów dla szkół, w terminie do dnia 30 listopada roku, w którym jest prowadzony monitoring karier absolwentów.
+25. Instytut Badań Edukacyjnych w Warszawie przechowuje dane, o których mowa w ust. 22, przez okres 3 miesięcy od dnia przekazania ministrowi właściwemu do spraw oświaty i wychowania wyników monitoringu karier absolwentów, o których mowa w ust. 24.
+26. Minister właściwy do spraw oświaty i wychowania udostępnia wyniki monitoringu karier absolwentów w formie raportu krajowego w Biuletynie Informacji Publicznej na swojej stronie podmiotowej. W raporcie nie udostępnia się zagregowanych wyników monitoringu karier absolwentów obejmujących mniej niż 10 osób.
 27. Minister właściwy do spraw oświaty i wychowania może powierzyć jednostce organizacyjnej podległej temu ministrowi prowadzenie monitoringu karier absolwentów.
 
 **Art. 27.** Szkoły i placówki zapewniające uczniom dostęp do Internetu są obowiązane podejmować działania zabezpieczające uczniów przed dostępem do treści, które mogą stanowić zagrożenie dla ich prawidłowego rozwoju, w szczególności zainstalować i aktualizować oprogramowanie zabezpieczające.
@@ -544,6 +544,12 @@
 **Art. 30b.** W przypadkach uzasadnionych nadzwyczajnymi okolicznościami zagrażającymi życiu lub zdrowiu dzieci i młodzieży minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może czasowo ograniczyć lub czasowo zawiesić funkcjonowanie jednostek systemu oświaty na obszarze kraju lub jego części, uwzględniając stopień zagrożenia na danym obszarze.
 
 **Art. 30c.** W przypadku, o którym mowa w art. 30b, minister właściwy do spraw oświaty i wychowania, w drodze rozporządzenia, może wyłączyć stosowanie niektórych przepisów niniejszej ustawy, ustawy o systemie oświaty oraz ustawy o finansowaniu zadań oświatowych w odniesieniu do wszystkich lub niektórych jednostek systemu oświaty, o których mowa w przepisach wydanych na podstawie art. 30b, w szczególności w zakresie przeprowadzania postępowania rekrutacyjnego, oceniania, klasyfikowania i promowania uczniów, przeprowadzania egzaminów, organizacji roku szkolnego i organizacji pracy tych jednostek, a także wprowadzić w tym zakresie odrębne unormowania, tak aby zapewnić prawidłową realizację celów i zadań tych jednostek.
+
+**Art. 30d.**
+1. Minister właściwy do spraw oświaty i wychowania może powoływać zespoły doradcze lub ekspertów w celu przedstawienia opinii lub ekspertyzy na jego potrzeby.
+2. Ekspertom, o których mowa w ust. 1, za przedstawienie opinii lub ekspertyzy przysługuje wynagrodzenie finansowane z budżetu państwa, z części pozostającej w dyspozycji ministra właściwego do spraw oświaty i wychowania, nie wyższe niż 60% kwoty bazowej, określanej dla nauczycieli corocznie w ustawie budżetowej, biorąc pod uwagę zakres i pracochłonność wykonania opinii lub ekspertyzy oraz wykorzystanie materiałów pomocniczych niezbędnych do jej wykonania, a także doświadczenie zawodowe lub tytuł naukowy lub zawodowy eksperta.
+3. Członkom zespołów doradczych, o których mowa w ust. 1, wynagrodzenie nie przysługuje.
+4. Osobom, o których mowa w ust. 1, przysługuje zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 775§ 2 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
 
 ## Rozdział 2 — Wychowanie przedszkolne, obowiązek szkolny i obowiązek nauki
 
@@ -1715,7 +1721,7 @@
 2. Kwalifikacyjne kursy zawodowe mogą być prowadzone przez:
   1) publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
   2) publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego;
-  3) instytucje rynku pracy, o których mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzące działalność edukacyjno-szkoleniową;
+  3) instytucje rynku pracy, o których mowa w art. 6 ust. 1 pkt 1 i 2 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzące działalność edukacyjno-szkoleniową, oraz instytucje rynku pracy, o których mowa w art. 6 ust. 1 pkt 3-6 tej ustawy, prowadzące działalność edukacyjno-szkoleniową i posiadające akredytację, o której mowa w art. 118;
   4) podmioty prowadzące działalność oświatową, o której mowa w art. 170 ust. 2, posiadające akredytację, o której mowa w art. 118.
 2a. Kursy umiejętności zawodowych mogą być prowadzone przez:
   1) publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
@@ -1763,7 +1769,8 @@
 6. Podmiot ubiegający się o uzyskanie akredytacji wnosi opłatę w wysokości 1023 zł, waloryzowaną corocznie średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej. Opłatę wnosi się na rachunek bankowy kuratorium oświaty. Opłata nie podlega zwrotowi od dnia złożenia wniosku.
 6a. Minister właściwy do spraw oświaty i wychowania, w terminie do dnia 31 grudnia każdego roku, podaje do publicznej wiadomości na stronie urzędu obsługującego tego ministra wysokość opłaty w następnym roku kalendarzowym zwaloryzowanej zgodnie z ust. 6.
 7. Z opłat, o których mowa w ust. 6, są zwolnione podmioty, które prowadzą całość kształcenia nieodpłatnie.
-8. Przepisy ust. 1-7 stosuje się również do placówek niepublicznych prowadzonych zgodnie z przepisami rozdziału 8, działalności oświatowej, o której mowa w art. 170 ust. 2, a także instytucji rynku pracy, o których mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadzących działalność edukacyjno-szkoleniową.
+8. Przepisy ust. 1-7 stosuje się również do placówek niepublicznych prowadzonych zgodnie z przepisami rozdziału 8.
+8a. Akredytację na kształcenie ustawiczne prowadzone w formie kwalifikacyjnego kursu zawodowego może uzyskać podmiot prowadzący działalność oświatową, o której mowa w art. 170 ust. 2, a także instytucja rynku pracy, o której mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadząca działalność edukacyjno-szkoleniową, które prowadziły kwalifikacyjne kursy zawodowe lub prowadziły, na podstawie odrębnych przepisów, edukację pozaszkolną w zakresie zawodu lub zawodów odpowiadających zawodowi lub zawodom określonym w klasyfikacji zawodów szkolnictwa branżowego, przez okres co najmniej 3 lat. Przepisy ust. 2-7 stosuje się.
 9. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowy tryb przyznawania i cofania akredytacji podmiotom, o których mowa w ust. 1 i 8, skład i sposób działania zespołu, o którym mowa w ust. 4a, oraz wzory dokumentów stosowanych w postępowaniu o uzyskanie akredytacji, uwzględniając udział w zespole w szczególności przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców.
 10. (uchylony)
 11. Kurator oświaty prowadzi wykaz pozaszkolnych form kształcenia ustawicznego, na kształcenie w których przyznał akredytację, i podaje go do publicznej wiadomości na stronie internetowej kuratorium oświaty. Wykaz zawiera w szczególności: nazwę i adres podmiotu prowadzącego daną formę pozaszkolną, miejsce prowadzenia kształcenia, zakres i formę kształcenia.
@@ -2380,13 +2387,16 @@
 3. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, w drodze rozporządzenia, może powierzyć specjalistycznej jednostce nadzoru, o której mowa w art. 53 ust. 1, wydawanie decyzji, o których mowa w art. 176 ust. 4 i art. 179.
 4. Zgłoszenie do ewidencji zawiera:
   1) oznaczenie osoby zamierzającej prowadzić szkołę lub placówkę, jej miejsca zamieszkania lub siedziby;
-  2) określenie odpowiednio typu lub rodzaju szkoły lub placówki oraz daty rozpoczęcia jej funkcjonowania, a w przypadku szkoły prowadzącej kształcenie zawodowe - nazw zawodów, w których szkoła będzie kształcić, zgodnych z nazwami zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego albo w klasyfikacji zawodów szkolnictwa artystycznego;
+  2) określenie odpowiednio typu lub rodzaju szkoły lub placówki oraz daty rozpoczęcia jej funkcjonowania, a w przypadku:
+    a) szkoły prowadzącej kształcenie zawodowe - nazw zawodów, w których szkoła będzie kształcić, zgodnych z nazwami zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego albo w klasyfikacji zawodów szkolnictwa artystycznego,
+    b) placówki albo centrum, o których mowa w art. 2 pkt 4 - formy pozaszkolnej, o której mowa w art. 117 ust. 1a, którą placówka albo centrum będzie prowadzić;
   2a) w przypadku szkoły podstawowej lub liceum ogólnokształcącego - informację, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych;
   2b) w przypadku szkoły podstawowej - informację, czy w szkole będzie zorganizowany oddział przedszkolny lub oddziały przedszkolne;
   3) wskazanie adresu siedziby szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie jest przewidywane, przy czym inne lokalizacje muszą znajdować się na terenie jednostki samorządu terytorialnego dokonującej wpisu do ewidencji, a w przypadku szkoły artystycznej na terenie tej samej miejscowości, a także informację o warunkach lokalowych zapewniających:
     a) możliwość prowadzenia zajęć dydaktyczno-wychowawczych,
     b) realizację innych zadań statutowych,
     c) w przypadku szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej - możliwość realizacji praktycznej nauki zawodu,
+    ca) ca) w przypadku placówki albo centrum, o których mowa w art. 2 pkt 4, prowadzących kształcenie zawodowe w formach pozaszkolnych, o których mowa w art. 117 ust. 1a pkt 1 i 2 - możliwość realizacji praktycznej nauki zawodu,
     d) bezpieczne i higieniczne warunki nauki i pracy, spełniające wymagania określone w przepisach w sprawie bezpieczeństwa i higieny w publicznych i niepublicznych szkołach i placówkach, przepisach o ochronie środowiska, przepisach o Państwowej Inspekcji Sanitarnej, przepisach techniczno-budowlanych i przepisach o ochronie przeciwpożarowej; spełnienie tych wymagań potwierdza się przez dołączenie do zgłoszenia odpowiednio pozytywnej opinii właściwego państwowego powiatowego inspektora sanitarnego oraz pozytywnej opinii komendanta powiatowego (miejskiego) Państwowej Straży Pożarnej;
   4) statut szkoły lub placówki;
   5) dane dotyczące kwalifikacji pracowników pedagogicznych i dyrektora, przewidzianych do zatrudnienia w szkole lub placówce;
@@ -2401,6 +2411,7 @@
 5b. Szkołę, o której mowa w art. 178 ust. 1, wpisuje się do ewidencji na podstawie zgody ministra właściwego do spraw oświaty i wychowania.
 6. Szkoła, o której mowa w ust. 4 pkt 6 lit. b, może zostać wpisana do ewidencji, jeżeli organ, o którym mowa w ust. 2, stwierdzi spełnianie wymagań określonych w art. 14 ust. 4 oraz jeżeli osoba zgłaszająca szkołę do ewidencji przedstawi pozytywną opinię kuratora oświaty o spełnieniu wymagań określonych w art. 14 ust. 4 w zakresie kształcenia ogólnego.
 7. Niepubliczna placówka, o której mowa w art. 2 pkt 7, może zostać wpisana do ewidencji, jeżeli osoba zgłaszająca tę placówkę do ewidencji przedstawi pozytywną opinię kuratora oświaty o spełnieniu wymagań określonych w przepisach wydanych na podstawie art. 123 ust. 1 pkt 1.
+7a. Niepubliczna placówka albo centrum, o których mowa w art. 2 pkt 4, mogą zostać wpisane do ewidencji, jeżeli osoba zgłaszająca tę placówkę albo centrum do ewidencji przedstawi pozytywną opinię kuratora oświaty o spełnieniu warunków, o których mowa w ust. 4 pkt 3 lit. a, b i ca, oraz zgodności projektu statutu z przepisami art. 172 ust. 2.
 8. Niepubliczny młodzieżowy ośrodek wychowawczy może zostać wpisany do ewidencji, jeżeli osoba zgłaszająca ten ośrodek do ewidencji przedstawi ponadto opinię instytucji odpowiedzialnej za wskazywanie staroście ośrodka, do którego ma być skierowany nieletni, określonej w przepisach wydanych na podstawie art. 81 ustawy z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz. U. z 2016 r. poz. 1654), z której wynika, że istnieje zapotrzebowanie na miejsca w młodzieżowych ośrodkach wychowawczych.
 9. Organ, o którym mowa w ust. 1, dokonuje wpisu do ewidencji w ciągu 30 dni od daty zgłoszenia oraz z urzędu doręcza zgłaszającemu zaświadczenie o wpisie do ewidencji, a kopię zaświadczenia przekazuje właściwemu kuratorowi oświaty oraz organowi podatkowemu.
 10. Podmiot, o którym mowa w ust. 2, dokonuje wpisu do ewidencji w ciągu 30 dni od daty zgłoszenia oraz z urzędu doręcza zgłaszającemu zaświadczenie o wpisie do ewidencji, a kopię zaświadczenia przekazuje organowi podatkowemu, a w przypadku szkoły artystycznej realizującej kształcenie ogólne również właściwemu kuratorowi oświaty.
@@ -2412,6 +2423,7 @@
   5) adres szkoły lub placówki;
   6) w przypadku szkoły prowadzącej kształcenie zawodowe - nazwy zawodów, w jakich szkoła kształci;
   6a) w przypadku szkoły artystycznej - nazwy zawodów oraz nazwy specjalności lub specjalizacji, w których kształci szkoła;
+  6b) w przypadku placówki i centrum, o których mowa w art. 2 pkt 4 - określenie formy pozaszkolnej, którą prowadzi odpowiednio placówka albo centrum;
   7) w przypadku niepublicznego przedszkola, niepublicznej szkoły podstawowej, w której zorganizowano oddział przedszkolny, lub niepublicznej innej formy wychowania przedszkolnego - informację o otrzymywaniu dotacji, o której mowa odpowiednio w art. 17 ust. 1, art. 19 ust. 1 lub art. 21 ust. 1 ustawy o finansowaniu zadań oświatowych.
 12. Organ lub podmiot, o których mowa w ust. 1 i 2, wydają decyzje o odmowie wpisu do ewidencji, jeżeli:
   1) zgłoszenie nie zawiera danych wymienionych w ust. 4 albo podane w nim dane są błędne i mimo wezwania nie zostało uzupełnione albo poprawione w wyznaczonym terminie;
@@ -2445,7 +2457,7 @@
 **Art. 172.**
 1. Szkoła lub placówka działa na podstawie statutu nadanego przez osobę prowadzącą.
 2. Statut szkoły lub placówki powinien określać:
-  1) nazwę, typ szkoły lub cel placówki oraz ich siedzibę i zadania;
+  1) nazwę, typ szkoły lub rodzaj placówki, cel placówki oraz ich siedzibę i zadania;
   2) osobę prowadzącą szkołę lub placówkę;
   3) organy szkoły lub placówki oraz zakres ich zadań;
   4) organizację szkoły lub placówki;
@@ -2458,11 +2470,13 @@
     b) organizację zajęć edukacyjnych;
   4c) szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów;
   4d) formę kształcenia - w przypadku szkoły dla dorosłych, branżowej szkoły II stopnia, szkoły policealnej;
+  4e) poszczególne formy pozaszkolne, o których mowa w art. 117 ust. 1a - w przypadku placówki i centrum, o których mowa w art. 2 pkt 4, oraz szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej;
   5) prawa i obowiązki pracowników oraz uczniów szkoły lub placówki, w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły lub placówki, a także tryb składania skarg w przypadku naruszenia praw uczniów;
   6) sposób uzyskiwania środków finansowych na działalność szkoły lub placówki;
   7) zasady przyjmowania uczniów do szkoły lub placówki - z tym że statut uwzględnia warunki, o których mowa w:
     a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1, art. 143 ust. 1 i 2 oraz art. 150 ust. 2 pkt 4 lit. e-fc - w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej, mistrzostwa sportowego i z oddziałami przygotowania wojskowego,
     b) art. 141 ust. 1, 6 i 7 - w przypadku szkół dla dorosłych;
+  7a) zasady przyjmowania słuchaczy na kwalifikacyjne kursy zawodowe - z tym że statut placówki i centrum, o których mowa w art. 2 pkt 4, oraz szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej, prowadzących te kursy uwzględnia warunki, o których mowa w art. 147 ust. 1;
   8) w przypadku niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej - także zasady przeprowadzania sprawdzianu uzdolnień, predyspozycji lub praktycznych umiejętności niezbędnych do podjęcia kształcenia w danej szkole artystycznej, danym zawodzie, specjalności lub specjalizacji, o którym mowa w art. 14 ust. 4 pkt 3;
   9) w przypadku ośrodków, o których mowa w art. 2 pkt 7 - wysokość opłat wnoszonych przez wychowanka ośrodka za pobyt i wyżywienie, termin i sposób wnoszenia tych opłat, jeżeli ośrodek pobiera opłaty.
 3. Przepisy ust. 2 pkt 5 i 6 oraz art. 102 ust. 1 i 2 stosuje się odpowiednio do statutu niepublicznego przedszkola i oddziału przedszkolnego w niepublicznej szkole podstawowej, z tym że czas pracy niepublicznych przedszkoli i oddziałów przedszkolnych w niepublicznych szkołach podstawowych ustala organ prowadzący.
