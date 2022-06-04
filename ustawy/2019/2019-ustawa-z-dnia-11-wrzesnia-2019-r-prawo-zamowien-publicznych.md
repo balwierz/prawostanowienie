@@ -3955,7 +3955,7 @@ kierując się potrzebą zapewnienia prawidłowego i sprawnego przeprowadzenia p
     b) Prezesa Urzędu,
     c) Prezesa Urzędu Ochrony Konkurencji i Konsumentów,
     d) ministra właściwego do spraw rozwoju regionalnego, odpowiadającego za koordynację programów operacyjnych, w rozumieniu przepisów dotyczących realizacji programów w zakresie polityki spójności,
-    e) instytucję audytową w rozumieniu przepisów dotyczących realizacji programów w zakresie polityki spójności;
+    e) (uchylony)
   3) Prezes Izby.
 2. Do udziału w pracach Komitetu, na prawach członka, zaprasza się przedstawiciela Najwyższej Izby Kontroli, wyznaczonego przez Prezesa Najwyższej Izby Kontroli, oraz przedstawiciela regionalnych izb obrachunkowych, wyznaczonego przez Krajową Radę Regionalnych Izb Obrachunkowych.
 3. W pracach Komitetu mogą uczestniczyć przedstawiciele organów administracji rządowej, zaproszeni przez przewodniczącego Komitetu z własnej inicjatywy lub na wniosek członka Komitetu.
@@ -4495,7 +4495,7 @@ kierując się potrzebą zapewnienia prawidłowego i sprawnego przeprowadzenia p
   1) Prezesa Urzędu,
   2) organy, o których mowa w art. 6 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej, z wyłączeniem Prezesa Rady Ministrów,
   3) regionalne izby obrachunkowe,
-  4) instytucję audytową oraz instytucję zarządzającą w rozumieniu przepisów dotyczących realizacji programów w zakresie polityki spójności oraz programów realizowanych z wykorzystaniem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz funduszy wspierających sektory morski lub rybacki
+  4) instytucję zarządzającą w rozumieniu przepisów dotyczących realizacji programów w zakresie polityki spójności oraz programów realizowanych z wykorzystaniem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz funduszy wspierających sektory morski lub rybacki
 - prowadzące kontrole w zakresie udzielania zamówień publicznych.
 3. W przypadku sprzeczności między przepisami niniejszego rozdziału a przepisami odrębnymi, o których mowa w ust. 1, stosuje się przepisy niniejszego rozdziału.
 
