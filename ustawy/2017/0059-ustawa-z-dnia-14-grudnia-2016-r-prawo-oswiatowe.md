@@ -966,7 +966,7 @@
   15) nadzoruje i wspomaga organizację wypoczynku, o którym mowa w art. 92a-92t ustawy o systemie oświaty, na obszarze województwa;
   15a) koordynuje organizację dokształcania teoretycznego uczniów będących młodocianymi pracownikami;
   16) wykonuje inne zadania określone w przepisach odrębnych, w szczególności w zakresie obronności.
-2. Programy operacyjne, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2016 r. poz. 383, 1250, 1948 i 1954 oraz z 2017 r. poz. 5) oraz w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 (Dz. U. z 2016 r. poz. 217, 1579 i 1948), a także programy rządowe, o których mowa w art. 90u ustawy o systemie oświaty, mogą określać zadania, które kurator oświaty wykonuje w imieniu wojewody.
+2. Programy operacyjne, o których mowa w ustawie z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2021 r. poz. 1057 oraz z 2022 r. poz. 1079), w ustawie z dnia 11 lipca 2014 r. o zasadach realizacji programów w zakresie polityki spójności finansowanych w perspektywie finansowej 2014-2020 (Dz. U. z 2020 r. poz. 818), oraz programy, o których mowa w ustawie z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań finansowanych ze środków europejskich w perspektywie finansowej 2021-2027 (Dz. U. poz. 1079), a także programy rządowe, o których mowa w art. 90u ustawy o systemie oświaty, mogą określać zadania, które kurator oświaty wykonuje w imieniu wojewody.
 3. Stanowiska kuratora i wicekuratora oświaty nie można łączyć z mandatem radnego.
 
 **Art. 52.**
@@ -1799,7 +1799,7 @@
 **Art. 121a.**
 1. W celu ułatwienia uzyskiwania doświadczenia i nabywania umiejętności praktycznych niezbędnych do wykonywania pracy w zawodzie, w którym kształcą się, uczniowie technikum i uczniowie branżowej szkoły I stopnia niebędący młodocianymi pracownikami mogą w okresie nauki odbywać staż w rzeczywistych warunkach pracy, zwany dalej „stażem uczniowskim”.
 2. W trakcie stażu uczniowskiego uczeń realizuje wszystkie albo wybrane treści programu nauczania zawodu w zakresie praktycznej nauki zawodu realizowanego w szkole, do której uczęszcza, lub treści nauczania związane z nauczanym zawodem nieobjęte tym programem.
-3. Osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, zwane dalej „podmiotem przyjmującym na staż uczniowski”, zawiera z uczniem albo rodzicami niepełnoletniego ucznia, w formie pisemnej, umowę o staż uczniowski.
+3. Osoba fizyczna, osoba prawna albo jednostka organizacyjna nieposiadająca osobowości prawnej, zwane dalej „podmiotem przyjmującym na staż uczniowski”, zawiera, w formie pisemnej, umowę o staż uczniowski z uczniem albo rodzicami niepełnoletniego ucznia. W przypadku staży uczniowskich realizowanych w ramach projektów finansowanych ze środków pochodzących z budżetu Unii Europejskiej stroną umowy o staż uczniowski może być również podmiot realizujący projekt, ponoszący wydatki związane ze stażem uczniowskim.
 4. Dyrektor szkoły może zwolnić ucznia, który odbył staż uczniowski, z obowiązku odbycia praktycznej nauki zawodu w całości lub w części.
 5. Podmiot przyjmujący na staż uczniowski i dyrektor szkoły, w uzgodnieniu z uczniem albo rodzicem niepełnoletniego ucznia, ustalają zakres treści nauczania, o których mowa w ust. 2, oraz dobowy i tygodniowy wymiar czasu odbywania stażu uczniowskiego. Ustalając zakres treści nauczania wskazuje się, w jakim zakresie uczeń po zrealizowaniu tych treści zostanie zwolniony z obowiązku odbycia praktycznej nauki zawodu. Ustalenia te stanowią załącznik do umowy o staż uczniowski.
 6. Uczeń odbywający staż uczniowski otrzymuje miesięczne świadczenie pieniężne, chyba że strony umowy o staż uczniowski, postanowią, że staż jest odbywany nieodpłatnie.
@@ -1816,7 +1816,7 @@
   2) miejsce odbywania stażu uczniowskiego;
   3) nazwę i adres szkoły, do której uczęszcza uczeń odbywający staż uczniowski;
   4) zawód, w zakresie którego będzie odbywany staż uczniowski;
-  5) okres odbywania stażu uczniowskiego;
+  5) okres odbywania stażu uczniowskiego, a w przypadku staży uczniowskich realizowanych w ramach projektów finansowanych ze środków pochodzących z budżetu Unii Europejskiej - również dobowy, tygodniowy i łączny wymiar czasu odbywania stażu uczniowskiego;
   6) wysokość świadczenia pieniężnego, o którym mowa w ust. 7, w przypadku odpłatnego stażu uczniowskiego.
 16. Umowa o staż uczniowski nie może dotyczyć pracy szczególnie niebezpiecznej w rozumieniu przepisów wydanych na podstawie art. 23715 ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy.
 17. Umowa o staż uczniowski nie może być zawarta na okres dłuższy niż okres nauki w technikum albo branżowej szkole I stopnia.
