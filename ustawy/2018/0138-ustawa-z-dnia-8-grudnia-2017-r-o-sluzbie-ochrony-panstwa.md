@@ -1496,7 +1496,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 5. Minister właściwy do spraw wewnętrznych przyznaje świadczenie motywacyjne Komendantowi SOP i jego zastępcom.
 6. Świadczenia motywacyjnego nie przyznaje się funkcjonariuszowi:
   1) który podczas ostatniego opiniowania służbowego otrzymał jedną z opinii służbowych, o których mowa w art. 102 ust. 2 pkt 2 albo 3 albo art. 107 ust. 1 pkt 2 albo 3 albo ust. 2 pkt 1 - przez okres jednego roku od dnia wydania ostatecznej opinii służbowej;
-  2) przeciwko któremu wszczęto postępowanie karne lub dyscyplinarne - do czasu prawomocnego zakończenia tego postępowania;
+  2) przeciwko któremu wszczęto postępowanie karne w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne - do czasu prawomocnego zakończenia tego postępowania;
   3) ukaranemu karą dyscyplinarną - do czasu jej zatarcia;
   4) skazanemu wyrokiem sądu lub w stosunku do którego postępowanie karne zostało warunkowo umorzone - przez okres jednego roku od dnia uprawomocnienia się orzeczenia.
 7. Jeżeli po przyznaniu świadczenia motywacyjnego wystąpią okoliczności, o których mowa w ust. 6, niezwłocznie wydaje się decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia.
