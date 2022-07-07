@@ -32,12 +32,7 @@
 
 **Art. 5.**
 1. Właściwym organem Rzeczypospolitej Polskiej w sprawach wymiany informacji podatkowych z innymi państwami jest Szef Krajowej Administracji Skarbowej i w tym zakresie przysługują mu uprawnienia organu podatkowego.
-2. Minister właściwy do spraw finansów publicznych, w celu zapewnienia sprawnej i skutecznej realizacji spraw, o których mowa w ust. 1, a także usprawnienia obsługi podmiotów obowiązanych do przekazywania informacji podatkowych, może upoważnić, w drodze rozporządzenia, organ Krajowej Administracji Skarbowej do wykonywania czynności związanych z:
-  1) wymianą informacji podatkowych na wniosek i z urzędu z innymi państwami, w szczególności do występowania o udostępnienie informacji podatkowych i przekazywania właściwym organom wniosków i informacji podatkowych,
-  2) automatyczną wymianą informacji podatkowych, w tym do przeprowadzania kontroli wykonywania obowiązków związanych z automatyczną wymianą informacji podatkowych,
-  3) udostępnianiem innym organom, na zasadach określonych w ustawie - Ordynacja podatkowa, informacji podatkowych uzyskanych w ramach ich wymiany z innymi państwami,
-  4) nakładaniem kar pieniężnych
-- określając szczegółowy zakres upoważnienia oraz terytorialny zasięg działania upoważnionych organów.
+2. (uchylony)
 3. Szef Krajowej Administracji Skarbowej może upoważnić osoby zatrudnione lub pełniące służbę w urzędach obsługujących organy Krajowej Administracji Skarbowej do bezpośredniej wymiany informacji podatkowych w związku z realizowaniem zadań z zakresu planowanych lub trwających jednoczesnych kontroli oraz do uczestnictwa w spotkaniach organizacyjnych dotyczących tych kontroli.
 
 **Art. 6.**
