@@ -18,25 +18,26 @@
 2) Karną;
 3) Pracy i Ubezpieczeń Społecznych;
 4) Kontroli Nadzwyczajnej i Spraw Publicznych;
-5) Dyscyplinarną.
+4a) Odpowiedzialności Zawodowej;
+5) (uchylony)
 
-**Art. 4.** Prezydent Rzeczypospolitej Polskiej, po zasięgnięciu opinii Kolegium Sądu Najwyższego, określi, w drodze rozporządzenia, regulamin Sądu Najwyższego, w którym ustali liczbę stanowisk sędziego Sądu Najwyższego nie mniejszą niż 120, w tym ich liczbę w poszczególnych izbach, wewnętrzną organizację Sądu Najwyższego, zasady wewnętrznego postępowania oraz szczegółowy zakres i sposób wykonywania czynności przez asystentów sędziego, biorąc pod uwagę konieczność zapewnienia sprawnego funkcjonowania Sądu Najwyższego, jego izb i organów, specyfikę postępowań prowadzonych przed Sądem Najwyższym, w tym postępowań dyscyplinarnych, oraz liczbę i rodzaj rozpoznawanych spraw.
+**Art. 4.** Prezydent Rzeczypospolitej Polskiej, po zasięgnięciu opinii Kolegium Sądu Najwyższego, określi, w drodze rozporządzenia, regulamin Sądu Najwyższego, w którym ustali liczbę stanowisk sędziego Sądu Najwyższego w izbach, o których mowa w art. 3 pkt 1-4, nie mniejszą niż 120, w tym ich liczbę w poszczególnych izbach, o których mowa w art. 3 pkt 1-4, wewnętrzną organizację Sądu Najwyższego, zasady wewnętrznego postępowania oraz szczegółowy zakres i sposób wykonywania czynności przez asystentów sędziego, biorąc pod uwagę konieczność zapewnienia sprawnego funkcjonowania Sądu Najwyższego, jego izb i organów, specyfikę postępowań prowadzonych przed Sądem Najwyższym, w tym postępowań dyscyplinarnych, oraz liczbę i rodzaj rozpoznawanych spraw.
 
 **Art. 5.**
-§ 1. Pierwszy Prezes Sądu Najwyższego corocznie składa Prezydentowi Rzeczypospolitej Polskiej oraz Krajowej Radzie Sądownictwa informację o działalności Sądu Najwyższego oraz stwierdzonych w związku z nią istotnych problemach, w tym wynikających z orzecznictwa. Do informacji Pierwszy Prezes Sądu Najwyższego dołącza informację Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej o działalności Izby Dyscyplinarnej Sądu Najwyższego.
+§ 1. Pierwszy Prezes Sądu Najwyższego corocznie składa Prezydentowi Rzeczypospolitej Polskiej oraz Krajowej Radzie Sądownictwa informację o działalności Sądu Najwyższego oraz stwierdzonych w związku z nią istotnych problemach, w tym wynikających z orzecznictwa.
 § 2. Informację, o której mowa w § 1, Pierwszy Prezes Sądu Najwyższego składa również Sejmowi i Senatowi. Głosowania w sprawie informacji nie przeprowadza się.
 
 **Art. 6.**
 § 1. Pierwszy Prezes Sądu Najwyższego przedstawia właściwym organom uwagi o stwierdzonych nieprawidłowościach lub lukach w prawie, których usunięcie jest niezbędne dla zapewnienia praworządności, sprawiedliwości społecznej i spójności systemu prawnego Rzeczypospolitej Polskiej.
-§ 2. Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej przedstawia właściwym organom uwagi o stwierdzonych nieprawidłowościach lub lukach w prawie, których usunięcie jest niezbędne dla zapewnienia sprawnego rozpoznawania spraw należących do właściwości tej izby lub ograniczenia liczby przewinień dyscyplinarnych.
+§ 2. Pierwszy Prezes Sądu Najwyższego przedstawia właściwym organom uwagi o stwierdzonych nieprawidłowościach lub lukach w prawie, których usunięcie jest niezbędne dla zapewnienia sprawnego rozpoznawania spraw należących do właściwości Izby Odpowiedzialności Zawodowej lub ograniczenia liczby przewinień dyscyplinarnych.
 
 **Art. 7.**
 § 1. Projekt dochodów i wydatków Sądu Najwyższego, w brzmieniu uchwalonym przez Kolegium Sądu Najwyższego, minister właściwy do spraw finansów publicznych włącza do projektu budżetu państwa.
-§ 2. Kolegium Sądu Najwyższego włącza projekt dochodów i wydatków związanych z funkcjonowaniem Izby Dyscyplinarnej, w brzmieniu uchwalonym przez zgromadzenie sędziów Izby Dyscyplinarnej, do projektu dochodów i wydatków Sądu Najwyższego.
+§ 2. (uchylony)
 § 3. W zakresie wykonywania budżetu Sądu Najwyższego Pierwszemu Prezesowi Sądu Najwyższego przysługują uprawnienia ministra właściwego do spraw finansów publicznych.
-§ 4. W zakresie wykonywania budżetu Sądu Najwyższego związanego z funkcjonowaniem Izby Dyscyplinarnej uprawnienia ministra właściwego do spraw finansów publicznych przysługują Prezesowi Sądu Najwyższego kierującemu pracą Izby Dyscyplinarnej.
-§ 5. Przeniesienia wydatków skutkujące zmniejszeniem wydatków związanych z funkcjonowaniem Izby Dyscyplinarnej wymagają zgody Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej.
-§ 6. Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej wykonuje budżet Sądu Najwyższego w zakresie związanym z funkcjonowaniem Izby Dyscyplinarnej.
+§ 4. (uchylony)
+§ 5. (uchylony)
+§ 6. (uchylony)
 
 **Art. 8.** Sąd Najwyższy niezwłocznie publikuje wydane przez siebie orzeczenie, a po sporządzeniu jego uzasadnienia - również uzasadnienie orzeczenia, w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego.
 
@@ -53,7 +54,7 @@
 
 ## Rozdział 2 — Organy Sądu Najwyższego
 
-**Art. 11.** Organami Sądu Najwyższego są Pierwszy Prezes Sądu Najwyższego, Prezes Sądu Najwyższego, Zgromadzenie Ogólne Sędziów Sądu Najwyższego, zgromadzenie sędziów izby Sądu Najwyższego oraz Kolegium Sądu Najwyższego.
+**Art. 11.** Organami Sądu Najwyższego są Pierwszy Prezes Sądu Najwyższego, Prezes Sądu Najwyższego, Zgromadzenie Ogólne Sędziów Sądu Najwyższego, zgromadzenie sędziów izby Sądu Najwyższego, zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej, zgromadzenie sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej oraz Kolegium Sądu Najwyższego.
 
 **Art. 12.**
 § 1. Pierwszy Prezes Sądu Najwyższego jest powoływany przez Prezydenta Rzeczypospolitej Polskiej na sześcioletnią kadencję spośród 5 kandydatów wybranych przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego i może zostać ponownie powołany tylko raz. Osoba powołana na stanowisko Pierwszego Prezesa Sądu Najwyższego może zajmować to stanowisko tylko do czasu przejścia w stan spoczynku, przeniesienia w stan spoczynku albo wygaśnięcia stosunku służbowego sędziego Sądu Najwyższego.
@@ -78,9 +79,9 @@
 § 1. Pierwszy Prezes Sądu Najwyższego kieruje pracami Sądu Najwyższego i reprezentuje Sąd Najwyższy na zewnątrz, w szczególności:
   1) powołuje i odwołuje, na wniosek Prezesa Sądu Najwyższego kierującego pracą danej izby, przewodniczących wydziałów w tej izbie;
   2) reprezentuje Sąd Najwyższy przed Trybunałem Konstytucyjnym lub w pracach komisji sejmowych i senackich albo wyznacza inną osobę reprezentującą Sąd Najwyższy;
-  3) opiniuje i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów na stanowisko Prezesa Sądu Najwyższego, wybranych przez zgromadzenie sędziów izby Sądu Najwyższego;
+  3) opiniuje i przedstawia Prezydentowi Rzeczypospolitej Polskiej kandydatów na stanowisko Prezesa Sądu Najwyższego, wybranych przez zgromadzenie sędziów izby Sądu Najwyższego, zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej, albo zgromadzenie sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej;
   4) (uchylony)
-  5) opiniuje i przedstawia Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego projekt informacji, o której mowa w art. 5 § 1 zdanie pierwsze;
+  5) opiniuje i przedstawia Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego projekt informacji, o której mowa w art. 5 § 1;
   6) określa, po zasięgnięciu opinii Kolegium Sądu Najwyższego, w drodze zarządzenia, regulamin Kancelarii Pierwszego Prezesa Sądu Najwyższego, organizację i zakres działania sekretariatów sądowych oraz innych jednostek administracyjnych w Sądzie Najwyższym, regulamin Biura Studiów i Analiz Sądu Najwyższego, a także regulamin pracy i wynagradzania pracowników Sądu Najwyższego niebędących sędziami;
   7) wykonuje określone w ustawie czynności związane z wyborem ławników Sądu Najwyższego;
   8) wykonuje inne czynności określone w ustawie, regulaminie Sądu Najwyższego i innych aktach normatywnych.
@@ -92,25 +93,54 @@
 § 3. Do kandydatów na stanowisko Prezesa Sądu Najwyższego oraz ich wyboru przez zgromadzenie sędziów izby Sądu Najwyższego przepisy art. 12 § 2, art. 13 oraz art. 13a § 1 i 2 stosuje się odpowiednio, z tym że do dokonania wyboru kandydatów na stanowisko Prezesa Sądu Najwyższego wymagana jest obecność co najmniej 2/3 członków zgromadzenia sędziów izby Sądu Najwyższego. Jeżeli wyboru nie dokonano ze względu na brak wymaganego kworum, do dokonania wyboru na kolejnym posiedzeniu wymagana jest obecność co najmniej 1/2 członków zgromadzenia sędziów izby Sądu Najwyższego. Jeżeli także na tym posiedzeniu wyboru nie dokonano ze względu na brak wymaganego kworum, wybór może zostać dokonany na kolejnym posiedzeniu w przypadku obecności co najmniej 1/3 członków zgromadzenia sędziów izby Sądu Najwyższego.
 § 4. Sędzia Sądu Najwyższego, któremu Prezydent Rzeczypospolitej Polskiej powierzył wykonywanie obowiązków Prezesa Sądu Najwyższego, wykonuje obowiązki i uprawnienia Prezesa Sądu Najwyższego określone w ustawie. Do powierzenia wykonywania obowiązków Prezesa Sądu Najwyższego przepis art. 13a § 1 stosuje się odpowiednio.
 
+**Art. 15a.**
+§ 1. Prezes Sądu Najwyższego kierujący pracą Izby Odpowiedzialności Zawodowej jest powoływany przez Prezydenta Rzeczypospolitej Polskiej, po zasięgnięciu opinii Pierwszego Prezesa Sądu Najwyższego, na kadencję określoną w art. 15b § 1, spośród 3 kandydatów wybranych przez zgromadzenie sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej albo zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej i może zostać powołany tylko raz. Osoba powołana na stanowisko Prezesa Sądu Najwyższego może zajmować to stanowisko tylko do upływu albo wygaśnięcia kadencji Prezesa Sądu Najwyższego kierującego pracą Izby Odpowiedzialności Zawodowej albo wygaśnięcia kadencji sędziego orzekającego w tej izbie.
+§ 2. W terminie tygodnia od dnia wyznaczenia ostatniego sędziego do orzekania w Izbie Odpowiedzialności Zawodowej, Pierwszy Prezes Sądu Najwyższego zwołuje:
+  1) zgromadzenie sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej - jeżeli wyznaczenie ostatniego sędziego do orzekania w tej izbie nastąpiło przed upływem kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej,
+  2) zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej - jeżeli wyznaczenie ostatniego sędziego do orzekania w tej izbie nastąpiło po upływie kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej
+- w celu wyboru kandydatów na stanowisko Prezesa Sądu Najwyższego.
+§ 3. Zgromadzeniu sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej albo zgromadzeniu sędziów orzekających w Izbie Odpowiedzialności Zawodowej dokonującemu wyboru, o którym mowa w § 1, przewodniczy Pierwszy Prezes Sądu Najwyższego, a w przypadku gdy nie jest to możliwe, sędzia wyznaczony do orzekania w Izbie Odpowiedzialności Zawodowej albo sędzia orzekający w Izbie Odpowiedzialności Zawodowej, którego kandydatura nie została zgłoszona, wyznaczony przez Prezydenta Rzeczypospolitej Polskiej.
+§ 4. Kandydatów na stanowisko Prezesa Sądu Najwyższego wybiera się spośród sędziów:
+  1) wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej - w przypadku wyboru dokonywanego przez zgromadzenie, o którym mowa w § 2 pkt 1;
+  2) orzekających w Izbie Odpowiedzialności Zawodowej - w przypadku wyboru dokonywanego przez zgromadzenie, o którym mowa w § 2 pkt 2.
+§ 5. Do kandydatów na stanowisko Prezesa Sądu Najwyższego oraz ich wyboru przez zgromadzenie sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej albo zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej przepisy art. 13 § 1, 2 i 5-8 stosuje się odpowiednio. Do dokonania wyboru kandydatów na stanowisko Prezesa Sądu Najwyższego wymagana jest obecność co najmniej 2/3 członków zgromadzenia sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej albo członków zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej. Jeżeli wyboru nie dokonano ze względu na brak wymaganego kworum, do dokonania wyboru na kolejnym posiedzeniu wymagana jest obecność co najmniej 1/2 członków zgromadzenia sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej albo członków zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej. Jeżeli także na tym posiedzeniu wyboru nie dokonano ze względu na brak wymaganego kworum, wybór może zostać dokonany na kolejnym posiedzeniu w przypadku obecności co najmniej 1/3 członków zgromadzenia sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej albo członków zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej. Posiedzenia, o których mowa w zdaniu trzecim i czwartym, zwołuje się na dzień przypadający nie później niż w terminie 5 dni od dnia odbycia poprzedniego posiedzenia.
+§ 6. Jeżeli kandydaci na stanowisko Prezesa Sądu Najwyższego nie zostali wybrani zgodnie z § 1-5, w terminie 5 dni od dnia odbycia ostatniego posiedzenia, o którym mowa w § 5, Pierwszy Prezes Sądu Najwyższego zwołuje posiedzenie zgromadzenia sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej albo zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej w celu wyboru kandydatów na stanowisko Prezesa Sądu Najwyższego. Do kandydatów na stanowisko Prezesa Sądu Najwyższego oraz ich wyboru przez zgromadzenie sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej albo zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej przepisy § 1-5 oraz art. 13 § 1, 2 i 5-8 stosuje się odpowiednio.
+§ 7. Jeżeli termin posiedzenia zgromadzenia sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej wyznaczony zgodnie z § 2, 5 i 6 przypadnie po upływie kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej, w wyznaczonym terminie odbywa się posiedzenie zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej, które kontynuuje wybór kandydatów na stanowisko Prezesa Sądu Najwyższego.
+
+**Art. 15b.**
+§ 1. W przypadku wyboru kandydatów na stanowisko Prezesa Sądu Najwyższego przez zgromadzenie sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej, kadencja Prezesa Sądu Najwyższego kierującego pracą Izby Odpowiedzialności Zawodowej rozpoczyna się z dniem powołania, nie wcześniej jednak niż z dniem rozpoczęcia kadencji sędziów orzekających w Izbie Odpowiedzialności Zawodowej, którzy tworzyli to zgromadzenie. W przypadku wyboru kandydatów na stanowisko Prezesa Sądu Najwyższego przez zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej, kadencja Prezesa Sądu Najwyższego kierującego pracą Izby Odpowiedzialności Zawodowej rozpoczyna się z dniem powołania. Kadencja Prezesa Sądu Najwyższego kierującego pracą Izby Odpowiedzialności Zawodowej upływa z dniem upływu kadencji sędziów orzekających w Izbie Odpowiedzialności Zawodowej, którzy tworzyli zgromadzenie, o którym mowa w zdaniu pierwszym albo drugim.
+§ 2. Kadencja Prezesa Sądu Najwyższego kierującego pracą Izby Odpowiedzialności Zawodowej wygasa z dniem zrzeczenia się przez niego tego stanowiska.
+
+**Art. 15c.** Jeżeli w dniu następującym po upływie kadencji Prezesa Sądu Najwyższego kierującego pracą Izby Odpowiedzialności Zawodowej stanowisko Prezesa Sądu Najwyższego jest nieobsadzone, do dnia powołania Prezesa Sądu Najwyższego obowiązki i uprawnienia Prezesa Sądu Najwyższego określone w ustawie wykonuje Pierwszy Prezes Sądu Najwyższego.
+
+**Art. 15d.**
+§ 1. Zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej wybiera kandydatów na stanowisko Prezesa Sądu Najwyższego w terminie 14 dni od dnia wygaśnięcia kadencji Prezesa Sądu Najwyższego kierującego pracą Izby Odpowiedzialności Zawodowej albo wygaśnięcia kadencji sędziego orzekającego w Izbie Odpowiedzialności Zawodowej zajmującego stanowisko Prezesa Sądu Najwyższego. Przepisy art. 15a § 1 i § 4 pkt 2 stosuje się odpowiednio.
+§ 2. Do kandydatów na stanowisko Prezesa Sądu Najwyższego oraz ich wyboru przez zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej przepisy art. 13 § 1-3 i 5-8 oraz art. 13a § 1 i 2 stosuje się odpowiednio. Do dokonania wyboru kandydatów na stanowisko Prezesa Sądu Najwyższego wymagana jest obecność co najmniej 2/3 członków zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej. Jeżeli wyboru nie dokonano ze względu na brak wymaganego kworum, do dokonania wyboru na kolejnym posiedzeniu wymagana jest obecność co najmniej 1/2 członków zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej. Jeżeli także na tym posiedzeniu wyboru nie dokonano ze względu na brak wymaganego kworum, wybór może zostać dokonany na kolejnym posiedzeniu w przypadku obecności co najmniej 1/3 członków zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej. Posiedzenia, o których mowa w zdaniu trzecim i czwartym, zwołuje się na dzień przypadający nie później niż w terminie 5 dni od dnia odbycia poprzedniego posiedzenia.
+§ 3. Sędzia Sądu Najwyższego, któremu Prezydent Rzeczypospolitej Polskiej powierzył wykonywanie obowiązków Prezesa Sądu Najwyższego, wykonuje obowiązki i uprawnienia Prezesa Sądu Najwyższego określone w ustawie. Do powierzenia wykonywania obowiązków Prezesa Sądu Najwyższego przepis art. 13a § 1 stosuje się odpowiednio.
+
 **Art. 16.**
 § 1. Samorząd sędziów Sądu Najwyższego stanowią wszyscy sędziowie Sądu Najwyższego w stanie czynnym. W skład samorządu nie wchodzą sędziowie delegowani do pełnienia czynności sędziowskich w Sądzie Najwyższym.
-§ 2. Organami samorządu sędziów Sądu Najwyższego są Zgromadzenie Ogólne Sędziów Sądu Najwyższego, zgromadzenie sędziów izby Sądu Najwyższego oraz Kolegium Sądu Najwyższego.
+§ 2. Organami samorządu sędziów Sądu Najwyższego są Zgromadzenie Ogólne Sędziów Sądu Najwyższego, zgromadzenie sędziów izby Sądu Najwyższego, zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej, zgromadzenie sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej oraz Kolegium Sądu Najwyższego.
+
+**Art. 16a.**
+§ 1. Zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej tworzą sędziowie Sądu Najwyższego orzekający w Izbie Odpowiedzialności Zawodowej w okresie kadencji sędziów orzekających w Izbie Odpowiedzialności Zawodowej.
+§ 2. Zgromadzenie sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej tworzą sędziowie wyznaczeni do orzekania w Izbie Odpowiedzialności Zawodowej przed upływem kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej, w okresie od dnia wyznaczenia ostatniego sędziego do orzekania w Izbie Odpowiedzialności Zawodowej do upływu kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej.
 
 **Art. 17.**
 § 1. Do kompetencji Zgromadzenia Ogólnego Sędziów Sądu Najwyższego należy:
   1) dokonywanie wyboru 5 kandydatów na stanowisko Pierwszego Prezesa Sądu Najwyższego oraz przedstawianie ich Prezydentowi Rzeczypospolitej Polskiej;
-  2) rozpatrywanie projektu informacji, o której mowa w art. 5 § 1 zdanie pierwsze, i przyjmowanie tej informacji;
+  2) rozpatrywanie projektu informacji, o której mowa w art. 5 § 1, i przyjmowanie tej informacji;
   3) rozpatrywanie innych spraw z inicjatywy Pierwszego Prezesa Sądu Najwyższego, Prezesa Sądu Najwyższego, Kolegium Sądu Najwyższego lub co najmniej 5 sędziów Sądu Najwyższego;
   4) podejmowanie uchwał w innych ważnych sprawach dotyczących Sądu Najwyższego.
 § 2. Zgromadzeniu Ogólnemu Sędziów Sądu Najwyższego przewodniczy Pierwszy Prezes Sądu Najwyższego, z uwzględnieniem art. 13 § 3, art. 13a § 2 oraz art. 14 § 2.
 § 2a. O terminie i porządku posiedzenia Zgromadzenia Ogólnego Sędziów Sądu Najwyższego Pierwszy Prezes Sądu Najwyższego zawiadamia sędziów Sądu Najwyższego najpóźniej 7 dni przed dniem posiedzenia, z uwzględnieniem art. 13 § 4 zdanie czwarte i art. 13a § 2.
-§ 3. Do podjęcia uchwały Zgromadzenia Ogólnego Sędziów Sądu Najwyższego wymagana jest obecność co najmniej 2/3 liczby sędziów każdej z izb. Uchwały zapadają zwykłą większością głosów. Głosowanie jest tajne, jeżeli żądanie takie zgłosi co najmniej 3 sędziów z obecnych na posiedzeniu członków zgromadzenia.
+§ 3. Do podjęcia uchwały Zgromadzenia Ogólnego Sędziów Sądu Najwyższego wymagana jest obecność co najmniej 2/3 liczby sędziów każdej z izb, z wyłączeniem Izby Odpowiedzialności Zawodowej. Uchwały zapadają zwykłą większością głosów. Głosowanie jest tajne, jeżeli żądanie takie zgłosi co najmniej 3 sędziów z obecnych na posiedzeniu członków zgromadzenia.
 
 **Art. 18.** Do wzięcia udziału w Zgromadzeniu Ogólnym Sędziów Sądu Najwyższego zwoływanym w celu przedstawienia informacji, o której mowa w art. 5 § 1, Pierwszy Prezes Sądu Najwyższego zaprasza Prezydenta Rzeczypospolitej Polskiej oraz przedstawicieli innych organów władzy publicznej.
 
 **Art. 19.**
 § 1. Do kompetencji zgromadzenia sędziów izby Sądu Najwyższego należy:
-  1) dokonywanie wyboru 3 kandydatów na stanowisko Prezesa Sądu Najwyższego kierującego pracą danej izby;
+  1) dokonywanie wyboru 3 kandydatów na stanowisko Prezesa Sądu Najwyższego kierującego pracą danej izby, z wyjątkiem Izby Odpowiedzialności Zawodowej;
   2) rozpatrywanie projektu informacji o działalności izby oraz stwierdzonych w związku z nią istotnych problemach, w tym wynikających z orzecznictwa izby oraz przyjmowanie tej informacji;
   3) opiniowanie przedstawionych przez Prezesa Sądu Najwyższego kandydatów na stanowiska przewodniczących wydziałów w danej izbie;
   4) wybór 2 członków oraz 1 zastępcy członka Kolegium Sądu Najwyższego;
@@ -118,73 +148,133 @@
 § 2. Zgromadzeniu sędziów izby Sądu Najwyższego przewodniczy Prezes Sądu Najwyższego kierujący pracą danej izby.
 § 3. Do podjęcia uchwały zgromadzenia sędziów izby Sądu Najwyższego wymagana jest obecność co najmniej 2/3 liczby sędziów tej izby. Uchwały zapadają zwykłą większością głosów. Głosowanie jest tajne, jeżeli żądanie takie zgłosi 1 z obecnych na posiedzeniu członków zgromadzenia.
 
-**Art. 20.** W zakresie dotyczącym Izby Dyscyplinarnej oraz sędziów orzekających w Izbie Dyscyplinarnej uprawnienia Pierwszego Prezesa Sądu Najwyższego określone w:
-1) art. 14 § 1 pkt 1 i 7, art. 31 § 1, art. 35 § 2, art. 36 § 6, art. 40 § 1 i 4 i art. 51 § 7 i 14 - wykonuje Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej;
-2) art. 14 § 1 pkt 2 oraz art. 55 § 3 zdanie drugie - Pierwszy Prezes Sądu Najwyższego wykonuje w porozumieniu z Prezesem Sądu Najwyższego kierującym pracą Izby Dyscyplinarnej.
+**Art. 19a.**
+§ 1. Do kompetencji zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej należy:
+  1) dokonywanie wyboru 3 kandydatów na stanowisko Prezesa Sądu Najwyższego kierującego pracą Izby Odpowiedzialności Zawodowej, z uwzględnieniem art. 15a § 1 i 2;
+  2) rozpatrywanie projektu informacji o działalności Izby Odpowiedzialności Zawodowej oraz stwierdzonych w związku z nią istotnych problemach, w tym wynikających z orzecznictwa oraz przyjmowanie tej informacji;
+  3) opiniowanie przedstawionych przez Prezesa Sądu Najwyższego kierującego pracą Izby Odpowiedzialności Zawodowej kandydatów na stanowiska przewodniczących wydziałów w tej izbie;
+  4) wybór 2 członków oraz 1 zastępcy członka Kolegium Sądu Najwyższego;
+  5) rozpatrywanie innych problemów dotyczących funkcjonowania Izby Odpowiedzialności Zawodowej.
+§ 2. Jeżeli ustawa nie stanowi inaczej, do zgromadzenia sędziów orzekających w Izbie Odpowiedzialności Zawodowej przepisy dotyczące zgromadzenia sędziów izby Sądu Najwyższego stosuje się odpowiednio.
+
+**Art. 19b.**
+§ 1. Do kompetencji zgromadzenia sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej należy dokonywanie wyboru 3 kandydatów na stanowisko Prezesa Sądu Najwyższego kierującego pracą tej izby, z uwzględnieniem art. 15a § 1 i 2.
+§ 2. Jeżeli ustawa nie stanowi inaczej, do zgromadzenia sędziów wyznaczonych do orzekania w Izbie Odpowiedzialności Zawodowej dokonującego wyboru, o którym mowa w art. 15a § 1, przepisy dotyczące zgromadzenia sędziów izby Sądu Najwyższego stosuje się odpowiednio.
+
+**Art. 20.** (uchylony)
 
 **Art. 21.**
 § 1. Kolegium Sądu Najwyższego tworzą Pierwszy Prezes Sądu Najwyższego, Prezesi Sądu Najwyższego oraz sędziowie wybrani przez zgromadzenia sędziów izby Sądu Najwyższego na okres 3 lat.
+§ 1a. Zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej wybiera sędziów do Kolegium Sądu Najwyższego niezwłocznie po rozpoczęciu kadencji sędziów orzekających w Izbie Odpowiedzialności Zawodowej. Sędziowie wybrani przez zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej pełnią funkcję od dnia wyboru do dnia upływu kadencji sędziów orzekających w Izbie Odpowiedzialności Zawodowej w trakcie której zostali wybrani. W przypadku wygaśnięcia kadencji sędziego orzekającego w Izbie Odpowiedzialności Zawodowej pełniącego funkcję członka albo zastępcy członka Kolegium Sądu Najwyższego, przeprowadza się wybory uzupełniające. Nie można łączyć funkcji członka lub zastępcy członka Kolegium Sądu Najwyższego wybranego przez zgromadzenie sędziów orzekających w Izbie Odpowiedzialności Zawodowej z funkcją członka lub zastępcy członka Kolegium Sądu Najwyższego wybranego przez zgromadzenie sędziów innej izby Sądu Najwyższego.
 § 2. Przewodniczącym Kolegium Sądu Najwyższego jest Pierwszy Prezes Sądu Najwyższego.
 § 3. Do podjęcia uchwały Kolegium Sądu Najwyższego wymagana jest obecność co najmniej 2/3 liczby członków Kolegium Sądu Najwyższego. Uchwały zapadają zwykłą większością głosów. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego.
 
 **Art. 22.**
 § 1. Kolegium Sądu Najwyższego przygotowuje stanowisko w sprawach związanych z działalnością Sądu Najwyższego oraz współdziała z Pierwszym Prezesem Sądu Najwyższego w celu zapewnienia prawidłowego funkcjonowania Sądu Najwyższego.
 § 2. Do kompetencji Kolegium Sądu Najwyższego należy w szczególności:
-  1) opiniowanie projektów aktów, o których mowa w art. 4, art. 14 § 1 pkt 6 i art. 98 § 2 i 3;
+  1) opiniowanie projektów aktów, o których mowa w art. 4, art. 14 § 1 pkt 6 i art. 98 § 2;
   2) (uchylony)
   3) opiniowanie kandydatów na stanowiska kierownicze w jednostkach administracyjnych Sądu Najwyższego;
   4) uchwalanie projektu dochodów i wydatków Sądu Najwyższego;
   5) ustalanie liczby ławników Sądu Najwyższego;
   6) wybór Rzecznika Dyscyplinarnego Sądu Najwyższego i jego zastępcy.
 
+## Rozdział 2a — Sędziowie orzekający w Izbie Odpowiedzialności Zawodowej
+
+**Art. 22a.**
+§ 1. W Izbie Odpowiedzialności Zawodowej orzeka 11 sędziów orzekających w Izbie Odpowiedzialności Zawodowej, wyznaczonych do orzekania w tej izbie na kadencję, o której mowa w art. 22b § 1 albo art. 22c § 3, przez Prezydenta Rzeczypospolitej Polskiej spośród sędziów Sądu Najwyższego wylosowanych na posiedzeniu Kolegium Sądu Najwyższego przez przewodniczącego tego kolegium.
+§ 2. Sędziów Sądu Najwyższego do orzekania w Izbie Odpowiedzialności Zawodowej losuje się nie później niż na 6 tygodni przed upływem kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej, w liczbie trzykrotnie większej niż liczba sędziów, o której mowa w § 1. Imiona i nazwiska sędziów Sądu Najwyższego nie mogą się powtarzać.
+§ 3. Sędziów Sądu Najwyższego do orzekania w Izbie Odpowiedzialności Zawodowej losuje się spośród sędziów Sądu Najwyższego orzekających w pozostałych izbach Sądu Najwyższego.
+§ 4. Z losowania sędziów Sądu Najwyższego do orzekania w Izbie Odpowiedzialności Zawodowej wyłączeni są sędziowie Sądu Najwyższego zajmujący stanowiska Pierwszego Prezesa Sądu Najwyższego, Prezesa Sądu Najwyższego, Rzecznika Dyscyplinarnego Sądu Najwyższego, Nadzwyczajnego Rzecznika Dyscyplinarnego, zastępcy Rzecznika Dyscyplinarnego Sądu Najwyższego, Rzecznika Prasowego, zastępcy Rzecznika Prasowego, sędziowie Sądu Najwyższego, których kadencja w Izbie Odpowiedzialności Zawodowej trwa w dniu losowania oraz sędziowie Sądu Najwyższego, którzy w okresie 5 lat poprzedzających losowanie zostali ukarani karą dyscyplinarną, o której mowa w art. 75 § 1 pkt 2-4.
+§ 5. Sędziów Sądu Najwyższego do orzekania w Izbie Odpowiedzialności Zawodowej losuje się na posiedzeniu Kolegium Sądu Najwyższego przy udziale obecnych członków Kolegium Sądu Najwyższego. W sprawie losowania sędziów Sądu Najwyższego do orzekania w Izbie Odpowiedzialności Zawodowej nie przeprowadza się głosowania.
+§ 6. Z losowania sędziów Sądu Najwyższego do orzekania w Izbie Odpowiedzialności Zawodowej przewodniczący Kolegium Sądu Najwyższego sporządza protokół. Członkowie Kolegium Sądu Najwyższego obecni podczas losowania mogą zgłosić do protokołu zastrzeżenia do przeprowadzenia losowania.
+§ 7. Niezwłocznie po losowaniu sędziów Sądu Najwyższego do orzekania w Izbie Odpowiedzialności Zawodowej, przewodniczący Kolegium Sądu Najwyższego przekazuje Prezydentowi Rzeczypospolitej Polskiej listę wylosowanych sędziów Sądu Najwyższego wraz z informacją o toczących się wobec nich postępowaniach dyscyplinarnych i protokołem losowania.
+§ 8. Sędzia Sądu Najwyższego nie może odmówić udziału w losowaniu, wyznaczeniu do orzekania w Izbie Odpowiedzialności Zawodowej, ani orzekania w tej izbie po wyznaczeniu przez Prezydenta Rzeczypospolitej Polskiej.
+
+**Art. 22b.**
+§ 1. Kadencja sędziów orzekających w Izbie Odpowiedzialności Zawodowej jest wspólna i wynosi 5 lat. W przypadku wyznaczenia ostatniego sędziego do orzekania w Izbie Odpowiedzialności Zawodowej przed upływem kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej, kadencja rozpoczyna się z dniem następującym po dniu upływu kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej. W przypadku wyznaczenia ostatniego sędziego do orzekania w Izbie Odpowiedzialności Zawodowej po upływie kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej, kadencja rozpoczyna się z dniem następującym po dniu wyznaczenia ostatniego sędziego do orzekania w tej izbie.
+§ 2. Sędzia wyznaczony do orzekania w Izbie Odpowiedzialności Zawodowej przed upływem kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej, orzeka w tej izbie od dnia następującego po upływie kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej. Sędzia wyznaczony do orzekania w Izbie Odpowiedzialności Zawodowej po upływie kadencji dotychczasowych sędziów orzekających w Izbie Odpowiedzialności Zawodowej, orzeka w tej izbie od dnia następującego po dniu wyznaczenia. Nie stoi to na przeszkodzie rozpoczęciu kadencji sędziów orzekających w Izbie Odpowiedzialności Zawodowej w terminie określonym w § 1.
+
+**Art. 22c.**
+§ 1. Kadencja sędziego orzekającego w Izbie Odpowiedzialności Zawodowej wygasa przed upływem kadencji sędziów orzekających w Izbie Odpowiedzialności Zawodowej w przypadku:
+  1) przejścia w stan spoczynku, przeniesienia w stan spoczynku albo wygaśnięcia stosunku służbowego sędziego;
+  2) ukarania karą dyscyplinarną, o której mowa w art. 75 § 1 pkt 2-4;
+  3) powołania na stanowisko Pierwszego Prezesa Sądu Najwyższego, Prezesa Sądu Najwyższego kierującego pracą innej izby, Rzecznika Dyscyplinarnego Sądu Najwyższego, Nadzwyczajnego Rzecznika Dyscyplinarnego, zastępcy Rzecznika Dyscyplinarnego Sądu Najwyższego, Rzecznika Prasowego lub zastępcy Rzecznika Prasowego.
+§ 2. W przypadku, o którym mowa w § 1, przeprowadza się uzupełniające losowanie sędziów Sądu Najwyższego do orzekania w Izbie Odpowiedzialności Zawodowej. Losowanie przeprowadza się w terminie 14 dni od dnia wygaśnięcia kadencji sędziego orzekającego w Izbie Odpowiedzialności Zawodowej. Do uzupełniającego losowania oraz wyznaczenia sędziów do orzekania w Izbie Odpowiedzialności Zawodowej przepis art. 22a stosuje się odpowiednio, z tym że sędziów Sądu Najwyższego do orzekania w Izbie Odpowiedzialności Zawodowej losuje się w liczbie trzykrotnie większej niż liczba sędziów orzekających w Izbie Odpowiedzialności Zawodowej, których kadencja wygasła.
+§ 3. Kadencja sędziego orzekającego w Izbie Odpowiedzialności Zawodowej wyznaczonego w trybie określonym w § 2, rozpoczyna się z dniem następującym po dniu wyznaczenia i upływa wraz z upływem kadencji sędziów orzekających w Izbie Odpowiedzialności Zawodowej, w trakcie której został wyznaczony.
+§ 4. Do sędziów orzekających w Izbie Odpowiedzialności Zawodowej przed rozpoczęciem kadencji w przypadku określonym w art. 22b § 2, przepisy § 1-3 i art. 22b § 1 stosuje się odpowiednio.
+
+**Art. 22d.** Po upływie kadencji sędziów orzekających w Izbie Odpowiedzialności Zawodowej albo wygaśnięciu kadencji sędziego orzekającego w Izbie Odpowiedzialności Zawodowej w przypadku, o którym mowa w art. 22c § 1 pkt 3, sędzia Sądu Najwyższego podejmuje czynności w sprawach w Izbie Odpowiedzialności Zawodowej do ich zakończenia. Sędziego, o którym mowa w zdaniu pierwszym, nie wlicza się do liczby sędziów, o której mowa w art. 22a § 1.
+
+**Art. 22e.** Pierwszy Prezes Sądu Najwyższego określa udział sędziego Sądu Najwyższego w przydziale spraw w izbie Sądu Najwyższego, w której sędzia Sądu Najwyższego zajmuje stanowisko, i w Izbie Odpowiedzialności Zawodowej, z tym że udział w przydziale spraw w Izbie Odpowiedzialności Zawodowej nie może wynosić więcej niż połowę przydziału spraw sędziego Sądu Najwyższego.
+
 ## Rozdział 3 — Właściwość izb Sądu Najwyższego
 
-**Art. 23.** Do właściwości Izby Cywilnej należą sprawy z zakresu prawa cywilnego, gospodarczego, rodzinnego i opiekuńczego, a także sprawy dotyczące rejestracji przedsiębiorców i rejestracji zastawów.
+**Art. 23.** Do właściwości Izby Cywilnej należą sprawy z zakresu prawa cywilnego, gospodarczego, własności intelektualnej, rodzinnego i opiekuńczego, a także sprawy dotyczące rejestracji przedsiębiorców i rejestracji zastawów.
 
 **Art. 24.** Do właściwości Izby Karnej należą sprawy rozpoznawane na podstawie ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego (Dz. U. z 2017 r. poz. 1904 i 2405 oraz z 2018 r. poz. 5), ustawy z dnia 10 września 1999 r. - Kodeks karny skarbowy (Dz. U. z 2017 r. poz. 2226), ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.), oraz inne sprawy, do których stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego, a także sprawy podlegające orzecznictwu sądów wojskowych.
 
-**Art. 25.** Do właściwości Izby Pracy i Ubezpieczeń Społecznych należą sprawy z zakresu prawa pracy, ubezpieczeń społecznych, sprawy o roszczenia twórców wynalazków, wzorów użytkowych i przemysłowych oraz topografii układów scalonych o wynagrodzenie, sprawy rejestrowe, z wyłączeniem spraw dotyczących rejestracji przedsiębiorców i rejestracji zastawów.
+**Art. 25.** Do właściwości Izby Pracy i Ubezpieczeń Społecznych należą sprawy z zakresu prawa pracy, ubezpieczeń społecznych.
 
 **Art. 26.**
- Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpatrywanie skarg nadzwyczajnych, rozpoznawanie protestów wyborczych i protestów przeciwko ważności referendum ogólnokrajowego i referendum konstytucyjnego oraz stwierdzanie ważności wyborów i referendum, inne sprawy z zakresu prawa publicznego, w tym sprawy z zakresu ochrony konkurencji, regulacji energetyki, telekomunikacji i transportu kolejowego oraz sprawy, w których złożono odwołanie od decyzji Przewodniczącego Krajowej Rady Radiofonii i Telewizji, a także skargi dotyczące przewlekłości postępowania przed sądami powszechnymi i wojskowymi oraz Sądem Najwyższym.
+§ 1. Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpoznawanie:
+  1) skarg nadzwyczajnych;
+  2) protestów wyborczych i protestów przeciwko ważności referendum ogólnokrajowego i referendum konstytucyjnego oraz stwierdzanie ważności wyborów i referendum, a także spraw, w których złożono środki odwoławcze od uchwał Państwowej Komisji Wyborczej;
+  3) odwołań od uchwał Krajowej Rady Sądownictwa w przypadkach przewidzianych w przepisach szczególnych;
+  4) spraw z zakresu zamówień publicznych;
+  5) spraw rejestrowych, z wyłączeniem spraw dotyczących rejestracji przedsiębiorców i rejestracji zastawów;
+  6) spraw z zakresu ochrony konkurencji i konsumentów oraz z zakresu praktyk nieuczciwie wykorzystujących przewagę kontraktową;
+  7) spraw z zakresu regulacji energetyki, telekomunikacji i poczty, transportu kolejowego oraz z zakresu regulacji rynku wodno-kanalizacyjnego;
+  8) spraw, w których złożono odwołanie od decyzji Przewodniczącego Krajowej Rady Radiofonii i Telewizji;
+  9) spraw z zakresu przeniesienia sędziego Sądu Najwyższego w stan spoczynku;
+  10) skarg dotyczących przewlekłości postępowania przed sądami powszechnymi i wojskowymi oraz Sądem Najwyższym;
+  11) innych spraw z zakresu prawa publicznego niezastrzeżonych do właściwości innych izb Sądu Najwyższego.
 § 2. Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpoznawanie wniosków lub oświadczeń dotyczących wyłączenia sędziego albo o oznaczenie sądu, przed którym ma się toczyć postępowanie, obejmujących zarzut braku niezależności sądu lub braku niezawisłości sędziego. Sąd rozpoznający sprawę przekazuje niezwłocznie wniosek Prezesowi Izby Kontroli Nadzwyczajnej i Spraw Publicznych celem nadania mu dalszego biegu na zasadach określonych w odrębnych przepisach. Przekazanie wniosku Prezesowi Izby Kontroli Nadzwyczajnej i Spraw Publicznych nie wstrzymuje biegu toczącego się postępowania.
 § 3. Wniosek, o którym mowa w § 2, pozostawia się bez rozpoznania, jeżeli obejmuje ustalenie oraz ocenę zgodności z prawem powołania sędziego lub jego umocowania do wykonywania zadań z zakresu wymiaru sprawiedliwości.
 § 4. Do właściwości Izby Kontroli Nadzwyczajnej i Spraw Publicznych należy rozpoznawanie skarg o stwierdzenie niezgodności z prawem prawomocnego orzeczenia Sądu Najwyższego, sądów powszechnych, sądów wojskowych oraz sądów administracyjnych, w tym Naczelnego Sądu Administracyjnego, jeżeli niezgodność z prawem polega na podważeniu statusu osoby powołanej do pełnienia urzędu na stanowisku sędziego, która wydała orzeczenie w sprawie.
 § 5. Do postępowania w sprawach, o których mowa w § 4, stosuje się odpowiednie przepisy o stwierdzeniu niezgodności z prawem prawomocnych orzeczeń, a w sprawach karnych przepisy o wznowieniu postępowania sądowego zakończonego prawomocnym orzeczeniem. Nie jest konieczne uprawdopodobnienie ani wyrządzenie szkody, spowodowanej przez wydanie orzeczenia, którego skarga dotyczy.
 § 6. Skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia, o którym mowa w § 4, można wnieść do Sądu Najwyższego - Izby Kontroli Nadzwyczajnej i Spraw Publicznych, z pominięciem sądu, który wydał zaskarżone orzeczenie, a także w razie nieskorzystania przez stronę z przysługujących jej środków prawnych, w tym skargi nadzwyczajnej do Sądu Najwyższego.
 
-**Art. 27.**
-§ 1. Do właściwości Izby Dyscyplinarnej należą sprawy:
+**Art. 27.** (uchylony)
+
+**Art. 27a.**
+§ 1. Do właściwości Izby Odpowiedzialności Zawodowej należą sprawy:
   1) dyscyplinarne:
     a) sędziów Sądu Najwyższego,
-    b) rozpatrywane przez Sąd Najwyższy w związku z postępowaniami dyscyplinarnymi prowadzonymi na podstawie ustaw:
-      – z dnia 26 maja 1982 r. - Prawo o adwokaturze (Dz. U. z 2017 r. poz. 2368 i 2400),
-      – z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2017 r. poz. 1870 i 2400),
-      – z dnia 14 lutego 1991 r. - Prawo o notariacie (Dz. U. z 2017 r. poz. 2291),
-      – z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych (Dz. U. z 2017 r. poz. 2243 i 2265 oraz z 2018 r. poz. 3 i 5),
-      – z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2016 r. poz. 1575 oraz z 2018 r. poz. 5),
+    b) rozpatrywane przez Sąd Najwyższy w związku z postępowaniami dyscyplinarnymi prowadzonymi na podstawie ustawy:
+      – z dnia 26 maja 1982 r. - Prawo o adwokaturze (Dz. U. z 2022 r. poz. 1184),
+      – z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2022 r. poz. 1166),
+      – z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz. U. z 2019 r. poz. 1140),
+      – z dnia 14 lutego 1991 r. - Prawo o notariacie (Dz. U. z 2020 r. poz. 1192 i 2320 oraz z 2021 r. poz. 1177),
+      – z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2021 r. poz. 1850),
+      – z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych (Dz. U. z 2020 r. poz. 1754 oraz z 2022 r. poz. 655 i 1259),
+      – z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177 oraz z 2022 r. poz. 375 i 1259),
+      – z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2021 r. poz. 944),
       – z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych,
-      – z dnia 28 stycznia 2016 r. - Prawo o prokuraturze (Dz. U. z 2017 r. poz. 1767 oraz z 2018 r. poz. 5),
-      – z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. poz. 771);
-  1a) o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury;
-  2) z zakresu prawa pracy i ubezpieczeń społecznych dotyczące sędziów Sądu Najwyższego;
-  3) z zakresu przeniesienia sędziego Sądu Najwyższego w stan spoczynku.
-§ 2. Izba Dyscyplinarna składa się z:
+      – z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2022 r. poz. 134 i 974),
+      – z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342),
+      – z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. z 2021 r. poz. 628),
+      – z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2022 r. poz. 168),
+      – z dnia 28 stycznia 2016 r. - Prawo o prokuraturze (Dz. U. z 2022 r. poz. 1247 i 1259),
+      – z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2022 r. poz. 1168);
+  2) o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury;
+  3) z zakresu prawa pracy i ubezpieczeń społecznych dotyczące sędziów Sądu Najwyższego.
+§ 2. Izba Odpowiedzialności Zawodowej składa się z:
   1) Wydziału Pierwszego;
   2) Wydziału Drugiego.
 § 3. Wydział Pierwszy rozpatruje w szczególności sprawy:
   1) sędziów Sądu Najwyższego;
-  2) Sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury dotyczące:
+  2) sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury dotyczące:
     a) przewinień dyscyplinarnych, rozpoznawane w pierwszej instancji przez Sąd Najwyższy,
-    b) zezwolenia na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie.
+    b) zezwolenia na pociągniecie do odpowiedzialności karnej lub tymczasowe aresztowanie.
 § 4. Wydział Drugi rozpatruje w szczególności:
   1) odwołania od orzeczeń sądów dyscyplinarnych pierwszej instancji w sprawach sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury oraz postanowień i zarządzeń zamykających drogę do wydania wyroku;
   2) kasacje od orzeczeń dyscyplinarnych;
-  3) odwołania od uchwał Krajowej Rady Sądownictwa.
+  3) środki odwoławcze z zakresu prawa pracy i ubezpieczeń społecznych sędziów Sądu Najwyższego.
 
 **Art. 28.**
 § 1. W przypadku, gdy Prezes Sądu Najwyższego uzna, że sprawa nie należy do właściwości izby, której pracą kieruje, przekazuje sprawę do właściwej izby.
-§ 2. Prezes Sądu Najwyższego kierujący pracą izby, do której sprawa została przekazana, uznając, że izba ta nie jest właściwa do jej rozpoznania, zwraca się do Pierwszego Prezesa Sądu Najwyższego o wskazanie właściwej izby. Pierwszy Prezes Sądu Najwyższego może odmówić przekazania sprawy do innej izby. W zakresie przekazania sprawy do lub z Izby Dyscyplinarnej rozstrzyga Prezes Sądu Najwyższego kierujący pracą Izby Dyscyplinarnej.
+§ 2. Prezes Sądu Najwyższego kierujący pracą izby, do której sprawa została przekazana, uznając, że izba ta nie jest właściwa do jej rozpoznania, zwraca się do Pierwszego Prezesa Sądu Najwyższego o wskazanie właściwej izby. Pierwszy Prezes Sądu Najwyższego może odmówić przekazania sprawy do innej izby.
 
 ## Rozdział 4 — Nawiązanie, zmiana i wygaśniecie stosunku służbowego sędziego Sądu Najwyższego
 
@@ -192,6 +282,35 @@
 § 1. Sędzią Sądu Najwyższego jest osoba powołana na to stanowisko przez Prezydenta Rzeczypospolitej Polskiej, która złożyła ślubowanie wobec Prezydenta Rzeczypospolitej Polskiej.
 § 2. W ramach działalności Sądu Najwyższego lub jego organów niedopuszczalne jest kwestionowanie umocowania sądów i trybunałów, konstytucyjnych organów państwowych oraz organów kontroli i ochrony prawa.
 § 3. Niedopuszczalne jest ustalanie lub ocena przez Sąd Najwyższy lub inny organ władzy zgodności z prawem powołania sędziego lub wynikającego z tego powołania uprawnienia do wykonywania zadań z zakresu wymiaru sprawiedliwości.
+§ 4. Okoliczności towarzyszące powołaniu sędziego Sądu Najwyższego nie mogą stanowić wyłącznej podstawy do podważenia orzeczenia wydanego z udziałem tego sędziego lub kwestionowania jego niezawisłości i bezstronności.
+§ 5. Dopuszczalne jest badanie spełnienia przez sędziego Sądu Najwyższego lub sędziego delegowanego do pełnienia czynności sędziowskich w Sądzie Najwyższym wymogów niezawisłości i bezstronności z uwzględnieniem okoliczności towarzyszących jego powołaniu i jego postępowania po powołaniu, na wniosek uprawnionego, o którym mowa w § 7, jeżeli w okolicznościach danej sprawy może to doprowadzić do naruszenia standardu niezawisłości lub bezstronności, mającego wpływ na wynik sprawy z uwzględnieniem okoliczności dotyczących uprawnionego oraz charakteru sprawy.
+§ 6. Wniosek o stwierdzenie przesłanek, o których mowa w § 5, może być złożony wobec sędziego Sądu Najwyższego lub sędziego delegowanego do pełnienia czynności sędziowskich w Sądzie Najwyższym wyznaczonego do składu rozpoznającego:
+  1) środek zaskarżenia;
+  2) sprawę dyscyplinarną;
+  3) sprawę o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie sędziów, asesorów sądowych, prokuratorów i asesorów prokuratury;
+  4) sprawę z zakresu prawa pracy i ubezpieczeń społecznych dotyczącą sędziego Sądu Najwyższego;
+  5) sprawę z zakresu przeniesienia sędziego Sądu Najwyższego w stan spoczynku.
+§ 7. Uprawnionym do złożenia wniosku jest strona lub uczestnik postępowania przed Sądem Najwyższym w sprawach, o których mowa w § 6.
+§ 8. Wniosek składa się w terminie tygodnia od dnia zawiadomienia uprawnionego do złożenia wniosku o składzie rozpoznającym sprawę. Po upływie terminu, o którym mowa w zdaniu pierwszym, prawo do złożenia wniosku wygasa. Sąd przy doręczeniu pierwszego pisma w sprawie zawiadamia uprawnionego do złożenia wniosku o składzie rozpoznającym sprawę, a przy każdym kolejnym - jeżeli skład rozpoznający sprawę uległ zmianie. Przepis art. 871§ 1 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm.) stosuje się.
+§ 9. Wniosek powinien czynić zadość wymaganiom przewidzianym dla pisma procesowego, a ponadto zawierać:
+  1) żądanie stwierdzenia, że w danej sprawie zachodzą przesłanki, o których mowa w § 5;
+  2) przytoczenie okoliczności uzasadniających żądanie wraz z dowodami na ich poparcie.
+§ 10. Wniosek niespełniający wymagań, o których mowa w § 9, podlega odrzuceniu bez wezwania do usunięcia braków formalnych. Odrzuceniu podlega również wniosek złożony po upływie terminu albo z innych przyczyn niedopuszczalny.
+§ 11. O odrzuceniu wniosku niespełniającego wymagań, o których mowa w § 9, Sąd Najwyższy zawiadamia właściwy organ samorządu zawodowego, do którego należy pełnomocnik.
+§ 12. Do czasu rozpoznania wniosku sędzia, którego wniosek dotyczy, nie może podejmować dalszych czynności, chyba że dotyczy to czynności niecierpiącej zwłoki.
+§ 13. Złożenie wniosku nie wstrzymuje dopuszczalności wydania orzeczenia w sprawie, o której mowa w § 6 pkt 3, w zakresie niecierpiącym zwłoki lub w przedmiocie środka zapobiegawczego podczas rozpoznawania kasacji albo wniosku o wznowienie postępowania.
+§ 14. Jeżeli uprawniony do złożenia wniosku złożył wnioski wobec więcej niż jednego sędziego wyznaczonego do składu rozpoznającego sprawę lub wnioski zostały złożone w tej samej sprawie przez kilku uprawnionych do złożenia wniosku, Sąd Najwyższy może zarządzić połączenie wniosków w celu ich łącznego rozpoznania. W przypadku łącznego rozpoznania wniosków, wnioski rozpoznaje skład Sądu Najwyższego wyznaczony do rozpoznania wniosku, który został złożony jako pierwszy.
+§ 15. Sąd Najwyższy rozpoznaje wniosek na posiedzeniu niejawnym w składzie 5 sędziów losowanych spośród całego składu Sądu Najwyższego, po wysłuchaniu sędziego, którego wniosek dotyczy chyba, że wysłuchanie jest niemożliwe lub bardzo utrudnione. Wysłuchanie może nastąpić na piśmie. Sędzia, którego wniosek dotyczy jest wyłączony z losowania.
+§ 16. Sąd Najwyższy wydaje orzeczenie w terminie 2 tygodni, licząc od dnia złożenia wniosku.
+§ 17. Sąd Najwyższy oddala wniosek, jeżeli jest on bezzasadny.
+§ 18. Uwzględniając wniosek Sąd Najwyższy wyłącza sędziego od rozpoznania sprawy. Wyłączenie sędziego od udziału w danej sprawie nie może stanowić podstawy do wyłączenia tego sędziego w innych sprawach rozpoznawanych z jego udziałem.
+§ 19. Sąd Najwyższy z urzędu sporządza w terminie 3 dni uzasadnienie postanowienia wydanego na skutek rozpoznania wniosku.
+§ 20. Odpis postanowienia wydanego na skutek rozpoznania wniosku wraz z uzasadnieniem doręcza się składającemu wniosek oraz sędziemu, którego orzeczenie dotyczy.
+§ 21. Od postanowienia wydanego na skutek rozpoznania wniosku przysługuje odwołanie do Sądu Najwyższego w składzie 7 sędziów losowanych spośród całego składu Sądu Najwyższego. Sędzia, którego orzeczenie dotyczy oraz sędzia, który brał udział w wydaniu zaskarżonego postanowienia, są wyłączeni z losowania.
+§ 22. Odwołanie przysługuje podmiotowi, który złożył wniosek oraz sędziemu, którego orzeczenie dotyczy. Termin do wniesienia odwołania wynosi tydzień i biegnie dla każdego uprawnionego do wniesienia odwołania od dnia doręczenia postanowienia wraz z uzasadnieniem.
+§ 23. Sąd Najwyższy rozpoznaje odwołanie na posiedzeniu niejawnym w terminie 2 tygodni od dnia jego wniesienia.
+§ 24. W sprawach nieuregulowanych w ustawie do postępowania toczącego się na skutek wniosku oraz postępowania odwoławczego stosuje się odpowiednio przepisy o zażaleniu obowiązujące w postępowaniu, którego wniosek dotyczy.
+§ 25. Od prawomocnego postanowienia Sądu Najwyższego wydanego na skutek rozpoznania wniosku nie przysługuje wniosek o wznowienie postępowania lub skarga o wznowienie postępowania.
 
 **Art. 30.**
 § 1. Do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego może być powołana osoba, która:
@@ -235,6 +354,7 @@
 § 2. Sędzia, za jego zgodą, może zostać przeniesiony przez Pierwszego Prezesa Sądu Najwyższego na stanowisko w innej izbie.
 § 3. Sędzia może być wyznaczony przez Pierwszego Prezesa Sądu Najwyższego do udziału w rozpoznaniu określonej sprawy w innej izbie oraz, za zgodą sędziego, do orzekania na czas określony w innej izbie. Wyznaczenie sędziego do orzekania w innej izbie, bez jego zgody, może nastąpić na okres nie dłuższy niż 6 miesięcy w roku. Po upływie okresu wyznaczenia sędziego do orzekania w innej izbie, sędzia podejmuje czynności w sprawach przydzielonych mu w tej izbie
    do ich zakończenia. Wyznaczenie sędziego Sądu Najwyższego orzekającego w Izbie Dyscyplinarnej do udziału w rozpoznaniu określonej sprawy lub do orzekania na czas określony w innej izbie wymaga także zgody Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej.
+§ 4. Przepisów § 2 i 3 nie stosuje się do Izby Odpowiedzialności Zawodowej.
 
 **Art. 36.**
 § 1. Stosunek służbowy sędziego Sądu Najwyższego wygasa w przypadku:
@@ -258,7 +378,7 @@
 § 7. W przypadku przedstawienia informacji potwierdzającej okoliczność, o której mowa w § 1 pkt 8, Dyrektor Biura Lustracyjnego Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu wskazuje, że wymieniona okoliczność wynika z:
   1) oświadczenia dotyczącego pracy lub służby w organach bezpieczeństwa państwa lub współpracy z tymi organami w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r., o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów (Dz. U. z 2017 r. poz. 2186);
   2) prawomocnego orzeczenia sądu okręgowego, o którym mowa w art. 17 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów, stwierdzającego fakt złożenia przez osobę poddaną postępowaniu lustracyjnemu niezgodnego z prawdą oświadczenia dotyczącego pracy lub służby w organach bezpieczeństwa państwa lub współpracy z tymi organami w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r., o którym mowa w art. 21a ust. 2 tej ustawy.
-§ 8. W przypadku, gdy Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu lub Dyrektor Biura Lustracyjnego tego instytutu poweźmie informację potwierdzającą okoliczność, o której mowa w § 1 pkt 8, przekazuje ją niezwłocznie Pierwszemu Prezesowi Sądu Najwyższego i Prezesowi Sądu Najwyższego kierującemu pracą Izby Dyscyplinarnej. Przepisy ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów, stosuje się odpowiednio.
+§ 8. W przypadku, gdy Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu lub Dyrektor Biura Lustracyjnego tego instytutu poweźmie informację potwierdzającą okoliczność, o której mowa w § 1 pkt 8, przekazuje ją niezwłocznie Pierwszemu Prezesowi Sądu Najwyższego. Przepisy ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów, stosuje się odpowiednio.
 § 9. Sędzia Sądu Najwyższego, który zrzekł się pełnienia urzędu na stanowisku sędziego Sądu Najwyższego lub statusu sędziego w stanie spoczynku ma prawo uzyskać wpis na listę adwokatów lub radców prawnych albo zostać powołany na stanowisko notariusza bez konieczności spełnienia wymagań określonych w stosunku do innych sędziów w ustawie z dnia 26 maja 1982 r. - Prawo o adwokaturze, ustawie z dnia 6 lipca 1982 r. o radcach prawnych oraz ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie.
 
 **Art. 37.**
@@ -314,11 +434,11 @@
   4) posiadać w spółce prawa handlowego więcej niż 10% akcji lub udziałów przedstawiających więcej niż 10% kapitału zakładowego;
   5) prowadzić działalności gospodarczej na własny rachunek lub wspólnie z innymi osobami, a także zarządzać taką działalnością lub być przedstawicielem lub pełnomocnikiem w prowadzeniu takiej działalności.
 § 6. Przez spółkę prawa handlowego rozumie się spółkę handlową, a także inną spółkę, do której stosuje się przepisy prawa handlowego, w tym spółkę według prawa obcego.
-§ 7. Zyski z tytułu posiadania akcji lub udziałów w spółce prawa handlowego określonych w § 5 pkt 4, sędzia Sądu Najwyższego przekazuje na wskazane przez siebie cele publiczne albo na odrębny rachunek bankowy prowadzony przez bank wskazany przez Pierwszego Prezesa Sądu Najwyższego do dnia 31 marca roku następującego po roku, w którym je uzyskał. Sędzia Sądu Najwyższego może korzystać ze środków zgromadzonych na rachunku bankowym po przejściu w stan spoczynku.
-§ 8. Niewykonanie obowiązku, o którym mowa w § 7, jest równoznaczne ze zrzeczeniem się pełnienia urzędu na stanowisku sędziego Sądu Najwyższego.
+§ 7. (uchylony)
+§ 8. (uchylony)
 § 9. Wybór lub powołanie do władz spółki, spółdzielni lub fundacji z naruszeniem zakazów określonych w § 5 pkt 1-3 są z mocy prawa nieważne i nie podlegają wpisowi do właściwego rejestru.
 § 10. Przepisy § 1-3, 5, 6 i 9 stosuje się odpowiednio do sędziów Sądu Najwyższego w stanie spoczynku.
-§ 11. Sędzia Sądu Najwyższego orzekający w Izbie Dyscyplinarnej nie może pozostawać w innym stosunku służbowym lub podejmować dodatkowego zatrudnienia ani innego zajęcia, o których mowa w § 1 i 2, z wyjątkiem zatrudnienia sędziego posiadającego stopień naukowy doktora habilitowanego lub tytuł profesora w charakterze pracownika naukowo-dydaktycznego lub naukowego u jednego pracodawcy, w łącznym wymiarze nieprzekraczającym pełnego wymiaru czasu pracy pracowników zatrudnionych w takim charakterze, oraz z wyjątkiem udziału w konferencjach lub szkoleniach, za które sędzia nie otrzymuje wynagrodzenia. Zatrudnienie w charakterze pracownika naukowo-dydaktycznego lub naukowego oraz udział w konferencjach lub szkoleniach wymaga zgody Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej.
+§ 11. (uchylony)
 
 **Art. 45.**
 § 1. Oświadczenie o stanie majątkowym, o którym mowa w art. 87 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych sędzia Sądu Najwyższego składa Pierwszemu Prezesowi Sądu Najwyższego.
@@ -329,7 +449,7 @@
 § 1. Żądania, wystąpienia i zażalenia w sprawach związanych z pełnionym urzędem sędzia może wnosić tylko do Prezesa Sądu Najwyższego kierującego pracą izby, w której orzeka, lub Pierwszego Prezesa Sądu Najwyższego.
 § 2. W sprawach, o których mowa w § 1, sędzia nie może zwracać się do instytucji i osób postronnych ani podawać sprawy do wiadomości publicznej.
 
-**Art. 47.** Sędzia niezwłocznie zawiadamia Pierwszego Prezesa Sądu Najwyższego oraz Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej o toczącej się sprawie sądowej, w której występuje w charakterze strony lub uczestnika postępowania.
+**Art. 47.** Sędzia niezwłocznie zawiadamia Pierwszego Prezesa Sądu Najwyższego o toczącej się sprawie sądowej, w której występuje w charakterze strony lub uczestnika postępowania.
 
 **Art. 48.**
 § 1. Wynagrodzenie zasadnicze sędziego Sądu Najwyższego stanowi wielokrotność podstawy ustalenia tego wynagrodzenia, z zastosowaniem mnożnika 4,13.
@@ -338,8 +458,7 @@
 § 4. Wynagrodzenie sędziego Sądu Najwyższego określa się w stawce podstawowej albo awansowej. Stawka awansowa stanowi 115% stawki podstawowej.
 § 5. Sędzia Sądu Najwyższego, obejmując stanowisko, otrzymuje wynagrodzenie zasadnicze w stawce podstawowej. Po 7 latach służby w Sądzie Najwyższym wynagrodzenie zasadnicze sędziego Sądu Najwyższego podwyższa się do stawki awansowej.
 § 6. W związku z pełnioną funkcją sędziemu Sądu Najwyższego przysługuje dodatek funkcyjny, którego wysokość ustala się z zastosowaniem mnożników podstawy ustalenia wynagrodzenia, o której mowa w § 2.
-§ 7. Sędziemu Sądu Najwyższego orzekającemu w Izbie Dyscyplinarnej oraz sędziemu delegowanemu do wykonywania czynności w tej izbie w związku z zakazem zatrudnienia określonym w art. 44 § 11 przysługuje dodatek w wysokości 40% wynagrodzenia zasadniczego i dodatku funkcyjnego łącznie. Dodatek nie przysługuje za okres nieobecności w pracy z powodu choroby sędziego, chyba że łączny okres tej nieobecności nie przekracza 30 dni w roku kalendarzowym.
-   Dodatek nie przysługuje w przypadku podjęcia przez sędziego zatrudnienia w charakterze pracownika naukowo-dydaktycznego lub naukowego, za okres od dnia rozpoczęcia wykonywania pracy na tym stanowisku do dnia ustania zatrudnienia.
+§ 7. (uchylony)
 § 8. Tabelę mnożników służących do ustalenia wysokości dodatków funkcyjnych określa załącznik do ustawy.
 
 **Art. 49.** Sędziemu Sądu Najwyższego przysługuje dodatek za długoletnią służbę wynoszący 1% wynagrodzenia zasadniczego, za każdy rok służby, nie więcej jednak niż 20% tego wynagrodzenia. Do okresu służby, od którego zależy wysokość dodatku, wlicza się również przypadający przed powołaniem na stanowisko sędziego Sądu Najwyższego okres stosunku służbowego lub stosunku pracy, jak również okres wykonywania zawodu adwokata, radcy prawnego lub notariusza.
@@ -399,12 +518,12 @@
 § 2. Świadczenia i należności, o których mowa w § 1, nie przysługują, gdy odległość od miejscowości, w której sędzia Sądu Najwyższego ma miejsce stałego zamieszkania do Warszawy nie przekracza 60 km, chyba że Pierwszy Prezes Sądu Najwyższego, na wniosek sędziego Sądu Najwyższego uzna, że jest to uzasadnione ze względu na zakres obowiązków i warunki dojazdu.
 § 3. Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, zasady zapewnienia bezpłatnego zakwaterowania sędziom Sądu Najwyższego stale zamieszkałym poza Warszawą, a także wysokość i warunki wypłacania im zwrotu poniesionych kosztów przejazdu oraz dodatku za rozłąkę, mając na uwadze konieczność zapewnienia sędziom Sądu Najwyższego warunków pracy odpowiadających godności urzędu oraz specyfice i zakresowi ich obowiązków.
 
-**Art. 54.** Sędziemu Sądu Najwyższego przechodzącemu w stan spoczynku przysługuje jednorazowa odprawa w wysokości sześciomiesięcznego wynagrodzenia.
+**Art. 54.** Sędziemu Sądu Najwyższego przechodzącemu lub przenoszonemu w stan spoczynku przysługuje jednorazowa odprawa w wysokości sześciomiesięcznego wynagrodzenia.
 
 **Art. 55.**
 § 1. Sędzia Sądu Najwyższego nie może być pozbawiony wolności ani pociągnięty do odpowiedzialności karnej bez zezwolenia sądu dyscyplinarnego. Nie dotyczy to ujęcia na gorącym uczynku przestępstwa, jeżeli zatrzymanie sędziego jest niezbędne do zapewnienia prawidłowego toku postępowania. Do czasu wydania uchwały zezwalającej na pociągnięcie sędziego do odpowiedzialności karnej wolno podejmować tylko czynności niecierpiące zwłoki.
 § 2. Jeżeli wniosek o zezwolenie na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie dotyczy sędziego ujętego na gorącym uczynku zbrodni lub występku zagrożonego karą pozbawienia wolności, której górna granica wynosi co najmniej 8 lat, występku, o którym mowa w art. 177 § 1 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny (Dz. U. z 2017 r. poz. 2204) w związku z art. 178 § 1 tej ustawy, a także w art. 178a § 1 lub 4 ustawy z dnia 6 czerwca 1997 r. - Kodeks karny, i pozostającego nadal zatrzymanym, sąd dyscyplinarny podejmuje uchwałę w przedmiocie wniosku niezwłocznie, nie później niż przed upływem 24 godzin od jego wpływu do sądu dyscyplinarnego. Uchwała zezwalająca na pociągnięcie do odpowiedzialności karnej lub tymczasowe aresztowanie sędziego jest natychmiast wykonalna.
-§ 3. O zatrzymaniu sędziego niezwłocznie zawiadamia się Pierwszego Prezesa Sądu Najwyższego oraz Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej. Pierwszy Prezes Sądu Najwyższego może nakazać natychmiastowe zwolnienie zatrzymanego.
+§ 3. O zatrzymaniu sędziego niezwłocznie zawiadamia się Pierwszego Prezesa Sądu Najwyższego. Pierwszy Prezes Sądu Najwyższego może nakazać natychmiastowe zwolnienie zatrzymanego.
 § 4. W terminie 7 dni od dnia doręczenia uchwały odmawiającej zezwolenia na pociągnięcie sędziego do odpowiedzialności karnej przysługuje organowi lub osobie, która wniosła o zezwolenie, oraz Rzecznikowi Dyscyplinarnemu Sądu Najwyższego zażalenie do sądu dyscyplinarnego drugiej instancji. W tym samym terminie zainteresowanemu sędziemu przysługuje zażalenie na uchwałę zezwalającą na pociągnięcie go do odpowiedzialności karnej.
 
 **Art. 56.** Sędziemu Sądu Najwyższego w stanie spoczynku przysługuje uposażenie w wysokości 75% wynagrodzenia zasadniczego i dodatku za wysługę lat, pobieranych na ostatnio zajmowanym stanowisku. Uposażenie to jest waloryzowane w terminach i wysokości stosownie do zmian wynagrodzenia zasadniczego sędziów Sądu Najwyższego czynnych zawodowo.
@@ -416,7 +535,7 @@
 ## Rozdział 6 — Ławnicy Sądu Najwyższego
 
 **Art. 59.**
-§ 1. W rozpoznawaniu skarg nadzwyczajnych, spraw, o których mowa w art. 27 § 1 pkt 1, oraz w innych postępowaniach dyscyplinarnych, w których Sąd Najwyższy jest właściwy na podstawie przepisów odrębnych ustaw, uczestniczą ławnicy Sądu Najwyższego.
+§ 1. W rozpoznawaniu skarg nadzwyczajnych, spraw, o których mowa w art. 27a § 1 pkt 1, oraz w innych postępowaniach dyscyplinarnych, w których Sąd Najwyższy jest właściwy na podstawie przepisów odrębnych ustaw, uczestniczą ławnicy Sądu Najwyższego.
 § 2. Jeżeli ustawa nie stanowi inaczej, w sprawach wskazanych w § 1, Sąd Najwyższy orzeka w składzie 2 sędziów Sądu Najwyższego i 1 ławnika Sądu Najwyższego.
 § 3. Ławnikiem Sądu Najwyższego może być osoba, która:
   1) posiada wyłącznie obywatelstwo polskie i korzysta z pełni praw cywilnych i publicznych;
@@ -490,7 +609,7 @@
 **Art. 70.**
 § 1. Ławnicy Sądu Najwyższego wybierają ze swego grona Radę Ławniczą Sądu Najwyższego, jej przewodniczącego i zastępców.
 § 2. Do zadań Rady Ławniczej Sądu Najwyższego należy w szczególności podnoszenie poziomu pracy ławników Sądu Najwyższego i ich reprezentowanie oraz pobudzanie działalności wychowawczej ławników Sądu Najwyższego w społeczeństwie.
-§ 3. Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, sposób wyboru, skład i strukturę organizacyjną, tryb działania oraz szczegółowe zadania Rady Ławniczej Sądu Najwyższego, uwzględniając obligatoryjny charakter Rady Ławniczej Sądu Najwyższego jako samorządu ławniczego, reprezentującego ławników Sądu Najwyższego, zakres współpracy z Pierwszym Prezesem Sądu Najwyższego oraz Prezesem Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej, potrzebę uwzględnienia w jej strukturze przewodniczącego i zastępców oraz określenia ich zadań.
+§ 3. Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, sposób wyboru, skład i strukturę organizacyjną, tryb działania oraz szczegółowe zadania Rady Ławniczej Sądu Najwyższego, uwzględniając obligatoryjny charakter Rady Ławniczej Sądu Najwyższego jako samorządu ławniczego, reprezentującego ławników Sądu Najwyższego, zakres współpracy z Pierwszym Prezesem Sądu Najwyższego, potrzebę uwzględnienia w jej strukturze przewodniczącego i zastępców oraz określenia ich zadań.
 
 **Art. 71.** W sprawach nieuregulowanych w niniejszym rozdziale do ławników Sądu Najwyższego stosuje się odpowiednio przepisy działu IV rozdziału 7 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych dotyczące ławników.
 
@@ -499,6 +618,7 @@
 **Art. 72.**
 § 1. Sędzia Sądu Najwyższego odpowiada dyscyplinarnie za przewinienia służbowe (dyscyplinarne), w tym za:
   1) oczywistą i rażącą obrazę przepisów prawa;
+  1a) odmowę wykonywania wymiaru sprawiedliwości;
   2) działania lub zaniechania mogące uniemożliwić lub istotnie utrudnić funkcjonowanie organu wymiaru sprawiedliwości;
   3) działania kwestionujące istnienie stosunku służbowego sędziego, skuteczność powołania sędziego, lub umocowanie konstytucyjnego organu Rzeczypospolitej Polskiej;
   4) działalność publiczną nie dającą się pogodzić z zasadami niezależności sądów i niezawisłości sędziów;
@@ -507,11 +627,15 @@
 § 3. Za wykroczenia sędzia może odpowiadać tylko dyscyplinarnie.
 § 4. Sędzia może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej za wykroczenie, o którym mowa w rozdziale XI ustawy z dnia 20 maja 1971 r. - Kodeks wykroczeń (Dz. U. z 2015 r. poz. 1094, 1485, 1634 i 1707 oraz z 2017 r. poz. 966, 1941 i 2361). Wyrażenie zgody następuje w drodze przyjęcia przez sędziego mandatu karnego albo uiszczenia grzywny, w przypadku ukarania mandatem karnym zaocznym, o którym mowa w art. 98 § 1 pkt 3 ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia.
 § 5. Wyrażenie przez sędziego zgody na pociągnięcie go do odpowiedzialności karnej w trybie określonym w § 4 wyłącza odpowiedzialność dyscyplinarną.
+§ 6. Nie stanowi przewinienia dyscyplinarnego:
+  1) okoliczność, że orzeczenie sądowe wydane z udziałem danego sędziego Sądu Najwyższego obarczone jest błędem w zakresie wykładni i stosowania przepisów prawa krajowego lub prawa Unii Europejskiej lub w zakresie ustalenia stanu faktycznego lub oceny dowodów;
+  2) wystąpienie do Trybunału Sprawiedliwości Unii Europejskiej z wnioskiem o rozpatrzenie pytania prejudycjalnego, o którym mowa w art. 267 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. U. z 2004 r. poz. 864, z późn. zm.);
+  3) badanie spełniania wymogów niezależności lub niezawisłości w przypadku, o którym mowa w art. 26 § 2, lub badanie spełniania wymogów niezawisłości i bezstronności w przypadku, o którym mowa w art. 29 § 5 lub art. 23a § 4 ustawy z dnia 21 sierpnia 1997 r. - Prawo o ustroju sądów wojskowych, lub art. 42a § 3 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych.
 
 **Art. 73.**
 § 1. Sądami dyscyplinarnymi w sprawach dyscyplinarnych sędziów Sądu Najwyższego są:
-  1) w pierwszej instancji - Sąd Najwyższy w składzie 2 sędziów Izby Dyscyplinarnej i 1 ławnika Sądu Najwyższego;
-  2) w drugiej instancji - Sąd Najwyższy w składzie 3 sędziów Izby Dyscyplinarnej i 2 ławników Sądu Najwyższego.
+  1) w pierwszej instancji - Sąd Najwyższy w składzie 2 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 1 ławnika Sądu Najwyższego;
+  2) w drugiej instancji - Sąd Najwyższy w składzie 3 sędziów orzekających w Izbie Odpowiedzialności Zawodowej i 2 ławników Sądu Najwyższego.
 § 2. (uchylony)
 
 **Art. 74.** Rzecznika Dyscyplinarnego Sądu Najwyższego i jego zastępcę wybiera Kolegium Sądu Najwyższego na okres 4 lat.
@@ -521,18 +645,18 @@
   1) upomnienie;
   2) nagana;
   3) obniżenie wynagrodzenia zasadniczego sędziego o 5%-50% na okres od 6 miesięcy do 2 lat;
-  3a) kara pieniężna w wysokości podlegającego wypłacie za miesiąc poprzedzający wydanie prawomocnego wyroku skazującego jednomiesięcznego wynagrodzenia zasadniczego powiększonego o przysługujący sędziemu dodatek za długoletnią pracę, dodatek funkcyjny i dodatek, o którym mowa w art. 48 § 7;
+  3a) kara pieniężna w wysokości podlegającego wypłacie za miesiąc poprzedzający wydanie prawomocnego wyroku skazującego jednomiesięcznego wynagrodzenia zasadniczego powiększonego o przysługujący sędziemu dodatek za długoletnią pracęi dodatek funkcyjny;
   4) usunięcie z zajmowanej funkcji;
   5) złożenie sędziego z urzędu.
 § 1a. Za przewinienie dyscyplinarne określone w art. 72 § 1 pkt 2-4, wymierza się karę, o której mowa w § 1 pkt 5, a w przypadku mniejszej wagi - karę, o której mowa w § 1 pkt 3, 3a lub 4.
 § 2. Sąd podaje prawomocny wyrok dyscyplinarny do wiadomości publicznej poprzez zamieszczenie go na stronie internetowej Sądu Najwyższego. Zamieszczeniu podlega sentencja wyroku, z wyłączeniem danych dotyczących tożsamości osoby fizycznej lub innej osoby, jeżeli jest to konieczne dla ochrony słusznych interesów tych osób.
 § 3. Sąd przekazuje prawomocny wyrok dyscyplinarny do wiadomości Prezydenta Rzeczypospolitej Polskiej.
-§ 4. Wymierzenie kary, o której mowa w § 1 pkt 2-4, pociąga za sobą, przez okres 5 lat, niemożność udziału w Kolegium Sądu Najwyższego, orzekania w sądzie dyscyplinarnym oraz pełnienia funkcji w Sądzie Najwyższym. Sędziego ukaranego karą dyscyplinarną, o której mowa w zdaniu pierwszym, orzekającego w Izbie Dyscyplinarnej, Pierwszy Prezes Sądu Najwyższego wyznacza do rozpoznawania spraw w innej izbie na okres 5 lat.
+§ 4. Wymierzenie kary, o której mowa w § 1 pkt 2-4, pociąga za sobą, przez okres 5 lat, niemożność udziału w Kolegium Sądu Najwyższego, orzekania w Izbie Odpowiedzialności Zawodowej oraz pełnienia funkcji w Sądzie Najwyższym.
 § 5. Wymierzenie kary, o której mowa w § 1 pkt 5, pociąga za sobą utratę możliwości ponownego powołania ukaranego na urząd sędziego.
 § 6. W przypadku przewinienia dyscyplinarnego lub wykroczenia mniejszej wagi sąd dyscyplinarny może odstąpić od wymierzenia kary.
 
 **Art. 76.**
-§ 1. Rzecznik Dyscyplinarny Sądu Najwyższego podejmuje czynności wyjaśniające na żądanie Pierwszego Prezesa Sądu Najwyższego, Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej, Kolegium Sądu Najwyższego, Prokuratora Generalnego, Prokuratora Krajowego, lub z własnej inicjatywy, po wstępnym wyjaśnieniu okoliczności niezbędnych do ustalenia znamion przewinienia, a także złożeniu wyjaśnień przez sędziego, chyba że złożenie tych wyjaśnień nie jest możliwe. Czynności wyjaśniające powinny być przeprowadzone w terminie 30 dni od dnia podjęcia pierwszej czynności przez Rzecznika Dyscyplinarnego Sądu Najwyższego.
+§ 1. Rzecznik Dyscyplinarny Sądu Najwyższego podejmuje czynności wyjaśniające na żądanie Pierwszego Prezesa Sądu Najwyższego, Kolegium Sądu Najwyższego, Prokuratora Generalnego, Prokuratora Krajowego, lub z własnej inicjatywy, po wstępnym wyjaśnieniu okoliczności niezbędnych do ustalenia znamion przewinienia, a także złożeniu wyjaśnień przez sędziego, chyba że złożenie tych wyjaśnień nie jest możliwe. Czynności wyjaśniające powinny być przeprowadzone w terminie 30 dni od dnia podjęcia pierwszej czynności przez Rzecznika Dyscyplinarnego Sądu Najwyższego.
 § 2. Po przeprowadzeniu czynności wyjaśniających, jeżeli zachodzą podstawy do wszczęcia postępowania dyscyplinarnego, Rzecznik Dyscyplinarny Sądu Najwyższego wszczyna postępowanie dyscyplinarne i przedstawia sędziemu na piśmie zarzuty. Po przedstawieniu zarzutów obwiniony, w terminie 14 dni, może złożyć wyjaśnienia oraz zgłosić wnioski o przeprowadzenie dowodów.
 § 3. Po upływie terminu, o którym mowa w § 2, a w razie potrzeby po przeprowadzeniu dalszych dowodów, Rzecznik Dyscyplinarny Sądu Najwyższego składa wniosek o rozpoznanie sprawy dyscyplinarnej do sądu dyscyplinarnego pierwszej instancji. Wniosek powinien zawierać dokładne określenie czynu, który jest przedmiotem postępowania, wykaz dowodów uzasadniających wniosek oraz uzasadnienie.
 § 4. Jeżeli Rzecznik Dyscyplinarny Sądu Najwyższego nie znajduje podstaw do wszczęcia postępowania dyscyplinarnego na żądanie uprawnionego organu, wydaje postanowienie o odmowie jego wszczęcia. Odpis postanowienia doręcza się organom, o których mowa w § 1, oraz Prezydentowi Rzeczypospolitej Polskiej. W terminie 30 dni od dnia doręczenia tego postanowienia każdemu organowi, o którym mowa w § 1, służy zażalenie do sądu dyscyplinarnego pierwszej instancji.
@@ -548,13 +672,13 @@
 
 **Art. 77.**
 § 1. Sąd Najwyższy orzeka w składzie 3 sędziów, chyba że ustawa stanowi inaczej.
-§ 2. Sąd Najwyższy w Izbie Dyscyplinarnej, w sprawach, w których ustawa nie określa składu, orzeka na posiedzeniu w składzie 1 sędziego, chyba że Prezes kierujący pracą tej izby zarządzi rozpoznanie sprawy w składzie 3 sędziów.
+§ 2. (uchylony)
 
-**Art. 78.** W sprawach, o których mowa w art. 55 § 1 i 2, orzeka sąd dyscyplinarny w składzie 3 sędziów Izby Dyscyplinarnej Sądu Najwyższego.
+**Art. 78.** (uchylony)
 
-**Art. 79.** Sprawy z zakresu prawa pracy i ubezpieczeń społecznych dotyczące sędziów Sądu Najwyższego oraz sprawy z zakresu przeniesienia sędziego Sądu Najwyższego w stan spoczynku rozpoznaje:
-1) w pierwszej instancji - Sąd Najwyższy w składzie 1 sędziego Izby Dyscyplinarnej;
-2) w drugiej instancji - Sąd Najwyższy w składzie 3 sędziów Izby Dyscyplinarnej.
+**Art. 79.** Sprawy z zakresu prawa pracy i ubezpieczeń społecznych dotyczące sędziów Sądu Najwyższego rozpoznaje:
+1) w pierwszej instancji - Sąd Najwyższy w składzie 1 sędziego orzekającego w Izbie Odpowiedzialności Zawodowej;
+2) w drugiej instancji - Sąd Najwyższy w składzie 3 sędziów orzekających w Izbie Odpowiedzialności Zawodowej.
 
 **Art. 80.**
 § 1. Przydziału spraw i wyznaczenia składu orzekającego dokonuje Prezes Sądu Najwyższego kierujący pracą danej izby.
@@ -668,20 +792,18 @@
 § 1. Nadzór nad przetwarzaniem danych osobowych w postępowaniach sądowych wykonuje Krajowa Rada Sądownictwa.
 § 2. Do nadzoru, o którym mowa w § 1, przepisy art. 175dd § 2 i 3 oraz działu I rozdziału 5a ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych stosuje się odpowiednio.
 
-## Rozdział 9 — Kancelaria Pierwszego Prezesa Sądu Najwyższego, Kancelaria Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej oraz Biuro Studiów i Analiz Sądu Najwyższego
+## Rozdział 9 — Kancelaria Pierwszego Prezesa Sądu Najwyższego oraz Biuro Studiów i Analiz Sądu Najwyższego
 
 **Art. 98.**
-§ 1. W Sądzie Najwyższym działa Kancelaria Pierwszego Prezesa Sądu Najwyższego, Kancelaria Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej oraz Biuro Studiów i Analiz Sądu Najwyższego.
+§ 1. W Sądzie Najwyższym działa Kancelaria Pierwszego Prezesa Sądu Najwyższego oraz Biuro Studiów i Analiz Sądu Najwyższego.
 § 2. Regulamin Kancelarii Pierwszego Prezesa Sądu Najwyższego oraz Biura Studiów i Analiz Sądu Najwyższego określa Pierwszy Prezes Sądu Najwyższego po zasięgnięciu opinii Kolegium Sądu Najwyższego.
-§ 3. Regulamin Kancelarii Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej określa Prezes kierujący pracą tej izby, po zasięgnięciu opinii Kolegium Sądu Najwyższego.
+§ 3. (uchylony)
 
 **Art. 99.**
 § 1. Kancelaria Pierwszego Prezesa Sądu Najwyższego wykonuje zadania związane z wykonywaniem przez Pierwszego Prezesa Sądu Najwyższego czynności w zakresie funkcjonowania Sądu Najwyższego, w szczególności w zakresie spraw finansowych, kadrowych i administracyjno-gospodarczych.
 § 2. Kancelarią Pierwszego Prezesa Sądu Najwyższego kieruje Szef Kancelarii Pierwszego Prezesa Sądu Najwyższego, którego powołuje i odwołuje Pierwszy Prezes Sądu Najwyższego.
 
-**Art. 100.**
-§ 1. Kancelaria Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej wykonuje zadania związane z wykonywaniem czynności przez Prezesa kierującego pracą tej izby w zakresie jej funkcjonowania, w szczególności w zakresie spraw finansowych, kadrowych i administracyjno-gospodarczych.
-§ 2. Kancelarią Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej kieruje Szef Kancelarii Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej, którego powołuje i odwołuje Prezes kierujący pracą tej izby.
+**Art. 100.** (uchylony)
 
 **Art. 101.**
 § 1. Biuro Studiów i Analiz Sądu Najwyższego wykonuje w szczególności zadania związane z pełnieniem przez Pierwszego Prezesa Sądu Najwyższego oraz Sąd Najwyższy funkcji związanych z pieczą nad zgodnością z prawem i jednolitością orzecznictwa sądów powszechnych i wojskowych oraz oceną spójności i jednolitości prawa stosowanego przez sądy, w tym w zakresie orzecznictwa dyscyplinarnego.
@@ -689,7 +811,7 @@
 
 **Art. 102.**
 § 1. Czynności w sprawach z zakresu prawa pracy dokonuje Pierwszy Prezes Sądu Najwyższego lub upoważniona przez niego osoba.
-§ 2. Czynności w sprawach z zakresu prawa pracy w stosunku do osób wykonujących czynności służbowe w Kancelarii Prezesa Sądu Najwyższego kierującego pracą Izby Dyscyplinarnej dokonuje Prezes kierujący pracą tej izby lub upoważniona przez niego osoba.
+§ 2. (uchylony)
 
 **Art. 103.**
 § 1. (uchylony)
