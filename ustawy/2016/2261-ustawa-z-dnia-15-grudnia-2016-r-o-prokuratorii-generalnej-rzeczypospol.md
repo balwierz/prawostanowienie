@@ -184,7 +184,7 @@
 1. W przypadku wystąpienia do Prezesa Prokuratorii Generalnej o rozstrzygnięcie sporu, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2018 r. poz. 2363 oraz z 2019 r. poz. 1309), Prezes Prokuratorii Generalnej powołuje Komisję Rozjemczą przy Sądzie Polubownym złożoną z pięciu członków.
 2. W skład Komisji Rozjemczej przy Sądzie Polubownym wchodzi przedstawiciel:
   1) Prezesa Rady Ministrów;
-  2) ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa;
+  2) ministra właściwego do spraw rozwoju regionalnego;
   3) ministra nadzorującego jednostkę będącą w sporze z Krajowym Zasobem Nieruchomości;
   4) wojewody właściwego dla miejsca położenia spornej nieruchomości;
   5) Prezesa Prokuratorii Generalnej.
