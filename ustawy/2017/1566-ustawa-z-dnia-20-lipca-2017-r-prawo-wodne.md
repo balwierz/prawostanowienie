@@ -119,7 +119,7 @@
 4. Właściwy dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego w stosunku do dyrektorów zarządów zlewni Wód Polskich w sprawach określonych ustawą.
 5. Właściwy dyrektor zarządu zlewni Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego w stosunku do kierowników nadzorów wodnych Wód Polskich w sprawach określonych ustawą.
 6. W sprawach należących do zakresu działania Wód Polskich organem właściwym w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego jest:
-  1) dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich - w sprawach decyzji, o których mowa w art. 76 ust. 2, art. 77 ust. 3, 8, 11 i 14, art. 166 ust. 5, art. 175 ust. 1, art. 176 ust. 4 i 9, art. 182 ust. 1, art. 199 ust. 4, art. 201 ust. 1, art. 202 ust. 1, art. 206 oraz w art. 343 ust. 2, 3 i 6;
+  1) dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich - w sprawach decyzji, o których mowa w art. 76 ust. 2, art. 77 ust. 3, 8, 11 i 14, art. 166 ust. 5, art. 175 ust. 1, art. 176 ust. 4 i 9, art. 182 ust. 1, art. 199 ust. 4, art. 201 ust. 1, art. 202 ust. 1, art. 206, art. 343 ust. 2, 3 i 6 oraz w art. 472a ust. 2;
   2) dyrektor zarządu zlewni Wód Polskich - w sprawach decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 281 ust. 7, art. 310 ust. 7 oraz w art. 311 ust. 6;
   3) kierownik nadzoru wodnego Wód Polskich - w sprawach decyzji, o których mowa w art. 232 ust. 4, art. 394 ust. 2 oraz w art. 424 ust. 1.
 
@@ -899,7 +899,7 @@
 ### Rozdział 3 — Oczyszczanie ścieków komunalnych
 
 **Art. 86.**
-1. Aglomeracje o równoważnej liczbie mieszkańców powyżej 2000 powinny być wyposażone w systemy kanalizacji zbiorczej dla ścieków komunalnych.
+1. Aglomeracje o równoważnej liczbie mieszkańców co najmniej 2000 powinny być wyposażone w systemy kanalizacji zbiorczej dla ścieków komunalnych.
 2. Jeżeli oczyszczanie ścieków bytowych lub ścieków komunalnych z aglomeracji odbywa się w oczyszczalni ścieków przemysłowych, to te ścieki, wprowadzane do wód lub do ziemi, nie powinny przekraczać najwyższych dopuszczalnych wartości wskaźników zanieczyszczeń albo powinny spełniać minimalny procent redukcji substancji zanieczyszczających określone dla równoważnej liczby mieszkańców aglomeracji oraz nie powinny przekraczać najwyższych dopuszczalnych wartości wskaźników substancji zanieczyszczających dla ścieków przemysłowych, określonych w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2 i 3.
 3. Ilekroć w niniejszym rozdziale jest mowa o:
   1) aglomeracji - należy przez to rozumieć teren, na którym zaludnienie lub działalność gospodarcza są wystarczająco skoncentrowane, aby ścieki komunalne były zbierane i przekazywane do oczyszczalni ścieków albo do końcowego punktu zrzutu tych ścieków;
@@ -907,13 +907,31 @@
   3) końcowym punkcie zrzutu ścieków komunalnych - należy przez to rozumieć miejsce przyłączenia systemu kanalizacji zbiorczej dla ścieków komunalnych w aglomeracji nieposiadającej oczyszczalni ścieków do systemu kanalizacji zbiorczej dla ścieków komunalnych w aglomeracji posiadającej oczyszczalnię ścieków.
 
 **Art. 87.**
-1. Aglomeracje wyznacza, w drodze uchwały będącej aktem prawa miejscowego, rada gminy.
+1. Aglomeracje, o których mowa w art. 86 ust. 1, wyznacza rada gminy, w drodze uchwały będącej aktem prawa miejscowego.
 2. Jeżeli aglomeracja ma obejmować tereny położone w dwóch lub więcej gminach, właściwa do wyznaczenia aglomeracji jest rada gminy o największej równoważnej liczbie mieszkańców.
-3. W celu wyznaczenia aglomeracji, o której mowa w ust. 2, zainteresowane gminy zawierają porozumienie.
+3. W celu wyznaczenia aglomeracji, o której mowa w ust. 2, i ustalenia sposobu jej funkcjonowania zainteresowane gminy zawierają porozumienie, w którym w szczególności określają:
+  1) sposób przekazywania informacji i dokumentów na potrzeby realizacji obowiązków, o których mowa w art. 89 ust. 1 i art. 96a ust. 1;
+  2) gminę właściwą zgodnie z art. 93 ust. 1 do prowadzenia działań w ramach krajowego programu oczyszczania ścieków komunalnych oraz właściwą do dokonywania przeglądu obszarów i granic aglomeracji zgodnie z art. 92;
+  3) zasady dotyczące partycypacji w kosztach związanych z funkcjonowaniem aglomeracji.
 4. Wyznaczenie aglomeracji następuje po uzgodnieniu przez wójta, burmistrza lub prezydenta miasta z Wodami Polskimi, a w zakresie obszarów objętych przynajmniej jedną formą ochrony przyrody, o której mowa w art. 6 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, lub obszarów mających znaczenie dla Wspólnoty znajdujących się na liście, o której mowa w art. 27 ust. 1 tej ustawy - z właściwym regionalnym dyrektorem ochrony środowiska. Do uzgodnienia przepisy art. 106 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego stosuje się odpowiednio.
+5. Wody Polskie odmawiają uzgodnienia, o którym mowa w ust. 4, gdy aglomeracja nie spełnia któregokolwiek z warunków określonych w art. 87a lub warunków określonych w przepisach wydanych na podstawie art. 95 ust. 1 lub art. 99 ust. 1.
+6. Do zmiany obszaru, granic i równoważnej liczby mieszkańców aglomeracji stosuje się odpowiednio przepisy dotyczące wyznaczania aglomeracji, z tym wyjątkiem, że Wody Polskie mogą dokonać uzgodnienia, o którym mowa w ust. 4, mimo braku spełnienia przez aglomerację któregokolwiek z warunków określonych w art. 87a, jeżeli zmiana aglomeracji ma na celu zmniejszenie stopnia naruszenia przez aglomerację któregokolwiek z warunków, o których mowa w art. 87a.
+7. Do zniesienia aglomeracji stosuje się odpowiednio przepisy dotyczące jej wyznaczania, z wyjątkiem ust. 5.
+8. W przypadku zmiany obszaru lub granic aglomeracji albo jej zniesienia wójt, burmistrz lub prezydent miasta, dokonując z Wodami Polskimi uzgodnienia, o którym mowa w ust. 4, przekazuje im:
+  1) opis rozwiązania problemu gospodarki ściekowej na terenach, które zostaną wyłączone z obszaru aglomeracji;
+  2) szczegółową informację dotyczącą pomocy finansowej na realizację przedsięwzięcia w zakresie budowy, rozbudowy i modernizacji urządzeń kanalizacyjnych ze środków budżetu państwa oraz ze środków pochodzących z funduszy Unii Europejskiej otrzymanej w okresie 5 lat od zrealizowania przedsięwzięcia ujętego w zestawieniu, o którym mowa w art. 88 ust. 1.
+9. Aglomeracje wyznaczone na podstawie ust. 1, w których nastąpiło zmniejszenie równoważnej liczby mieszkańców poniżej 2000, mogą nie podlegać zniesieniu, jeżeli przedsięwzięcie planowane, realizowane lub zrealizowane na ich obszarze zostało ujęte w zestawieniu niezbędnych przedsięwzięć w zakresie budowy, rozbudowy i modernizacji urządzeń kanalizacyjnych, o którym mowa w art. 88 ust. 1, przez okres planowania, realizacji i 5 lat po zrealizowaniu tego przedsięwzięcia.
+
+**Art. 87a.** Aglomeracja wyznaczona na podstawie art. 87 ust. 1 powinna spełniać następujące warunki:
+1) być wyposażona w sieć kanalizacyjną gwarantującą zbieranie co najmniej 98% ładunku zanieczyszczeń z obszaru aglomeracji wyrażonego w równoważnej liczbie mieszkańców;
+2) ładunek zanieczyszczeń niezebrany siecią kanalizacyjną, o której mowa w pkt 1:
+  a) w przypadku gdy stanowi nie więcej niż 2% ładunku zanieczyszczeń z obszaru aglomeracji - jest mniejszy niż 2000 równoważnej liczby mieszkańców oraz
+  b) jest oczyszczany w innych systemach oczyszczania ścieków, zapewniających taki sam poziom ochrony środowiska jak dla całej aglomeracji;
+3) zapewniać wydajność oczyszczalni ścieków pozwalającą odebrać całość ładunku zanieczyszczeń powstających w aglomeracji wyrażonego w równoważnej liczbie mieszkańców oraz
+4) stosować technologię oczyszczania ścieków z aglomeracji gwarantującą osiągnięcie wymaganych przepisami powszechnie obowiązującymi standardów oczyszczania ścieków dla oczyszczalni ścieków w aglomeracji o określonej wielkości wyrażonej równoważną liczbą mieszkańców.
 
 **Art. 88.**
-1. Krajowy program oczyszczania ścieków komunalnych, którego integralną część stanowi wykaz aglomeracji oraz wykaz niezbędnych przedsięwzięć w zakresie budowy i modernizacji urządzeń kanalizacyjnych, sporządza i aktualizuje minister właściwy do spraw gospodarki wodnej, a zatwierdza Rada Ministrów.
+1. Krajowy program oczyszczania ścieków komunalnych, którego integralną część stanowi wykaz aglomeracji o równoważnej liczbie mieszkańców wynoszącej co najmniej 2000 zawierający zestawienie niezbędnych przedsięwzięć w zakresie budowy, rozbudowy i modernizacji urządzeń kanalizacyjnych, sporządza i aktualizuje minister właściwy do spraw gospodarki wodnej we współpracy z Wodami Polskimi, a zatwierdza Rada Ministrów.
 2. Krajowy program oczyszczania ścieków komunalnych określa dla przedsięwzięć, o których mowa w ust. 1, w szczególności:
   1) zakres rzeczowo-finansowy;
   2) termin zakończenia.
@@ -922,19 +940,28 @@
 1. Gminy przedkładają Wodom Polskim corocznie, nie później niż do dnia 28 lutego, sprawozdania z realizacji krajowego programu oczyszczania ścieków komunalnych za rok ubiegły, zawierające informacje o:
   1) stanie wyposażenia aglomeracji w systemy kanalizacji zbiorczej, oczyszczalnie ścieków komunalnych oraz indywidualne systemy oczyszczania ścieków;
   2) postępie realizacji przedsięwzięć określonych w krajowym programie oczyszczania ścieków komunalnych;
-  3) ilości wytworzonych w ciągu roku Mg suchej masy osadów ściekowych w oczyszczalniach ścieków komunalnych w aglomeracji oraz o sposobie zagospodarowania tych osadów.
+  3) ilości wytworzonych w ciągu roku Mg suchej masy osadów ściekowych w oczyszczalniach ścieków komunalnych w aglomeracji oraz o sposobie zagospodarowania tych osadów;
+  4) ilości ścieków wytworzonych na obszarze aglomeracji oraz jakości ścieków oczyszczonych i odprowadzonych do wód lub do ziemi.
+1a. W przypadku gdy gmina nie przekaże sprawozdania z realizacji krajowego programu oczyszczania ścieków komunalnych za rok ubiegły w terminie, o którym mowa w ust. 1, Wody Polskie wzywają gminę do jego przekazania w terminie 7 dni od dnia otrzymania wezwania, jednocześnie informując gminę o sankcji za naruszenie tego obowiązku.
 2. Wody Polskie w terminie do dnia 31 grudnia każdego roku zamieszczają na stronie podmiotowej Biuletynu Informacji Publicznej wzór sprawozdania z realizacji krajowego programu oczyszczania ścieków komunalnych wraz z informacjami o sposobie przekazania tego sprawozdania.
 
 **Art. 90.**
 1. Wody Polskie dokonują analizy sprawozdań, o których mowa w art. 89 ust. 1, oraz przekazują gminie informację o wynikach tej analizy.
-2. Jeżeli na podstawie wyników analizy, o której mowa w ust. 1, zostanie ustalone, że sprawozdania, o których mowa w art. 89 ust. 1, zawierają dane nieprawdziwe lub niekompletne, Wody Polskie wzywają gminy do przekazania uzupełnionych sprawozdań.
-3. Uzupełnione sprawozdania gminy przekazują Wodom Polskim w terminie 14 dni od dnia wezwania.
+2. Jeżeli na podstawie wyników analizy, o której mowa w ust. 1, zostanie ustalone, że sprawozdanie, o którym mowa w art. 89 ust. 1, zawiera dane nieprawdziwe lub niekompletne, Wody Polskie wzywają gminę do przekazania poprawionego lub uzupełnionego sprawozdania w terminie 14 dni od dnia otrzymania wezwania.
+3. Jeżeli gmina nie przekaże Wodom Polskim poprawionego lub uzupełnionego sprawozdania, o którym mowa w art. 89 ust. 1, w terminie, o którym mowa w ust. 2, Wody Polskie ponownie wzywają gminę do przekazania poprawionego lub uzupełnionego sprawozdania w terminie 7 dni od dnia otrzymania ponownego wezwania, jednocześnie informując gminę o sankcji za naruszenie tego obowiązku.
+4. Jeżeli na podstawie wyników analizy, o której mowa w ust. 1, zostanie ustalone, że wystąpiły istotne zmiany w aglomeracji lub zmiany uzasadniające zniesienie aglomeracji, w szczególności w zakresie równoważnej liczby mieszkańców aglomeracji, Wody Polskie wzywają właściwą gminę do dokonania niezwłocznej zmiany uchwały wyznaczającej aglomerację w zakresie zaistniałych zmian lub do zniesienia aglomeracji.
 
 **Art. 91.** Wody Polskie przedkładają ministrowi właściwemu do spraw gospodarki wodnej corocznie, w terminie do dnia 30 czerwca, sprawozdanie z realizacji krajowego programu oczyszczania ścieków komunalnych.
 
 **Art. 92.** Wójt, burmistrz lub prezydent miasta co 2 lata dokonuje przeglądu obszarów i granic aglomeracji wyznaczonych na podstawie art. 87 ust. 1, z uwzględnieniem kryterium ich utworzenia, o którym mowa w art. 86 ust. 1, oraz zaistniałych zmian równoważnej liczby mieszkańców w aglomeracji i w razie potrzeby informuje radę gminy o konieczności zmiany obszarów i granic aglomeracji.
 
-**Art. 93.** Sprawy związane z przygotowaniem i przekazywaniem dokumentacji dotyczącej działań prowadzonych w ramach krajowego programu oczyszczania ścieków komunalnych, w szczególności przedkładanie informacji, o których mowa w art. 89 ust. 1, w aglomeracji zlokalizowanej na obszarze dwóch lub więcej gmin prowadzi gmina o największej równoważnej liczbie mieszkańców.
+**Art. 93.**
+1. Sprawy związane z przygotowaniem i przekazywaniem dokumentacji dotyczącej działań prowadzonych w ramach krajowego programu oczyszczania ścieków komunalnych, w szczególności przedkładanie sprawozdania, o którym mowa w art. 89 ust. 1, i ankiet, o których mowa w art. 96a ust. 1, w aglomeracji zlokalizowanej na obszarze dwóch lub więcej gmin prowadzi gmina o największej równoważnej liczbie mieszkańców w granicach aglomeracji w porozumieniu z pozostałymi gminami, o których mowa w art. 87 ust. 3.
+2. Sprawy dotyczące działań prowadzonych w ramach krajowego programu oczyszczania ścieków komunalnych prowadzi regionalny zarząd gospodarki wodnej Wód Polskich, na którego obszarze właściwości znajduje się gmina lub jej część o największej równoważnej liczbie mieszkańców w danej aglomeracji.
+3. W przypadku gdy aglomeracja obejmuje obszar właściwości dwóch lub więcej regionalnych zarządów gospodarki wodnej Wód Polskich, sprawy dotyczące działań prowadzonych w ramach krajowego programu oczyszczania ścieków komunalnych dla tej aglomeracji prowadzi tylko regionalny zarząd gospodarki wodnej Wód Polskich, ustalony zgodnie z ust. 2, i informuje pozostałe właściwe w sprawie regionalne zarządy gospodarki wodnej Wód Polskich o tych sprawach.
+4. Informacje, o których mowa w ust. 3, dotyczą:
+  1) dokonanych uzgodnień, o których mowa w art. 87 ust. 4;
+  2) podjętych czynności, o których mowa w art. 90.
 
 **Art. 94.** Minister właściwy do spraw gospodarki wodnej przedkłada co 2 lata Radzie Ministrów sprawozdanie z wykonania krajowego programu oczyszczania ścieków komunalnych.
 
@@ -942,7 +969,16 @@
 1. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw administracji publicznej oraz ministrem właściwym do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, oraz ministrem właściwym do spraw rozwoju regionalnego określi, w drodze rozporządzenia, sposób wyznaczania obszarów i granic aglomeracji.
 2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw gospodarki wodnej bierze pod uwagę koszty rozwoju i eksploatacji systemów kanalizacji zbiorczej oraz gęstość zaludnienia.
 
-**Art. 96.** Aktualizacji krajowego programu oczyszczania ścieków komunalnych dokonuje się co najmniej raz na 4 lata.
+**Art. 96.**
+1. Aktualizacji krajowego programu oczyszczania ścieków komunalnych dokonuje się co najmniej raz na 4 lata.
+2. Wody Polskie przekazują ministrowi właściwemu do spraw gospodarki wodnej wstępny projekt aktualizacji krajowego programu oczyszczania ścieków komunalnych, opracowany w szczególności na podstawie ankiet, o których mowa w art. 96a ust. 1.
+
+**Art. 96a.**
+1. Na potrzeby aktualizacji krajowego programu oczyszczania ścieków komunalnych właściwa gmina, na której obszarze została wyznaczona aglomeracja, przekazuje Wodom Polskim na ich wniosek, w terminie 30 dni od dnia otrzymania wniosku, wypełnione ankiety w postaci elektronicznej opatrzonej kwalifikowanym podpisem elektronicznym, a także w wersji edytowalnej, zawierające informacje, o których mowa w art. 89 ust. 1, według stanu z dnia wskazanego we wniosku, oraz o planowanych niezbędnych przedsięwzięciach w zakresie budowy, rozbudowy lub modernizacji urządzeń kanalizacyjnych oraz źródłach finansowania tych przedsięwzięć.
+2. W przypadku gdy gmina nie przekaże ankiety w terminie, o którym mowa w ust. 1, Wody Polskie wzywają gminę do jej przekazania w terminie 7 dni od dnia otrzymania wezwania, jednocześnie informując gminę o sankcji za naruszenie tego obowiązku.
+3. W przypadku gdy ankieta zawiera dane nieprawdziwe lub niekompletne, Wody Polskie wzywają gminę, która przekazała ankietę, do jej poprawienia lub uzupełnienia w terminie 14 dni od dnia otrzymania wezwania.
+4. Jeżeli gmina nie przekaże poprawionej lub uzupełnionej ankiety Wodom Polskim w terminie, o którym mowa w ust. 3, Wody Polskie ponownie wzywają gminę do przekazania poprawionej lub uzupełnionej ankiety w terminie 7 dni od dnia otrzymania ponownego wezwania, jednocześnie informując gminę o sankcji za naruszenie tego obowiązku.
+5. Wody Polskie zamieszczają na swojej stronie podmiotowej Biuletynu Informacji Publicznej wzór ankiety na potrzeby aktualizacji krajowego programu oczyszczania ścieków komunalnych wraz z informacjami o sposobie przekazania tej ankiety, w szczególności jej formie.
 
 **Art. 97.** Minister właściwy do spraw gospodarki wodnej ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, krajowy program oczyszczania ścieków komunalnych oraz jego aktualizacje.
 
@@ -2514,7 +2550,10 @@
     b) zgód wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 1, 3 i 4;
   2) opiniują projekty uchwał, o których mowa w art. 37 ust. 2;
   3) weryfikują wpływ istniejących urządzeń wodnych i udzielonych zgód wodnoprawnych na warunki bytowania i wędrówki gatunków zwierząt wodnych o znaczeniu gospodarczym;
-  4) analizują sprawozdania, o których mowa w art. 89 ust. 1;
+  4) analizują sprawozdania, o których mowa w art. 89 ust. 1, oraz przekazują gminom informacje o wynikach analizy;
+  4a) uzgadniają projekty uchwał, o których mowa w art. 87 ust. 1;
+  4b) wzywają gminy do podjęcia działań, o których mowa w art. 89 ust. 1a, art. 90 ust. 2-4 oraz art. 96a ust. 2-4;
+  4c) prowadzą sprawy dotyczące administracyjnych kar pieniężnych, o których mowa w art. 472a;
   5) uzgadniają projekty aktów prawa miejscowego, o których mowa w art. 135 ust. 1 pkt 2 i ust. 2 oraz w art. 162;
   5a) występują z wnioskiem o ustanowienie obszaru ochronnego, o którym mowa w art. 141 ust. 1;
   6) współuczestniczą w zapewnieniu ochrony ludności i mienia przed powodzią i przeciwdziałaniu skutkom suszy, na poziomie regionów wodnych;
@@ -2540,6 +2579,8 @@
   26) podejmują działania mające na celu zapewnienie na potrzeby ludności, przemysłu oraz rolnictwa wody w odpowiedniej ilości i jakości;
   27) pełnią funkcję organu regulacyjnego, o którym mowa w art. 27a ust. 1 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2017 r. poz. 328, 1566 i 2180);
   28) prowadzą system informacyjny gospodarowania wodami, o którym mowa w art. 329, oraz udostępniają gromadzone w tym systemie dane.
+  29) współpracują z Krajowym Zarządem Gospodarki Wodnej w zakresie opracowywania krajowego programu oczyszczania ścieków komunalnych i jego aktualizacji;
+  30) opiniują wieloletnie plany rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych, o których mowa w art. 21 ust. 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków.
 4. Zarządy zlewni wykonują następujące zadania Wód Polskich:
   1) z uwzględnieniem przepisów art. 397 ust. 3 prowadzą sprawy dotyczące:
     a) decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 237 ust. 3, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 281 ust. 7, art. 310 ust. 7 oraz art. 311 ust. 6,
@@ -2560,7 +2601,7 @@
   13) utrzymują śródlądowe drogi wodne;
   14) programują, planują i nadzorują wykonywanie urządzeń melioracji wodnych w trybie, o którym mowa w art. 199 ust. 2;
   15) prowadzą ewidencje, o których mowa w art. 194 ust. 2, art. 196 ust. 1 i art. 302 ust. 1, oraz udostępniają dane zawarte w tych ewidencjach;
-  16) uzgadniają projekty uchwał, o których mowa w art. 87 ust. 1;
+  16) (uchylony)
   17) dokonują uzgodnienia, o którym mowa w art. 53 ust. 4 pkt 6 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2017 r. poz. 1073 i 1566 oraz z 2018 r. poz. 1496 i 1544), w zakresie melioracji wodnych;
   18) prowadzą sprawy dotyczące powiadomień, o których mowa w art. 395a ust. 1 pkt 1, w przypadku robót, czynności lub urządzeń wodnych wykonywanych przez podmioty inne niż Wody Polskie.
 5. Nadzory wodne, z uwzględnieniem przepisów art. 397 ust. 3, wykonują następujące zadania Wód Polskich:
@@ -2576,7 +2617,7 @@
   10) dokonują odczytu wskazań przyrządów pomiarowych, stosownie do art. 272 ust. 14 i art. 275 ust. 10.
 6. Wody Polskie mogą wykonywać działalność gospodarczą na zasadach określonych w przepisach ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców, polegającą na wykonywaniu działań w zakresie gospodarki wodnej obejmujących:
   1) projektowanie, wykonywanie, utrzymywanie i eksploatację urządzeń wodnych;
-  2) wytwarzanie energii w elektrowniach wodnych;
+  2) wytwarzanie energii elektrycznej w instalacjach odnawialnych źródeł energii, o których mowa w art. 2 pkt 13 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii;
   3) prowadzenie działalności edukacyjnej i turystycznej związanej z gospodarką wodną;
   4) świadczenie usług w zakresie towarowego i pasażerskiego transportu wodnego;
   5) inną działalność związaną z gospodarką wodną, z wyłączeniem działalności gospodarczej w zakresie zbiorowego zaopatrzenia w wodę i zbiorowego odprowadzania ścieków.
@@ -4024,7 +4065,7 @@
 5. W ramach prowadzonej kontroli wewnętrznej organizator kąpieliska:
   1) ustala do dnia 1 czerwca w porozumieniu z właściwym państwowym powiatowym lub państwowym granicznym inspektorem sanitarnym harmonogram pobrania próbek wody z kąpieliska w sezonie kąpielowym, zwany dalej „harmonogramem pobrania próbek”;
   2) systematycznie wizualnie nadzoruje wodę w kąpielisku i wodę zasilającą kąpielisko pod kątem występowania zanieczyszczeń niekorzystnie wpływających na jakość wody i stanowiących zagrożenie dla zdrowia kąpiących się osób;
-  3) pobiera próbki wody w kąpielisku w punktach ustalonych z właściwym państwowym powiatowym lub państwowym granicznym inspektorem sanitarnym;
+  3) pobiera próbki wody w kąpielisku w punktach ustalonych z właściwym państwowym powiatowym lub państwowym granicznym inspektorem sanitarnym nie później niż 4 dni po terminie wyznaczonym w harmonogramie pobrania próbek;
   4) pobiera dodatkowe próbki wody w kąpielisku w terminie 7 dni po ustaniu krótkotrwałego zanieczyszczenia;
   5) wykonuje badania wody z kąpieliska w zakresie określonym w przepisach wydanych na podstawie art. 48 ust. 1 pkt 2 i metodami określonymi w przepisach wydanych na podstawie art. 48 ust. 1 pkt 3;
   6) dokumentuje i przekazuje państwowemu powiatowemu lub państwowemu granicznemu inspektorowi sanitarnemu wyniki badania wody w przypadku:
@@ -4563,7 +4604,8 @@
   9) wykonanie stawów, które nie są napełniane w ramach usług wodnych, ale wyłącznie wodami opadowymi lub roztopowymi, lub wodami gruntowymi o powierzchni nieprzekraczającej 5000 m2 oraz głębokości nieprzekraczającej 3 m od naturalnej powierzchni terenu, o zasięgu oddziaływania niewykraczającym poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na wykonanie stawu;
   10) przebudowa rowu polegająca na wykonaniu przepustu lub innego przekroju zamkniętego na długości nie większej niż 10 m;
   11) przebudowa lub odbudowa urządzeń odwadniających zlokalizowanych w pasie drogowym dróg publicznych, obszarze kolejowym, na lotniskach lub lądowiskach;
-  12) wydobywanie kamienia, żwiru, piasku, innych materiałów z wód w związku z utrzymywaniem wód, śródlądowych dróg wodnych oraz remontem urządzeń wodnych, wykonywane w ramach obowiązków właściciela wód.
+  12) wydobywanie kamienia, żwiru, piasku, innych materiałów z wód w związku z utrzymywaniem wód, śródlądowych dróg wodnych oraz remontem urządzeń wodnych, wykonywane w ramach obowiązków właściciela wód;
+  13) wykonanie urządzeń wodnych służących do wprowadzania do ziemi ścieków oczyszczonych w przydomowej oczyszczalni ścieków na potrzeby zwykłego korzystania z wód.
 2. Jeżeli realizacja dwóch lub więcej przedsięwzięć, o których mowa w ust. 1 pkt 1, 9 i 10, skutkuje przekroczeniem parametrów określonych dla tych przedsięwzięć, organ właściwy w sprawach zgłoszeń wodnoprawnych orzeka, w drodze decyzji, o obowiązku uzyskania pozwolenia wodnoprawnego.
 3. Dokonując zgłoszenia, o którym mowa w ust. 1 pkt 1, 9 i 10, bierze się pod uwagę parametry skumulowane z innymi planowanymi, realizowanymi oraz zrealizowanymi przedsięwzięciami.
 4. Jeżeli przedsięwzięcie obejmuje działania wymagające uzyskania pozwolenia wodnoprawnego i zgłoszenia wodnoprawnego, wniosek o wydanie pozwolenia wodnoprawnego i zgłoszenie wodnoprawne rozpatruje się w ramach jednego postępowania zakończonego wydaniem pozwolenia wodnoprawnego.
@@ -5314,6 +5356,38 @@
 **Art. 472.**
 1. W sprawie naprawienia szkód będących skutkiem okoliczności określonych w art. 222 ust. 3 i art. 223 ust. 1 stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny, z tym że odszkodowanie obejmuje także koszty sporządzenia projektu, o którym mowa w art. 220 ust. 6.
 2. Roszczenie o naprawienie szkody przedawnia się z upływem 2 lat od dnia wystąpienia szkody.
+
+## Dział XIa — Administracyjne kary pieniężne
+
+**Art. 472a.**
+1. Administracyjnej karze pieniężnej podlega, kto wbrew:
+  1) przepisowi art. 89 ust. 1a nie przekazuje Wodom Polskim sprawozdania z realizacji krajowego programu oczyszczania ścieków komunalnych w terminie 7 dni od dnia otrzymania wezwania, o którym mowa w art. 89 ust. 1a;
+  2) przepisowi art. 90 ust. 3 nie przekazuje Wodom Polskim poprawionego lub uzupełnionego sprawozdania z realizacji krajowego programu oczyszczania ścieków komunalnych w terminie 7 dni od dnia otrzymania ponownego wezwania, o którym mowa w art. 90 ust. 3;
+  3) przepisowi art. 96a ust. 2 nie przekazuje Wodom Polskim ankiety na potrzeby aktualizacji krajowego programu oczyszczania ścieków komunalnych w terminie 7 dni od dnia otrzymania wezwania, o którym mowa w art. 96a ust. 2;
+  4) przepisowi art. 96a ust. 4 nie przekazuje Wodom Polskim poprawionej lub uzupełnionej ankiety na potrzeby aktualizacji krajowego programu oczyszczania ścieków komunalnych w terminie 7 dni od dnia otrzymania ponownego wezwania, o którym mowa w art. 96a ust. 4.
+2. Administracyjną karę pieniężną, o której mowa w ust. 1, wymierza, w drodze decyzji, organ Wód Polskich właściwy w sprawach aglomeracji.
+3. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, wynosi do 10 000 zł.
+4. Wpływy z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, stanowią dochód Wód Polskich.
+
+**Art. 472b.**
+1. W przypadku gdy aglomeracja nie spełnia warunków, o których mowa w art. 87a, gmina za to odpowiedzialna podlega administracyjnej karze pieniężnej.
+2. W przypadku aglomeracji zlokalizowanej na obszarze dwóch lub więcej gmin administracyjną karę pieniężną, o której mowa w ust. 1, ponoszą gminy wchodzące w skład aglomeracji proporcjonalnie do wielkości równoważnej liczby mieszkańców danej gminy w aglomeracji powodującej niespełnienie warunków, o których mowa w art. 87a.
+3. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, wynosi do 200 zł za każdą równoważną liczbę mieszkańców odpowiadającą ładunkowi zanieczyszczeń z obszaru aglomeracji:
+  1) który nie jest zbierany przez sieć kanalizacyjną tej aglomeracji i który:
+    a) przekracza 2% ładunku zanieczyszczeń z obszaru aglomeracji - w przypadku warunku, o którym mowa w art. 87a pkt 1, lub
+    b) wynosi 2000 równoważnej liczby mieszkańców i więcej - w przypadku warunku, o którym mowa w art. 87a pkt 2 lit. a, lub
+    c) nie jest oczyszczany w systemach oczyszczania ścieków zapewniających ten sam poziom ochrony środowiska jak dla całej aglomeracji - w przypadku warunku, o którym mowa w art. 87a pkt 2 lit. b;
+  2) który przekracza liczbę równoważną liczbie mieszkańców określającą wydajność oczyszczalni ścieków z aglomeracji - w przypadku warunku, o którym mowa w art. 87a pkt 3.
+4. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, za naruszenie standardów oczyszczania ścieków dla oczyszczalni ścieków w aglomeracji w przypadku naruszenia warunku, o którym mowa w art. 87a pkt 4, wynosi do 10 000 zł.
+5. Wymierzając administracyjną karę pieniężną, o której mowa w ust. 1, za naruszenie standardów oczyszczania ścieków dla oczyszczalni ścieków w aglomeracji w przypadku naruszenia warunku, o którym mowa w art. 87a pkt 4, bierze się pod uwagę przede wszystkim liczbę takich naruszeń i ich wagę.
+6. Administracyjną karę pieniężną, o której mowa w ust. 1, wymierza, w drodze decyzji, Prezes Wód Polskich.
+7. Administracyjna kara pieniężna, o której mowa w ust. 1, jest wymierzana każdego roku, za rok poprzedni, do momentu uzyskania przez aglomerację zgodności z warunkami, o których mowa w art. 87a.
+8. Wpływy z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, stanowią dochód w 90% budżetu państwa i w 10% Wód Polskich.
+
+**Art. 472c.**
+1. W decyzji o nałożeniu administracyjnej kary pieniężnej wskazuje się numer rachunku bankowego, na który uiszcza się administracyjną karę pieniężną.
+2. Administracyjną karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja, o której mowa w ust. 1, stała się ostateczna.
+3. W zakresie nieuregulowanym w niniejszej ustawie do administracyjnych kar pieniężnych, o których mowa w art. 472a ust. 1 i art. 472b ust. 1, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
 
 ## Dział XII — Przepisy karne
 
