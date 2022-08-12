@@ -850,6 +850,8 @@
 2) zakupem nieruchomości oraz budową lub dostosowaniem obiektów, niezbędnych dla rozwoju przedszkoli, szkół lub placówek;
 3) wyposażeniem przedszkoli, szkół lub placówek.
 
+**Art. 75aa.** Do udzielania dotacji celowej, o której mowa w art. 75a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+
 **Art. 75b.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 1) szczegółowe kryteria i tryb przyznawania oraz rozliczania, a także tryb przekazywania dotacji celowej, o której mowa w art. 75a,
 2) zakres informacji zawartych we wniosku o przyznanie dotacji celowej, o której mowa w art. 75a, oraz w sprawozdaniu z wykonania zadania,
