@@ -824,8 +824,8 @@
 **Art. 72.** Na realizację programów regionalnych lub lokalnych, o których mowa w art. 90t ust. 1 ustawy o systemie oświaty, jednostki samorządu terytorialnego przeznaczają środki własne, a także mogą przeznaczać środki publiczne, o których mowa w art. 5 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
 **Art. 73.**
-1. Na współfinansowanie programów, o których mowa w art. 90u ust. 1 pkt 2 i 3 ustawy o systemie oświaty, jest przyznawana dotacja celowa, po zapewnieniu udziału środków własnych jednostki samorządu terytorialnego lub organizacji, o których mowa w art. 3 ust. 2 i 3 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie, albo pozyskaniu przez tę jednostkę lub organizację środków z innych źródeł, na realizację tworzonych regionalnych lub lokalnych programów.
-2. Na współfinansowanie programów, o których mowa w art. 90u ust. 1 ustawy o systemie oświaty, mogą być przeznaczane środki zagraniczne w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2014 r. poz. 1448 i 1856, z 2015 r. poz. 1240, z 2016 r. poz. 1948 oraz z 2017 r. poz. 1566) oraz ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2017 r. poz. 1376 i 1475).
+1. Na finansowanie lub współfinansowanie programów, o których mowa w art. 90u ust. 1 ustawy o systemie oświaty, może być przyznawana dotacja celowa.
+2. Na finansowanie lub współfinansowanie programów, o których mowa w art. 90u ust. 1 ustawy o systemie oświaty, mogą być przeznaczane środki zagraniczne w rozumieniu ustawy z dnia 20 kwietnia 2004 r. o Narodowym Planie Rozwoju (Dz. U. z 2014 r. poz. 1448 i 1856, z 2015 r. poz. 1240, z 2016 r. poz. 1948 oraz z 2017 r. poz. 1566) oraz ustawy z dnia 6 grudnia 2006 r. o zasadach prowadzenia polityki rozwoju (Dz. U. z 2017 r. poz. 1376 i 1475).
 
 **Art. 73a.**
 1. Na programy i przedsięwzięcia, o których mowa w art. 90w ustawy o systemie oświaty, przeznacza się środki finansowe na oświatę i wychowanie.
@@ -835,6 +835,8 @@
   1) nazwy podmiotów, które otrzymały środki finansowe;
   2) wysokość przyznanych środków finansowych.
 5. Do przyznawania środków finansowych, o których mowa w ust. 1, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735).
+
+**Art. 73b.** W przypadku dotacji celowej, o której mowa w art. 73 ust. 1, oraz dotacji celowej udzielonej w ramach środków, o których mowa w art. 73a, przepisu art. 128 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, 1692 i 1725) nie stosuje się.
 
 ## Rozdział 10 — Inne dotacje udzielane z budżetu państwa
 
