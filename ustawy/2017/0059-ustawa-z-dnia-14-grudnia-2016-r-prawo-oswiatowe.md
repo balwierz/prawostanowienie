@@ -45,7 +45,11 @@
 11) kolegia pracowników służb społecznych.
 
 **Art. 3.**
-1. System oświaty wspierają organizacje pozarządowe, w tym organizacje harcerskie, a także osoby prawne prowadzące statutową działalność w zakresie oświaty i wychowania.
+1. System oświaty wspierają:
+  1) organizacje pozarządowe, w tym organizacje harcerskie;
+  2) instytuty badawcze;
+  3) instytucje kultury;
+  4) podmioty prowadzące statutową działalność w zakresie oświaty i wychowania.
 1a. System oświaty w zakresie kształcenia zawodowego wspierają także pracodawcy, organizacje pracodawców, samorządy gospodarcze lub inne organizacje gospodarcze, stowarzyszenia lub samorządy zawodowe, sektorowe rady do spraw kompetencji oraz Rada Programowa do spraw kompetencji, o których mowa w ustawie z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2018 r. poz. 110, 650, 1000 i 1669).
 2. Organy administracji publicznej, w tym organy prowadzące szkoły i placówki, współdziałają z podmiotami, o których mowa w ust. 1 i 1a, w wykonywaniu zadań wymienionych w art. 1.
 3. System oświaty mogą wspierać także jednostki organizacyjne Państwowej Straży Pożarnej oraz jednostki innych właściwych służb w działaniach służących podnoszeniu bezpieczeństwa dzieci i młodzieży, w tym w zakresie ochrony przeciwpożarowej.
