@@ -390,6 +390,8 @@
 4. Po ukończeniu klasy wstępnej, o której mowa w ust. 3, uczeń w kolejnym roku szkolnym kontynuuje naukę w klasie I oddziału dwujęzycznego w szkole, w której uczęszczał do klasy wstępnej.
 5. Do uczniów klasy wstępnej, o której mowa w ust. 3, nie stosuje się przepisów rozdziału 3a ustawy o systemie oświaty.
 
+**Art. 25a.** W szkołach polskich oraz szkołach i zespołach szkół przy przedstawicielstwach dyplomatycznych, urzędach konsularnych i przedstawicielstwach wojskowych Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c, mogą być organizowane oddziały dziecięce dla dzieci w wieku od 3 do 6 lat, umożliwiające naukę w języku polskim, zgodnie z programem nauki i planem nauczania dla oddziałów dziecięcych.
+
 **Art. 26.**
 1. Szkoły oraz placówki, o których mowa w art. 2 pkt 3-5, 7 i 8, realizują program wychowawczo-profilaktyczny obejmujący:
   1) treści i działania o charakterze wychowawczym skierowane do uczniów oraz
