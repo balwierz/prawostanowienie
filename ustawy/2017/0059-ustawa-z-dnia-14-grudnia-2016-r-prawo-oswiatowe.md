@@ -1338,7 +1338,8 @@
 2. W przypadku szkoły dla dzieci i młodzieży statut określa także:
   1) organizację współdziałania z poradniami psychologiczno-pedagogicznymi oraz innymi instytucjami działającymi na rzecz rodziny, dzieci i młodzieży;
   2) organizację i formy współdziałania szkoły z rodzicami w zakresie nauczania, wychowania, opieki i profilaktyki;
-  3) organizację współdziałania ze stowarzyszeniami lub innymi organizacjami w zakresie działalności innowacyjnej.
+  3) organizację współdziałania ze stowarzyszeniami lub innymi organizacjami w zakresie działalności innowacyjnej;
+  4) organizację żywienia, o którym mowa w art. 106a - w przypadku szkoły podstawowej oraz szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej.
 3. (uchylony)
 4. W przypadku szkoły dla dzieci i młodzieży cele i zadania szkoły określone w statucie uwzględniają program wychowawczo-profilaktyczny szkoły, o którym mowa w art. 26.
 
@@ -1424,6 +1425,10 @@
   1) w przypadku szczególnie trudnej sytuacji materialnej rodziny;
   2) w szczególnie uzasadnionych przypadkach losowych.
 6. Organ prowadzący szkołę może upoważnić do udzielania zwolnień, o których mowa w ust. 5, dyrektora szkoły, w której zorganizowano stołówkę.
+
+**Art. 106a.**
+1. Szkoła podstawowa, z wyjątkiem szkoły podstawowej dla dorosłych, oraz szkoła artystyczna realizująca kształcenie ogólne w zakresie szkoły podstawowej, zapewnia uczniom jeden gorący posiłek w ciągu dnia i stwarza im możliwość jego spożycia w czasie pobytu w szkole.
+2. Korzystanie z posiłku, o którym mowa w ust. 1, jest dobrowolne i odpłatne.
 
 **Art. 107.**
 1. Dla uczniów uczących się poza miejscem stałego zamieszkania szkoła, w celu zapewnienia prawidłowej realizacji zadań opiekuńczych, w szczególności wspierania prawidłowego rozwoju uczniów, może zorganizować internat.
