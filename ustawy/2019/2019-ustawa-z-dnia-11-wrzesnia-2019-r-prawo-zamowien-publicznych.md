@@ -224,7 +224,7 @@
 4. Przepisów ustawy nie stosuje się do zamówień dotyczących wytwarzania:
   1) blankietów dokumentów publicznych, o których mowa w art. 5 ust. 2 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2019 r. poz. 53, 1091 i 1716), oraz ich personalizacji lub indywidualizacji;
   2) znaków akcyzy;
-  3) znaków legalizacyjnych i nalepek kontrolnych, o których mowa w ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.);
+  3) znaków legalizacyjnych, o których mowa w ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz. U. z 2018 r. poz. 1990, z późn. zm.);
   4) kart do głosowania i nakładek na karty do głosowania, o których mowa odpowiednio w art. 40 § 1 i art. 40a § 1 ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy (Dz. U. z 2019 r. poz. 684 i 1504) oraz w art. 20 ustawy z dnia 14 marca 2003 r. o referendum ogólnokrajowym (Dz. U. z 2019 r. poz. 1444 i 1504);
   5) znaków holograficznych umieszczanych na zaświadczeniach o prawie do głosowania, o których mowa w art. 32 § 1 ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy;
   6) układu mikroprocesorowego z oprogramowaniem służącym do zarządzania dokumentami publicznymi, systemów i baz informatycznych niezbędnych do zastosowania dokumentów publicznych, o których mowa w art. 5 ust. 2 ustawy z dnia 22 listopada 2018 r. o dokumentach publicznych, zawierających warstwę elektroniczną, zgodnie z ich przeznaczeniem.
