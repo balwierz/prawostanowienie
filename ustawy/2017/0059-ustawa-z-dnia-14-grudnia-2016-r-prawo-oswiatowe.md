@@ -693,8 +693,12 @@
 **Art. 39a.**
 1. Obowiązki, o których mowa w art. 32 ust. 6 i art. 39 ust. 4, gmina spełnia poprzez zorganizowanie bezpłatnego transportu i opieki w czasie przewozu dzieci, młodzieży i uczniów we własnym zakresie albo poprzez zwrot rodzicom kosztów przewozu dzieci, młodzieży i uczniów oraz rodziców.
 2. Zwrot kosztów jednorazowego przewozu następuje w wysokości określonej według wzoru:
+   koszt = (a-b) × c
    gdzie:
-3. Średnią cenę jednostki paliwa w gminie określa na każdy rok szkolny rada gminy, w drodze uchwały, uwzględniając ceny jednostki paliwa w gminie.
+   a - liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania do przedszkola, oddziału przedszkolnego w szkole podstawowej, innej formy wychowania przedszkolnego, ośrodka rewalidacyjno-wychowawczego, szkoły podstawowej albo szkoły ponadpodstawowej, a także przewozu rodzica z tego miejsca do miejsca zamieszkania lub miejsca pracy, i z powrotem,
+   b - liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania rodzica do miejsca pracy i z powrotem, jeżeli nie wykonywałby przewozu, o którym mowa w lit. a,
+   c - stawka za 1 kilometr przebiegu pojazdu.
+3. Stawkę za 1 kilometr przebiegu pojazdu określa rada gminy, w drodze uchwały, przy czym stawka ta nie może być niższa niż określona w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 180 i 209).
 4. Zwrot kosztów przewozu, o którym mowa w ust. 1, następuje na podstawie umowy zawartej między wójtem (burmistrzem, prezydentem miasta) a rodzicami.
 5. Wójt (burmistrz, prezydent miasta) zawiera z rodzicami umowę, o której mowa w ust. 4, w terminie 14 dni od dnia uzyskania informacji, że dowożenie i opiekę zapewniają rodzice.
 6. Jeżeli rodzice powierzyli wykonywanie transportu i sprawowanie opieki w czasie przewozu innemu podmiotowi, kwotę zwrotu kosztów przewozu ustala się zgodnie z ust. 2.
