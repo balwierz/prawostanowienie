@@ -2685,6 +2685,7 @@ od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu zwi�
   3) struktura zarządzania nimi lub ich struktura własnościowa opiera się na współzarządzaniu w przypadku spółdzielni, akcjonariacie pracowniczym lub zasadach partycypacji pracowników, co wykonawca określa w swoim statucie;
   4) w ciągu ostatnich 3 lat poprzedzających dzień wszczęcia postępowania o udzielenie zamówienia na usługi społeczne i inne szczególne usługi nie udzielono im zamówienia na podstawie tego przepisu przez tego samego zamawiającego.
 2. W przypadkach, o których mowa w ust. 1, umowa w sprawie zamówienia publicznego nie może zostać zawarta na okres dłuższy niż 3 lata.
+3. Zamawiający może żądać dokumentów lub oświadczeń na potwierdzenie spełniania warunków, o których mowa w ust. 1 pkt 1-3, w szczególności zaświadczenia, o którym mowa w art. 27 ustawy z dnia 5 sierpnia 2022 r. o ekonomii społecznej (Dz. U. poz. 1812).
 
 ## Dział V — Zamówienia sektorowe
 
