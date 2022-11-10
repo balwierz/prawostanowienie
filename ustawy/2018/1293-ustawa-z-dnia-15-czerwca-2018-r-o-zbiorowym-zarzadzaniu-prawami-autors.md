@@ -440,7 +440,7 @@
   2) rozwiązywanie sporów dotyczących stosowania tabel, o których mowa w pkt 1;
   3) rozwiązywanie sporów związanych z zawarciem i warunkami umowy, o której mowa w art. 211ust. 1 ustawy o prawie autorskim i prawach pokrewnych;
   4) rozwiązywanie sporów w przypadku, gdy pomimo negocjacji, o których mowa w art. 45 ust. 5, umowa nie została zawarta.
-2. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań przed Komisją, o których mowa w ust. 1 pkt 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650). Organem wyższego stopnia w rozumieniu ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego w stosunku do Komisji jest minister.
+2. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań przed Komisją, o których mowa w ust. 1 pkt 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650). Decyzje wydane w tych postępowaniach są ostateczne.
 3. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań przed Komisją, o których mowa w ust. 1 pkt 2-4, stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 155, z późn. zm.) o mediacji.
 
 **Art. 65.**
@@ -590,17 +590,9 @@
 1. Stawki określone w zatwierdzonych tabelach wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych stosuje się w umowach, których stroną jest organizacja zbiorowego zarządzania posiadająca takie zatwierdzone tabele.
 2. W umowach, o których mowa w ust. 1, postanowienia umowne określające wynagrodzenie inne, niż wynikałoby to z zatwierdzonych tabel wynagrodzeń, są nieważne, a ich miejsce zajmują odpowiednie postanowienia tych tabel.
 
-**Art. 82.**
-1. Od decyzji Komisji w przedmiocie zatwierdzenia tabeli wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych służy odwołanie do ministra.
-2. Przewodniczący Komisji niezwłocznie ogłasza informację o wniesieniu odwołania, o którym mowa w ust. 1, w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra.
+**Art. 82.** (uchylony)
 
-**Art. 83.**
-1. Minister w wyniku rozpoznania odwołania, o którym mowa w art. 82 ust. 1, wydaje decyzję, w której:
-  1) utrzymuje w mocy zaskarżoną decyzję albo
-  2) uchyla zaskarżoną decyzję w całości albo części i w tym zakresie zatwierdza tabelę wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych albo odmawia jej zatwierdzenia albo, uchylając tę decyzję, umarza postępowanie pierwszej instancji, albo
-  3) umarza postępowanie odwoławcze.
-2. Minister może uchylić zaskarżoną decyzję w całości i przekazać sprawę do ponownego rozpatrzenia przez Komisję, gdy decyzja ta została wydana z naruszeniem przepisów postępowania, a konieczny do wyjaśnienia zakres sprawy ma istotny wpływ na jej rozstrzygnięcie. Przekazując sprawę, minister wskazuje okoliczności, jakie należy wziąć pod uwagę przy ponownym rozpatrzeniu sprawy.
-3. Ponownego rozpatrzenia sprawy dokonuje zespół orzekający w innym składzie.
+**Art. 83.** (uchylony)
 
 **Art. 84.**
 1. W przypadku istotnej zmiany okoliczności stanowiących podstawę decyzji o zatwierdzeniu tabeli wynagrodzeń za korzystanie z utworów lub przedmiotów praw pokrewnych, wniosek o zmianę tabeli składa wnioskodawca, który złożył wniosek o jej zatwierdzenie. Do wniosku stosuje się przepis art. 77.
