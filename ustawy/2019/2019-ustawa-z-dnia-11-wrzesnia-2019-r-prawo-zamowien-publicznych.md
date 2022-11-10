@@ -3371,7 +3371,7 @@ od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu zwi�
 - zawierających informacje, w tym dane osobowe, niezbędne do weryfikacji zatrudnienia na podstawie umowy o pracę, w szczególności imię i nazwisko zatrudnionego pracownika, datę zawarcia umowy o pracę, rodzaj umowy o pracę i zakres obowiązków pracownika.
 
 **Art. 439.**
-1. Umowa, której przedmiotem są roboty budowlane lub usługi, zawarta na okres dłuższy niż 12 miesięcy, zawiera postanowienia dotyczące zasad wprowadzania zmian wysokości wynagrodzenia należnego wykonawcy, w przypadku zmiany ceny materiałów lub kosztów związanych z realizacją zamówienia.
+1. Umowa, której przedmiotem są roboty budowlane, dostawy lub usługi, zawarta na okres dłuższy niż 6 miesięcy, zawiera postanowienia dotyczące zasad wprowadzania zmian wysokości wynagrodzenia należnego wykonawcy w przypadku zmiany ceny materiałów lub kosztów związanych z realizacją zamówienia.
 2. W umowie określa się:
   1) poziom zmiany ceny materiałów lub kosztów, o których mowa w ust. 1, uprawniający strony umowy do żądania zmiany wynagrodzenia oraz początkowy termin ustalenia zmiany wynagrodzenia;
   2) sposób ustalania zmiany wynagrodzenia:
@@ -3382,8 +3382,8 @@ od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu zwi�
 3. Jeżeli umowa została zawarta po upływie 180 dni od dnia upływu terminu składania ofert, początkowym terminem ustalenia zmiany wynagrodzenia jest dzień otwarcia ofert, chyba że zamawiający określi termin wcześniejszy.
 4. Przez zmianę ceny materiałów lub kosztów rozumie się wzrost odpowiednio cen lub kosztów, jak i ich obniżenie, względem ceny lub kosztu przyjętych w celu ustalenia wynagrodzenia wykonawcy zawartego w ofercie.
 5. Wykonawca, którego wynagrodzenie zostało zmienione zgodnie z ust. 1-3, zobowiązany jest do zmiany wynagrodzenia przysługującego podwykonawcy, z którym zawarł umowę, w zakresie odpowiadającym zmianom cen materiałów lub kosztów dotyczących zobowiązania podwykonawcy, jeżeli łącznie spełnione są następujące warunki:
-  1) przedmiotem umowy są roboty budowlane lub usługi;
-  2) okres obowiązywania umowy przekracza 12 miesięcy.
+  1) przedmiotem umowy są roboty budowlane, dostawy lub usługi;
+  2) okres obowiązywania umowy przekracza 6 miesięcy.
 
 **Art. 440.** W przypadku gdy zamawiający przewiduje zawarcie postanowień dotyczących zasad wprowadzania zmian wysokości wynagrodzenia w innej umowie, niż wskazana w art. 439 ust. 1, do określenia tych zasad stosuje się przepisy art. 439 ust. 2-4.
 
@@ -3523,7 +3523,7 @@ od dnia upływu terminu składania ofert, przy czym pierwszym dniem terminu zwi�
     a) zmiana wykonawcy nie może zostać dokonana z powodów ekonomicznych lub technicznych, w szczególności dotyczących zamienności lub interoperacyjności wyposażenia, usług lub instalacji zamówionych w ramach zamówienia podstawowego,
     b) zmiana wykonawcy spowodowałaby istotną niedogodność lub znaczne zwiększenie kosztów dla zamawiającego,
     c) wzrost ceny spowodowany każdą kolejną zmianą nie przekracza 50% wartości pierwotnej umowy, a w przypadku zamówień w dziedzinach obronności i bezpieczeństwa łączna wartość zmian nie przekracza 50% wartości pierwotnej umowy, z wyjątkiem należycie uzasadnionych przypadków;
-  4) jeżeli konieczność zmiany umowy spowodowana jest okolicznościami, których zamawiający, działając z należytą starannością, nie mógł przewidzieć, o ile zmiana nie modyfikuje ogólnego charakteru umowy a wzrost ceny spowodowany każdą kolejną zmianą nie przekracza 50% wartości pierwotnej umowy.
+  4) jeżeli konieczność zmiany umowy, w tym w szczególności zmiany wysokości ceny, spowodowana jest okolicznościami, których zamawiający, działając z należytą starannością, nie mógł przewidzieć, o ile zmiana nie modyfikuje ogólnego charakteru umowy a wzrost ceny spowodowany każdą kolejną zmianą nie przekracza 50% wartości pierwotnej umowy.
 2. Dopuszczalne są również zmiany umowy bez przeprowadzenia nowego postępowania o udzielenie zamówienia, których łączna wartość jest mniejsza niż progi unijne oraz jest niższa niż 10% wartości pierwotnej umowy, w przypadku zamówień na usługi lub dostawy, albo 15%, w przypadku zamówień na roboty budowlane, a zmiany te nie powodują zmiany ogólnego charakteru umowy.
 3. W przypadkach, o których mowa w ust. 1 pkt 3 i 4, zamawiający:
   1) nie może wprowadzać kolejnych zmian umowy w celu uniknięcia stosowania przepisów ustawy;
