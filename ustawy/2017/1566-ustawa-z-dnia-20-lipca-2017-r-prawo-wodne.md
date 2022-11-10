@@ -2340,8 +2340,9 @@
 **Art. 219.**
 1. Minister właściwy do spraw gospodarki wodnej, w drodze decyzji, ustala charakter wód.
 2. Decyzję, o której mowa w ust. 1, wydaje się na wniosek Wód Polskich, właściciela nieruchomości przyległej do wód lub właściciela nieruchomości znajdującej się pod wodą, której dotyczy wniosek o ustalenie charakteru wód.
-2a. Zawiadomienia o wydanych decyzjach ustalających charakter wód oraz innych czynnościach podejmowanych w postępowaniu w sprawie ustalenia charakteru wód doręcza się wnioskodawcy oraz Wodom Polskim, a w przypadku gdy wnioskodawcą są Wody Polskie - wyłącznie Wodom Polskim.
-2b. Strony postępowania o ustalenie charakteru wód, inne niż wnioskodawca oraz Wody Polskie, ustalone na podstawie ewidencji gruntów i budynków zawiadamia się o decyzjach i czynnościach, o których mowa w ust. 2a, w formie publicznego obwieszczenia, zamieszczanego na okres 60 dni na tablicy ogłoszeń urzędu obsługującego ministra właściwego do spraw gospodarki wodnej oraz na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ten organ.
+2a. (uchylony)
+2b. Strony postępowania w sprawie dotyczącej ustalenia charakteru wód, inne niż wnioskodawca oraz Wody Polskie, oraz adresy do doręczeń ustala się na podstawie danych z ewidencji gruntów i budynków.
+2c. Jeżeli liczba stron postępowania w sprawie dotyczącej ustalenia charakteru wód przekracza 10, do stron innych niż wnioskodawca i Wody Polskie stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
 3. Do wniosku, o którym mowa w ust. 2, dołącza się:
   1) część opisową obejmującą:
     a) opis elementów hydromorfologicznych wód, w tym:
@@ -2351,12 +2352,14 @@
     b) (uchylony)
     c) (uchylony)
     d) analizę historyczną przynależności tych wód do publicznych śródlądowych wód powierzchniowych;
-    e) imię i nazwisko oraz adres albo nazwę i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest właściciel gruntu przyległego do wód - dokumenty potwierdzające tytuł prawny wnioskodawcy do nieruchomości przyległych do wód objętych wnioskiem,
-    f) wykaz właścicieli nieruchomości przyległych do wód, których dotyczy wniosek o ustalenie charakteru wód, ujawnionych w ewidencji gruntów i budynków;
+    e) imię i nazwisko oraz adres albo nazwę i siedzibę wnioskodawcy, a w przypadku gdy wnioskodawcą jest właściciel nieruchomości przyległej do wód lub nieruchomości znajdującej się pod wodami - dokumenty potwierdzające tytuł prawny wnioskodawcy do tej nieruchomości,
+    f) wykaz właścicieli nieruchomości przyległych do wód oraz nieruchomości znajdujących się pod wodami, których dotyczy wniosek o ustalenie charakteru wód, ujawnionych w ewidencji gruntów i budynków,
+    g) wypisy z ewidencji gruntów i budynków obejmujące nieruchomości przyległe do wód oraz nieruchomości znajdujące się pod wodami, których dotyczy wniosek o ustalenie charakteru wód;
   2) część graficzną obejmującą mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego lub inną mapę uwierzytelnioną przez organ prowadzący ten zasób, obrazującą przebieg wód od źródeł do ujścia, w skali 1:500, 1:1000 lub 1:2000 oraz uwzględniające wyniki pomiarów sytuacyjnych i wysokościowych.
 4. Decyzja, o której mowa w ust. 1, stanowi podstawę do dokonania zmian w ewidencji gruntów i budynków.
 5. W przypadku gdy w dniu wszczęcia postępowania w sprawie ustalenia charakteru wód ewidencja gruntów i budynków nie zawiera danych umożliwiających ustalenie stron postępowania lub w przypadku gdy dane te stały się nieaktualne na skutek śmierci jednej ze stron tego postępowania, nie stosuje się przepisów art. 97 § 1 pkt 1 i 4 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
-6. Nieuregulowany stan prawny nieruchomości, o których mowa w ust. 2, lub brak danych w ewidencji gruntów i budynków pozwalających na ustalenie właściciela nieruchomości nie stanowi przeszkody do wszczęcia postępowania w sprawie ustalenia charakteru wód, wydania i doręczenia decyzji ustalającej charakter wód oraz zawiadomienia o jej wydaniu. Do zawiadomienia stron o wszczęciu postępowania w sprawie ustalenia charakteru wód, o innych czynnościach organu lub o wydaniu decyzji ustalającej charakter wód, stosuje się przepisy art. 49 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+6. Nieuregulowany stan prawny nieruchomości, o których mowa w ust. 2, lub brak danych w ewidencji gruntów i budynków pozwalających na ustalenie właściciela nieruchomości nie stanowi przeszkody do wszczęcia postępowania w sprawie ustalenia charakteru wód, wydania i doręczenia decyzji ustalającej charakter wód oraz zawiadomienia o jej wydaniu.
+6a. W przypadku, o którym mowa w ust. 6, stosuje się przepis art. 49 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego, przy czym zawiadomienie o wszczęciu postępowania oraz o wydaniu decyzji uważa się za dokonane po upływie 30 dni od dnia, w którym nastąpiło publiczne obwieszczenie, inne publiczne ogłoszenie lub udostępnienie pisma w Biuletynie Informacji Publicznej.
 7. Przez nieruchomość o nieuregulowanym stanie prawnym rozumie się nieruchomość o nieuregulowanym stanie prawnym w rozumieniu art. 113 ust. 6 i 7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami.
 
 **Art. 220.**
@@ -2375,10 +2378,11 @@
   - z wykazaniem projektowanej linii brzegu oraz elementów istotnych dla przyjętego sposobu ustalenia tej linii.
 7. Projekt rozgraniczenia gruntów, o którym mowa w ust. 6, sporządza osoba posiadająca uprawnienia zawodowe w dziedzinie geodezji i kartografii, o których mowa w art. 43 pkt 1, 2 lub 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne.
 8. Decyzję w sprawie ustalenia linii brzegu doręcza się wnioskodawcy oraz ujawnionym w ewidencji gruntów i budynków właścicielom lub innym podmiotom władającym gruntami przyległymi.
+8a. Siedziby i adresy stron innych niż wnioskodawca i podmiot wykonujący uprawnienia właścicielskie Skarbu Państwa w stosunku do wód płynących i stojących oraz gruntów pokrytych tymi wodami ustala się na podstawie danych z ewidencji gruntów i budynków.
 9. W przypadku gdy ujawniony w ewidencji gruntów i budynków właściciel lub inny podmiot władający gruntem przyległym nie żyje, a jego spadkobiercy nie wykazali prawa do spadku, lub nie jest znany adres miejsca zamieszkania lub siedziby albo adres tych podmiotów lub brak jest w ewidencji gruntów i budynków oznaczenia tych podmiotów, organ, o którym mowa w ust. 5, zawiadamia o wydaniu decyzji w sprawie ustalenia linii brzegu w drodze obwieszczenia zamieszczonego przez okres 60 dni na tablicy ogłoszeń urzędów gmin właściwych ze względu na miejsce położenia nieruchomości, a także na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ten organ.
 10. W obwieszczeniu, o którym mowa w ust. 9, zamieszcza się informacje o oznaczeniu decyzji i dacie jej wydania, położeniu i oznaczeniu gruntów objętych decyzją oraz miejscu, gdzie strony mogą się zapoznać z treścią decyzji.
 11. Z dniem upływu okresu, o którym mowa w ust. 9, decyzję w sprawie ustalenia linii brzegu uważa się za doręczoną stronom postępowania.
-12. Przepisy ust. 8-11 stosuje się odpowiednio do zawiadomień o wszczęciu postępowania w sprawie ustalenia linii brzegu.
+12. Przepisy ust. 8-11 stosuje się odpowiednio do zawiadomień o wszczęciu postępowania w sprawie ustalenia linii brzegu oraz innych czynności podejmowanych w tym postępowaniu, z tym że okres zamieszczenia obwieszczenia wynosi 30 dni.
 13. Decyzja w sprawie ustalenia linii brzegu obejmuje swoim zakresem odcinek i brzegi cieku naturalnego objęte projektem regulacji wód śródlądowych.
 14. Jeżeli ustalenie linii brzegu jest konieczne w związku z wykonaniem urządzeń wodnych lub kształtowaniem nowych koryt cieków naturalnych, postępowanie w sprawie ustalenia linii brzegu przeprowadza się łącznie z postępowaniem w sprawie zgody wodnoprawnej.
 15. Decyzja o ustaleniu linii brzegu może być wydana po uzyskaniu przez zakład pozwolenia wodnoprawnego na wykonanie niecierpiących zwłoki budowli regulacyjnych.
@@ -2387,9 +2391,10 @@
 18. W przypadku zmiany linii brzegu decyzja o ustaleniu linii brzegu może być zmieniona w trybie i na zasadach właściwych dla jej wydania.
 19. Jeżeli ustalenie linii brzegu następuje w związku z trwałym zajęciem przez śródlądowe wody płynące, wody morza terytorialnego lub morskie wody wewnętrzne, w sposób naturalny, gruntu niestanowiącego własności właściciela wód, koszty projektu rozgraniczenia gruntów, o którym mowa w ust. 6, ponosi właściciel wód.
 20. Decyzja o ustaleniu linii brzegu stanowi podstawę do dokonania wpisu w ewidencji gruntów i budynków.
+21. Przepisy ust. 8-12 stosuje się odpowiednio do postępowań dotyczących ustalenia linii brzegu wszczętych na podstawie przepisów działu II rozdziału 12 i 13 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
 
 **Art. 221.**
-1. Rozgraniczenia gruntów, które były pokryte wodami przed wykonaniem urządzenia wodnego, od pozostałych gruntów dokonuje, na wniosek właściciela wód lub właściciela gruntu przyległego, w drodze decyzji, właściwy organ, o którym mowa w art. 220 ust. 5.
+1. Rozgraniczenia gruntów, które były pokryte wodami przed wykonaniem urządzenia wodnego, od pozostałych gruntów dokonuje, na wniosek podmiotu mającego interes prawny lub faktyczny, w drodze decyzji, właściwy organ, o którym mowa w art. 220 ust. 5.
 2. Dokonując rozgraniczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 220, z tym że podstawą rozgraniczenia jest dokumentacja sporządzona na potrzeby wykonania urządzenia wodnego, a w przypadku jej braku - dostępne materiały.
 3. W przypadku braku dokumentacji umożliwiającej dokonanie rozgraniczenia, o którym mowa w ust. 1, jako grunt pokryty wodami powierzchniowymi w granicach urządzenia wodnego wyznacza się obszar niezbędny dla zachowania ciągłości cieku w przypadku likwidacji tego urządzenia, przyjmując parametry koryta cieku powyżej i poniżej urządzenia, a w przypadku jezior podpiętrzonych - rzędne wody sprzed piętrzenia.
 
@@ -4620,7 +4625,8 @@
 6) rybackie korzystanie ze śródlądowych wód powierzchniowych;
 7) pobór wód powierzchniowych lub wód podziemnych w ilości średniorocznie nieprzekraczającej 5 m3 na dobę oraz wprowadzanie ścieków do wód lub do ziemi w ilości nieprzekraczającej łącznie 5 m3 na dobę, na potrzeby zwykłego korzystania z wód;
 8) pobór i odprowadzanie wód w związku z wykonywaniem odwiertów lub otworów strzałowych przy użyciu płuczki wodnej na cele badań sejsmicznych;
-9) odbudowa, rozbudowa, przebudowa lub rozbiórka urządzeń pomiarowych służb państwowych;
+9) wykonanie, odbudowa, rozbudowa, przebudowa lub rozbiórka urządzeń pomiarowych należących do służb państwowych lub Wód Polskich, a także lokalizowanie tych urządzeń na obszarach szczególnego zagrożenia powodzią;
+9a) prowadzenie przez wody powierzchniowe płynące lub przez wały przeciwpowodziowe rurociągów oraz przewodów w rurociągach osłonowych służących urządzeniom, o których mowa w pkt 9;
 10) wyznaczanie szlaku turystycznego pieszego lub rowerowego oraz budowa, przebudowa lub remont drogi rowerowej, z wyjątkiem prowadzenia dróg rowerowych przez wody powierzchniowe;
 11) zatrzymywanie wody w rowach, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na zatrzymywanie wody w rowach;
 12) hamowanie odpływu wody z obiektów drenarskich, jeżeli zasięg oddziaływania nie wykracza poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na hamowanie odpływu wody z obiektów drenarskich;
@@ -4691,7 +4697,7 @@
   3) kierownik nadzoru wodnego Wód Polskich w sprawach zgłoszeń wodnoprawnych.
 4. Organ właściwy w sprawach pozwoleń wodnoprawnych jest właściwy w sprawach stwierdzenia wygaśnięcia, cofnięcia lub ograniczenia tych pozwoleń.
 5. (uchylony)
-6. Wniosek o wydanie pozwolenia wodnoprawnego, oceny wodnoprawnej, decyzji, o których mowa w art. 77 ust. 3 i 8 oraz w art. 176 ust. 4, a także zgłoszenie wodnoprawne składa się w siedzibie nadzoru wodnego właściwego miejscowo albo najbliższego dla zamierzonego korzystania z usług wodnych lub wykonywania urządzeń wodnych, lub innej działalności wymagającej zgody wodnoprawnej.
+6. Wniosek o wydanie pozwolenia wodnoprawnego, oceny wodnoprawnej, decyzji, o których mowa w art. 77 ust. 3 i 8 oraz w art. 176 ust. 4, a także zgłoszenie wodnoprawne składa się do nadzoru wodnego właściwego miejscowo albo najbliższego dla zamierzonego korzystania z usług wodnych lub wykonywania urządzeń wodnych, lub innej działalności wymagającej zgody wodnoprawnej.
 
 **Art. 398.**
 1. Za udzielenie zgód wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 1-3, ponosi się opłatę.
@@ -4733,7 +4739,7 @@
 3. Pozwolenie wodnoprawne na wprowadzanie do wód lub do urządzeń kanalizacyjnych, będących własnością innych podmiotów, ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska wodnego, określone w przepisach wydanych na podstawie art. 99 ust. 1 pkt 1 albo art. 100 ust. 1, wydaje się na okres nie dłuższy niż 4 lata, liczony od dnia, w którym decyzja stała się ostateczna.
 4. Prawa i obowiązki określone w pozwoleniu wodnoprawnym na wprowadzenie ścieków do wód lub do ziemi i odprowadzanie do wód - wód opadowych lub roztopowych obowiązują od dnia, w którym decyzja o pozwoleniu wodnoprawnym stała się ostateczna, chyba że w pozwoleniu wodnoprawnym została określona inna data, od której obowiązuje to pozwolenie.
 5. Pozwolenie wodnoprawne na wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także wycinanie roślin z wód lub brzegu wydaje się na okres nie dłuższy niż 5 lat, liczony od dnia, w którym decyzja stała się ostateczna.
-6. Obowiązek ustalenia okresu, na jaki wydaje się pozwolenie wodnoprawne, nie dotyczy pozwoleń wodnoprawnych na wykonanie urządzeń wodnych, pozwoleń wodnoprawnych na regulację wód oraz pozwoleń wodnoprawnych na wykonywanie robót lub obiektów budowlanych mających wpływ na zmniejszenie naturalnej retencji terenowej.
+6. Obowiązek ustalenia okresu, na jaki wydaje się pozwolenie wodnoprawne, nie dotyczy pozwoleń wodnoprawnych na wykonanie urządzeń wodnych, pozwoleń wodnoprawnych na regulację wód, pozwoleń wodnoprawnych na zmianę ukształtowania terenu na gruntach przylegających do wód, mającą wpływ na warunki przepływu wód, pozwoleń wodnoprawnych na lokalizowanie na obszarach szczególnego zagrożenia powodzią nowych przedsięwzięć mogących znacząco oddziaływać na środowisko lub nowych obiektów budowlanych oraz pozwoleń wodnoprawnych na wykonywanie robót lub obiektów budowlanych mających wpływ na zmniejszenie naturalnej retencji terenowej.
 7. Informację o wszczęciu postępowania w sprawach dotyczących pozwolenia wodnoprawnego organ właściwy w sprawach pozwoleń wodnoprawnych podaje do publicznej wiadomości na stronie podmiotowej Biuletynu Informacji Publicznej oraz w sposób zwyczajowo przyjęty w danej miejscowości.
 8. Pozwolenia wodnoprawne wydaje się na podstawie operatu wodnoprawnego oraz zgromadzonych w toku postępowania dowodów, dokumentów i informacji.
 9. Organ właściwy w sprawach pozwoleń wodnoprawnych na pobór wód oraz wprowadzanie ścieków do wód lub do ziemi, w tym na rolnicze wykorzystanie ścieków, przekazuje właściwemu organowi Inspekcji Ochrony Środowiska kopie ostatecznej decyzji.
@@ -4743,7 +4749,7 @@
 1. Stroną postępowania w sprawach dotyczących pozwoleń wodnoprawnych jest wnioskodawca oraz podmioty, na które będzie oddziaływać zamierzone korzystanie z wód, lub podmioty znajdujące się w zasięgu oddziaływania planowanych do wykonania urządzeń wodnych.
 2. (uchylony)
 3. Jeżeli liczba stron w postępowaniu w sprawach dotyczących pozwolenia wodnoprawnego przekracza 10, do stron innych niż wnioskodawca stosuje się art. 49 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
-4. Zawiadomienie o wszczęciu postępowania w sprawach dotyczących pozwolenia wodnoprawnego doręcza się wnioskodawcy na adres wskazany we wniosku oraz zawiadamia się pozostałe strony w drodze obwieszczeń, odpowiednio w urzędzie zapewniającym obsługę ministra właściwego do spraw gospodarki wodnej albo siedzibie właściwej jednostki organizacyjnej Wód Polskich, a także w Biuletynie Informacji Publicznej na stronach podmiotowych urzędów starostwa powiatowego i urzędów gmin, właściwych ze względu na zakres korzystania z wód.
+4. W przypadku, o którym mowa w ust. 3, zawiadomienie o wszczęciu postępowania w sprawach dotyczących pozwolenia wodnoprawnego doręcza się wnioskodawcy na adres wskazany we wniosku oraz zawiadamia się pozostałe strony w drodze obwieszczeń, odpowiednio w urzędzie zapewniającym obsługę ministra właściwego do spraw gospodarki wodnej albo siedzibie właściwej jednostki organizacyjnej Wód Polskich, a także w Biuletynie Informacji Publicznej na stronach podmiotowych urzędów starostwa powiatowego i urzędów gmin, właściwych ze względu na zakres korzystania z wód lub lokalizację planowanych do wykonania urządzeń wodnych, robót lub działań.
 5. Adres zamieszkania albo siedziby stron innych niż wnioskodawca ustala się na podstawie ewidencji gruntów i budynków.
 6. Doręczenie zawiadomienia na adres wskazany w ewidencji gruntów i budynków uważa się za dokonane.
 7. W przypadku gdy w dniu wszczęcia postępowania w sprawie wydania pozwolenia wodnoprawnego, ewidencja gruntów i budynków nie zawiera danych umożliwiających ustalenie stron postępowania lub w przypadku gdy dane te stały się nieaktualne na skutek śmierci jednej ze stron tego postępowania, nie stosuje się przepisów art. 97 § 1 pkt 1 i 4 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
@@ -4804,12 +4810,13 @@
 **Art. 407.**
 1. Pozwolenie wodnoprawne wydaje się na wniosek.
 2. Do wniosku dołącza się:
-  1) operat wodnoprawny z oznaczeniem daty jego wykonania, zwany dalej „operatem”, wraz z opisem prowadzenia zamierzonej działalności niezawierającym określeń specjalistycznych;
+  1) operat wodnoprawny, spełniający wymagania określone w art. 409, z oznaczeniem daty jego wykonania, zwany dalej „operatem”, wraz z opisem prowadzenia zamierzonej działalności niezawierającym określeń specjalistycznych;
   2) decyzję o środowiskowych uwarunkowaniach, jeżeli jest wymagana;
   2a) w przypadku przedsięwzięć, dla których wydano decyzję o środowiskowych uwarunkowaniach w postępowaniu wymagającym udziału społeczeństwa - załącznik graficzny określający przewidywany teren, na którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, na który będzie oddziaływać przedsięwzięcie, o ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące w dniu złożenia wniosku o wydanie decyzji o środowiskowych uwarunkowaniach, w szczególności mapę, o której mowa w art. 74 ust. 1 pkt 3a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko;
   3) wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, a w przypadku jego braku - decyzję o ustaleniu lokalizacji inwestycji celu publicznego albo decyzję o warunkach zabudowy, jeżeli są wymagane;
   4) ocenę wodnoprawną, jeżeli jest wymagana;
-  5) wypisy z rejestru gruntów lub uproszczone wypisy z rejestru gruntów dla nieruchomości usytuowanych w zasięgu oddziaływania zamierzonego korzystania z wód lub w zasięgu oddziaływania planowanych do wykonania urządzeń wodnych.
+  5) wypisy z rejestru gruntów lub uproszczone wypisy z rejestru gruntów dla nieruchomości usytuowanych w zasięgu oddziaływania zamierzonego korzystania z wód lub w zasięgu oddziaływania planowanych do wykonania urządzeń wodnych;
+  6) potwierdzenie skutecznego zgłoszenia, o którym mowa w art. 118 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, jeżeli jest wymagane.
 3. Do wniosku o wydanie pozwolenia wodnoprawnego na piętrzenie wód powierzchniowych budowlą piętrzącą o wysokości piętrzenia powyżej 1 m oraz wyposażoną w urządzenia umożliwiające regulowanie przepływu lub na zależne od siebie korzystanie z wód przez kilka zakładów dołącza się projekt instrukcji gospodarowania wodą zawierający opis sposobu gospodarowania wodą i zaspokojenia potrzeb wszystkich użytkowników odnoszących korzyści z urządzeń wodnych, których dotyczy instrukcja gospodarowania wodą, w liczbie egzemplarzy uwzględniającej właściciela wody oraz liczbę zakładów korzystających z wód, których dotyczy instrukcja gospodarowania wodą.
 4. Do wniosku o wydanie pozwolenia wodnoprawnego na pobór wód podziemnych oraz na odwodnienie zakładu górniczego lub obiektu budowlanego dołącza się dokumentację hydrogeologiczną, jeżeli jest wymagana.
 5. Do wniosku o wydanie pozwolenia wodnoprawnego na wprowadzanie do urządzeń kanalizacyjnych ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska wodnego, określone w przepisach wydanych na podstawie art. 100 ust. 1, dołącza się zgodę właściciela tych urządzeń lub obowiązującą na dzień złożenia wniosku umowę obejmującą zobowiązanie do odbioru tych ścieków zawartą z właścicielem tych urządzeń.
@@ -4943,8 +4950,8 @@
 1. Pozwolenie wodnoprawne wygasa, jeżeli:
   1) upłynął okres, na który było wydane;
   2) zakład zrzekł się pozwolenia wodnoprawnego;
-  3) zakład nie rozpoczął wykonywania urządzeń wodnych w terminie 3 lat od dnia, w którym pozwolenie wodnoprawne na wykonanie tych urządzeń stało się ostateczne;
-  4) inwestor w ramach realizacji przedsięwzięcia w zakresie dróg publicznych, linii kolejowych, linii przesyłowych, lotnisk lub lądowisk nie rozpoczął wykonywania urządzeń wodnych w terminie 6 lat od dnia, w którym pozwolenie wodnoprawne na wykonanie tych urządzeń stało się ostateczne.
+  3) zakład nie rozpoczął wykonywania urządzeń wodnych, robót lub działań na podstawie pozwoleń wodnoprawnych, o których mowa w art. 400 ust. 6, w terminie 3 lat od dnia, w którym pozwolenia te stały się ostateczne;
+  4) inwestor w ramach realizacji przedsięwzięcia w zakresie budowli przeciwpowodziowych, dróg publicznych, linii kolejowych, linii przesyłowych, lotnisk lub lądowisk nie rozpoczął wykonywania urządzeń wodnych w terminie 6 lat od dnia, w którym pozwolenie wodnoprawne na wykonanie tych urządzeń stało się ostateczne.
 2. Pozwolenia wodnoprawne, o których mowa w art. 389 pkt 1-3, nie wygasają, jeżeli zakład w terminie 90 dni przed upływem okresu, o którym mowa w ust. 1 pkt 1, złoży wniosek o ustalenie kolejnego okresu obowiązywania tych pozwoleń.
 3. Do wniosku, o którym mowa w ust. 2, dołącza się operat, na podstawie którego wydano dotychczasowe pozwolenie wodnoprawne, oraz oświadczenie, że zawarte w nim informacje zachowały aktualność.
 4. Jeżeli wniosek, o którym mowa w ust. 2, jest niekompletny, organ właściwy w sprawach pozwoleń wodnoprawnych wzywa do jego uzupełnienia w terminie 14 dni.
@@ -5021,7 +5028,8 @@
 1) mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego z naniesionym schematem planowanych czynności, robót lub urządzeń wodnych i zasięgiem ich oddziaływania lub inną mapę opatrzoną przez organ Służby Geodezyjnej i Kartograficznej odpowiednią klauzulą urzędową;
 2) odpowiednie szkice lub rysunki;
 3) wypis i wyrys z miejscowego planu zagospodarowania przestrzennego, a w przypadku jego braku - decyzję o ustaleniu lokalizacji inwestycji celu publicznego albo decyzję o warunkach zabudowy, jeżeli są wymagane;
-4) zgodę właściciela urządzenia wodnego, które jest niezbędne do wykonania planowanych czynności, robót lub urządzeń wodnych.
+4) zgodę właściciela urządzenia wodnego, które jest niezbędne do wykonania planowanych czynności, robót lub urządzeń wodnych;
+5) potwierdzenie skutecznego zgłoszenia, o którym mowa w art. 118 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, jeżeli jest wymagane.
 
 **Art. 423.**
 1. Zgłoszenia wodnoprawnego należy dokonać przed terminem zamierzonego rozpoczęcia wykonywania czynności, robót lub urządzeń wodnych.
@@ -5076,9 +5084,21 @@
 
 **Art. 427.**
 1. Wniosek, o którym mowa w art. 426, zawiera:
-  1) charakterystykę planowanych inwestycji lub działań wraz z podstawowymi danymi technicznymi i opisem planowanej technologii robót;
+  1) charakterystykę planowanej inwestycji lub działania, zawierającą:
+    a) opis projektu określający skalę i zakres inwestycji, parametry inwestycji, planowane do wykorzystania na potrzeby realizacji inwestycji lub działania materiały, przewidywaną ilość i rodzaje wytwarzanych odpadów, planowaną lokalizację zaplecza technicznego, planowaną technologię robót, planowany czas trwania robót oraz opis innych istotnych elementów projektu planowanej inwestycji lub działania,
+    b) wykaz jednolitych części wód powierzchniowych i podziemnych na obszarze, na którym jest planowana realizacja inwestycji lub działania, objętych wnioskiem oraz oddziaływaniem pośrednim,
+    c) wykaz obszarów chronionych, o których mowa w art. 16 pkt 32, na obszarze, na którym jest planowana realizacja inwestycji lub działania, objętych wnioskiem,
+    d) opis innych elementów charakterystyki planowanej inwestycji lub działania;
   2) mapę sytuacyjno-wysokościową pobraną z państwowego zasobu geodezyjnego i kartograficznego lub inną mapę opatrzoną przez organ prowadzący ten zasób odpowiednią klauzulą urzędową albo kopie tych map potwierdzone przez wnioskodawcę za ich zgodność z oryginałami z naniesionym schematem planowanych obiektów lub robót;
-  3) opis wpływu planowanych inwestycji lub działań na możliwość osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
+  3) opis wpływu planowanej inwestycji lub działania na możliwość osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz art. 61, zawierający:
+    a) identyfikację i opis czynników oddziaływania na możliwość osiągnięcia celów środowiskowych dla jednolitych części wód powierzchniowych i podziemnych, w tym obszarów chronionych, o których mowa w art. 16 pkt 32, na etapach realizacji i eksploatacji inwestycji lub działania objętych wnioskiem,
+    b) wskazanie, na jakie elementy klasyfikacji stanu jednolitych części wód powierzchniowych i podziemnych oraz ich składowe będzie oddziaływać realizacja inwestycji lub działania objętych wnioskiem, oraz charakterystykę tego oddziaływania,
+    c) ocenę wpływu czynników oddziaływania na poszczególne elementy klasyfikacji stanu jednolitych części wód powierzchniowych i podziemnych i ich składowe oraz obszary chronione, o których mowa w art. 16 pkt 32, w zakresie oddziaływań bezpośrednich i pośrednich, krótkoterminowych i długoterminowych, prawdopodobieństwa ich występowania oraz ich odwracalności,
+    d) ocenę wpływu planowanej inwestycji lub działania na cele środowiskowe wyznaczone dla obszarów chronionych, o których mowa w art. 16 pkt 32,
+    e) przedstawienie analizy ewentualnych oddziaływań skumulowanych na jednolite części wód powierzchniowych i podziemnych,
+    f) charakterystykę planowanych działań mających na celu unikanie i ograniczenie odziaływań oraz zapobieganie oddziaływaniom na możliwość osiągnięcia celów środowiskowych dla jednolitych części wód powierzchniowych i podziemnych na etapach realizacji i eksploatacji planowanej inwestycji lub działania,
+    g) opis możliwych do realizacji innych rozwiązań projektowych uwzględniających szczególne cechy planowanej inwestycji lub działania,
+    h) opis i identyfikację innych istotnych czynników oddziaływania na możliwość osiągnięcia celów środowiskowych dla jednolitych części wód powierzchniowych i podziemnych.
 2. Jeżeli jest wymagane uzyskanie oceny wodnoprawnej oraz decyzji, o której mowa w art. 77 ust. 3, sprawy rozpoznaje się łącznie i wydaje się jedną decyzję.
 
 **Art. 428.** W przypadku przedsięwzięć mogących znacząco oddziaływać na środowisko w rozumieniu przepisów ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko ocenę wodnoprawną zastępuje się decyzją o środowiskowych uwarunkowaniach oraz decyzją, przed wydaniem której jest przeprowadzana ponowna ocena oddziaływania na środowisko - o ile taka ocena jest w przypadku danego przedsięwzięcia przeprowadzana. W postępowaniach o wydanie tych decyzji przepisy niniejszego rozdziału stosuje się odpowiednio.
@@ -5110,12 +5130,17 @@
 
 **Art. 438.** Ocena wodnoprawna każdorazowo wygasa z dniem wejścia w życie przepisów wydanych na podstawie art. 321 aktualizujących plan gospodarowania wodami na obszarze dorzecza.
 
-**Art. 439.** Po wydaniu oceny wodnoprawnej, o której mowa w art. 430, art. 431 i art. 434 ust. 1, organ właściwy w sprawach ocen wodnoprawnych w celu potwierdzenia zgodności inwestycji lub działań, o których mowa w art. 425, z celami środowiskowymi, o których mowa w art. 56, art. 57, art. 59 i w art. 61, sporządza deklarację zgodności.
+**Art. 439.**
+1. Na wniosek podmiotu planującego realizację inwestycji lub działania, dla których uzyskano ostateczną:
+  1) ocenę wodnoprawną, o której mowa w art. 430, art. 431 i art. 434 ust. 1, albo
+  2) decyzję o środowiskowych uwarunkowaniach lub decyzję, przed wydaniem której jest przeprowadzana ponowna ocena oddziaływania na środowisko, o których mowa w art. 428
+- organ właściwy w sprawach ocen wodnoprawnych w celu potwierdzenia zgodności inwestycji lub działania, o których mowa w art. 425, lub przedsięwzięcia, dla którego wydano decyzję, o której mowa w art. 428, z celami środowiskowymi, o których mowa w art. 56, art. 57, art. 59 oraz art. 61, sporządza deklarację zgodności.
+2. W przypadku, o którym mowa w ust. 1 pkt 2, do wniosku dołącza się potwierdzoną za zgodność z oryginałem kopię ostatecznej decyzji o środowiskowych uwarunkowaniach wydanej dla przedsięwzięcia, którego dotyczy wniosek.
 
-**Art. 440.** Deklarację zgodności, o której mowa w art. 439, sporządza się zgodnie ze wzorem określonym w załączniku II do rozporządzenia wykonawczego Komisji (UE) 2015/207 z dnia 20 stycznia 2015 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 w odniesieniu do wzoru sprawozdania z postępów, formatu dokumentu służącego przekazywaniu informacji na temat dużych projektów, wzorów wspólnego planu działania, sprawozdań z wdrażania w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia”, deklaracji zarządczej, strategii audytu, opinii audytowej i rocznego sprawozdania z kontroli oraz metodyki przeprowadzania analizy kosztów i korzyści, a także zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1299/2013 w odniesieniu do wzoru sprawozdań z wdrażania w ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 38 z 13.02.2015, str. 1, z późn. zm.).
+**Art. 440.** Deklarację zgodności, o której mowa w art. 439 ust. 1, sporządza się zgodnie ze wzorem określonym w załączniku II do rozporządzenia wykonawczego Komisji (UE) 2015/207 z dnia 20 stycznia 2015 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 w odniesieniu do wzoru sprawozdania z postępów, formatu dokumentu służącego przekazywaniu informacji na temat dużych projektów, wzorów wspólnego planu działania, sprawozdań z wdrażania w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia”, deklaracji zarządczej, strategii audytu, opinii audytowej i rocznego sprawozdania z kontroli oraz metodyki przeprowadzania analizy kosztów i korzyści, a także zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1299/2013 w odniesieniu do wzoru sprawozdań z wdrażania w ramach celu „Europejska współpraca terytorialna” (Dz. Urz. UE L 38 z 13.02.2015, str. 1, z późn. zm.).
 
 **Art. 440a.**
-1. Dla projektów, których całkowite koszty kwalifikowalne przekraczają kwoty wskazane w art. 100 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), w celu potwierdzenia zgodności inwestycji lub działań z celami środowiskowymi, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61, dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich sporządza dokument potwierdzający zgodność z tymi celami środowiskowymi.
+1. Dla projektów, których całkowite koszty kwalifikowalne przekraczają kwoty wskazane w art. 100 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólne przepisy dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności, Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz Europejskiego Funduszu Morskiego i Rybackiego oraz ustanawiającego przepisy ogólne dotyczące Europejskiego Funduszu Rozwoju Regionalnego, Europejskiego Funduszu Społecznego, Funduszu Spójności i Europejskiego Funduszu Morskiego i Rybackiego oraz uchylającego rozporządzenie Rady (WE) nr 1083/2006 (Dz. Urz. UE L 347 z 20.12.2013, str. 320, z późn. zm.), w celu potwierdzenia zgodności inwestycji lub działań z celami środowiskowymi, o których mowa w art. 56, art. 57, art. 59 oraz art. 61, minister właściwy do spraw gospodarki wodnej - dla projektów realizowanych przez Wody Polskie, a dla pozostałych projektów - dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich, sporządza dokument potwierdzający zgodność z tymi celami środowiskowymi.
 2. W przypadku, o którym mowa w ust. 1, gdy projekt obejmuje obszar działania więcej niż jednego regionalnego zarządu gospodarki wodnej Wód Polskich, dokument, o którym mowa w ust. 1, sporządzany jest oddzielnie dla każdego obszaru działania, na którym planowana jest realizacja projektu.
 3. Dokument, o którym mowa w ust. 1, sporządza się, na wniosek podmiotu planującego realizację danego projektu, w przypadku innym niż określony w art. 439.
 4. Dokument, o którym mowa w ust. 1, sporządza się zgodnie ze wzorem określonym w załączniku II do rozporządzenia wykonawczego Komisji (UE) 2015/207 z dnia 20 stycznia 2015 r. ustanawiającego szczegółowe zasady wykonania rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1303/2013 w odniesieniu do wzoru sprawozdania z postępów, formatu dokumentu służącego przekazywaniu informacji na temat dużych projektów, wzorów wspólnego planu działania, sprawozdań z wdrażania w ramach celu „Inwestycje na rzecz wzrostu i zatrudnienia”, deklaracji zarządczej, strategii audytu, opinii audytowej i rocznego sprawozdania z kontroli oraz metodyki przeprowadzania analizy kosztów i korzyści, a także zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 1299/2013 w odniesieniu do wzoru sprawozdań z wdrażania w ramach celu „Europejska współpraca terytorialna”.”
@@ -5250,6 +5275,27 @@
 5. W przypadku, o którym mowa w ust. 4, statut spółki wodnej określa sposób obliczania podwyższonej liczby głosów.
 6. Do walnego zgromadzenia delegatów przepisy ust. 1-5 stosuje się odpowiednio.
 
+**Art. 459a.**
+1. Udział w walnym zgromadzeniu można wziąć także przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki wodnej stanowi inaczej. O udziale w walnym zgromadzeniu w sposób, o którym mowa w zdaniu pierwszym, postanawia zarząd, mając na uwadze, że ten sposób udziału w walnym zgromadzeniu nie może wykluczać udziału zainteresowanych członków spółki wodnej ze względu na znaczne utrudnienia lub brak możliwości wykorzystania środków bezpośredniego porozumiewania się na odległość.
+2. Udział w walnym zgromadzeniu w sposób, o którym mowa w ust. 1 zdanie pierwsze, obejmuje w szczególności:
+  1) dwustronną komunikację w czasie rzeczywistym wszystkich osób biorących udział w walnym zgromadzeniu, w ramach której mogą one wypowiadać się w toku obrad walnego zgromadzenia, także przebywając w innym miejscu niż miejsce obrad walnego zgromadzenia;
+  2) wykonywanie prawa głosu przed walnym zgromadzeniem lub w jego toku.
+3. W przypadku gdy udział w walnym zgromadzeniu następuje przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, w zawiadomieniu należy dodatkowo zamieścić informacje o sposobie udziału w tym zgromadzeniu, wypowiadania się w jego trakcie, wykonywania na nim prawa głosu oraz sposobie wniesienia sprzeciwu od podjętej na nim uchwały.
+4. W przypadku wykonywania prawa głosu przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość spółka wodna niezwłocznie przesyła członkowi potwierdzenie otrzymania głosu.
+5. Na wniosek członka spółki wodnej, złożony nie później niż po upływie trzech miesięcy od dnia walnego zgromadzenia, spółka wodna przesyła członkowi lub jego pełnomocnikowi potwierdzenie, że jego głos został prawidłowo zarejestrowany oraz policzony, chyba że takie potwierdzenie zostało przekazane członkowi lub jego pełnomocnikowi wcześniej.
+6. Do walnego zgromadzenia delegatów przepisy ust. 1-5 stosuje się odpowiednio.
+
+**Art. 459b.**
+1. Zarząd może zarządzić podjęcie określonej uchwały przez walne zgromadzenie na piśmie lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, mając na uwadze, że ten sposób podjęcia uchwały nie może wykluczać zainteresowanych członków spółki wodnej ze względu na znaczne utrudnienia lub brak możliwości wykorzystania środków bezpośredniego porozumiewania się na odległość.
+2. Uchwała walnego zgromadzenia może być podjęta, jeżeli wszyscy członkowie spółki wodnej zostali zawiadomieni o głosowaniu na piśmie lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość. Uchwała walnego zgromadzenia może być również wynikiem głosów częściowo oddanych na piśmie lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
+3. Przy obliczaniu kworum uwzględnia się członków spółki wodnej uczestniczących przez oddanie głosu na piśmie lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość.
+4. Głosowanie w trybie określonym w ust. 2 może być przeprowadzone, chyba że statut spółki wodnej stanowi inaczej.
+5. Podjęcie przez walne zgromadzenie uchwały w trybie określonym w ust. 2 stwierdza zarząd przez zliczenie głosów i podpisanie uchwały.
+6. Uchwały walnego zgromadzenia podjęte w trybie określonym w ust. 2 podpisują:
+  1) 1 członek zarządu - gdy w skład zarządu wchodzą nie więcej niż 2 osoby;
+  2) 2 członków zarządu - w pozostałych przypadkach.
+7. Do walnego zgromadzenia delegatów przepisy ust. 1-6 stosuje się odpowiednio.
+
 **Art. 460.**
 1. Zarząd wykonuje uchwały walnego zgromadzenia, kieruje działalnością spółki wodnej, zarządza majątkiem spółki wodnej, prowadzi gospodarkę finansową spółki wodnej i reprezentuje spółkę wodną na zewnątrz.
 2. Zarząd może być jednoosobowy lub wieloosobowy.
@@ -5260,12 +5306,24 @@
   2) 2 członków zarządu - w pozostałych przypadkach.
 6. Zarząd ma prawo obciążania członków spółki wodnej kosztami świadczeń lub prac niewykonanych w terminie.
 
+**Art. 460a.**
+1. Udział w posiedzeniu zarządu można wziąć także przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki wodnej stanowi inaczej.
+2. Zarząd może podejmować uchwały na piśmie lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki wodnej stanowi inaczej.
+
 **Art. 461.**
 1. Komisja rewizyjna kontroluje działalność spółki wodnej.
 2. Komisja rewizyjna jest obowiązana do przeprowadzenia kontroli gospodarki finansowej spółki wodnej co najmniej raz w roku, przed walnym zgromadzeniem, i przedstawienia wyników tej kontroli walnemu zgromadzeniu w formie sprawozdania.
 3. Komisja rewizyjna składa się co najmniej z 3 członków.
 4. Komisja rewizyjna jest wybierana na 5 lat, jeżeli statut spółki wodnej nie stanowi inaczej.
 5. Członek komisji rewizyjnej nie może wchodzić w skład zarządu.
+
+**Art. 461a.**
+1. Udział w posiedzeniu komisji rewizyjnej można wziąć także przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki wodnej stanowi inaczej.
+2. Komisja rewizyjna może podejmować uchwały na piśmie lub przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość, chyba że statut spółki wodnej stanowi inaczej.
+
+**Art. 461b.** Jeżeli kadencja zarządu upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo do 30 dni od dnia odwołania danego stanu, podlega ona przedłużeniu do czasu wyboru zarządu na nową kadencję, jednak nie dłużej niż do 60. dnia od dnia odwołania danego stanu, chyba że zarząd zapewni możliwość powołania zarządu na nową kadencję przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość w sposób niewykluczający realizacji swoich praw przez osoby uprawnione do wyboru członków zarządu.
+
+**Art. 461c.** Jeżeli kadencja komisji rewizyjnej upływa w okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii albo do 30 dni od dnia odwołania danego stanu, podlega ona przedłużeniu do czasu wyboru komisji rewizyjnej na nową kadencję, jednak nie dłużej niż do 60. dnia od dnia odwołania danego stanu, chyba że zarząd zapewni możliwość powołania komisji rewizyjnej na nową kadencję przy wykorzystaniu środków bezpośredniego porozumiewania się na odległość w sposób niewykluczający realizacji swoich praw przez osoby uprawnione do wyboru członków komisji rewizyjnej.
 
 ### Rozdział 3 — Nadzór i kontrola nad działalnością spółki wodnej
 
