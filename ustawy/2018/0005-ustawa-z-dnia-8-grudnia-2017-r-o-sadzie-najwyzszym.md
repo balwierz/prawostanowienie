@@ -251,7 +251,7 @@
       – z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2021 r. poz. 177 oraz z 2022 r. poz. 375 i 1259),
       – z dnia 11 kwietnia 2001 r. o rzecznikach patentowych (Dz. U. z 2021 r. poz. 944),
       – z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych,
-      – z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. z 2022 r. poz. 134 i 974),
+      – z dnia 15 września 2022 r. o medycynie laboratoryjnej (Dz. U. poz. 2280),
       – z dnia 2 grudnia 2009 r. o izbach lekarskich (Dz. U. z 2021 r. poz. 1342),
       – z dnia 1 lipca 2011 r. o samorządzie pielęgniarek i położnych (Dz. U. z 2021 r. poz. 628),
       – z dnia 25 września 2015 r. o zawodzie fizjoterapeuty (Dz. U. z 2022 r. poz. 168),
