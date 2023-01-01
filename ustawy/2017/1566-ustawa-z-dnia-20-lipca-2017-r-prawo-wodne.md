@@ -2783,7 +2783,8 @@
 **Art. 256.**
 1. Przychodami Wód Polskich mogą być środki pochodzące z budżetu Unii Europejskiej, środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, inne niż środki pochodzące z budżetu Unii Europejskiej oraz środki z kredytów i pożyczek.
 2. Wody Polskie mogą otrzymywać dotacje celowe z budżetu państwa na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-3. Przychody, o których mowa w art. 255 pkt 1-9 oraz w pkt 10 lit. a, a także dotacje z budżetu państwa, o których mowa w ust. 2, nie mogą być wykorzystywane na potrzeby wykonywania przez Wody Polskie działalności gospodarczej.
+2a. Wody Polskie mogą otrzymywać na zasadach określonych w przepisach ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych dotacje podmiotowe z budżetu państwa przeznaczone na dofinansowanie działalności bieżącej.
+3. Przychody, o których mowa w art. 255 pkt 1-9 oraz pkt 10 lit. a, a także dotacje z budżetu państwa, o których mowa w ust. 2 i 2a, nie mogą być wykorzystywane na potrzeby wykonywania przez Wody Polskie działalności gospodarczej.
 
 **Art. 257.** (uchylony)
 
