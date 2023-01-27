@@ -4699,6 +4699,12 @@
 5. (uchylony)
 6. Wniosek o wydanie pozwolenia wodnoprawnego, oceny wodnoprawnej, decyzji, o których mowa w art. 77 ust. 3 i 8 oraz w art. 176 ust. 4, a także zgłoszenie wodnoprawne składa się do nadzoru wodnego właściwego miejscowo albo najbliższego dla zamierzonego korzystania z usług wodnych lub wykonywania urządzeń wodnych, lub innej działalności wymagającej zgody wodnoprawnej.
 
+**Art. 397a.**
+1. Wniosek o wydanie pozwolenia wodnoprawnego, oceny wodnoprawnej, decyzji, o których mowa w art. 77 ust. 3 i 8 oraz w art. 176 ust. 4, oraz o udzielenie przyrzeczenia wydania pozwolenia wodnoprawnego, a także zgłoszenie wodnoprawne składa się w:
+  1) postaci papierowej albo
+  2) formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+2. Wzory wniosków oraz wzór zgłoszenia, o których mowa w ust. 1, w tym w formie dokumentu elektronicznego, Prezes Wód Polskich opracowuje, po uzgodnieniu z ministrem właściwym do spraw gospodarki wodnej, i udostępnia w Biuletynie Informacji Publicznej na stronie podmiotowej Wód Polskich.
+
 **Art. 398.**
 1. Za udzielenie zgód wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 1-3, ponosi się opłatę.
 2. Za przyjęcie zgłoszenia wodnoprawnego opłata wynosi 87 zł.
@@ -4820,7 +4826,7 @@
 3. Do wniosku o wydanie pozwolenia wodnoprawnego na piętrzenie wód powierzchniowych budowlą piętrzącą o wysokości piętrzenia powyżej 1 m oraz wyposażoną w urządzenia umożliwiające regulowanie przepływu lub na zależne od siebie korzystanie z wód przez kilka zakładów dołącza się projekt instrukcji gospodarowania wodą zawierający opis sposobu gospodarowania wodą i zaspokojenia potrzeb wszystkich użytkowników odnoszących korzyści z urządzeń wodnych, których dotyczy instrukcja gospodarowania wodą, w liczbie egzemplarzy uwzględniającej właściciela wody oraz liczbę zakładów korzystających z wód, których dotyczy instrukcja gospodarowania wodą.
 4. Do wniosku o wydanie pozwolenia wodnoprawnego na pobór wód podziemnych oraz na odwodnienie zakładu górniczego lub obiektu budowlanego dołącza się dokumentację hydrogeologiczną, jeżeli jest wymagana.
 5. Do wniosku o wydanie pozwolenia wodnoprawnego na wprowadzanie do urządzeń kanalizacyjnych ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska wodnego, określone w przepisach wydanych na podstawie art. 100 ust. 1, dołącza się zgodę właściciela tych urządzeń lub obowiązującą na dzień złożenia wniosku umowę obejmującą zobowiązanie do odbioru tych ścieków zawartą z właścicielem tych urządzeń.
-6. Minister właściwy do spraw gospodarki wodnej określi i zamieści na stronie podmiotowej Biuletynu Informacji Publicznej urzędu zapewniającego jego obsługę wzór wniosku, o którym mowa w ust. 1, w formie dokumentu elektronicznego w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
+6. (uchylony)
 
 **Art. 408.** Operat sporządza się pisemnie w formie opisowej i graficznej, a także na informatycznych nośnikach danych jako dokument tekstowy, a część graficzną operatu w postaci plików typu rastrowego (PDF) lub plików w formacie wektorowych danych przestrzennych, odwzorowanych w jednym z obowiązujących układów współrzędnych geodezyjnych.
 
@@ -4940,7 +4946,7 @@
 5. W okresie ważności przyrzeczenia, o którym mowa w ust. 1, organ właściwy w sprawie zgód wodnoprawnych nie może odmówić wydania pozwolenia wodnoprawnego, chyba że zachodzą przesłanki, o których mowa w art. 399.
 6. W przypadkach innych niż określone w art. 393 ust. 1-3, od dnia złożenia wniosku o udzielenie przyrzeczenia wydania pozwolenia wodnoprawnego, nie wydaje się pozwolenia wodnoprawnego dla innego zakładu ani nie udziela się przyrzeczenia wydania pozwolenia wodnoprawnego dla innego zakładu w zakresie objętym tym wnioskiem.
 7. W okresie obowiązywania przyrzeczenia udzielenia pozwolenia wodnoprawnego nie wydaje się pozwolenia wodnoprawnego dla innego zakładu ani nie udziela się przyrzeczenia wydania pozwolenia wodnoprawnego dla innego zakładu, w zakresie objętym udzielonym przyrzeczeniem.
-8. Minister właściwy do spraw gospodarki wodnej określi wzór wniosku o udzielenie przyrzeczenia wydania pozwolenia wodnoprawnego, w formie dokumentu elektronicznego w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, i zamieści ten wzór w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu zapewniającego jego obsługę oraz w Biuletynie Informacji Publicznej na stronie podmiotowej Wód Polskich.
+8. (uchylony)
 
 **Art. 413.** Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw żeglugi śródlądowej określi, w drodze rozporządzenia, zakres instrukcji gospodarowania wodą, kierując się funkcją urządzeń wodnych oraz koniecznością zaspokojenia potrzeb wodnych korzystających z wód, stosownie do posiadanych przez nich uprawnień.
 
