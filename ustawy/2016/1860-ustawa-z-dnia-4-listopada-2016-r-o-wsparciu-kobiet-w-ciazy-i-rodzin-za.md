@@ -69,7 +69,8 @@
 1. Z tytułu urodzenia się żywego dziecka, posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3, przyznaje się, na to dziecko, jednorazowe świadczenie w wysokości 4000 zł.
 2. Jednorazowe świadczenie przysługuje matce lub ojcu dziecka, opiekunowi prawnemu albo opiekunowi faktycznemu dziecka bez względu na dochód.
 3. Prawo do jednorazowego świadczenia ustala się na wniosek osób, o których mowa w ust. 2.
-4. Wniosek o wypłatę jednorazowego świadczenia składa się w terminie 12 miesięcy od dnia narodzin dziecka. Wniosek złożony po terminie pozostawia się bez rozpoznania.
+4. Wniosek o ustalenie prawa do jednorazowego świadczenia składa się w terminie 12 miesięcy od dnia narodzin dziecka, a w przypadku gdy wniosek dotyczy dziecka objętego opieką prawną, opieką faktyczną albo dziecka przysposobionego - w terminie 12 miesięcy od dnia objęcia dziecka opieką albo przysposobienia, nie później niż do ukończenia przez dziecko 18. roku życia. Wniosek złożony po terminie właściwy organ pozostawia bez rozpoznania.
+4a. Przyznanie jednorazowego świadczenia przed dniem objęcia dziecka opieką przez opiekuna prawnego, opiekuna faktycznego lub przysposobienia nie wyklucza prawa opiekuna prawnego, opiekuna faktycznego lub rodzica adopcyjnego do jednorazowego świadczenia po objęciu dziecka opieką albo przysposobieniem.
 5. Jednorazowe świadczenie przysługuje, jeżeli kobieta pozostawała pod opieką medyczną nie później niż od 10 tygodnia ciąży do porodu.
 6. Pozostawanie pod opieką medyczną potwierdza się zaświadczeniem lekarskim lub zaświadczeniem wystawionym przez położną. Przepisy wydane na podstawie art. 9 ust. 8 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2016 r. poz. 1518 i 1579) stosuje się odpowiednio.
 7. Przepisu ust. 5 nie stosuje się do osób będących prawnymi lub faktycznymi opiekunami dziecka, a także do osób, które przysposobiły dziecko.
