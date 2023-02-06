@@ -700,6 +700,39 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 8. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, wprowadzenia stanu klęski żywiołowej lub stanu wyjątkowego, ogłoszenia mobilizacji lub w czasie wojny Komendant SOP może wprowadzić, w zakresie określonym w ust. 2, odmienny od obowiązującego rozkład czasu służby i tryb udzielania czasu wolnego w zamian za służbę w wymiarze przekraczającym 40 godzin tygodniowo w SOP, z zachowaniem przepisu ust. 4.
 9. W przypadku ogłoszenia stanu zagrożenia epidemicznego albo stanu epidemii, wprowadzenia stanu klęski żywiołowej lub stanu wyjątkowego Komendant SOP może wprowadzić odmienny od obowiązującego rozkład czasu służby obejmujący wymiar czasu służby niższy niż określony w ust. 2. Obniżenie wymiaru czasu służby w takim przypadku nie powoduje obniżenia uposażenia.
 
+**Art. 81a.**
+1. W okresie obowiązywania stanu zagrożenia epidemicznego, stanu epidemii lub stanu klęski żywiołowej związanej z występowaniem chorób zakaźnych u ludzi kierownik komórki organizacyjnej SOP może w celu przeciwdziałania chorobom zakaźnym polecić funkcjonariuszowi pełnienie służby poza miejscem jej stałego wykonywania, w szczególności z wykorzystaniem środków bezpośredniego porozumiewania się na odległość (służba pełniona w formie zdalnej).
+2. Kierownik jednostki organizacyjnej SOP wydaje i cofa, w postaci papierowej lub elektronicznej, polecenia pełnienia służby w formie zdalnej.
+3. Kierownik komórki organizacyjnej SOP w poleceniu pełnienia służby w formie zdalnej określa czas i miejsce jej pełnienia oraz sposób porozumiewania się funkcjonariusza z przełożonym.
+4. Funkcjonariusz może pełnić służbę w formie zdalnej, jeżeli ma możliwości techniczne oraz lokalowe do jej pełnienia i pozwala na to charakter wykonywanych przez niego zadań.
+5. Narzędzia i materiały niezbędne do pełnienia służby w formie zdalnej oraz obsługę logistyczną zapewnia kierownik komórki organizacyjnej SOP.
+6. W trakcie służby pełnionej w formie zdalnej funkcjonariusz zapewnia ochronę tajemnic związanych ze służbą oraz danych osobowych.
+7. W trakcie pełnienia służby w formie zdalnej funkcjonariusz może używać narzędzi lub materiałów niezapewnionych przez kierownika komórki organizacyjnej SOP, jeżeli:
+  1) narzędzia i materiały spełniają wymagania, o których mowa w ust. 6;
+  2) narzędzia spełniają wymagania określone w rozdziale IV działu dziesiątego ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz. U. z 2022 r. poz. 1510, 1700 i 2140 oraz z 2023 r. poz. 240), zwanej dalej „Kodeksem pracy”.
+8. Na polecenie kierownika komórki organizacyjnej SOP funkcjonariusz pełniący służbę w formie zdalnej ma obowiązek prowadzić ewidencję wykonanych czynności, uwzględniającą w szczególności opis tych czynności, a także datę ich wykonania. Ewidencję wykonanych czynności funkcjonariusz sporządza w formie i z częstotliwością określonymi w poleceniu.
+9. Funkcjonariusz ma obowiązek na polecenie kierownika komórki organizacyjnej SOP stawić się w miejscu stałego wykonywania służby.
+10. Kierownik komórki organizacyjnej SOP może w każdym czasie cofnąć polecenie pełnienia służby w formie zdalnej.
+
+**Art. 81b.**
+1. Komendant SOP realizuje w stosunku do funkcjonariusza pełniącego służbę w formie zdalnej obowiązki określone w art. 134-136 w czasie pełnienia przez niego służby w formie zdalnej, z wyłączeniem obowiązków określonych w art. 208 § 1, art. 2091-2093, art. 210 § 1-5, art. 212 pkt 1 i 4, art. 213, art. 214 i art. 233 oraz przepisów wykonawczych wydanych na podstawie art. 210 § 6 Kodeksu pracy.
+2. Komendant SOP lub osoba przez niego upoważniona przed rozpoczęciem przez funkcjonariusza służby pełnionej w formie zdalnej przekazuje funkcjonariuszowi pełniącemu służbę w formie zdalnej informacje dotyczące:
+  1) zasad:
+    a) oraz sposobu właściwej organizacji stanowiska służby pełnionej w formie zdalnej, z uwzględnieniem wymagań ergonomii,
+    b) bezpiecznego i higienicznego wykonywania służby pełnionej w formie zdalnej,
+    c) postępowania w sytuacjach awaryjnych stwarzających zagrożenie dla życia lub zdrowia;
+  2) czynności do wykonania po zakończeniu wykonywania służby pełnionej w formie zdalnej.
+3. Przed dopuszczeniem do wykonywania służby pełnionej w formie zdalnej funkcjonariusz w oświadczeniu składanym w postaci papierowej lub elektronicznej:
+  1) potwierdza:
+    a) zapoznanie się z informacjami, o których mowa w ust. 2,
+    b) że na stanowisku służby pełnionej w formie zdalnej w miejscu wskazanym w poleceniu, o którym mowa w art. 81a ust. 3, są zapewnione bezpieczne i higieniczne warunki tej służby;
+  2) zobowiązuje się do przestrzegania zasad, o których mowa w ust. 2 pkt 1, oraz do wykonywania czynności, o których mowa w ust. 2 pkt 2.
+4. Funkcjonariusz organizuje stanowisko służby pełnionej w formie zdalnej, uwzględniając wymagania ergonomii.
+5. Komendant SOP lub osoba przez niego upoważniona mają prawo przeprowadzać kontrolę warunków bezpieczeństwa i higieny służby pełnionej w formie zdalnej przez funkcjonariusza w miejscu i w godzinach pełnienia tej służby.
+6. Komendant SOP lub osoba przez niego upoważniona dostosowują sposób przeprowadzania kontroli, o której mowa w ust. 5, do miejsca wykonywania i charakteru służby pełnionej w formie zdalnej. Wykonywanie czynności kontrolnych nie może naruszać prywatności funkcjonariusza pełniącego służbę w formie zdalnej i innych osób ani utrudniać korzystania z pomieszczeń domowych w sposób zgodny z ich przeznaczeniem.
+7. W razie zaistnienia wypadku pozostającego w związku z pełnieniem służby w formie zdalnej stosuje się przepisy ustawy z dnia 4 kwietnia 2014 r. o świadczeniach odszkodowawczych przysługujących w razie wypadku lub choroby pozostających w związku ze służbą (Dz. U. z 2022 r. poz. 1032).
+8. Zgłoszenie kierownikowi komórki organizacyjnej SOP wypadku pozostającego w związku z pełnieniem służby w formie zdalnej jest równoznaczne z wyrażeniem przez funkcjonariusza zgody na przeprowadzenie oględzin miejsca wypadku, narzędzi, oceny ich stanu technicznego oraz zbadania warunków pełnienia tej służby i innych okoliczności, które mogły mieć wpływ na powstanie wypadku lub mają z nim związek. Oględzin dokonuje się niezwłocznie po zgłoszeniu wypadku pozostającego w związku z pełnieniem służby w formie zdalnej, w terminie uzgodnionym przez funkcjonariusza albo jego domownika, w przypadku gdy funkcjonariusz ze względu na stan zdrowia nie jest w stanie uzgodnić tego terminu, i przewodniczącego komisji powypadkowej. Komisja powypadkowa może odstąpić od dokonywania oględzin, jeżeli uzna, że okoliczności i przyczyny wypadku nie budzą jej wątpliwości.
+
 **Art. 82.**
 1. Funkcjonariusz podlega okresowemu opiniowaniu służbowemu. Funkcjonariusz w służbie przygotowawczej podlega opiniowaniu służbowemu nie rzadziej niż raz w roku. Funkcjonariusz w służbie stałej podlega opiniowaniu służbowemu nie rzadziej niż co 3 lata.
 2. W wydanej opinii służbowej przełożony zamieszcza ogólną ocenę o opiniowanym funkcjonariuszu wyrażoną w skali od 1 do 6 (niedostateczna, mierna, dostateczna, dobra, bardzo dobra, wzorowa).
@@ -737,7 +770,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 6) innych uzasadnionych potrzeb SOP.
 
 **Art. 87.**
-1. Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz. U. z 2018 r. poz. 108 i 4), zwanej dalej „Kodeksem pracy”, z wyjątkiem art. 1867, jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
+1. Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w zastępuje się wyrazami „Kodeksie pracy”, z wyjątkiem art. 1867, jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
 2. Jeżeli oboje rodzice są funkcjonariuszami, z uprawnień, o których mowa w ust. 1, może korzystać tylko jedno z nich.
 
 **Art. 88.**
