@@ -1074,9 +1074,60 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 4. Funkcjonariusz przestrzega dyscypliny służbowej oraz zasad etyki zawodowej.
 
 **Art. 131.**
-1. W celu ustalenia zdolności do wykonywania obowiązków służbowych funkcjonariusz jest obowiązany poddać się, na żądanie Komendanta SOP lub kierownika komórki organizacyjnej SOP, badaniu na zawartość środka odurzającego lub innych podobnie działających substancji lub środka.
-2. Komendant SOP lub kierownicy komórek organizacyjnych SOP mają obowiązek niedopuszczenia do służby funkcjonariusza, jeżeli zachodzi uzasadnione podejrzenie, że stawił się on do służby po spożyciu środka odurzającego lub innych podobnie działających substancji lub środka albo spożywał je w czasie służby. Okoliczności stanowiące podstawę decyzji powinny być podane funkcjonariuszowi do wiadomości.
-3. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, warunki i sposób dokonywania badań, o których mowa w ust. 1, uwzględniając potrzebę prawidłowego stwierdzenia zawartości w organizmie funkcjonariusza środka odurzającego lub innych podobnie działających substancji lub środka.
+1. Komendant SOP, a w komórce organizacyjnej SOP kierownik tej komórki, ma obowiązek niedopuszczenia podległego mu funkcjonariusza do służby w przypadku:
+  1) stawienia się przez niego do służby w stanie po użyciu alkoholu albo w stanie nietrzeźwości w rozumieniu art. 46 ust. 2 albo 3 ustawy z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2023 r. poz. 165 i 240), lub po użyciu podobnie działającego środka, pełnienia jej w takim stanie, spożywania alkoholu lub używania podobnie działającego środka w czasie służby albo w obiektach lub na terenach zajmowanych przez SOP albo
+  2) uzasadnionego podejrzenia, że zachodzą okoliczności, o których mowa w pkt 1.
+2. Komendant SOP albo kierownik komórki organizacyjnej SOP, w której funkcjonariusz pełni służbę, informuje funkcjonariusza o okolicznościach stanowiących podstawę niedopuszczenia go do służby.
+3. W celu weryfikacji istnienia przesłanek uzasadniających niedopuszczenie funkcjonariusza do służby Komendant SOP, osoba przez niego upoważniona lub kierownik komórki organizacyjnej SOP, zwani dalej „zarządzającym badania”, są uprawnieni do wydania polecenia poddania się przez funkcjonariusza badaniu na zawartość w organizmie alkoholu lub badaniu na obecność w organizmie innego podobnie działającego środka.
+4. Funkcjonariusz ma obowiązek poddać się badaniu, o którym mowa w ust. 3, oraz umożliwić jego przeprowadzenie.
+5. Badanie, o którym mowa w ust. 3, może obejmować odpowiednio przy badaniu na zawartość w organizmie:
+  1) alkoholu - badanie wydychanego powietrza lub badanie krwi;
+  2) środka działającego podobnie do alkoholu - badanie:
+    a) śliny,
+    b) krwi,
+    c) moczu,
+    d) potu.
+6. Badanie krwi, o którym mowa w ust. 5 pkt 1, przeprowadza się, jeżeli:
+  1) funkcjonariusz odmawia poddania się badaniu wydychanego powietrza;
+  2) funkcjonariusz, pomimo przeprowadzenia badania wydychanego powietrza, żąda badania krwi;
+  3) stan funkcjonariusza, w szczególności wynikający ze spożycia alkoholu, choroby układu oddechowego lub innych przyczyn, uniemożliwia przeprowadzenie badania wydychanego powietrza;
+  4) wystąpił brak wskazania stężenia alkoholu w wydychanym powietrzu spowodowany przekroczeniem zakresu pomiarowego urządzenia wykorzystywanego do pomiaru.
+7. Badania, o których mowa w ust. 5 pkt 2 lit. b lub c, przeprowadza się, jeżeli:
+  1) funkcjonariusz odmawia poddania się badaniu, o którym mowa w ust. 5 pkt 2 lit. a lub d;
+  2) funkcjonariusz, pomimo przeprowadzenia badania, o którym mowa w ust. 5 pkt 2 lit. a lub d, żąda badania krwi lub moczu;
+  3) stan funkcjonariusza uniemożliwia przeprowadzenie badania, o którym mowa w ust. 5 pkt 2 lit. a lub d.
+8. Czynności związane z pobraniem materiału biologicznego do badań, o których mowa w ust. 3:
+  1) odbywają się w miejscu i w warunkach zapewniających poszanowanie godności i intymności funkcjonariusza, od którego pobiera się materiał do badań;
+  2) w postaci krwi - są przeprowadzane przez osobę posiadającą odpowiednie kwalifikacje zawodowe;
+  3) w postaci moczu lub potu - odbywają się w obecności osoby tej samej płci co funkcjonariusz, od którego pobiera się materiał biologiczny do badań:
+    a) o której mowa w pkt 2,
+    b) wskazanej przez zarządzającego badania - w przypadku braku możliwości zapewnienia obecności osoby, o której mowa w pkt 2.
+9. W przypadku powzięcia uzasadnionego podejrzenia, że pobranie krwi może spowodować zagrożenie życia lub zdrowia funkcjonariusza, decyzję o przeprowadzeniu badania krwi podejmuje lekarz.
+10. W przypadku poddania funkcjonariusza badaniu w celu, o którym mowa w ust. 3, niedopuszczenie do służby trwa do czasu uzyskania wyniku badania wykluczającego w odniesieniu do funkcjonariusza poddanego badaniu:
+  1) stan po użyciu alkoholu albo stan nietrzeźwości lub
+  2) obecność w organizmie środka działającego podobnie do alkoholu
+- nie dłużej jednak niż do końca służby wynikającego z obowiązującego rozkładu czasu służby.
+11. W przypadku niedopuszczenia funkcjonariusza do służby, o którym mowa w ust. 1, do uposażenia funkcjonariusza za ten okres stosuje się odpowiednio przepisy art. 199 ust. 1 i 4 oraz art. 203.
+12. Przebieg badań, o których mowa w ust. 3, dokumentuje się z uwzględnieniem:
+  1) daty, godziny i minuty oraz miejsca przeprowadzenia badania;
+  2) wyniku badania;
+  3) stopnia, imienia i nazwiska, stanowiska oraz podpisu zarządzającego badania;
+  4) danych osobowych funkcjonariusza:
+    a) stopnia, imienia i nazwiska oraz stanowiska,
+    b) daty urodzenia, informacji o chorobach, na jakie choruje funkcjonariusz, oraz podpisu funkcjonariusza - jeżeli dane te pozyskano w związku z przeprowadzanym badaniem;
+  5) imienia, nazwiska i podpisu osoby przeprowadzającej badanie;
+  6) imienia, nazwiska, stanowiska i podpisu osoby przeprowadzającej pobranie próbek materiału biologicznego do badań;
+  7) imienia, nazwiska i podpisu osoby, w obecności której przeprowadzano badanie;
+  8) informacji o objawach lub okolicznościach uzasadniających przeprowadzenie badania oraz dacie, godzinie i minucie ich stwierdzenia;
+  9) innych informacji niezbędnych do oceny wiarygodności i poprawności badania;
+  10) w przypadku odstąpienia od pobrania próbek krwi - informacji o przyczynie odstąpienia.
+13. W przypadku badań, o których mowa w ust. 5 pkt 1, poza danymi, o których mowa w ust. 12 pkt 4, dokumentacja obejmuje również następujące dane osobowe funkcjonariusza: płeć, wzrost, masę ciała - jeżeli dane te pozyskano w związku z przeprowadzanym badaniem.
+14. Dokumentację zawierającą wyniki badań przekazuje się niezwłocznie zarządzającemu badania.
+15. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia:
+  1) warunki i metody przeprowadzania badań, o których mowa w ust. 3,
+  2) sposób dokumentowania badań, o których mowa w ust. 3, w tym wzory protokołów z przeprowadzonych badań,
+  3) wykaz środków działających podobnie do alkoholu
+- mając na uwadze potrzebę sprawnego pobrania materiału do badań, sprawnego i prawidłowego przeprowadzania badań oraz zagwarantowania wiarygodności ich wyników, a także metodykę przeprowadzania takich badań oraz skutki oddziaływania środków działających podobnie do alkoholu na organizm i zapewniając poszanowanie godności funkcjonariusza i zasad ochrony danych osobowych.
 
 **Art. 132.**
 1. Funkcjonariusz otrzymuje bezpłatne umundurowanie i wyposażenie. Umundurowanie i wyposażenie funkcjonariusza przechodzą na własność funkcjonariusza z chwilą wydania i podlegają zwrotowi w przypadku zwolnienia funkcjonariusza ze służby, w zakresie przedmiotów umundurowania i wyposażenia, których okres używalności nie upłynął.
