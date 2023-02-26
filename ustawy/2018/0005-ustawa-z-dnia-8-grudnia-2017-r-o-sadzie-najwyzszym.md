@@ -226,6 +226,7 @@
   6) spraw z zakresu ochrony konkurencji i konsumentów oraz z zakresu praktyk nieuczciwie wykorzystujących przewagę kontraktową;
   7) spraw z zakresu regulacji energetyki, telekomunikacji i poczty, transportu kolejowego oraz z zakresu regulacji rynku wodno-kanalizacyjnego;
   8) spraw, w których złożono odwołanie od decyzji Przewodniczącego Krajowej Rady Radiofonii i Telewizji;
+  8a) spraw, w których złożono odwołanie od postanowienia Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
   9) spraw z zakresu przeniesienia sędziego Sądu Najwyższego w stan spoczynku;
   10) skarg dotyczących przewlekłości postępowania przed sądami powszechnymi i wojskowymi oraz Sądem Najwyższym;
   11) innych spraw z zakresu prawa publicznego niezastrzeżonych do właściwości innych izb Sądu Najwyższego.
