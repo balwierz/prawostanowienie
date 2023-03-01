@@ -1478,7 +1478,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   2) efektów pracy funkcjonariusza;
   3) opinii służbowej poprzedzającej ustalenie wysokości dodatku specjalnego.
 4. Wysokość dodatku specjalnego funkcjonariusza, który uzyskał opinię służbową zawierającą ogólną ocenę bardzo dobrą albo wzorową, nie może być niższa niż 5% uposażenia zasadniczego.
-5. Łączna wysokość dodatku specjalnego oraz dodatku uzasadnionego szczególnymi kwalifikacjami, warunkami lub miejscem pełnienia służby nie może przekroczyć 75% uposażenia zasadniczego.
+5. Łączna wysokość dodatku specjalnego oraz dodatku uzasadnionego szczególnymi kwalifikacjami, warunkami lub miejscem pełnienia służby nie może przekroczyć 80% uposażenia zasadniczego.
 6. Komendant SOP ustala wysokość dodatku specjalnego funkcjonariusza na wniosek kierownika komórki organizacyjnej SOP, w której funkcjonariusz pełni służbę, a kierownikom komórek organizacyjnych SOP i ich zastępcom bezpośrednio.
 7. Minister właściwy do spraw wewnętrznych ustala wysokość dodatku specjalnego Komendantowi SOP-funkcjonariuszowi bezpośrednio, a jego zastępcom-funkcjonariuszom na wniosek Komendanta SOP.
 8. Odpowiednio Komendant SOP i minister właściwy do spraw wewnętrznych ustala wysokość dodatku specjalnego na okres 1 roku od dnia 1 sierpnia do dnia 31 lipca następnego roku.
@@ -1550,7 +1550,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   6) rekompensata pieniężna za czas służby przekraczający normę, o której mowa w art. 81 ust. 2.
   7) świadczenie pieniężne w zamian za wyżywienie;
   8) świadczenie motywacyjne;
-  9) świadczenie teleinformatyczne, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. poz. 2333), zwane dalej „świadczeniem teleinformatycznym”.
+  9) świadczenie teleinformatyczne, o którym mowa w art. 5 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. poz. 2333), zwane dalej „świadczeniem teleinformatycznym”;
+  10) świadczenie za długoletnią służbę.
 2. W przypadku śmierci funkcjonariusza lub członka jego rodziny przysługują:
   1) zasiłek pogrzebowy;
   2) odprawa pośmiertna.
@@ -1604,6 +1605,11 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 5. Świadczenia teleinformatycznego nie przyznaje się w przypadkach, o których mowa w art. 172b ust. 6. Przepisy art. 172b ust. 7 i 8 stosuje się.
 6. Świadczenia teleinformatycznego nie wypłaca się w przypadkach, o których mowa w art. 172b ust. 9.
 7. Do wypłaty świadczenia teleinformatycznego stosuje się przepisy art. 172b ust. 10-12.
+
+**Art. 172d.**
+1. Funkcjonariuszowi przysługuje świadczenie za długoletnią służbę w wysokości 5% należnego uposażenia zasadniczego po osiągnięciu 15 lat służby.
+2. Świadczenie, o którym mowa w ust. 1, zwiększa się o kwotę 1% należnego uposażenia zasadniczego za każdy kolejny rozpoczęty rok służby, nie więcej jednak niż do wysokości 15% po 25 latach służby, i wypłaca się do dnia rozwiązania stosunku służbowego w związku ze zwolnieniem funkcjonariusza ze służby, z jego śmiercią lub zaginięciem.
+3. Do świadczenia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 164 oraz art. 172b ust. 2.
 
 **Art. 173.**
 1. Funkcjonariuszowi mogą być przyznawane nagrody uznaniowe i zapomogi.
