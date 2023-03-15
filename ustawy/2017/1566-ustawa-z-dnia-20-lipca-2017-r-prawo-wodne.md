@@ -1022,7 +1022,7 @@
 1. Produkcję rolną, w tym działy specjalne produkcji rolnej, oraz działalność, w ramach której są przechowywane nawozy naturalne lub stosowane nawozy, prowadzi się w sposób zapobiegający zanieczyszczaniu wód azotanami pochodzącymi ze źródeł rolniczych i ograniczający takie zanieczyszczenie.
 2. Ilekroć w niniejszym rozdziale jest mowa o:
   1) dużych jednostkach przeliczeniowych (DJP) - rozumie się przez to umowną jednostkę przeliczeniową zwierząt gospodarskich odpowiadającą zwierzęciu o masie 500 kg albo zwierzętom o łącznej masie 500 kg;
-  1a) działce rolnej - rozumie się przez to działkę rolną w rozumieniu art. 2 pkt 2 ustawy z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego (Dz. U. z 2018 r. poz. 1312 oraz z 2019 r. poz. 1824);
+  1a) działce rolnej - rozumie się przez to działkę rolną w rozumieniu art. 2 pkt 4 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023-2027 (Dz. U. poz. 412);
   1b) produktach pofermentacyjnych - rozumie się przez to płynne lub stałe substancje organiczne powstające w wyniku procesu produkcji biogazu rolniczego w rozumieniu art. 2 pkt 2 ustawy z dnia 20 lutego 2015 r. o odnawialnych źródłach energii (Dz. U. z 2018 r. poz. 2389, z późn. zm.);
   1c) terenach o dużym nachyleniu - rozumie się przez to stok o nachyleniu większym niż 10%, co oznacza wzrost pochylenia terenu o 1 m na długości 10 m;
   2) (uchylony)
