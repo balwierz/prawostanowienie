@@ -4497,7 +4497,7 @@ kierując się potrzebą zapewnienia prawidłowego i sprawnego przeprowadzenia p
   1) Prezesa Urzędu,
   2) organy, o których mowa w art. 6 ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej, z wyłączeniem Prezesa Rady Ministrów,
   3) regionalne izby obrachunkowe,
-  4) instytucję zarządzającą w rozumieniu przepisów dotyczących realizacji programów w zakresie polityki spójności oraz programów realizowanych z wykorzystaniem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich oraz funduszy wspierających sektory morski lub rybacki
+  4) instytucję zarządzającą w rozumieniu przepisów dotyczących realizacji programów w zakresie polityki spójności, programów rozwoju obszarów wiejskich, planu strategicznego dla wspólnej polityki rolnej oraz funduszy wspierających sektory morski lub rybacki
 - prowadzące kontrole w zakresie udzielania zamówień publicznych.
 3. W przypadku sprzeczności między przepisami niniejszego rozdziału a przepisami odrębnymi, o których mowa w ust. 1, stosuje się przepisy niniejszego rozdziału.
 
