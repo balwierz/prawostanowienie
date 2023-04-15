@@ -679,7 +679,7 @@
 7. Maksymalne kwoty dotacji celowej, o których mowa w ust. 5, mogą podlegać weryfikacji. Weryfikacji dokonuje minister właściwy do spraw oświaty i wychowania, biorąc pod uwagę liczbę obowiązkowych zajęć edukacyjnych z zakresu kształcenia ogólnego na danym etapie edukacyjnym, warunki, jakie muszą spełniać podręczniki oraz kształtowanie się cen podręczników, materiałów edukacyjnych i materiałów ćwiczeniowych.
 8. Maksymalne kwoty dotacji celowej, o których mowa w ust. 5, po weryfikacji obowiązują od roku budżetowego następującego po roku, w którym była dokonana weryfikacja.
 9. Koszty obsługi zadania, o którym mowa w ust. 1 i 2, wynoszą 1% przekazanej kwoty dotacji celowej.
-10. Rada Ministrów może określić, w drodze rozporządzenia, maksymalne kwoty dotacji celowej, o których mowa w ust. 5, po weryfikacji, w terminie do końca czerwca roku, w którym jest dokonywana weryfikacja.
+10. Rada Ministrów może określić, w drodze rozporządzenia, maksymalne kwoty dotacji celowej, o których mowa w ust. 5, po weryfikacji, w terminie do końca sierpnia roku, w którym była dokonana weryfikacja.
 
 **Art. 56.**
 1. Dotacja celowa, o której mowa w art. 55 ust. 5 pkt 1 i 3, jest udzielana, z uwzględnieniem kosztów obsługi zadania, o których mowa w art. 55 ust. 9, do wysokości stanowiącej iloczyn liczby uczniów danej klasy, którym należy zapewnić komplet podręczników lub materiałów edukacyjnych, oraz odpowiednio kwot, o których mowa w art. 55 ust. 5 pkt 1 i 3, z uwzględnieniem wskaźników, o których mowa w art. 55 ust. 6, pod warunkiem że taki komplet podręczników lub materiałów edukacyjnych będzie zapewniał możliwość używania ich przez uczniów tej klasy przez co najmniej trzy kolejne lata szkolne. Następna dotacja celowa na uczniów tej klasy jest udzielana po trzech kolejnych latach szkolnych.
@@ -1390,10 +1390,10 @@
   4) w 2021 r. - 439 mln zł;
   5) w 2022 r. - 340 mln zł;
   6) w 2023 r. - 448 mln zł;
-  7) w 2024 r. - 429 mln zł;
-  8) w 2025 r. - 287 mln zł;
-  9) w 2026 r. - 396 mln zł;
-  10) w 2027 r. - 447 mln zł.
+  7) w 2024 r. - 515 mln zł;
+  8) w 2025 r. - 362 mln zł;
+  9) w 2026 r. - 475 mln zł;
+  10) w 2027 r. - 536 mln zł.
 2. Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadanie, o którym mowa w ust. 1, oraz, w razie potrzeby, wdraża mechanizmy korygujące.
 3. W przypadku gdy łączne wydatki budżetu państwa na zadanie, o którym mowa w art. 54 ust. 1 i 2, art. 69 ust. 2 i 3, art. 112, art. 113 ust. 16, art. 118 ust. 2 i 3 oraz art. 119 ust. 1 i 4, powodowałyby zagrożenie przekroczenia w danym roku budżetowym limitu określonego w ust. 1, kwoty dotacji celowej na ucznia, o których mowa odpowiednio w art. 55 ust. 5 lub art. 113 ust. 5, zostaną odpowiednio pomniejszone:
   1) w pierwszej kolejności, analizując wskaźnik wykorzystania dotacji celowej w roku poprzedzającym rok bazowy; wskaźnik ten stanowi iloraz wykorzystanej kwoty dotacji celowej w roku poprzedzającym rok bazowy oraz kwoty dotacji celowej przekazanej z budżetu państwa na realizację zadania, o którym mowa w art. 54 ust. 1 i 2, art. 69 ust. 2 i 3, art. 112 oraz art. 118 ust. 2 i 3, w roku poprzedzającym rok bazowy; w przypadku gdy wskaźnik ten będzie mniejszy od wartości 1, kwoty dotacji celowej na ucznia, o których mowa odpowiednio w art. 55 ust. 5 oraz art. 113 ust. 5, mogą zostać odpowiednio pomniejszone do iloczynu wartości tego wskaźnika i kwot dotacji na ucznia, o których mowa odpowiednio w art. 55 ust. 5 lub art. 113 ust. 5, nie więcej jednak niż niezbędne do wyeliminowania zagrożenia przekroczenia w danym roku budżetowym limitu określonego w ust. 1;
