@@ -40,6 +40,7 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
 1. Inwestycji mieszkaniowych lub inwestycji towarzyszących nie lokalizuje się na terenach podlegających ochronie przed lokalizowaniem lub zabudową na podstawie odrębnych przepisów, chyba że w trybie przepisów przewidujących tę ochronę inwestor uzyska zgodę na lokalizację inwestycji mieszkaniowej lub inwestycji towarzyszącej.
 2. Przepis ust. 1 stosuje się odpowiednio do otulin form ochrony przyrody, rodzinnych ogrodów działkowych i obszarów szczególnego zagrożenia powodzią.
 3. Inwestycję mieszkaniową lub inwestycję towarzyszącą realizuje się niezależnie od istnienia lub ustaleń miejscowego planu zagospodarowania przestrzennego, pod warunkiem że nie jest sprzeczna ze studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz uchwałą o utworzeniu parku kulturowego.
+3a. Inwestycji mieszkaniowych nie lokalizuje się w odległości, o której mowa w art. 4 ust. 4 ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2021 r. poz. 724 oraz z 2023 r. poz. 553), lub większej, jeżeli taka została ustalona w miejscowym planie zagospodarowania przestrzennego.
 4. Warunek niesprzeczności ze studium nie dotyczy terenów, które w przeszłości były wykorzystywane jako tereny kolejowe, wojskowe, produkcyjne lub usług pocztowych, a obecnie funkcje te nie są na tych terenach realizowane.
 
 ## Rozdział 2 — Przygotowanie i realizacja inwestycji mieszkaniowych
