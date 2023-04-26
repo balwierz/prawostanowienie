@@ -609,6 +609,11 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
   6) zakres informacji o wyniku postępowania kwalifikacyjnego
 - mając na względzie zapewnienie sprawnego przebiegu postępowania kwalifikacyjnego oraz wyłonienia osób spełniających wymogi do pełnienia służby w SOP.
 
+**Art. 69a.**
+1. Kierownik komórki organizacyjnej Służby Ochrony Państwa właściwej w sprawach osobowych lub upoważniona przez niego osoba zapoznaje funkcjonariusza nowo przyjętego do służby z przepisami określającymi prawa i obowiązki oraz odpowiedzialność dyscyplinarną funkcjonariuszy.
+2. Z przepisami regulującymi sposób pełnienia służby oraz z zakresem obowiązków i uprawnień na zajmowanym stanowisku służbowym zapoznaje funkcjonariusza bezpośredni przełożony przed objęciem przez funkcjonariusza obowiązków służbowych.
+3. Zapoznanie z przepisami i zakresem obowiązków i uprawnień, o których mowa w ust. 1 i 2, funkcjonariusz potwierdza pisemnie. Potwierdzenie włącza się do akt osobowych funkcjonariusza.
+
 **Art. 70.**
 1. Funkcjonariusz Policji, Straży Granicznej, Straży Marszałkowskiej, Państwowej Straży Pożarnej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Służby Kontrwywiadu Wojskowego, Służby Więziennej, Służby Celno-Skarbowej lub Centralnego Biura Antykorupcyjnego może być na własną prośbę przeniesiony do służby w SOP, jeżeli wykazuje predyspozycje do jej pełnienia.
 2. Funkcjonariusza, o którym mowa w ust. 1, do służby w SOP przenosi Komendant SOP w porozumieniu odpowiednio z Komendantem Głównym Policji, Komendantem Głównym Straży Granicznej, Szefem Kancelarii Sejmu, Komendantem Głównym Państwowej Straży Pożarnej, Szefem Agencji Bezpieczeństwa Wewnętrznego, Szefem Agencji Wywiadu, Szefem Służby Wywiadu Wojskowego, Szefem Służby Kontrwywiadu Wojskowego, Dyrektorem Generalnym Służby Więziennej, Szefem Krajowej Administracji Skarbowej lub Szefem Centralnego Biura Antykorupcyjnego, za zgodą ministra właściwego do spraw wewnętrznych.
@@ -770,8 +775,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 6) innych uzasadnionych potrzeb SOP.
 
 **Art. 87.**
-1. Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w zastępuje się wyrazami „Kodeksie pracy”, z wyjątkiem art. 1867, jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
-2. Jeżeli oboje rodzice są funkcjonariuszami, z uprawnień, o których mowa w ust. 1, może korzystać tylko jedno z nich.
+1. Funkcjonariuszowi przysługują uprawnienia pracownika związane z rodzicielstwem określone w Kodeksie pracy, z wyjątkiem art. 1867 i art. 1881, jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
+2. Jeżeli oboje rodzice lub opiekunowie są funkcjonariuszami albo jedno z nich jest funkcjonariuszem, a drugie pozostaje w stosunku pracy, z uprawnień, o których mowa w ust. 1, może korzystać jedno z nich.
 
 **Art. 88.**
 1. Funkcjonariuszowi można powierzyć pełnienie obowiązków służbowych na innym stanowisku na czas nieprzekraczający 12 miesięcy.
@@ -1441,6 +1446,11 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 2. Każde 8 godzin urlopu udzielonego zgodnie z ust. 1 zmniejsza wymiar należnego urlopu o 1 dzień.
 3. Udzielenie funkcjonariuszowi urlopu w dniu służby w wymiarze godzinowym, odpowiadającym części dobowego wymiaru czasu służby jest dopuszczalne jedynie w przypadku, gdy część urlopu pozostała do wykorzystania jest niższa niż pełny dobowy wymiar czasu służby funkcjonariusza w dniu, w którym ma być udzielony urlop.
 
+**Art. 158c.**
+1. Funkcjonariuszowi przysługuje prawo do urlopu opiekuńczego w wymiarze 5 dni w roku kalendarzowym w celu zapewnienia osobistej opieki lub wsparcia osobie będącej członkiem rodziny lub zamieszkującej w tym samym gospodarstwie domowym, która wymaga opieki lub wsparcia z poważnych względów medycznych.
+2. Przy udzielaniu urlopu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału Ia działu siódmego Kodeksu pracy.
+3. Za czas urlopu opiekuńczego funkcjonariusz nie zachowuje prawa do uposażenia.
+
 **Art. 159.**
 1. Funkcjonariuszowi, który wzorowo wykonuje obowiązki, przejawia inicjatywę w służbie lub doskonali kwalifikacje zawodowe, mogą być udzielane następujące wyróżnienia:
   1) pochwała;
@@ -1812,17 +1822,16 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 **Art. 192.** W okresie urlopu, zwolnienia od zajęć służbowych lub pozostawania w dyspozycji funkcjonariusz zachowuje prawo do pobieranego ostatnio uposażenia i innych należności pieniężnych, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na wysokość uposażenia zasadniczego i innych należności pieniężnych.
 
 **Art. 193.**
-1. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100% miesięcznego uposażenia, o którym mowa w art. 162 ust. 14.
-2. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wynosi:
-  1) 100% miesięcznego uposażenia, o którym mowa w art. 162 ust. 14, za okres do:
-    a) 6 tygodni urlopu rodzicielskiego, w przypadku, o którym mowa w art. 1821a § 1 pkt 1 i art. 183 § 4 pkt 1 Kodeksu pracy,
-    b) 8 tygodni urlopu rodzicielskiego, w przypadkach, o których mowa w art. 1821a § 1 pkt 2 i art. 183 § 4 pkt 2 Kodeksu pracy,
-    c) 3 tygodni urlopu rodzicielskiego, w przypadku, o którym mowa w art. 183 § 4 pkt 3 Kodeksu pracy;
-  2) 60% miesięcznego uposażenia, o którym mowa w art. 162 ust. 14, za okres urlopu rodzicielskiego przypadający po okresach, o których mowa w pkt 1.
-3. Miesięczne uposażenie funkcjonariusza, który we wniosku złożonym nie później niż 21 dni po porodzie wystąpi o udzielenie, bezpośrednio po urlopie macierzyńskim, urlopu rodzicielskiego w pełnym wymiarze, wynosi 80% miesięcznego uposażenia, o którym mowa w art. 192, za cały okres odpowiadający okresowi tych urlopów.
-4. W przypadku gdy wysokość uposażenia funkcjonariusza pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, obliczonego zgodnie z ust. 1-3, jest niższa niż kwota świadczenia rodzicielskiego, określonego w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2017 r. poz. 1952 oraz z 2018 r. poz. 107), kwotę uposażenia funkcjonariusza pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych podwyższa się do wysokości świadczenia rodzicielskiego.
-5. Przepis ust. 3 stosuje się odpowiednio do funkcjonariusza, który we wniosku złożonym nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka lub po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, wystąpi o udzielenie mu, bezpośrednio po urlopie na warunkach urlopu macierzyńskiego, urlopu rodzicielskiego w pełnym wymiarze.
-6. Funkcjonariuszowi, który z uwagi na wniosek złożony w trybie ust. 3 albo 5 otrzymał 80% uposażenia, o którym mowa w ust. 3, w przypadku rezygnacji z urlopu rodzicielskiego w pełnym wymiarze albo rezygnacji z urlopu rodzicielskiego w wymiarze, o którym mowa w ust. 2 pkt 2, przysługuje jednorazowe wyrównanie otrzymywanego uposażenia, o którym mowa w ust. 3, do wysokości 100%, pod warunkiem niepobrania uposażenia za okres odpowiadający okresom tych urlopów.
+1. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100% uposażenia, o którym mowa w art. 192.
+2. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wynosi 70% miesięcznego uposażenia, o którym mowa w art. 192.
+3. Funkcjonariusz - kobieta, nie później niż 21 dni po porodzie, może złożyć pisemny wniosek o wypłacenie jej uposażenia za okres odpowiadający okresowi urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, z wyłączeniem okresu, o którym mowa w art. 1821a § 4 Kodeksu pracy, przysługującego ojcu dziecka, w wysokości 81,5% uposażenia, o którym mowa w art. 192.
+4. Funkcjonariusz, nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka albo po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, może złożyć pisemny wniosek o wypłacenie mu uposażenia za okres odpowiadający okresowi urlopu na warunkach urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, z wyłączeniem okresu, o którym mowa w art. 1821a § 4 Kodeksu pracy, przysługującego drugiemu rodzicowi dziecka, w wysokości 81,5% uposażenia, o którym mowa w art. 192.
+5. W przypadku złożenia wniosku, o którym mowa w ust. 3, funkcjonariusz - kobieta może dzielić się z ojcem dziecka korzystaniem z uposażenia za okres odpowiadający okresowi urlopu rodzicielskiego albo jego części, z wyłączeniem okresu, o którym mowa w art. 1821a § 4 Kodeksu pracy. Przepis stosuje się odpowiednio do wniosku, o którym mowa w ust. 4.
+6. Uposażenie za okres odpowiadający okresowi urlopu rodzicielskiego w części przysługującej funkcjonariuszowi - ojcu dziecka, o której mowa w art. 1821a § 4 Kodeksu pracy, wynosi 70% uposażenia, o którym mowa w art. 192.
+7. W przypadku niewykorzystania przez funkcjonariusza ani jednego dnia urlopu rodzicielskiego w pierwszym roku życia dziecka uposażenie za okres urlopu rodzicielskiego przysługuje w wysokości 70% miesięcznego uposażenia, o którym mowa w art. 192.
+8. W przypadku niewykorzystania ani jednego dnia urlopu rodzicielskiego w pierwszym roku życia dziecka, funkcjonariuszowi przysługuje jednorazowe wyrównanie pobranego uposażenia za okres urlopu macierzyńskiego do wysokości 100% miesięcznego uposażenia, o którym mowa w art. 192.
+9. Jednorazowe wyrównanie uposażenia, o którym mowa w ust. 8, następuje na wniosek funkcjonariusza.
+10. W przypadku gdy wysokość uposażenia funkcjonariusza, pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, obliczonego zgodnie z ust. 1-4, jest niższa niż kwota świadczenia rodzicielskiego określonego w ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. z 2023 r. poz. 390), kwotę uposażenia funkcjonariusza, pomniejszonego o zaliczkę na podatek dochodowy od osób fizycznych, podwyższa się do wysokości świadczenia rodzicielskiego.
 
 **Art. 194.**
 1. W okresie przebywania na zwolnieniu lekarskim funkcjonariusz otrzymuje 80% uposażenia.
