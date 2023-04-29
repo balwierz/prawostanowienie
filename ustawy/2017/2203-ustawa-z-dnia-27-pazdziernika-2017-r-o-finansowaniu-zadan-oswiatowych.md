@@ -831,6 +831,8 @@
 1. Na programy i przedsięwzięcia, o których mowa w art. 90w ustawy o systemie oświaty, przeznacza się środki finansowe na oświatę i wychowanie.
 2. Minister właściwy do spraw oświaty i wychowania przekazuje środki finansowe w ramach programów i przedsięwzięć na podstawie umowy.
 3. Minister właściwy do spraw oświaty i wychowania może zlecić jednostce organizacyjnej podległej temu ministrowi lub przez niego nadzorowanej zawieranie i rozliczanie umów, o których mowa w ust. 2.
+3a. Zatwierdzenie rozliczenia dotacji celowej udzielonej w ramach środków, o których mowa w ust. 1, w zakresie rzeczowym i finansowym, przedstawionego przez obowiązany do tego podmiot, następuje w terminie 60 dni od dnia jego przedstawienia.
+3b. W przypadku konieczności poprawienia lub uzupełnienia rozliczenia, o którym mowa w ust. 3a, lub złożenia wyjaśnień do tego rozliczenia, termin, o którym mowa w ust. 3a, jest liczony odpowiednio od dnia przedstawienia poprawionego lub uzupełnionego rozliczenia lub od dnia złożenia wyjaśnień do rozliczenia.
 4. Minister właściwy do spraw oświaty i wychowania udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej informację dotyczącą środków finansowych przyznanych w ramach programu albo przedsięwzięcia obejmującą:
   1) nazwy podmiotów, które otrzymały środki finansowe;
   2) wysokość przyznanych środków finansowych.
@@ -852,7 +854,10 @@
 2) zakupem nieruchomości oraz budową lub dostosowaniem obiektów, niezbędnych dla rozwoju przedszkoli, szkół lub placówek;
 3) wyposażeniem przedszkoli, szkół lub placówek.
 
-**Art. 75aa.** Do udzielania dotacji celowej, o której mowa w art. 75a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+**Art. 75aa.**
+1. Do udzielania dotacji celowej, o której mowa w art. 75a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+2. Zatwierdzenie rozliczenia dotacji celowej, o której mowa w art. 75a, w zakresie rzeczowym i finansowym, przedstawionego przez obowiązany do tego podmiot, następuje w terminie 60 dni od dnia jego przedstawienia.
+3. W przypadku konieczności poprawienia lub uzupełnienia rozliczenia, o którym mowa w ust. 2, lub złożenia wyjaśnień do tego rozliczenia, termin, o którym mowa w ust. 2, jest liczony odpowiednio od dnia przedstawienia poprawionego lub uzupełnionego rozliczenia lub od dnia złożenia wyjaśnień do rozliczenia.
 
 **Art. 75b.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
 1) szczegółowe kryteria i tryb przyznawania oraz rozliczania, a także tryb przekazywania dotacji celowej, o której mowa w art. 75a,
