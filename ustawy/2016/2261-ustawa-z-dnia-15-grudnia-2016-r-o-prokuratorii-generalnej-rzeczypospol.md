@@ -64,7 +64,7 @@
 2. Zastępstwo Skarbu Państwa wykonywane przez Prokuratorię Generalną jest obowiązkowe do zakończenia sprawy:
   1) w sprawach rozpoznawanych w pierwszej instancji przez sąd okręgowy;
   2) w sprawach:
-    a) o uzgodnienie treści księgi wieczystej z rzeczywistym stanem prawnym,
+    a) (uchylony)
     b) o stwierdzenie zasiedzenia
   - jeżeli wartość przedmiotu sprawy przekracza kwotę 1 000 000 zł;
   3) w sprawach rozpoznawanych przez sądy polubowne, niezależnie od tego, czy miejsce postępowania przed tym sądem znajduje się na terytorium Rzeczypospolitej Polskiej, czy poza jej granicami lub nie jest oznaczone;
