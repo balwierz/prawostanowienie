@@ -227,6 +227,7 @@
   7) spraw z zakresu regulacji energetyki, telekomunikacji i poczty, transportu kolejowego oraz z zakresu regulacji rynku wodno-kanalizacyjnego;
   8) spraw, w których złożono odwołanie od decyzji Przewodniczącego Krajowej Rady Radiofonii i Telewizji;
   8a) spraw, w których złożono odwołanie od postanowienia Państwowej Komisji do spraw przeciwdziałania wykorzystaniu seksualnemu małoletnich poniżej lat 15;
+  8b) spraw, w których wniesiono apelację od decyzji administracyjnej Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007-2022, o której mowa w art. 36 pkt 1 ustawy z dnia 14 kwietnia 2023 r. o Państwowej Komisji do spraw badania wpływów rosyjskich na bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej w latach 2007-2022 (Dz. U. poz. 1030 i 1532);
   9) spraw z zakresu przeniesienia sędziego Sądu Najwyższego w stan spoczynku;
   10) skarg dotyczących przewlekłości postępowania przed sądami powszechnymi i wojskowymi oraz Sądem Najwyższym;
   11) innych spraw z zakresu prawa publicznego niezastrzeżonych do właściwości innych izb Sądu Najwyższego.
