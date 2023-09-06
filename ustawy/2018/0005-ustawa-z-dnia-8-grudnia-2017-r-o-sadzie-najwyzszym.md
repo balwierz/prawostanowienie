@@ -9,6 +9,7 @@
 2) rozpatrywania spraw dyscyplinarnych w zakresie określonym w ustawie;
 3) rozpoznawania protestów wyborczych oraz stwierdzania ważności wyborów do Sejmu i Senatu, wyboru Prezydenta Rzeczypospolitej Polskiej, wyborów do Parlamentu Europejskiego oraz rozpoznawania protestów przeciwko ważności referendum ogólnokrajowego i referendum konstytucyjnego oraz stwierdzania ważności referendum;
 4) opiniowania projektów ustaw i innych aktów normatywnych, na podstawie których orzekają i funkcjonują sądy, a także innych projektów ustaw w zakresie, w jakim mają one wpływ na sprawy należące do właściwości Sądu Najwyższego;
+4a) prowadzenia działalności edukacyjnej, naukowej, wydawniczej oraz muzealnej w zakresie historii polskiego sądownictwa, ze szczególnym uwzględnieniem historii sądownictwa najwyższej instancji;
 5) wykonywania innych czynności określonych w ustawach.
 
 **Art. 2.** Sąd Najwyższy ma siedzibę w Warszawie.
