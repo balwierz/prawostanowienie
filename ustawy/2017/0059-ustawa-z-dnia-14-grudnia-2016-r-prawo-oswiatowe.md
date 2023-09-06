@@ -1132,6 +1132,7 @@
     b) rady rodziców,
   3) po jednym przedstawicielu organizacji związkowych reprezentatywnych w rozumieniu ustawy o Radzie Dialogu Społecznego, wyłonionym spośród członków ich jednostek organizacyjnych albo jednostek organizacyjnych organizacji związkowych wchodzących w skład reprezentatywnych organizacji związkowych, zrzeszających nauczycieli, obejmujących swoim zakresem działania szkołę lub placówkę, w której konkurs się odbywa
 - z zastrzeżeniem ust. 15.
+14a. W przypadku szkoły lub placówki prowadzonej przez jednostkę samorządu terytorialnego przedstawicielem organu prowadzącego szkołę lub placówkę, o którym mowa w ust. 14 pkt 1 lit. a, może być również członek organu stanowiącego danej jednostki samorządu terytorialnego, wskazany przez ten organ stanowiący.
 15. Łączna liczba przedstawicieli organów, o których mowa w ust. 14 pkt 1, nie może być mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3.
 16. Jeżeli w składzie komisji konkursowej łączna liczba przedstawicieli organów, o których mowa w ust. 14 pkt 1, byłaby mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3, liczbę przedstawicieli tych organów zwiększa się proporcjonalnie, tak aby ich łączna liczba nie była mniejsza niż łączna liczba przedstawicieli, o których mowa w ust. 14 pkt 2 i 3, uwzględniając udział przedstawicieli organu sprawującego nadzór pedagogiczny w liczbie równej liczbie przedstawicieli organu prowadzącego szkołę lub placówkę.
 17. Przepisy ust. 14-16 stosuje się również w przypadku konkursu na stanowisko dyrektora zespołu szkół lub placówek, w tym nowo zakładanego zespołu szkół lub placówek, z tym że:
@@ -1455,6 +1456,9 @@
 8. Utworzenie zespołu, w którego skład wchodzą szkoły lub placówki albo szkoły i placówki prowadzone przez różne organy, może nastąpić po zawarciu porozumienia między tymi organami. Porozumienie powinno określać, który z organów będzie wykonywać zadania organu prowadzącego, sposób finansowania oraz tryb rozwiązania zespołu.
 9. Połączenie w zespół, o którym mowa w ust. 1-3, oraz włączenie do zespołu szkoły lub placówki, o którym mowa w ust. 7, jest dokonywane z dniem 1 września danego roku.
 10. Wyłączenie z zespołu oraz rozwiązanie zespołu, o których mowa w ust. 7, jest dokonywane z dniem 31 sierpnia danego roku.
+11. Połączenie w zespół szkół lub placówek niebędących szkołami lub placówkami artystycznymi lub włączenie do zespołu szkoły lub placówki niebędącej szkołą lub placówką artystyczną, prowadzonych przez jednostkę samorządu terytorialnego, następuje po uzyskaniu pozytywnej opinii kuratora oświaty.
+12. Połączenie w zespół szkół lub placówek artystycznych lub włączenie do zespołu szkoły lub placówki artystycznej, prowadzonych przez jednostkę samorządu terytorialnego, następuje po uzyskaniu pozytywnej opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+13. W przypadku gdy w skład zespołu mają wchodzić zarówno szkoły lub placówki niebędące szkołami lub placówkami artystycznymi, jak i szkoły lub placówki artystyczne, prowadzone przez jednostkę samorządu terytorialnego, połączenie w zespół tych szkół lub placówek lub włączenie do zespołu tych szkół lub placówek następuje po uzyskaniu pozytywnej opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego uzgodnionej z kuratorem oświaty.
 
 **Art. 92.**
 1. Organ prowadzący szkołę podstawową, w której zorganizowano oddział przedszkolny lub oddziały przedszkolne, może przekształcić ten oddział przedszkolny lub te oddziały przedszkolne w przedszkole. Do przekształcenia stosuje się przepisy art. 88 ust. 1 i 4-8.
@@ -2488,10 +2492,11 @@
     b) nie są spełnione warunki funkcjonowania szkoły określone zgodnie z art. 178 ust. 4
   - jeżeli szkoła lub placówka lub osoba prowadząca szkołę lub placówkę w wyznaczonym terminie nie zastosowała się do polecenia organu sprawującego nadzór pedagogiczny, o którym mowa w art. 180 ust. 2;
   4) dokonania wpisu z naruszeniem prawa;
-  5) zaprzestania działalności przez szkołę lub placówkę przez okres dłuższy niż 3 miesiące.
+  5) zaprzestania działalności przez szkołę lub placówkę przez okres dłuższy niż 3 miesiące;
+  6) niezrealizowania przez osobę prowadzącą szkołę lub placówkę polecenia, o którym mowa w art. 180 ust. 3.
 2. Wykreślenie z ewidencji następuje w drodze decyzji, w terminie określonym w decyzji i jest równoznaczne z likwidacją szkoły lub placówki.
 3. W przypadku wykreślenia z ewidencji, o którym mowa w ust. 1 pkt 3 lit. b, organ lub podmiot, o których mowa w art. 168 ust. 1 albo 2, powiadamiają o wykreśleniu szkoły odpowiednio ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
-4. W przypadku wykreślenia z ewidencji, o którym mowa w ust. 1 pkt 3, przepisy art. 172 ust. 4 i 5, stosuje się odpowiednio.
+4. W przypadku wykreślenia z ewidencji, o którym mowa w ust. 1 pkt 2-4 i 6, przepisy art. 172 ust. 4 i 5, stosuje się odpowiednio.
 
 **Art. 170.**
 1. Prowadzenie szkoły lub placówki, zespołu, o którym mowa w art. 182, oraz innej formy wychowania przedszkolnego nie jest działalnością gospodarczą.
@@ -2583,7 +2588,8 @@
 
 **Art. 180.**
 1. Nadzór pedagogiczny nad szkołami i placówkami niepublicznymi sprawują właściwi kuratorzy oświaty. Nadzór pedagogiczny nad niepublicznymi szkołami i placówkami artystycznymi sprawuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, z wyjątkiem nadzoru nad nauczaniem przedmiotów ogólnokształcących w niepublicznych szkołach artystycznych, który sprawują właściwi kuratorzy oświaty. Przepisy art. 44 ust. 1 i 2, art. 55 oraz przepisy wydane na podstawie art. 44 ust. 3 i art. 60 ust. 10 stosuje się odpowiednio.
-2. Jeżeli niepubliczna szkoła lub placówka lub organ prowadzący tę szkołę lub placówkę prowadzi działalność z naruszeniem przepisów niniejszej ustawy, ustawy o systemie oświaty, wydanych na ich podstawie rozporządzeń lub statutu lub nie wypełnia zobowiązań, o których mowa w art. 168 ust. 4 pkt 6, lub nie spełnia warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 4, a w przypadku szkoły artystycznej - warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 7, organ sprawujący nadzór pedagogiczny może polecić usunięcie uchybień w wyznaczonym terminie.
+2. Jeżeli niepubliczna szkoła lub placówka lub organ prowadzący tę szkołę lub placówkę prowadzą działalność z naruszeniem przepisów niniejszej ustawy, ustawy o systemie oświaty, wydanych na ich podstawie rozporządzeń lub statutu lub nie wypełniają zobowiązań, o których mowa w art. 168 ust. 4 pkt 6, lub nie spełniają warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 4, a w przypadku szkoły artystycznej - warunków funkcjonowania szkoły określonych zgodnie z art. 178 ust. 7, organ sprawujący nadzór pedagogiczny poleca usunięcie uchybień, wskazując, w zależności od oceny zakresu i stopnia stwierdzonych uchybień, termin ich usunięcia, nie dłuższy niż 30 dni od dnia przekazania polecenia.
+3. Organ sprawujący nadzór pedagogiczny może polecić osobie prowadzącej niepubliczną szkołę lub placówkę niezwłoczne umożliwienie wykonania czynności z zakresu nadzoru pedagogicznego w szkole lub placówce. Wykonywanie w niepublicznej szkole lub placówce czynności z zakresu nadzoru pedagogicznego powinno rozpocząć się nie później niż w terminie 7 dni od dnia otrzymania polecenia.
 
 **Art. 181.**
 1. Podjęcie przez osobę prawną lub osobę fizyczną prowadzenia wychowania przedszkolnego w niepublicznych innych formach wychowania przedszkolnego wymaga uzyskania wpisu do ewidencji, o której mowa w art. 168 ust. 1, prowadzonej przez gminę właściwą ze względu na miejsce prowadzenia tych form. Przepisy art. 168, art. 169, art. 170 ust. 1 i 2, art. 172 i art. 180 stosuje się odpowiednio, z tym że zgłoszenie do ewidencji zamiast statutu powinno zawierać projekt organizacji wychowania przedszkolnego, które ma być realizowane w danej formie.
@@ -2647,5 +2653,18 @@
 - z uwzględnieniem konieczności zapewnienia nauczycielom dostępu do form doskonalenia i dokształcania umożliwiających podnoszenie wiedzy ogólnej i umiejętności zawodowych, a także możliwości prowadzenia niektórych form doskonalenia i dokształcania przez szkoły wyższe oraz inne jednostki.
 2. Rozporządzenie, o którym mowa w ust. 1, uwzględni ponadto zadania, które mogą być realizowane wyłącznie przez placówki doskonalenia posiadające akredytację oraz publiczne placówki doskonalenia, o których mowa w art. 8 ust. 5 pkt 1 lit. b, ust. 6, ust. 7 pkt 2 i ust. 14.
 3. W zakresie nieuregulowanym odmiennie w przepisach wydanych na podstawie ust. 1 do placówek doskonalenia stosuje się przepisy dotyczące placówek.
+
+### Rozdział 10 — Przepis epizodyczny i przepis końcowy
+
+**Art. 188a.**
+1. W celu zapewnienia odpowiednich warunków kształcenia, wychowania i opieki uczniom rozpoczynającym od roku szkolnego 2023/2024 kształcenie w liceum ogólnokształcącym, technikum lub branżowej szkole I stopnia, prowadzonych przez jednostkę samorządu terytorialnego, mogą być tworzone dodatkowe lokalizacje prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, podporządkowane organizacyjnie odpowiednio liceum ogólnokształcącemu, technikum lub branżowej szkole I stopnia.
+2. Dodatkowa lokalizacja, o której mowa w ust. 1, może funkcjonować w roku szkolnym 2023/2024.
+3. Okres funkcjonowania dodatkowej lokalizacji, o której mowa w ust. 1, może obejmować cały rok szkolny 2023/2024 lub jego część.
+4. Utworzenie dodatkowej lokalizacji, o której mowa w ust. 1, następuje w drodze uchwały organu stanowiącego jednostki samorządu terytorialnego, po uzyskaniu opinii kuratora oświaty.
+5. Uchwała, o której mowa w ust. 4, zawiera:
+  1) nazwę i adres siedziby szkoły, której będzie podporządkowana organizacyjnie dodatkowa lokalizacja, o której mowa w ust. 1;
+  2) adres dodatkowej lokalizacji, o której mowa w ust. 1;
+  3) okres funkcjonowania dodatkowej lokalizacji, o której mowa w ust. 1.
+6. Do tworzenia i likwidacji dodatkowej lokalizacji, o której mowa w ust. 1, nie stosuje się przepisu art. 89.
 
 **Art. 189.** Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie z dnia 14 grudnia 2016 r. - Przepisy wprowadzające ustawę - Prawo oświatowe (Dz. U. z 2017 r. poz. 60).
