@@ -10,12 +10,12 @@
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 1) inwestor - podmiot lub osobę zamierzającą realizować lub realizującą inwestycję mieszkaniową lub inwestycję towarzyszącą;
 2) inwestycja mieszkaniowa - przedsięwzięcie obejmujące budowę, zmianę sposobu użytkowania lub przebudowę, w wyniku której powstaną budynek lub budynki mieszkalne wielorodzinne o łącznej liczbie lokali mieszkalnych nie mniejszej niż 25 lub budynki mieszkalne jednorodzinne o łącznej liczbie nie mniejszej niż 10, wraz z urządzeniami budowlanymi z nimi związanymi, drogami wewnętrznymi, a także roboty budowlane niezbędne do obsługi oraz prawidłowego wykonania tych prac; inwestycję mieszkaniową stanowią również części budynków przeznaczone na działalność handlową lub usługową;
-3) inwestycja towarzysząca - inwestycję w zakresie budowy, zmiany sposobu użytkowania lub przebudowy: sieci uzbrojenia terenu w rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz. U. z 2017 r. poz. 2101 oraz z 2018 r. poz. 650), dróg publicznych, obiektów infrastruktury publicznego transportu zbiorowego, obiektów działalności kulturalnej, obiektów opieki nad dziećmi do lat 3, przedszkoli, szkół, placówek wsparcia dziennego, placówek opieki zdrowotnej, dziennych domów pomocy, obiektów służących działalności pożytku publicznego, obiektów sportu i rekreacji, terenów zieleni urządzonej, obiektów budowlanych przeznaczonych na działalność handlową lub usługową, o ile służą obsłudze mieszkańców budynków będących przedmiotem inwestycji mieszkaniowej;
+3) inwestycja towarzysząca - inwestycję w zakresie budowy, zmiany sposobu użytkowania lub przebudowy: sieci uzbrojenia terenu w rozumieniu art. 2 pkt 11 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990, z 2022 r. poz. 1846 i 2185 oraz z 2023 r. poz. 803, 1615 i 1688), dróg publicznych, linii kolejowych, obiektów infrastruktury publicznego transportu zbiorowego, obiektów działalności kulturalnej, obiektów opieki nad dziećmi do lat 3, przedszkoli, szkół, placówek wsparcia dziennego, ambulatorium podstawowej opieki zdrowotnej, obiektów, w których prowadzona jest działalność z zakresu pomocy społecznej, obiektów służących działalności pożytku publicznego, obiektów sportu i rekreacji, obszarów zieleni publicznej, o których mowa w art. 2 pkt 25 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, obiektów budowlanych przeznaczonych na działalność handlową lub usługową, o ile służą obsłudze mieszkańców budynków będących przedmiotem inwestycji mieszkaniowej;
 4) kataster nieruchomości - ewidencję gruntów i budynków w rozumieniu art. 2 pkt 8 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne;
 5) nieruchomość o nieuregulowanym stanie prawnym - nieruchomość, o której mowa w art. 113 ust. 6 i 7 ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2018 r. poz. 121, 50, 650, 1000 i 1089);
 6) powierzchnia użytkowa mieszkań - sumę powierzchni użytkowych wszystkich lokali mieszkalnych oraz budynków mieszkalnych jednorodzinnych objętych inwestycją mieszkaniową, obliczoną zgodnie z przepisami wydanymi na podstawie art. 34 ust. 6 pkt 1 ustawy z dnia 7 lipca 1994 r. - Prawo budowlane.
-7) teren biologicznie czynny - teren o nawierzchni urządzonej w sposób zapewniający naturalną wegetację roślin i retencję wód opadowych, a także 50% powierzchni tarasów i stropodachów z taką nawierzchnią oraz innych powierzchni zapewniających naturalną wegetację roślin, o powierzchni nie mniejszej niż 10 m2, oraz wodę powierzchniową na tym terenie;
-8) zabudowa śródmiejska - zgrupowanie intensywnej zabudowy na obszarze śródmieścia, określonej w miejscowym planie zagospodarowania przestrzennego, a w przypadku braku planu miejscowego w studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
+7) powierzchnia biologicznie czynna - powierzchnię biologicznie czynną w rozumieniu art. 2 pkt 28 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym;
+8) obszar zabudowy śródmiejskiej - obszar zabudowy śródmiejskiej określony w planie ogólnym gminy.
 
 **Art. 3.** Działalność handlową i usługową można realizować w ramach:
 1) wyodrębnionej części inwestycji mieszkaniowej oraz inwestycji towarzyszącej,
@@ -41,12 +41,9 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
 **Art. 5.**
 1. Inwestycji mieszkaniowych lub inwestycji towarzyszących nie lokalizuje się na terenach podlegających ochronie przed lokalizowaniem lub zabudową na podstawie odrębnych przepisów, chyba że w trybie przepisów przewidujących tę ochronę inwestor uzyska zgodę na lokalizację inwestycji mieszkaniowej lub inwestycji towarzyszącej.
 2. Przepis ust. 1 stosuje się odpowiednio do otulin form ochrony przyrody, rodzinnych ogrodów działkowych i obszarów szczególnego zagrożenia powodzią.
-3. Inwestycję mieszkaniową lub inwestycję towarzyszącą realizuje się niezależnie od istnienia lub ustaleń miejscowego planu zagospodarowania przestrzennego, pod warunkiem że nie jest sprzeczna ze studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz uchwałą o utworzeniu parku kulturowego.
+3. Inwestycję mieszkaniową lub inwestycję towarzyszącą realizuje się niezależnie od istnienia lub ustaleń miejscowego planu zagospodarowania przestrzennego, pod warunkiem że jest zgodna z planem ogólnym gminy, oraz nie jest sprzeczna z uchwałą o utworzeniu parku kulturowego.
 3a. Inwestycji mieszkaniowych nie lokalizuje się w odległości, o której mowa w art. 4 ust. 4 ustawy z dnia 20 maja 2016 r. o inwestycjach w zakresie elektrowni wiatrowych (Dz. U. z 2021 r. poz. 724 oraz z 2023 r. poz. 553), lub większej, jeżeli taka została ustalona w miejscowym planie zagospodarowania przestrzennego.
-4. Warunek niesprzeczności ze studium nie dotyczy terenów:
-  1) które w przeszłości były wykorzystywane jako tereny kolejowe, wojskowe, produkcyjne lub usług pocztowych, a obecnie funkcje te nie są na tych terenach realizowane;
-  2) na których jest lub może być zlokalizowany obiekt handlowy o powierzchni sprzedaży powyżej 2000 m2;
-  3) na których jest zlokalizowany budynek biurowy.
+4. (uchylony)
 
 ## Rozdział 2 — Przygotowanie i realizacja inwestycji mieszkaniowych
 
@@ -65,7 +62,7 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
 1. W przypadku zamiaru realizacji inwestycji mieszkaniowej inwestor występuje, za pośrednictwem wójta (burmistrza, prezydenta miasta), z wnioskiem o ustalenie lokalizacji inwestycji do właściwej miejscowo rady gminy.
 2. Ustalenie lokalizacji, o której mowa w ust. 1, nie może obejmować terenów przeznaczonych pod inwestycje celu publicznego o znaczeniu ponadlokalnym.
 3. Ustalenie lokalizacji, o której mowa w ust. 1, nie może obejmować terenów wymagających uzyskania zgody na przeznaczenie gruntów rolnych poza granicami administracyjnymi miast na cele nierolnicze, wynikającej z przepisów o ochronie gruntów rolnych i leśnych.
-4. Rada gminy podejmuje uchwałę o ustaleniu lokalizacji, o której mowa w ust. 1, lub odmowie ustalenia lokalizacji inwestycji w terminie 60 dni od dnia złożenia przez inwestora wniosku, o którym mowa w ust. 1. Rada gminy, podejmując uchwałę, bierze pod uwagę stan zaspokojenia potrzeb mieszkaniowych na terenie gminy oraz potrzeby i możliwości rozwoju gminy wynikające z ustaleń studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy.
+4. Rada gminy podejmuje uchwałę o ustaleniu lokalizacji, o której mowa w ust. 1, lub odmowie ustalenia lokalizacji inwestycji w terminie 60 dni od dnia złożenia przez inwestora wniosku, o którym mowa w ust. 1.
 5. Jeżeli uchwała o ustaleniu lokalizacji, o której mowa w ust. 1, nie może być podjęta w terminie określonym w ust. 4, przewodniczący rady gminy jest obowiązany w tym terminie powiadomić inwestora, podając powody opóźnienia oraz wskazując nowy termin podjęcia uchwały, nie dłuższy jednak niż 30 dni od dnia upływu terminu, o którym mowa w ust. 4.
 6. Wniosek, o którym mowa w ust. 1, może dotyczyć również inwestycji towarzyszącej, jeżeli jest ona objęta tym samym zamierzeniem inwestycyjnym co inwestycja mieszkaniowa.
 7. Wniosek, o którym mowa w ust. 1, zawiera:
@@ -79,12 +76,12 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
     a) zapotrzebowania na wodę, energię oraz sposobu odprowadzania lub oczyszczania ścieków, a także innych potrzeb w zakresie uzbrojenia terenu, niezbędnej liczby miejsc postojowych, jak również sposobu zagospodarowywania odpadów,
     b) planowanego sposobu zagospodarowania terenu oraz charakterystyki zabudowy i zagospodarowania terenu, w tym przeznaczenia projektowanych obiektów budowlanych, przedstawione w formie opisowej i graficznej,
     c) charakterystycznych parametrów technicznych inwestycji mieszkaniowej oraz danych charakteryzujących jej wpływ na środowisko;
-  7a) określenie minimalnego udziału powierzchni ogólnodostępnego, nieogrodzonego urządzonego terenu wypoczynku oraz rekreacji lub sportu lokalizowanego w ramach terenu biologicznie czynnego na terenie inwestycji mieszkaniowej;
+  7a) określenie minimalnego udziału powierzchni ogólnodostępnego, nieogrodzonego urządzonego terenu wypoczynku oraz rekreacji lub sportu lokalizowanego w ramach powierzchni biologicznie czynnej na terenie inwestycji mieszkaniowej;
   8) wskazanie nieruchomości, według katastru nieruchomości oraz księgi wieczystej, jeżeli została założona, na których mają być zlokalizowane obiekty objęte inwestycją mieszkaniową;
   9) wskazanie nieruchomości, według katastru nieruchomości oraz księgi wieczystej, jeżeli została założona, w stosunku do których decyzja o pozwoleniu na budowę inwestycji mieszkaniowej ma wywołać skutek, o którym mowa w art. 35 ust. 1;
   10) wskazanie nieruchomości, o których mowa w art. 38 ust. 1, według katastru nieruchomości oraz księgi wieczystej, jeżeli została założona;
   11) wskazanie, w jakim zakresie planowana inwestycja nie uwzględnia ustaleń miejscowego planu zagospodarowania przestrzennego, w przypadku wniosku o ustalenie lokalizacji na terenie, dla którego obowiązuje miejscowy plan zagospodarowania przestrzennego;
-  12) wskazanie, że planowana inwestycja nie jest sprzeczna ze studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, z wyłączeniem terenów, o których mowa w art. 5 ust. 4, oraz nie jest sprzeczna z uchwałą o utworzeniu parku kulturowego;
+  12) wskazanie, że planowana inwestycja jest zgodna z planem ogólnym gminy, oraz nie jest sprzeczna z uchwałą o utworzeniu parku kulturowego;
   13) wykazanie, że inwestycja mieszkaniowa odpowiada standardom, o których mowa w rozdziale 3.
 8. Do wniosku, o którym mowa w ust. 1, dołącza się:
   1) koncepcję urbanistyczno-architektoniczną, o której mowa w art. 6;
@@ -163,8 +160,9 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
   2) zarządzania, eksploatacji i utrzymania infrastruktury dostępowej oraz nie powoduje zagrożenia dla bezpieczeństwa morskiego - następuje w formie pisemnego uzgodnienia właściwego dyrektora urzędu morskiego.
 
 **Art. 12.**
-1. Ilekroć w odrębnych przepisach realizacja inwestycji mieszkaniowej uzależniona jest od zgodności lub nienaruszania przeznaczenia lub sposobu wykorzystywania nieruchomości wynikającego z miejscowego planu zagospodarowania przestrzennego lub studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy, wymóg ten uważa się za spełniony w zakresie wynikającym z ustalenia lokalizacji, o której mowa w art. 7, oraz uzgodnienia, o którym mowa w art. 10 i art. 11.
+1. Ilekroć w odrębnych przepisach realizacja inwestycji mieszkaniowej uzależniona jest od zgodności lub nienaruszania przeznaczenia lub sposobu wykorzystywania nieruchomości wynikającego z miejscowego planu zagospodarowania przestrzennego, wymóg ten uważa się za spełniony w zakresie wynikającym z ustalenia lokalizacji, o której mowa w art. 7, oraz uzgodnienia, o którym mowa w art. 10 i art. 11.
 2. Przepis ust. 1 nie wyłącza stosowania do inwestycji mieszkaniowej przepisów o ochronie gruntów rolnych i leśnych w zakresie gruntów leśnych oraz, poza granicami administracyjnymi miast, gruntów rolnych.
+3. W przypadku, o którym mowa w art. 13 ust. 1 ustawy z dnia 20 lipca 2018 r. o przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe w prawo własności tych gruntów (Dz. U. z 2023 r. poz. 904 i 1586), przez zgodność, o której mowa w tym przepisie, należy rozumieć także zgodność z uchwałą, o której mowa w art. 8.
 
 **Art. 13.** W przypadku gdy inwestycja mieszkaniowa przewidziana jest w obowiązującym miejscowym planie zagospodarowania przestrzennego, decyzji o ustaleniu lokalizacji inwestycji celu publicznego lub decyzji o warunkach zabudowy, inwestor w każdym czasie może wystąpić o wydanie pozwolenia na budowę inwestycji mieszkaniowej lub inwestycji towarzyszącej w trybie niniejszej ustawy. Przepisu art. 25 ust. 6 nie stosuje się.
 
@@ -191,15 +189,15 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
 3. Spełnienie warunków, o których mowa w ust. 2 pkt 2, w zakresie możliwości przyjęcia nowych uczniów w szkole podstawowej ocenia się na podstawie zaświadczenia wójta (burmistrza, prezydenta miasta).
 4. Inwestycję mieszkaniową wielorodzinną lokalizuje się na terenie zapewniającym dostęp do urządzonych terenów wypoczynku oraz rekreacji lub sportu o powierzchni stanowiącej co najmniej iloczyn planowanej liczby mieszkańców oraz wskaźnika wynoszącego 4 m2. Zapewnienie dostępu następuje poprzez lokalizację w odległości nie większej niż 3000 m, a w miastach, w których liczba mieszkańców przekracza 100 000 mieszkańców, 1500 m.
 4a. Dla inwestycji mieszkaniowej określa się:
-  1) minimalny udział powierzchni terenu biologicznie czynnego wynoszący co najmniej 25% powierzchni terenu inwestycji mieszkaniowej, przy czym co najmniej 50% terenu biologicznie czynnego stanowić ma ogólnodostępny, nieogrodzony, urządzony teren wypoczynku oraz rekreacji lub sportu, o którym mowa w ust. 4;
+  1) minimalny udział powierzchni biologicznie czynnej wynoszący co najmniej 25% powierzchni terenu inwestycji mieszkaniowej, przy czym co najmniej 50% powierzchni biologicznie czynnej stanowić ma ogólnodostępny, nieogrodzony, urządzony teren wypoczynku oraz rekreacji lub sportu, o którym mowa w ust. 4;
   2) minimalną liczbę miejsc postojowych wynoszącą co najmniej 1,5-krotność liczby mieszkań przewidzianej do realizacji w ramach inwestycji mieszkaniowej.
-4b. Obowiązek zapewnienia minimalnego udziału ogólnodostępnego, nieogrodzonego, urządzonego terenu wypoczynku oraz rekreacji lub sportu w ramach terenu biologicznie czynnego, o którym mowa w ust. 4a pkt 1, nie dotyczy:
+4b. Obowiązek zapewnienia minimalnego udziału ogólnodostępnego, nieogrodzonego, urządzonego terenu wypoczynku oraz rekreacji lub sportu w ramach powierzchni biologicznie czynnej, o którym mowa w ust. 4a pkt 1, nie dotyczy:
   1) inwestycji mieszkaniowych obejmujących swoim zakresem budowę, przebudowę lub zmianę sposobu użytkowania budynków mieszkalnych jednorodzinnych;
   2) inwestycji mieszkaniowych zlokalizowanych w obszarze zabudowy śródmiejskiej;
   3) udostępnienia ogólnodostępnego, nieogrodzonego, urządzonego terenu wypoczynku oraz rekreacji lub sportu na terenie inwestycji towarzyszącej - pod warunkiem spełnienia przez ten teren wymogów, o których mowa w ust. 4.
-4c. Lokalizacja ogólnodostępnego, nieogrodzonego, urządzonego terenu wypoczynku oraz rekreacji lub sportu w ramach terenu biologicznie czynnego, o którym mowa w ust. 4a pkt 1, na terenie inwestycji mieszkaniowej zapewnia spełnienie wymogów, o których mowa w ust. 4.
+4c. Lokalizacja ogólnodostępnego, nieogrodzonego, urządzonego terenu wypoczynku oraz rekreacji lub sportu w ramach powierzchni biologicznie czynnej, o którym mowa w ust. 4a pkt 1, na terenie inwestycji mieszkaniowej zapewnia spełnienie wymogów, o których mowa w ust. 4.
 4d. Dla inwestycji mieszkaniowej zlokalizowanej w obszarze zabudowy śródmiejskiej określa się:
-  1) minimalny udział powierzchni terenu biologicznie czynnego, wynoszący co najmniej 12,5% powierzchni terenu inwestycji mieszkaniowej;
+  1) minimalny udział powierzchni biologicznie czynnej, wynoszący co najmniej 12,5% powierzchni terenu inwestycji mieszkaniowej;
   2) minimalną liczbę miejsc postojowych co najmniej równą liczbie mieszkań przewidzianej do realizacji w ramach inwestycji mieszkaniowej.
 5. Wymogi, o których mowa w ust. 1, 2, 4, 4a i 4d, można spełnić zarówno w oparciu o infrastrukturę istniejącą w dniu składania wniosku o ustalenie lokalizacji inwestycji mieszkaniowej, jak i w oparciu o infrastrukturę planowaną do realizacji.
 6. Budynki objęte inwestycją mieszkaniową:
@@ -418,7 +416,7 @@ inwestycje, o których mowa w pkt 1-13, mają pierwszeństwo przed inwestycjami 
 
 **Art. 58.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 7 ust. 2 i 3 oraz art. 34 ust. 6 ustawy wymienionej w art. 44 w brzmieniu dotychczasowym zachowują moc i mogą być zmieniane.
 
-**Art. 59.** Ustawa traci moc z dniem 31 grudnia 2028 r.
+**Art. 59.** Ustawa traci moc z dniem 1 stycznia 2026 r.
 
 **Art. 60.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 42 i art. 48, które wchodzą w życie z dniem ogłoszenia;
