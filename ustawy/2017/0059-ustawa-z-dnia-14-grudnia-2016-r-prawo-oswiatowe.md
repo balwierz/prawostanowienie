@@ -35,7 +35,7 @@
   b) ponadpodstawowe, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami integracyjnymi, specjalnymi, dwujęzycznymi, przygotowania wojskowego, sportowymi i mistrzostwa sportowego, sportowe, mistrzostwa sportowego, rolnicze, leśne, morskie, żeglugi śródlądowej oraz rybołówstwa,
   c) artystyczne;
 3) placówki oświatowo-wychowawcze, w tym szkolne schroniska młodzieżowe, umożliwiające rozwijanie zainteresowań i uzdolnień oraz korzystanie z różnych form wypoczynku i organizacji czasu wolnego;
-4) placówki kształcenia ustawicznego oraz centra kształcenia zawodowego, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych;
+4) placówki kształcenia ustawicznego, centra kształcenia zawodowego oraz branżowe centra umiejętności, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych;
 5) placówki artystyczne - ogniska artystyczne umożliwiające rozwijanie zainteresowań i uzdolnień artystycznych;
 6) poradnie psychologiczno-pedagogiczne, w tym poradnie specjalistyczne udzielające dzieciom, młodzieży, rodzicom i nauczycielom pomocy psychologiczno-pedagogicznej, a także pomocy uczniom w wyborze kierunku kształcenia i zawodu;
 7) młodzieżowe ośrodki wychowawcze, młodzieżowe ośrodki socjoterapii, specjalne ośrodki szkolno-wychowawcze oraz specjalne ośrodki wychowawcze dla dzieci i młodzieży wymagających stosowania specjalnej organizacji nauki, metod pracy i wychowania, a także ośrodki rewalidacyjno-wychowawcze umożliwiające dzieciom i młodzieży, o których mowa w art. 36 ust. 17, a także dzieciom i młodzieży z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna, realizację odpowiednio obowiązku, o którym mowa w art. 31 ust. 4, obowiązku szkolnego i obowiązku nauki;
@@ -73,7 +73,7 @@
 12) oddziale międzynarodowym - należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone zgodnie z programem nauczania ustalonym przez zagraniczną instytucję edukacyjną;
 13) oddziale przygotowawczym - należy przez to rozumieć oddział szkolny dla osób niebędących obywatelami polskimi oraz osób będących obywatelami polskimi, podlegających obowiązkowi szkolnemu lub obowiązkowi nauki, które pobierały naukę w szkołach funkcjonujących w systemach oświaty innych państw, które nie znają języka polskiego albo znają go na poziomie niewystarczającym do korzystania z nauki, jak również wykazują zaburzenia w komunikacji oraz trudności adaptacyjne związane z różnicami kulturowymi lub ze zmianą środowiska edukacyjnego, co wymaga dostosowania procesu i organizacji kształcenia do ich potrzeb i możliwości edukacyjnych, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 165 ust. 16 pkt 2;
 14) placówce - należy przez to rozumieć jednostki organizacyjne wymienione w art. 2 pkt 3-8 i 10;
-15) placówce rolniczej - należy przez to rozumieć placówki i centra, o których mowa w art. 2 pkt 4, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności oraz kwalifikacji zawodowych wyłącznie w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
+15) placówce rolniczej - należy przez to rozumieć placówki kształcenia ustawicznego i centra kształcenia zawodowego, o których mowa w art. 2 pkt 4, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności oraz kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych wyłącznie w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
 16) organie prowadzącym szkołę lub placówkę - należy przez to rozumieć ministra, jednostkę samorządu terytorialnego, inne osoby prawne i fizyczne;
 17) kuratorze oświaty - należy przez to rozumieć kierownika kuratorium oświaty jako jednostki organizacyjnej wchodzącej w skład zespolonej administracji rządowej w województwie;
 18) nauczycielu - należy przez to rozumieć także wychowawcę i innego pracownika pedagogicznego szkoły, placówki i placówki doskonalenia nauczycieli;
@@ -100,8 +100,18 @@
 29b) kształceniu w formie stacjonarnej - należy przez to rozumieć kształcenie, które odbywa się przez 3 lub 4 dni w tygodniu, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
 29c) kształceniu w formie zaocznej - należy przez to rozumieć kształcenie, które odbywa się co 2 tygodnie przez 2 dni, a w uzasadnionych przypadkach - co tydzień przez 2 dni, zgodnie z przepisami wydanymi na podstawie art. 111 pkt 14;
 29d) szkole polskiej - należy przez to rozumieć szkołę przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym lub przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, która umożliwia uczniom uczęszczającym do szkół funkcjonujących w systemach oświaty innych państw uzupełnianie wykształcenia w zakresie szkoły podstawowej i liceum ogólnokształcącego, zgodnie z ramami programowymi kształcenia uzupełniającego i planami nauczania dla szkół polskich;
-30) kształceniu ustawicznym - należy przez to rozumieć kształcenie w szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych, a także uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych w formach pozaszkolnych przez osoby, które spełniły obowiązek szkolny;
-31) formach pozaszkolnych - należy przez to rozumieć formy uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych, o których mowa w art. 117 ust. 1a;
+30) kształceniu ustawicznym - należy przez to rozumieć kształcenie w szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych, a także uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych w formach pozaszkolnych przez osoby, które spełniły obowiązek szkolny;
+30a) branżowym centrum umiejętności - należy przez to rozumieć placówkę kształcenia, szkolenia i egzaminowania o zasięgu ogólnokrajowym, ukierunkowaną branżowo w zakresie jednej z dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, integrującą szkoły prowadzące kształcenie zawodowe, placówki kształcenia ustawicznego, centra kształcenia zawodowego, uczelnie oraz podmioty, o których mowa w art. 3 ust. 1a, które prowadzą działalność w zakresie tej dziedziny zawodowej, oraz prowadzącą działalność:
+  a) edukacyjno-szkoleniową,
+  b) wspierającą współpracę szkół, placówek i uczelni z pracodawcami,
+  c) innowacyjno-rozwojową upowszechniającą wiedzę i nowe technologie oraz transformację ekologiczną i cyfrową,
+  d) wspierającą realizację doradztwa zawodowego dla uczniów i aktywizację zawodową studentów, doktorantów i absolwentów studiów
+- skierowaną w szczególności do uczniów, studentów, doktorantów, nauczycieli, nauczycieli akademickich oraz pracowników, w zakresie tej dziedziny zawodowej;
+30b) organizacji branżowej właściwej dla danej dziedziny zawodowej - należy przez to rozumieć organizację o zasięgu ogólnokrajowym, posiadającą osobowość prawną, prowadzącą działalność statutową w zakresie jednej z dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, zrzeszającą:
+  a) osoby prawne prowadzące działalność w zakresie tej dziedziny zawodowej lub
+  b) osoby fizyczne posiadające wykształcenie związane z tą dziedziną zawodową lub wykonujące zawód związany z tą dziedziną zawodową lub zawód pokrewny do tego zawodu
+- działającą odpowiednio na podstawie ustawy z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. z 2022 r. poz. 97), ustawy z dnia 30 maja 1989 r. o izbach gospodarczych (Dz. U. z 2019 r. poz. 579), ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159), ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz. 2261) lub ustawy regulującej funkcjonowanie samorządu zawodowego, w tym samorządu zawodu zaufania publicznego oraz samorządu zawodu służby publicznej, z tym że w przypadku stowarzyszenia działającego na podstawie ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach stowarzyszenie to musi być wpisane do Krajowego Rejestru Sądowego;
+31) formach pozaszkolnych - należy przez to rozumieć formy uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych lub zmiany kwalifikacji zawodowych, o których mowa w art. 117 ust. 1a;
 32) niepełnosprawnościach sprzężonych - należy przez to rozumieć występowanie u dziecka niesłyszącego lub słabosłyszącego, niewidomego lub słabowidzącego, z niepełnosprawnością ruchową, w tym z afazją, z niepełnosprawnością intelektualną albo z autyzmem, w tym z zespołem Aspergera, co najmniej jeszcze jednej z wymienionych niepełnosprawności;
 33) specyficznych trudnościach w uczeniu się - należy przez to rozumieć trudności w uczeniu się odnoszące się do uczniów w normie intelektualnej, którzy mają trudności w przyswajaniu treści nauczania, wynikające ze specyfiki ich funkcjonowania percepcyjno-motorycznego i poznawczego, nieuwarunkowane schorzeniami neurologicznymi;
 33a) zawodzie - należy przez to rozumieć również zawód o charakterze pomocniczym określony w klasyfikacji zawodów szkolnictwa branżowego;
@@ -112,6 +122,7 @@
   b) efekty kształcenia właściwe dla dodatkowych umiejętności zawodowych określone w przepisach wydanych na podstawie art. 46 ust. 1;
 35b) kursie kompetencji ogólnych - należy przez to rozumieć kurs, którego program nauczania uwzględnia dowolnie wybraną część podstawy programowej kształcenia ogólnego;
 35c) turnusie dokształcania teoretycznego młodocianych pracowników - należy przez to rozumieć formę kształcenia zawodowego teoretycznego młodocianych pracowników w zakresie zawodu nauczanego w branżowej szkole I stopnia, którego program nauczania uwzględnia podstawę programową kształcenia w tym zawodzie;
+35d) branżowym szkoleniu zawodowym - należy przez to rozumieć specjalistyczne szkolenie, którego łączny wymiar w odniesieniu do uczniów wynosi co najmniej 15 godzin i którego program nauczania uwzględnia wiedzę lub umiejętności zawodowe w zakresie jednej z dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, przydatne do wykonywania zawodu, w tym kształtujące umiejętności cyfrowe i umiejętności związane z transformacją ekologiczną;
 36) egzaminie zawodowym - należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21 ustawy o systemie oświaty;
 37) egzaminie maturalnym - należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21c ustawy o systemie oświaty;
 38) egzaminie ósmoklasisty - należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21d ustawy o systemie oświaty;
@@ -135,6 +146,11 @@
   2) inną osobę prawną;
   3) osobę fizyczną.
 3. Jednostki samorządu terytorialnego mogą zakładać i prowadzić jedynie szkoły i placówki publiczne.
+3a. Branżowe centra umiejętności mogą być zakładane i prowadzone po zawarciu porozumienia między organem lub osobą, o których mowa w ust. 2, albo ministrem, o którym mowa w ust. 7-11 i 13a-14a, zakładającymi branżowe centrum umiejętności a organizacją branżową właściwą dla danej dziedziny zawodowej, mającego na celu objęcie branżowego centrum umiejętności wsparciem merytorycznym, kadrowym i organizacyjnym przez tę organizację branżową w zakresie działalności, o których mowa w art. 4 pkt 30a, prowadzonych przez branżowe centrum umiejętności.
+3b. W porozumieniu, o którym mowa w ust. 3a, określa się w szczególności sposób i formy wspierania działalności, o których mowa w art. 4 pkt 30a, zakres i formy zaangażowania stron porozumienia w realizację zadań, o których mowa w przepisach wydanych na podstawie art. 117 ust. 5, oraz sposób monitorowania przez każdą ze stron porozumienia realizacji tych zadań, a także sposób rozwiązywania sporów wynikających z porozumienia oraz warunki i tryb rozwiązania porozumienia, z tym że termin wypowiedzenia porozumienia nie może być krótszy niż 6 miesięcy.
+3c. Organizacja branżowa właściwa dla danej dziedziny zawodowej może wspomagać materialnie branżowe centrum umiejętności, którego dotyczy porozumienie, o którym mowa w ust. 3a, w zakresie działalności, o których mowa w art. 4 pkt 30a, prowadzonych przez branżowe centrum umiejętności.
+3d. Przepisów ust. 3a-3c nie stosuje się w przypadku, gdy branżowe centrum umiejętności zakłada i prowadzi organizacja branżowa właściwa dla danej dziedziny zawodowej.
+3e. W przypadku gdy porozumienie, o którym mowa w ust. 3a, jest zawierane między jednostką samorządu terytorialnego a organizacją branżową właściwą dla danej dziedziny zawodowej, w jednostce samorządu terytorialnego zadanie związane z zawarciem porozumienia, o którym mowa w ust. 3a, wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
 4. Minister właściwy do spraw wewnętrznych i Minister Obrony Narodowej mogą zakładać i prowadzić publiczne szkoły i placówki, o których mowa w przepisach wydanych na podstawie art. 49.
 5. Minister właściwy do spraw oświaty i wychowania:
   1) zakłada i prowadzi:
@@ -149,28 +165,69 @@
 6. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego zakłada i prowadzi publiczne szkoły artystyczne oraz placówki, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych, a także może zakładać i prowadzić placówki doskonalenia nauczycieli szkół artystycznych.
 7. Minister właściwy do spraw rolnictwa może zakładać i prowadzić:
   1) publiczne szkoły rolnicze oraz placówki rolnicze o znaczeniu regionalnym i ponadregionalnym;
-  2) publiczne placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych.
-8. Minister właściwy do spraw środowiska może zakładać i prowadzić publiczne szkoły leśne.
-9. Minister właściwy do spraw gospodarki morskiej może zakładać i prowadzić publiczne szkoły morskie.
-10. Minister właściwy do spraw żeglugi śródlądowej może zakładać i prowadzić publiczne szkoły żeglugi śródlądowej.
-11. Minister właściwy do spraw rybołówstwa może zakładać i prowadzić publiczne szkoły rybołówstwa.
-12. Minister Sprawiedliwości może zakładać i prowadzić publiczne szkoły i placówki w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich oraz publiczne szkoły i placówki przy zakładach karnych i aresztach śledczych. Szkoły i placówki przy zakładach karnych i aresztach śledczych działają w ramach ich struktury.
+  2) publiczne placówki doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych;
+  3) publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw rolnictwa.
+8. Minister właściwy do spraw środowiska może zakładać i prowadzić:
+  1) publiczne szkoły leśne;
+  2) publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw środowiska.
+9. Minister właściwy do spraw gospodarki morskiej może zakładać i prowadzić:
+  1) publiczne szkoły morskie;
+  2) publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw gospodarki morskiej.
+10. Minister właściwy do spraw żeglugi śródlądowej może zakładać i prowadzić:
+  1) publiczne szkoły żeglugi śródlądowej;
+  2) publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw żeglugi śródlądowej.
+11. Minister właściwy do spraw rybołówstwa może zakładać i prowadzić:
+  1) publiczne szkoły rybołówstwa;
+  2) publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw rybołówstwa.
+12. Minister Sprawiedliwości może zakładać i prowadzić publiczne szkoły i placówki, z wyjątkiem branżowych centrów umiejętności, w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich oraz publiczne szkoły i placówki, z wyjątkiem branżowych centrów umiejętności, przy zakładach karnych i aresztach śledczych. Szkoły i placówki przy zakładach karnych i aresztach śledczych działają w ramach ich struktury.
 13. Szkoły kształcące w zawodzie technik pożarnictwa może zakładać i prowadzić wyłącznie minister właściwy do spraw wewnętrznych.
-14. Minister właściwy do spraw zdrowia może założyć i prowadzić publiczną placówkę doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym w zakresie nauczania w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego, ministrem właściwym jest minister właściwy do spraw zdrowia.
-14a. Ministrowie właściwi do spraw zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego, niewymienieni w ust. 4-14, mogą zakładać i prowadzić publiczne szkoły prowadzące kształcenie zawodowe oraz placówki i centra, o których mowa w art. 2 pkt 4, kształcące wyłącznie w zawodach, dla których są właściwi.
+13a. Minister właściwy do spraw wewnętrznych może zakładać i prowadzić publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw wewnętrznych.
+14. Minister właściwy do spraw zdrowia może zakładać i prowadzić:
+  1) publiczną placówkę doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym w zakresie nauczania w zawodach, dla których zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw zdrowia;
+  2) publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ministrem właściwym jest minister właściwy do spraw zdrowia.
+14a. Ministrowie właściwi do spraw zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego niewymienieni w ust. 4-14 mogą zakładać i prowadzić:
+  1) publiczne szkoły prowadzące kształcenie zawodowe oraz placówki kształcenia ustawicznego i centra kształcenia zawodowego, o których mowa w art. 2 pkt 4, kształcące wyłącznie w zawodach, dla których ci ministrowie są właściwi;
+  2) publiczne branżowe centra umiejętności prowadzące działalność w dziedzinach zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, do których przyporządkowano co najmniej jeden zawód, dla którego zgodnie z klasyfikacją zawodów szkolnictwa branżowego ci ministrowie są właściwi.
 15. Zakładanie i prowadzenie publicznych przedszkoli, w tym z oddziałami integracyjnymi lub specjalnymi, przedszkoli integracyjnych i specjalnych oraz innych form wychowania przedszkolnego, o których mowa w art. 32 ust. 2, szkół podstawowych, w tym integracyjnych oraz z oddziałami integracyjnymi lub specjalnymi, z wyjątkiem szkół podstawowych specjalnych, szkół artystycznych oraz szkół przy zakładach karnych, szkół w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich, należy do zadań własnych gmin.
-16. Zakładanie i prowadzenie publicznych szkół podstawowych specjalnych, szkół ponadpodstawowych, w tym integracyjnych oraz z oddziałami integracyjnymi lub specjalnymi, szkół sportowych i mistrzostwa sportowego oraz placówek wymienionych w art. 2 pkt 3-8, z wyjątkiem szkół i placówek o znaczeniu regionalnym i ponadregionalnym, należy do zadań własnych powiatu, z zastrzeżeniem ust. 6.
+16. Zakładanie i prowadzenie publicznych szkół podstawowych specjalnych, szkół ponadpodstawowych, w tym integracyjnych oraz z oddziałami integracyjnymi lub specjalnymi, szkół sportowych, szkół mistrzostwa sportowego, placówek, o których mowa w art. 2 pkt 3 i 5-8, oraz placówek kształcenia ustawicznego i centrów kształcenia zawodowego, o których mowa w art. 2 pkt 4, z wyjątkiem szkół i placówek o znaczeniu regionalnym i ponadregionalnym, należy do zadań własnych powiatu, z zastrzeżeniem ust. 6.
 17. Jednostki samorządu terytorialnego mogą zakładać i prowadzić szkoły i placówki, których prowadzenie nie należy do ich zadań własnych, po zawarciu porozumienia z jednostką samorządu terytorialnego, dla której prowadzenie danego typu szkoły lub placówki jest zadaniem własnym, a w przypadku szkół artystycznych - z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego.
 18. Przepis ust. 17 stosuje się również w przypadku przekazywania szkół i placówek pomiędzy jednostkami samorządu terytorialnego.
 19. Prowadzenie szkół artystycznych oraz placówek, o których mowa w art. 2 pkt 8, dla uczniów szkół artystycznych, a także placówek doskonalenia nauczycieli szkół artystycznych może być przekazywane w drodze porozumienia między ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego a jednostką samorządu terytorialnego.
 20. Prowadzenie publicznych szkół rolniczych i placówek rolniczych o znaczeniu regionalnym i ponadregionalnym, publicznych szkół leśnych oraz publicznych szkół morskich, publicznych szkół żeglugi śródlądowej i publicznych szkół rybołówstwa może być przekazywane w drodze porozumienia zawieranego między właściwym ministrem a jednostką samorządu terytorialnego.
 21. W porozumieniu, o którym mowa w ust. 20, strony mogą określić tryb przekazania mienia będącego odpowiednio we władaniu publicznych szkół rolniczych i placówek rolniczych o znaczeniu regionalnym i ponadregionalnym, publicznych szkół leśnych oraz publicznych szkół morskich, publicznych szkół żeglugi śródlądowej i publicznych szkół rybołówstwa, niezbędnego do prawidłowego wykonywania zadań, o których mowa w art. 10 ust. 1.
 21a. Prowadzenie publicznych szkół, placówek i centrów, o których mowa w ust. 14a, może być przekazywane w drodze porozumienia zawieranego między właściwym ministrem a jednostką samorządu terytorialnego. Przepis ust. 21 stosuje się odpowiednio.
-22. Zakładanie i prowadzenie publicznych placówek doskonalenia nauczycieli, bibliotek pedagogicznych oraz szkół i placówek wymienionych w ust. 16 o znaczeniu regionalnym lub ponadregionalnym należy do zadań samorządu województwa, z zastrzeżeniem ust. 6 i 25.
+21b. Prowadzenie publicznych branżowych centrów umiejętności może być przekazywane w drodze porozumienia zawieranego między właściwym ministrem a jednostką samorządu terytorialnego. Przepisy ust. 3a-3c, 3e i 21 stosuje się odpowiednio.
+22. Zakładanie i prowadzenie publicznych placówek doskonalenia nauczycieli, bibliotek pedagogicznych, szkół i placówek, o których mowa w art. 2 pkt 3 i 5-8, oraz placówek kształcenia ustawicznego i centrów kształcenia zawodowego, o których mowa w art. 2 pkt 4, o znaczeniu regionalnym lub ponadregionalnym, należy do zadań samorządu województwa, z zastrzeżeniem ust. 6, 22a i 25.
+22a. Zakładanie i prowadzenie publicznych branżowych centrów umiejętności należy do zadań własnych powiatu.
 23. Powiat i gmina mogą zakładać i prowadzić w ramach zadań własnych publiczne placówki doskonalenia nauczycieli i biblioteki pedagogiczne, z zastrzeżeniem ust. 6.
 24. Założenie przez powiat lub gminę jednostki, o której mowa w ust. 23, następuje po uzyskaniu pozytywnej opinii kuratora oświaty.
 25. Plan sieci publicznych placówek doskonalenia nauczycieli, bibliotek pedagogicznych oraz szkół i placówek, o których mowa w ust. 22, określa sejmik województwa w drodze uchwały.
 26. Zakładanie publicznych kolegiów pracowników służb społecznych należy do zadań własnych samorządu województwa.
+
+**Art. 8a.**
+1. Minister właściwy do spraw oświaty i wychowania ogłasza konkurs mający na celu wyłonienie branżowych centrów umiejętności tworzących ogólnopolską sieć branżowych centrów umiejętności oraz rozwój tej sieci.
+2. Konkurs, o którym mowa w ust. 1, jest ogłaszany w Biuletynie Informacji Publicznej na stronie podmiotowej ministra właściwego do spraw oświaty i wychowania nie rzadziej niż raz na 5 lat.
+3. Wnioski w ramach konkursu, o którym mowa w ust. 1, mogą składać:
+  1) organy prowadzące branżowe centrum umiejętności w zakresie jednej z dziedzin zawodowych, o których mowa w ust. 5 pkt 1;
+  2) organy prowadzące:
+    a) szkołę prowadzącą kształcenie zawodowe kształcącą w co najmniej jednym zawodzie szkolnictwa branżowego przyporządkowanym do dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1 lub
+    b) centrum kształcenia zawodowego kształcące w co najmniej jednym zawodzie szkolnictwa branżowego przyporządkowanym do dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1
+  - zamierzające założyć branżowe centrum umiejętności w zakresie jednej z dziedzin zawodowych, o których mowa w ust. 5 pkt 1; w tym przypadku do wniosku dołącza się pisemne zobowiązanie do zawarcia porozumienia, o którym mowa w art. 8 ust. 3a;
+  3) organizacja branżowa właściwa dla danej dziedziny zawodowej, prowadząca działalność w zakresie jednej z dziedzin zawodowych, o których mowa w ust. 5 pkt 1, przez co najmniej 2 lata przed datą ogłoszenia konkursu, zamierzająca założyć branżowe centrum umiejętności w zakresie jednej z dziedzin zawodowych, o których mowa w ust. 5 pkt 1.
+4. Przy ocenie wniosku złożonego w ramach konkursu, o którym mowa w ust. 1, uwzględnia się w szczególności:
+  1) spełnienie warunków udziału w konkursie określonych w ust. 3 oraz szczegółowych warunków udziału w konkursie określonych w regulaminie konkursu zgodnie z ust. 5 pkt 2;
+  2) poziom merytoryczny wniosku;
+  3) adekwatność działań opisanych we wniosku do określonych w regulaminie konkursu szczegółowych kryteriów oceny wniosków.
+5. Regulamin konkursu, o którym mowa w ust. 1, określa w szczególności:
+  1) katalog dziedzin zawodowych określonych w przepisach wydanych na podstawie art. 46c ust. 1, których dotyczy konkurs;
+  2) szczegółowe warunki udziału w konkursie;
+  3) tryb przeprowadzenia konkursu, w tym tryb odwoławczy;
+  4) szczegółowe kryteria oceny wniosków odnoszące się do poziomu merytorycznego oraz adekwatności działań opisanych we wniosku, o których mowa w ust. 4 pkt 2 i 3;
+  5) wzór wniosku składanego w ramach konkursu, w tym warunki formalne dotyczące wniosku.
+6. Zakres danych wymaganych i przetwarzanych w ramach konkursu, o którym mowa w ust. 1, musi być zgodny z zasadami dotyczącymi przetwarzania danych osobowych, o których mowa w art. 5 ust. 1 lit. a-c rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, Dz. Urz. UE L 127 z 23.05.2018, str. 2 oraz Dz. Urz. UE L 74 z 04.03.2021, str. 35).
+7. Branżowe centra umiejętności wyłonione w konkursie, o którym mowa w ust. 1, tworzą ogólnopolską sieć branżowych centrów umiejętności, z zastrzeżeniem art. 46c ust. 3.
+8. Minister właściwy do spraw oświaty i wychowania ogłasza ogólnopolską sieć branżowych centrów umiejętności, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+9. Minister właściwy do spraw oświaty i wychowania może zlecać zadania związane z ogłoszeniem konkursu, o którym mowa w ust. 1, na podstawie umowy, jednostce podległej temu ministrowi lub przez niego nadzorowanej lub podmiotowi prowadzącemu statutową działalność oświatową lub naukową.
 
 **Art. 9.**
 1. Jednostka samorządu terytorialnego, będąca organem prowadzącym szkołę liczącą nie więcej niż 70 uczniów, na podstawie uchwały organu stanowiącego tej jednostki oraz po uzyskaniu pozytywnej opinii organu sprawującego nadzór pedagogiczny, może przekazać z dniem 1 września danego roku, w drodze umowy, osobie prawnej niebędącej jednostką samorządu terytorialnego, z wyjątkiem osoby, o której mowa w ust. 2, lub osobie fizycznej, prowadzenie takiej szkoły, o ile szkoła ta nie jest jedyną szkołą danego typu prowadzoną przez tę jednostkę samorządu terytorialnego zgodnie z art. 8 ust. 15 lub 16. Przepis nie dotyczy szkoły artystycznej.
@@ -209,7 +266,7 @@
 1. (uchylony)
 2. Zapewnienie kształcenia, wychowania i opieki, w tym kształcenia specjalnego i profilaktyki społecznej, jest zadaniem oświatowym:
   1) gmin - w przedszkolach oraz w innych formach wychowania przedszkolnego, o których mowa w art. 32 ust. 2, a także w szkołach, o których mowa w art. 8 ust. 15;
-  2) powiatów - w szkołach i placówkach, o których mowa w art. 8 ust. 16;
+  2) powiatów - w szkołach i placówkach, o których mowa w art. 8 ust. 16 i 22a;
   3) samorządów województw - w szkołach, placówkach i placówkach doskonalenia nauczycieli oraz kolegiach pracowników służb społecznych, o których mowa w art. 8 ust. 22 i 26.
 3. Zadaniem oświatowym gminy i powiatu jest także zapewnienie dodatkowej, bezpłatnej nauki języka polskiego, o której mowa w art. 165 ust. 7 i 9.
 4. Zadaniem oświatowym powiatu jest także zapewnienie warunków prowadzenia kwalifikacyjnych kursów zawodowych w szkołach i placówkach prowadzonych przez powiat.
@@ -398,7 +455,7 @@
   2) treści i działania o charakterze profilaktycznym skierowane do uczniów, nauczycieli i rodziców.
 2. Program wychowawczo-profilaktyczny opracowuje się na podstawie wyników corocznej diagnozy w zakresie występujących w środowisku szkolnym potrzeb rozwojowych uczniów, w tym czynników chroniących i czynników ryzyka, ze szczególnym uwzględnieniem zagrożeń związanych z używaniem substancji psychotropowych, środków zastępczych oraz nowych substancji psychoaktywnych.
 3. Diagnozę, o której mowa w ust. 2, przeprowadza dyrektor szkoły lub placówki albo upoważniony przez niego pracownik szkoły lub placówki.
-4. Przepisów ust. 1-3 nie stosuje się do przedszkoli, szkół dla dorosłych, branżowych szkół II stopnia, szkół policealnych i policealnych szkół artystycznych.
+4. Przepisów ust. 1-3 nie stosuje się do przedszkoli, szkół dla dorosłych, branżowych szkół II stopnia, szkół policealnych, policealnych szkół artystycznych i branżowych centrów umiejętności.
 
 **Art. 26a.**
 1. Przedszkola, oddziały przedszkolne w szkołach podstawowych i inne formy wychowania przedszkolnego oraz szkoły, z wyjątkiem szkół artystycznych, prowadzą zaplanowane i systematyczne działania w zakresie doradztwa zawodowego, w celu wspierania dzieci i uczniów w procesie rozpoznawania zainteresowań i predyspozycji zawodowych oraz podejmowania świadomych decyzji edukacyjnych i zawodowych, w tym przygotowania do wyboru kolejnego etapu kształcenia i zawodu, polegające w szczególności na prowadzeniu:
@@ -802,6 +859,99 @@
   2) szkół i zespołów szkół w Polsce, o których mowa w art. 8 ust. 5 pkt 2 lit. c tiret drugie;
   3) szkół i zespołów szkół przy przedstawicielstwie dyplomatycznym, urzędzie konsularnym i przedstawicielstwie wojskowym Rzeczypospolitej Polskiej, o których mowa w art. 8 ust. 5 pkt 2 lit. c.
 
+**Art. 44b.**
+1. Minister właściwy do spraw oświaty i wychowania może prowadzić system teleinformatyczny - Portal Edukacji i Nauki, zwany dalej „Portalem”.
+2. Portal stanowi ujednolicony punkt dostępu do usług i narzędzi z zakresu oświaty i wychowania oraz szkolnictwa wyższego i nauki, wykorzystujący dane udostępniane i gromadzone przez podmioty wykonujące zadania z zakresu oświaty i wychowania oraz szkolnictwa wyższego i nauki w rejestrach publicznych, systemach teleinformatycznych, ewidencjach, bazach danych oraz innych zasobach informatycznych.
+3. Minister właściwy do spraw oświaty i wychowania, we współpracy z ministrem właściwym do spraw szkolnictwa wyższego i nauki, zapewnia funkcjonowanie Portalu, w tym:
+  1) zapewnia ochronę przed nieuprawnionym dostępem do Portalu;
+  2) zapewnia integralność danych w Portalu;
+  3) umożliwia dokonywanie aktualizacji danych w Portalu;
+  4) przeciwdziała uszkodzeniom Portalu;
+  5) zapewnia rozliczalność działań dokonywanych na danych przetwarzanych w Portalu.
+4. W Portalu tworzy się konto internetowe, zwane dalej „Kontem”, dla:
+  1) nauczycieli i nauczycieli akademickich,
+  2) osób zatrudnionych w podmiotach systemu szkolnictwa wyższego i nauki, prowadzących działalność naukową,
+  3) studentów i absolwentów studiów,
+  4) osób ubiegających się o stopień doktora lub doktora habilitowanego oraz osób posiadających stopień doktora lub doktora habilitowanego,
+  5) uczniów, a w przypadku uczniów niepełnoletnich - także ich rodziców,
+  6) absolwentów szkół ponadpodstawowych, o których mowa w art. 18 ust. 1 pkt 2,
+  7) osób zatrudnionych w jednostkach systemu oświaty i systemu szkolnictwa wyższego i nauki, które będą po stronie tych jednostek uczestniczyć w świadczeniu usług, o których mowa w ust. 7,
+  8) innych osób posiadających uzasadniony interes w posiadaniu Konta, w tym osób, które nie posiadają numeru PESEL i których tożsamość jest potwierdzana na podstawie dokumentu tożsamości
+- zwanych dalej „użytkownikami”.
+5. Dostęp do danych przetwarzanych w Portalu posiadają:
+  1) podmioty wykonujące zadania z zakresu oświaty i wychowania, o których mowa w art. 2;
+  2) podmioty, o których mowa w art. 3 ust. 1 i 1a;
+  3) Centralna Komisja Egzaminacyjna i okręgowe komisje egzaminacyjne;
+  4) podmioty tworzące system szkolnictwa wyższego i nauki - w zakresie osób zatrudnionych lub kształcących się w danym podmiocie - w celu efektywnego i prawidłowego wykonywania swoich zadań;
+  5) Rada Doskonałości Naukowej - w zakresie danych osób ubiegających się o stopień doktora habilitowanego - w celu wykonywania zadań statutowych Rady Doskonałości Naukowej;
+  6) jednostki organizacyjne podległe ministrowi właściwemu do spraw oświaty i wychowania lub przez niego nadzorowane;
+  7) minister właściwy do spraw szkolnictwa wyższego i nauki oraz jednostki organizacyjne podległe temu ministrowi lub przez niego nadzorowane - w celu realizacji polityki naukowej państwa;
+  8) jednostki współpracujące z podmiotami, o których mowa w pkt 1-6, na mocy porozumień lub umów;
+  9) organy prowadzące jednostki systemu oświaty i systemu szkolnictwa wyższego i nauki.
+6. Dostęp do danych przetwarzanych w Portalu posiadają również, w zakresie swoich danych, osoby, o których mowa w ust. 4.
+7. Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego i nauki za pośrednictwem Konta świadczą usługi umożliwiające:
+  1) zapewnienie użytkownikowi Konta, a w przypadku użytkownika niepełnoletniego - także jego rodzicom, dostępu do informacji dotyczących użytkownika zgromadzonych w innych systemach teleinformatycznych prowadzonych przez podmioty wykonujące zadania z zakresu oświaty i wychowania oraz szkolnictwa wyższego i nauki;
+  2) składanie oświadczeń, wniosków oraz innych dokumentów do jednostek systemu oświaty lub podmiotów systemu szkolnictwa wyższego i nauki oraz udzielanie upoważnień;
+  3) gromadzenie dokumentacji przez jednostki systemu oświaty oraz podmioty systemu szkolnictwa wyższego i nauki, jeżeli nie jest to zastrzeżone dla sposobów i miejsc określonych w odrębnych przepisach;
+  4) generowanie elektronicznych poświadczeń dyplomów ukończenia studiów i suplementów, dyplomów doktorskich i dyplomów habilitacyjnych;
+  5) przekazywanie informacji zgromadzonych w systemach prowadzonych przez podmioty wykonujące zadania z zakresu oświaty i wychowania oraz szkolnictwa wyższego i nauki do innych podmiotów na potrzeby realizacji usług udostępnianych i świadczonych przez Portal.
+8. Dostęp do danych dla podmiotów, o których mowa w ust. 5 pkt 1-3, 6, 8 i 9, jest realizowany w celu wykonywania przez nie zadań wymienionych w art. 1.
+9. Dostęp do danych użytkownika dla podmiotów innych niż wymienione w ust. 5 w celu wykonywania zadań innych niż wymienione w ust. 8 wymaga odrębnej zgody tego użytkownika.
+10. Dokumentacja, o której mowa w ust. 7 pkt 2, może być składana za pośrednictwem Portalu, jeżeli sposób jej złożenia nie jest zastrzeżony dla trybów określonych w odrębnych przepisach.
+11. Dostęp do Konta następuje za pośrednictwem Portalu po uwierzytelnieniu w sposób określony w art. 20a ust. 1 pkt 1 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2023 r. poz. 57, 1123, 1234 i 1703) lub w sposób określony w art. 4 ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. poz. 1234).
+12. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw szkolnictwa wyższego i nauki określi, w drodze rozporządzenia:
+  1) wykaz rejestrów publicznych, systemów teleinformatycznych, ewidencji, baz danych lub innych zasobów informatycznych, z których administrator Portalu może pobrać dane, oraz jednostek organizacyjnych podległych ministrowi właściwemu do spraw oświaty i wychowania lub ministrowi właściwemu do spraw szkolnictwa wyższego i nauki lub nadzorowanych przez tych ministrów prowadzących te rejestry publiczne, systemy teleinformatyczne, ewidencje, bazy danych lub inne zasoby informatyczne,
+  2) warunki korzystania z Konta, w tym sposób uwierzytelniania użytkowników w Portalu,
+  3) wykaz oświadczeń, wniosków, upoważnień oraz innych dokumentów, które mogą być składane do jednostek systemu oświaty lub podmiotów systemu szkolnictwa wyższego i nauki,
+  4) wykaz dokumentacji gromadzonej w Portalu przez jednostki systemu oświaty oraz podmioty systemu szkolnictwa wyższego i nauki
+- mając na uwadze adekwatność zakresu danych do potrzeb związanych z usługami świadczonymi w Portalu oraz uwarunkowania pozwalające na zapewnienie możliwości pobierania tych danych.
+13. Minister właściwy do spraw oświaty i wychowania może powierzyć obsługę organizacyjno-techniczną Portalu, w tym wykonanie niektórych lub wszystkich zadań związanych z prowadzeniem Portalu, jednostce organizacyjnej podległej temu ministrowi lub przez niego nadzorowanej, lub - za zgodą ministra właściwego do spraw szkolnictwa wyższego i nauki - jednostce organizacyjnej podległej ministrowi właściwemu do spraw szkolnictwa wyższego i nauki lub przez niego nadzorowanej. Minister właściwy do spraw oświaty i wychowania zapewnia środki finansowe na wykonywanie zadań związanych z obsługą organizacyjno-techniczną Portalu. W zakresie funkcjonalności Portalu związanych ze szkolnictwem wyższym i nauką finansowanie może zapewnić również minister właściwy do spraw szkolnictwa wyższego i nauki.
+14. Informację o miejscu udostępnienia Portalu minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego i nauki zamieszczają na stronie internetowej urzędów obsługujących tych ministrów.
+15. Zakres danych użytkowników, przetwarzanych w Portalu, obejmuje:
+  1) dane ucznia:
+    a) imię (imiona) i nazwisko,
+    b) informacje o: uczęszczaniu ucznia do szkoły lub placówki oraz oddziale, semestrze i klasie, do której uczeń uczęszcza,
+    c) numer PESEL,
+    d) adres poczty elektronicznej, o ile go posiada;
+  2) dane absolwenta:
+    a) imię (imiona) i nazwisko,
+    b) numer PESEL,
+    c) adres poczty elektronicznej, o ile go posiada,
+    d) datę (rok) uzyskania świadectwa dojrzałości,
+    e) nazwę okręgowej komisji egzaminacyjnej, która wydała świadectwo dojrzałości,
+    f) wyniki egzaminu maturalnego z poszczególnych przedmiotów w części pisemnej i części ustnej,
+    g) informację o poziomie egzaminu maturalnego z poszczególnych przedmiotów;
+  3) dane nauczyciela:
+    a) imię (imiona) i nazwisko,
+    b) numer PESEL, a w przypadku nauczyciela nieposiadającego numeru PESEL - serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz datę urodzenia,
+    c) informacje o zatrudnieniu nauczyciela w szkole lub placówce oraz nazwie i adresie siedziby tej szkoły lub placówki,
+    d) adres poczty elektronicznej, o ile go posiada;
+  4) dane innej osoby:
+    a) imię (imiona) i nazwisko,
+    b) adres poczty elektronicznej,
+    c) numer PESEL, a w przypadku osoby nieposiadającej numeru PESEL - serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość oraz datę urodzenia;
+  5) dane nauczycieli akademickich, innych osób prowadzących zajęcia, osób prowadzących działalność naukową oraz osób biorących udział w jej prowadzeniu, o których mowa w art. 343 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, a także adresy poczty elektronicznej tych osób;
+  6) dane dotyczące studentów, o których mowa w art. 344 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, a także adresy poczty elektronicznej tych osób;
+  7) dane osób ubiegających się o stopień doktora, o których mowa w art. 345 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, a także adresy poczty elektronicznej tych osób;
+  8) dane osób ubiegających się o stopień doktora habilitowanego, o których mowa w art. 348 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce, a także adresy poczty elektronicznej tych osób;
+  9) dane, o których mowa w art. 347 ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce;
+  10) dane dotyczące dyplomów cyfrowych, o których mowa w art. 347a ust. 1 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce.
+16. Administratorem danych przetwarzanych w Portalu jest minister właściwy do spraw oświaty i wychowania. Dokonując powierzenia, o którym mowa w ust. 13, minister właściwy do spraw oświaty i wychowania może powierzyć danej jednostce również pełnienie roli administratora Portalu.
+17. Ilekroć w przepisach odrębnych jest mowa o konieczności przedstawienia certyfikatu, dyplomu lub innego dokumentu potwierdzającego ukończenie studiów albo nabycie kwalifikacji, należy przez to rozumieć również możliwość przedstawienia poświadczenia wygenerowanego za pośrednictwem Portalu. W tym przypadku w aktach przechowuje się certyfikat, dyplom lub dokument, w wersji cyfrowej wygenerowanej za pośrednictwem Portalu.
+18. Dokument wygenerowany za pośrednictwem Portalu uznaje się za równoważny z certyfikatem, dyplomem lub innym dokumentem potwierdzającym ukończenie studiów albo nabycie kwalifikacji.
+19. Użytkowanie Portalu jest dobrowolne i bezpłatne.
+
+**Art. 44c.**
+1. Dokumenty, o których mowa w art. 44b ust. 7 pkt 2-5, składa się za pośrednictwem Portalu w postaci elektronicznej.
+2. Dokumenty, o których mowa w art. 44b ust. 7 pkt 2, 3 i 5, mogą być opatrzone podpisem zaufanym, kwalifikowanym podpisem elektronicznym lub podpisem osobistym.
+3. Ilekroć w przepisie szczególnym jest mowa o obowiązku przekazywania, przedkładania, składania, sporządzania lub dołączania wniosku lub dokumentu, na piśmie utrwalonym w postaci papierowej według określonego wzoru dokumentu, wymóg ten należy uznać za spełniony, jeżeli wniosek lub dokument zostanie złożony za pośrednictwem Konta, za pomocą środków komunikacji elektronicznej, na formularzu elektronicznym, którego zakres informacyjny jest zgodny ze wzorem dokumentu wynikającym z przepisów szczególnych.
+4. Doręczenie pism może nastąpić za zgodą użytkownika na Konto w Portalu.
+
+**Art. 44d.**
+1. Minister właściwy do spraw oświaty i wychowania w celu gromadzenia i przechowywania danych niezbędnych do udostępniania użytkownikowi wyników egzaminu maturalnego z poszczególnych przedmiotów w części pisemnej i części ustnej lub wygenerowania w postaci elektronicznej potwierdzenia ukończenia studiów albo nabytych kwalifikacji może tworzyć i prowadzić w systemie teleinformatycznym Portfel Poświadczeń Cyfrowych.
+2. Portfel Poświadczeń Cyfrowych udostępnia się za pośrednictwem Portalu.
+3. Minister właściwy do spraw oświaty i wychowania może zlecić prowadzenie Portfela Poświadczeń Cyfrowych, w tym administrowanie tym Portfelem, podmiotom, o których mowa w art. 44b ust. 13.
+
 **Art. 45.**
 1. Szkoła lub placówka może realizować eksperyment pedagogiczny, który polega na modyfikacji istniejących lub wdrożeniu nowych działań w procesie kształcenia, przy zastosowaniu nowatorskich rozwiązań programowych, organizacyjnych, metodycznych lub wychowawczych, w ramach których są modyfikowane warunki, organizacja zajęć edukacyjnych lub zakres treści nauczania, w szczególności określone w art. 14 ust. 1 pkt 3-5.
 2. Celem eksperymentu pedagogicznego realizowanego w szkole lub placówce jest rozwijanie kompetencji i wiedzy uczniów oraz nauczycieli.
@@ -886,6 +1036,12 @@
 2. Prognoza, o której mowa w ust. 1, jest ustalana w oparciu o dane Instytutu Badań Edukacyjnych w Warszawie opracowane w szczególności na podstawie statystyki publicznej, w tym na podstawie badania dotyczącego zapotrzebowania rynku pracy na absolwentów szkół prowadzących kształcenie w zawodach szkolnictwa branżowego prowadzonego przez Główny Urząd Statystyczny, oraz danych z Zakładu Ubezpieczeń Społecznych w zakresie ubezpieczeń społecznych i danych systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2018 r. poz. 1900), oraz po zasięgnięciu opinii sektorowych rad do spraw kompetencji i Rady Programowej do spraw kompetencji, a także ministrów właściwych dla zawodów szkolnictwa branżowego.
 3. Prognozę, o której mowa w ust. 1, minister właściwy do spraw oświaty i wychowania ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w terminie do dnia 1 lutego danego roku.
 4. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury i ochrony dziedzictwa narodowego ustala wykaz zawodów szkolnictwa branżowego o szczególnym znaczeniu dla kultury i dziedzictwa narodowego. Wykaz zawodów podlega ogłoszeniu, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
+
+**Art. 46c.**
+1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, wykaz dziedzin zawodowych wraz z przyporządkowanymi do nich zawodami określonymi w klasyfikacji zawodów szkolnictwa branżowego, uwzględniając potrzeby rynku pracy oraz specyfikę poszczególnych zawodów szkolnictwa branżowego i ich powiązanie z daną dziedziną zawodową.
+2. Minister właściwy do spraw oświaty i wychowania informuje organy prowadzące branżowe centra umiejętności tworzące ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7, o zamiarze usunięcia dziedziny zawodowej lub zawodu przyporządkowanego do danej dziedziny zawodowej z wykazu, o którym mowa w ust. 1, z co najmniej rocznym wyprzedzeniem.
+3. Branżowe centrum umiejętności, które prowadziło działalność w dziedzinie zawodowej usuniętej z wykazu, o którym mowa w ust. 1, przestaje z dniem usunięcia tej dziedziny zawodowej z wykazu, o którym mowa w ust. 1, wchodzić w skład ogólnopolskiej sieci branżowych centrów umiejętności, o której mowa w art. 8a ust. 7.
+4. W przypadku określonym w ust. 3 organ prowadzący branżowe centrum umiejętności likwiduje to centrum lub przekształca to centrum w inną placówkę lub szkołę prowadzącą kształcenie zawodowe.
 
 **Art. 47.**
 1. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
@@ -999,7 +1155,7 @@
 1d. Specjalistyczna jednostka nadzoru, o której mowa w ust. 1, ogłasza w terminie do dnia 30 września w Biuletynie Informacji Publicznej informacje o formach, zakresie i terminach badań jakości kształcenia artystycznego, o których mowa w ust. 1b, zaplanowanych na dany rok szkolny.
 1e. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, tryb i formy badań jakości kształcenia artystycznego, o których mowa w ust. 1b, uwzględniając wymogi sprawności, skuteczności i efektywności tych badań.
 1f. (uchylony)
-2. Minister właściwy do spraw rolnictwa sprawuje nadzór pedagogiczny nad publicznymi szkołami rolniczymi, placówkami rolniczymi oraz placówkami doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, przez siebie prowadzonymi, minister właściwy do spraw środowiska - nad publicznymi szkołami leśnymi przez siebie prowadzonymi, a minister właściwy do spraw zdrowia - nad publiczną placówką doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym. W tym celu, a także w celu realizacji zadań, o których mowa w art. 10 ust. 1, w odniesieniu do szkół i placówek przez siebie prowadzonych odpowiednio minister właściwy do spraw rolnictwa, minister właściwy do spraw środowiska lub minister właściwy do spraw zdrowia mogą, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, w drodze rozporządzenia, utworzyć specjalistyczną jednostkę nadzoru oraz określić jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego.
+2. Minister właściwy do spraw rolnictwa sprawuje nadzór pedagogiczny nad publicznymi szkołami rolniczymi, placówkami rolniczymi, branżowymi centrami umiejętności i placówkami doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, przez siebie prowadzonymi, minister właściwy do spraw środowiska - nad publicznymi szkołami leśnymi i branżowymi centrami umiejętności przez siebie prowadzonymi, a minister właściwy do spraw zdrowia - nad publiczną placówką doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym przez siebie prowadzoną. W tym celu, a także w celu realizacji zadań, o których mowa w art. 10 ust. 1, w odniesieniu do szkół i placówek przez siebie prowadzonych odpowiednio minister właściwy do spraw rolnictwa, minister właściwy do spraw środowiska lub minister właściwy do spraw zdrowia mogą, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, w drodze rozporządzenia, utworzyć specjalistyczną jednostkę nadzoru oraz określić jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego.
 2a. Minister Obrony Narodowej sprawuje nadzór pedagogiczny nad realizacją szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6, w szkołach ponadpodstawowych prowadzących oddziały przygotowania wojskowego.
 3. Specjalistyczne jednostki nadzoru, o których mowa w ust. 1 i 2, są państwowymi jednostkami budżetowymi finansowanymi odpowiednio z budżetu ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, ministra właściwego do spraw rolnictwa, ministra właściwego do spraw środowiska lub ministra właściwego do spraw zdrowia.
 4. Przepisy ust. 1 i 2 nie naruszają uprawnień kuratora oświaty w zakresie nadzoru pedagogicznego nad nauczaniem przedmiotów ogólnokształcących w szkołach artystycznych, a także nad nauczaniem przedmiotów ogólnokształcących w szkołach rolniczych i w szkołach leśnych prowadzonych przez odpowiednio ministra właściwego do spraw rolnictwa lub ministra właściwego do spraw środowiska.
@@ -1299,6 +1455,7 @@
 
 **Art. 80.**
 1. W szkołach i placówkach mogą działać rady szkół i placówek.
+1a. W branżowym centrum umiejętności działa rada branżowego centrum umiejętności.
 2. Rada szkoły lub placówki uczestniczy w rozwiązywaniu spraw wewnętrznych szkoły lub placówki, a także:
   1) uchwala statut szkoły lub placówki;
   2) opiniuje projekt planu finansowego szkoły lub placówki;
@@ -1315,8 +1472,17 @@
 2. W skład rady szkoły lub placówki nie wchodzą uczniowie przedszkoli, uczniowie klas I-IV szkół podstawowych, z wyłączeniem szkół dla dorosłych, a także uczniowie szkół specjalnych i placówek dla dzieci i młodzieży z niepełnosprawnością intelektualną w stopniu umiarkowanym, znacznym lub głębokim oraz uczniowie szkół i placówek określonych w przepisach wydanych na podstawie art. 85 ust. 8.
 3. W szkole podstawowej dla dzieci i młodzieży udział uczniów klasy V i VI w radzie szkoły nie jest obowiązkowy.
 4. W szkołach i placówkach określonych w przepisach wydanych na podstawie art. 83 ust. 6 udział rodziców w radzie szkoły lub placówki nie jest obowiązkowy.
+4a. W skład rady branżowego centrum umiejętności wchodzi co najmniej:
+  1) po jednym przedstawicielu:
+    a) powiatowej rady rynku pracy właściwej ze względu na siedzibę branżowego centrum umiejętności,
+    b) wojewódzkiej rady rynku pracy właściwej ze względu na siedzibę branżowego centrum umiejętności,
+    c) organu prowadzącego branżowe centrum umiejętności;
+  2) po dwóch przedstawicieli:
+    a) organizacji pracodawców, samorządu gospodarczego, innej organizacji gospodarczej, stowarzyszenia lub samorządu zawodowego lub sektorowej rady do spraw kompetencji, właściwych dla danej dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1,
+    b) pracodawców, w tym przedsiębiorców, o których mowa w art. 7 ust. 1 pkt 1-3 ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641, 803 i 1414), właściwych dla danej dziedziny zawodowej określonej w przepisach wydanych na podstawie art. 46c ust. 1,
+    c) wybranych spośród osób prowadzących zajęcia w branżowym centrum umiejętności.
 5. Rada powinna liczyć co najmniej 6 osób.
-6. Tryb wyboru członków rady szkoły lub placówki określa statut szkoły lub placówki. Statut szkoły lub placówki może przewidywać rozszerzenie składu rady o inne osoby niż wymienione w ust. 1.
+6. Tryb wyboru członków rady szkoły lub placówki określa statut szkoły lub placówki. Statut szkoły lub placówki może przewidywać rozszerzenie składu rady o inne osoby niż wymienione w ust. 1 albo 4a.
 7. Kadencja rady szkoły lub placówki trwa 3 lata. Statut szkoły lub placówki może dopuszczać dokonywanie corocznej zmiany 1/3 składu rady.
 8. Rada szkoły lub placówki uchwala regulamin swojej działalności oraz wybiera przewodniczącego. Zebrania rady są protokołowane.
 9. W regulaminie, o którym mowa w ust. 8, mogą być określone rodzaje spraw, w których rozpatrywaniu nie biorą udziału przedstawiciele uczniów.
@@ -1325,6 +1491,7 @@
 12. Rady szkół lub placówek mogą porozumiewać się ze sobą, ustalając zasady i zakres współpracy.
 13. Powstanie rady szkoły lub placówki organizuje dyrektor szkoły lub placówki z własnej inicjatywy albo na wniosek rady rodziców, a w przypadku szkół ponadpodstawowych także na wniosek samorządu uczniowskiego.
 14. W szkołach artystycznych przepisy ust. 2-4 i 13 stosuje się odpowiednio.
+15. W branżowych centrach umiejętności przepisów ust. 1, 9 i 13 nie stosuje się.
 
 **Art. 82.**
 1. Rady szkoły lub placówki nie powołuje się w szkołach i placówkach, w których ze względu na specyfikę organizacji pracy i zadania nie ma możliwości wyłonienia stałej reprezentacji rodziców lub uczniów, o której mowa w art. 81 ust. 1 pkt 2 i 3.
@@ -1386,6 +1553,7 @@
 1. Szkołę lub placówkę publiczną zakłada się na podstawie aktu założycielskiego, który określa odpowiednio jej typ lub rodzaj, nazwę i siedzibę.
 2. Akt założycielski publicznej szkoły podstawowej, oprócz danych wymienionych w ust. 1, określa także jej zasięg terytorialny (obwód), w szczególności nazwy miejscowości, a w miastach - nazwy ulic lub ich części, należących do jej obwodu, oraz podporządkowane jej organizacyjnie szkoły filialne. Publicznej szkole podstawowej prowadzonej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną nie ustala się obwodu, chyba że osoba prowadząca wystąpi z takim wnioskiem.
 2a. Akt założycielski publicznego centrum kształcenia zawodowego i publicznej placówki kształcenia ustawicznego, oprócz danych wymienionych w ust. 1, określa także filie podporządkowane organizacyjnie centrum lub placówce.
+2b. Akt założycielski publicznego branżowego centrum umiejętności, oprócz danych wymienionych w ust. 1, określa także filie podporządkowane organizacyjnie branżowemu centrum umiejętności oraz zawiera nazwę dziedziny zawodowej, w zakresie której będzie funkcjonowało to centrum, i wskazanie organizacji branżowej właściwej dla danej dziedziny zawodowej, która jest organem zakładającym to centrum lub z którą organ zakładający to centrum zawarł porozumienie, o którym mowa w art. 8 ust. 3a.
 3. Nie ustala się obwodów szkołom specjalnym, szkołom integracyjnym, szkołom dwujęzycznym, szkołom dla mniejszości narodowych i etnicznych oraz społeczności posługujących się językiem regionalnym, szkołom sportowym, szkołom mistrzostwa sportowego, szkołom artystycznym, szkołom w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich oraz szkołom przy zakładach karnych i aresztach śledczych.
 4. Założenie szkoły lub placówki publicznej przez osobę prawną inną niż jednostka samorządu terytorialnego lub osobę fizyczną wymaga:
   1) zezwolenia właściwego organu jednostki samorządu terytorialnego, której zadaniem jest prowadzenie szkół lub placówek publicznych odpowiednio danego typu lub rodzaju, wydanego po uzyskaniu pozytywnej opinii kuratora oświaty;
@@ -1393,7 +1561,7 @@
     a) realizujących wyłącznie kształcenie artystyczne - zezwolenia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego,
     b) realizujących także kształcenie ogólne - zezwolenia ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego wydanego po uzyskaniu pozytywnej opinii kuratora oświaty.
 4a. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego udziela zezwolenia, o którym mowa w ust. 4 pkt 2, po uzyskaniu opinii specjalistycznej jednostki nadzoru, o której mowa w art. 53 ust. 1.
-5. Wniosek o udzielenie zezwolenia, o którym mowa w ust. 4, składa się wraz z projektem aktu założycielskiego i statutu; wniosek zawiera także dane niezbędne do wpisania szkoły lub placówki do krajowego rejestru urzędowego podmiotów gospodarki narodowej. Wniosek składa się nie później niż do dnia 30 września roku poprzedzającego rok, w którym ma nastąpić uruchomienie szkoły lub placówki. Termin ten może zostać przedłużony za zgodą odpowiednio organu jednostki samorządu terytorialnego, o którym mowa w ust. 4, albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
+5. Wniosek o udzielenie zezwolenia, o którym mowa w ust. 4, składa się wraz z projektem aktu założycielskiego i statutu, a w przypadku branżowego centrum umiejętności - również wraz z poświadczoną za zgodność z oryginałem kopią porozumienia, o którym mowa w ust. 2b; wniosek zawiera także dane niezbędne do wpisania szkoły lub placówki do krajowego rejestru urzędowego podmiotów gospodarki narodowej. Wniosek składa się nie później niż do dnia 30 września roku poprzedzającego rok, w którym ma nastąpić uruchomienie szkoły lub placówki. Termin ten może zostać przedłużony za zgodą odpowiednio organu jednostki samorządu terytorialnego, o którym mowa w ust. 4, albo ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 5a. Osoba fizyczna składająca wniosek o udzielenie zezwolenia, o którym mowa w ust. 4, może dołączyć do wniosku pisemne oświadczenie wskazujące osobę fizyczną lub osobę prawną inną niż jednostka samorządu terytorialnego, która przejmie prowadzenie szkoły lub placówki w przypadku zgonu osoby składającej wniosek. Oświadczenie zawiera zgodę osoby fizycznej albo osoby prawnej, która ma przejąć prowadzenie szkoły lub placówki.
 5b. Oświadczenie, o którym mowa w ust. 5a, może zostać złożone przez osobę fizyczną również po uzyskaniu zezwolenia, o którym mowa w ust. 4.
 6. Minister właściwy do spraw oświaty i wychowania, a w stosunku do szkół artystycznych - minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, szczegółowe zasady i warunki udzielania i cofania zezwolenia na założenie szkoły lub placówki publicznej, tak aby tworzenie szkół publicznych przez osoby prawne i fizyczne sprzyjało poprawie warunków kształcenia, a także korzystnie uzupełniało sieć szkół publicznych na danym terenie.
@@ -1411,6 +1579,7 @@
 6. Dokumentację zlikwidowanej szkoły publicznej przekazuje się organowi prowadzącemu szkołę, z wyjątkiem dokumentacji przebiegu nauczania, którą przekazuje się organowi sprawującemu nadzór pedagogiczny, w terminie jednego miesiąca od dnia zakończenia likwidacji.
 7. Dokumentację zlikwidowanej szkoły lub placówki publicznej prowadzonej przez osobę prawną lub fizyczną przekazuje się właściwemu organowi jednostki samorządu terytorialnego, o którym mowa w art. 88 ust. 4.
 8. Przepisy ust. 1-7 stosuje się odpowiednio do placówek publicznych, z wyjątkiem warunku o likwidacji z końcem roku szkolnego.
+8a. W przypadku likwidacji publicznego branżowego centrum umiejętności, o której mowa w art. 46c ust. 4, przepisów ust. 1-5 nie stosuje się.
 9. Przepisy ust. 1-8 i art. 88 stosuje się odpowiednio w przypadku przekształcenia szkoły lub placówki.
 10. Organ prowadzący szkołę lub placówkę może przenieść kształcenie w określonym zawodzie z tej szkoły lub placówki do innej szkoły tego samego typu lub innej placówki tego samego rodzaju prowadzonej przez ten organ, po zawiadomieniu, co najmniej na 6 miesięcy przed terminem przeniesienia, kuratora oświaty i rodziców uczniów, a w przypadku uczniów pełnoletnich - tych uczniów.
 11. Przepisów ust. 1-8 nie stosuje się w razie przekazania przez jednostkę samorządu terytorialnego prowadzenia szkoły publicznej osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej.
@@ -1456,6 +1625,7 @@
 8. Utworzenie zespołu, w którego skład wchodzą szkoły lub placówki albo szkoły i placówki prowadzone przez różne organy, może nastąpić po zawarciu porozumienia między tymi organami. Porozumienie powinno określać, który z organów będzie wykonywać zadania organu prowadzącego, sposób finansowania oraz tryb rozwiązania zespołu.
 9. Połączenie w zespół, o którym mowa w ust. 1-3, oraz włączenie do zespołu szkoły lub placówki, o którym mowa w ust. 7, jest dokonywane z dniem 1 września danego roku.
 10. Wyłączenie z zespołu oraz rozwiązanie zespołu, o których mowa w ust. 7, jest dokonywane z dniem 31 sierpnia danego roku.
+10a. Przepisów ust. 9 i 10 nie stosuje się w przypadku włączenia do zespołu albo wyłączenia z zespołu centrum kształcenia zawodowego, placówki kształcenia ustawicznego lub branżowego centrum umiejętności.
 11. Połączenie w zespół szkół lub placówek niebędących szkołami lub placówkami artystycznymi lub włączenie do zespołu szkoły lub placówki niebędącej szkołą lub placówką artystyczną, prowadzonych przez jednostkę samorządu terytorialnego, następuje po uzyskaniu pozytywnej opinii kuratora oświaty.
 12. Połączenie w zespół szkół lub placówek artystycznych lub włączenie do zespołu szkoły lub placówki artystycznej, prowadzonych przez jednostkę samorządu terytorialnego, następuje po uzyskaniu pozytywnej opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego.
 13. W przypadku gdy w skład zespołu mają wchodzić zarówno szkoły lub placówki niebędące szkołami lub placówkami artystycznymi, jak i szkoły lub placówki artystyczne, prowadzone przez jednostkę samorządu terytorialnego, połączenie w zespół tych szkół lub placówek lub włączenie do zespołu tych szkół lub placówek następuje po uzyskaniu pozytywnej opinii ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego uzgodnionej z kuratorem oświaty.
@@ -1696,7 +1866,9 @@
 13) zakres informacji, jakie w szczególności powinny być zawarte w arkuszu organizacji szkoły i przedszkola oraz terminy jego opracowywania, opiniowania i zatwierdzania, mając na uwadze liczbę pracowników szkoły i przedszkola, liczbę oddziałów poszczególnych klas, liczbę uczniów w poszczególnych oddziałach, tygodniowy wymiar godzin zajęć obowiązkowych w poszczególnych oddziałach oraz tygodniowy wymiar godzin zajęć dodatkowych;
 14) organizację tygodnia pracy szkoły, z uwzględnieniem kształcenia w formie dziennej, stacjonarnej lub zaocznej, w tym przypadki, w których kształcenie w formie dziennej może odbywać się przez 6 dni w tygodniu.
 
-**Art. 111a.** Publiczna placówka kształcenia ustawicznego i publiczne centrum kształcenia zawodowego mogą posiadać filie, które są organizacyjnie podporządkowane odpowiednio placówce lub centrum.
+**Art. 111a.**
+1. W skład publicznej placówki kształcenia ustawicznego mogą wchodzić szkoły dla dorosłych, branżowe szkoły II stopnia lub szkoły policealne.
+2. Publiczna placówka kształcenia ustawicznego, publiczne centrum kształcenia zawodowego i publiczne branżowe centrum umiejętności mogą posiadać filie, które są organizacyjnie podporządkowane odpowiednio placówce lub centrum.
 
 **Art. 112.**
 1. Statut placówki publicznej powinien określać w szczególności:
@@ -1732,13 +1904,14 @@
 **Art. 117.**
 1. Kształcenie ustawiczne jest organizowane i prowadzone w:
   1) publicznych i niepublicznych szkołach dla dorosłych, branżowych szkołach II stopnia i szkołach policealnych;
-  2) formach pozaszkolnych realizowanych przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego oraz publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z zastrzeżeniem ust. 2 pkt 3 i 4.
+  2) formach pozaszkolnych realizowanych przez publiczne i niepubliczne placówki kształcenia ustawicznego, centra kształcenia zawodowego i branżowe centra umiejętności oraz publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z zastrzeżeniem ust. 2 pkt 3 i 4.
 1a. Kształcenie ustawiczne prowadzi się w następujących formach pozaszkolnych:
   1) kwalifikacyjny kurs zawodowy;
   2) kurs umiejętności zawodowych;
   3) kurs kompetencji ogólnych;
   4) turnus dokształcania teoretycznego młodocianych pracowników;
-  5) kurs, inny niż wymienione w pkt 1-3, umożliwiający uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych.
+  4a) branżowe szkolenie zawodowe;
+  5) kurs, inny niż wymienione w pkt 1-3, umożliwiający uzyskiwanie i uzupełnianie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych.
 2. Kwalifikacyjne kursy zawodowe mogą być prowadzone przez:
   1) publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
   2) publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego;
@@ -1747,22 +1920,25 @@
 2a. Kursy umiejętności zawodowych mogą być prowadzone przez:
   1) publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
   2) publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.
-2b. Kursy kompetencji ogólnych oraz kursy, o których mowa w ust. 1a pkt 5, mogą być prowadzone przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.
+2b. Kursy kompetencji ogólnych mogą być prowadzone przez publiczne i niepubliczne placówki kształcenia ustawicznego i centra kształcenia zawodowego.
 2c. Turnusy dokształcania teoretycznego młodocianych pracowników mogą być prowadzone przez:
   1) publiczne i niepubliczne szkoły prowadzące kształcenie zawodowe, z wyjątkiem szkół artystycznych - w zakresie zawodów, w których kształcą, oraz w zakresie innych zawodów przypisanych do branż, do których należą zawody, w których kształci szkoła;
-  2) publiczne i niepubliczne centra kształcenia zawodowego.
+  2) publiczne i niepubliczne centra kształcenia zawodowego;
+  3) publiczne i niepubliczne branżowe centra umiejętności.
+2d. Branżowe szkolenia zawodowe mogą być prowadzone przez publiczne i niepubliczne branżowe centra umiejętności.
+2e. Kursy, o których mowa w ust. 1a pkt 5, mogą być prowadzone przez publiczne i niepubliczne placówki kształcenia ustawicznego, centra kształcenia zawodowego i branżowe centra umiejętności.
 3. Kształcenie ustawiczne może być prowadzone w formie dziennej, stacjonarnej lub zaocznej, a w przypadku form pozaszkolnych - także z wykorzystaniem metod i technik kształcenia na odległość. Turnus dokształcania młodocianych pracowników może być prowadzony wyłącznie w formie dziennej.
 4. Ustawa nie dotyczy kształcenia ustawicznego realizowanego na podstawie art. 170 ust. 2 oraz w formach i na zasadach określonych w odrębnych przepisach, chyba że przepis szczególny stanowi inaczej.
 5. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
-  1) rodzaje publicznych placówek kształcenia ustawicznego oraz zadania publicznych placówek kształcenia ustawicznego i publicznych centrów kształcenia zawodowego,
+  1) rodzaje publicznych placówek kształcenia ustawicznego oraz zadania publicznych placówek kształcenia ustawicznego, centrów kształcenia zawodowego oraz branżowych centrów umiejętności,
   2) warunki, organizację i tryb prowadzenia kształcenia ustawicznego w poszczególnych formach pozaszkolnych, w tym wymogi jakie powinien spełniać program nauczania,
   3) sposoby potwierdzania efektów kształcenia uzyskanych w wyniku ukończenia kształcenia prowadzonego w poszczególnych formach pozaszkolnych,
-  4) wzory dokumentów wydawanych po ukończeniu kształcenia prowadzonego w formach pozaszkolnych, o których mowa w ust. 1a pkt 1-4, a w przypadku formy pozaszkolnej, o której mowa w ust. 1a pkt 5 - zakres informacji, jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu kształcenia w tej formie,
+  4) wzory dokumentów wydawanych po ukończeniu kształcenia prowadzonego w formach pozaszkolnych, o których mowa w ust. 1a pkt 1-4a, a w przypadku formy pozaszkolnej, o której mowa w ust. 1a pkt 5 - zakres informacji, jakie umieszcza się na zaświadczeniu wydawanym po ukończeniu kształcenia w tej formie,
   5) przypadki, w których turnus dokształcania teoretycznego młodocianych pracowników może być prowadzony w więcej niż jednym zawodzie,
-  6) tryb zwalniania osób, o których mowa w ust. 12, z całości lub części opłat za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3 i 5, oraz warunki i tryb zwrotu opłaty w przypadkach określonych w ust. 11
+  6) tryb zwalniania osób, o których mowa w ust. 12, z całości lub części opłat za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3, 4a i 5, oraz warunki i tryb zwrotu opłaty w przypadkach określonych w ust. 11
 - uwzględniając możliwość zaliczania potwierdzonych efektów kształcenia przy podejmowaniu kształcenia w formach pozaszkolnych oraz konieczność dostosowania kształcenia ustawicznego do potrzeb i warunków rynku pracy, zapewnienia dostępności do form kształcenia ustawicznego umożliwiających przekwalifikowanie się oraz uzyskanie nowych kwalifikacji oraz włączenia pracodawców w proces kształcenia ustawicznego, a także konieczność prawidłowego udokumentowania w przypadku zwolnienia lub zwrotu opłaty, o której mowa w ust. 7.
 6. (uchylony)
-7. Publiczne szkoły, placówki i centra, o których mowa w ust. 1, mogą pobierać opłaty za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3 i 5.
+7. Publiczne szkoły, placówki i centra, o których mowa w ust. 1, mogą pobierać opłaty za kształcenie prowadzone w formach pozaszkolnych, o których mowa w ust. 1a pkt 2, 3, 4a i 5. Opłat nie pobiera się od uczniów szkół prowadzących kształcenie zawodowe, uczestniczących w branżowych szkoleniach zawodowych.
 8. Wysokość opłaty ustala dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, w porozumieniu z organem prowadzącym. Opłata nie może przekraczać ponoszonych kosztów kształcenia w danej formie.
 9. Opłata jest wnoszona za cały okres kształcenia, w terminie do dnia rozpoczęcia kształcenia, na rachunek bankowy publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, wskazany przez dyrektora tej szkoły, placówki lub centrum.
 10. Dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może w uzasadnionych przypadkach przedłużyć termin wniesienia opłaty lub wyrazić zgodę na wniesienie opłaty w ratach.
@@ -1770,7 +1946,8 @@
 12. Dyrektor publicznej szkoły, placówki lub centrum, o których mowa w ust. 1, może zwolnić w całości lub w części z opłaty osobę o niskich dochodach, w szczególności jeżeli dochód tej osoby nie przekracza kwot, o których mowa w art. 8 ust. 1 pkt 1 albo 2 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2018 r. poz. 1508, 1693 i 2192).
 
 **Art. 118.**
-1. Placówka kształcenia ustawicznego i centrum kształcenia zawodowego może uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 1-4, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 - jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie odrębnych przepisów. Akredytacja stanowi potwierdzenie spełniania określonych wymogów i zapewniania wysokiej jakości kształcenia ustawicznego prowadzonego w danej formie pozaszkolnej.
+1. Placówka kształcenia ustawicznego i centrum kształcenia zawodowego mogą uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 1-4, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 - jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie przepisów dotyczących uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych lub zmiany kwalifikacji zawodowych.
+1a. Branżowe centrum umiejętności może uzyskać akredytację na kształcenie ustawiczne prowadzone w formie pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 4 i 4a, a w przypadku formy pozaszkolnej, o której mowa w art. 117 ust. 1a pkt 5 - jeżeli kształcenie w tej formie jest prowadzone w oparciu o programy określone na podstawie przepisów dotyczących uzyskiwania i uzupełniania wiedzy, umiejętności i kwalifikacji zawodowych lub zmiany kwalifikacji zawodowych.
 2. Akredytację, w drodze decyzji administracyjnej, przyznaje kurator oświaty właściwy ze względu na miejsce prowadzenia kształcenia ustawicznego w danej formie pozaszkolnej na okres 5 lat.
 3. Akredytację, o której mowa w ust. 1, może uzyskać placówka lub centrum, które:
   1) prowadziło kształcenie w formie lub formach pozaszkolnych przez okres co najmniej 3 lat;
@@ -1780,26 +1957,28 @@
   5) zapewnia program nauczania, o którym mowa w przepisach wydanych na podstawie art. 117 ust. 5 - w zakresie danej formy pozaszkolnej;
   6) zapewnia warunki realizacji praktycznej nauki zawodu - w przypadku ubiegania się o akredytację na kształcenie w formach pozaszkolnych, o których mowa w art. 117 ust. 1a pkt 1 i 2;
   7) zapewnia bezpieczne i higieniczne warunki realizacji kształcenia w danej formie pozaszkolnej;
-  8) udostępnia uczestnikom danej formy pozaszkolnej materiały dydaktyczne.
+  8) udostępnia uczestnikom danej formy pozaszkolnej materiały dydaktyczne,
+  9) prowadzi dokumentację kształcenia ustawicznego w danej formie pozaszkolnej zgodnie z przepisami wydanymi na podstawie art. 117 ust. 5.
 4. (uchylony)
 4a. Akredytację przyznaje się po przeprowadzeniu przez zespół powołany przez kuratora oświaty oceny kształcenia ustawicznego prowadzonego w danej formie pozaszkolnej w zakresie określonym w ust. 3.
 4b. Członkom zespołu akredytacyjnego, o którym mowa w ust. 4a, przysługuje wynagrodzenie za udział w jego pracach, z tym że członkom będącym pracownikami kuratorium oświaty wynagrodzenie przysługuje tylko w przypadku udziału w pracach zespołu poza godzinami pracy w kuratorium.
 4c. Wysokość wynagrodzenia członków zespołu akredytacyjnego ustala kurator oświaty, z tym że wysokość wynagrodzenia jednego członka zespołu nie może przekroczyć 25% kwoty, o której mowa w ust. 6.
 4d. W roku kalendarzowym suma wynagrodzeń członków zespołu akredytacyjnego, wraz z pochodnymi, nie może przekroczyć sumy opłat wniesionych przez placówki ubiegające się o akredytację.
 5. Kurator oświaty, w drodze decyzji administracyjnej, może cofnąć akredytację, jeżeli stwierdzi niespełnianie przez placówkę lub centrum warunków wymaganych do uzyskania akredytacji, po uprzednim wezwaniu do usunięcia uchybień.
+5a. W przypadku cofnięcia akredytacji, o którym mowa w ust. 5, podmiot, któremu cofnięto akredytację, może ubiegać się o ponowne przyznanie akredytacji na kształcenie ustawiczne w formie pozaszkolnej, na której prowadzenie kurator oświaty cofnął akredytację, nie wcześniej niż po upływie roku od dnia cofnięcia tej akredytacji.
 6. Podmiot ubiegający się o uzyskanie akredytacji wnosi opłatę w wysokości 1023 zł, waloryzowaną corocznie średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, ustalonym w ustawie budżetowej. Opłatę wnosi się na rachunek bankowy kuratorium oświaty. Opłata nie podlega zwrotowi od dnia złożenia wniosku.
 6a. Minister właściwy do spraw oświaty i wychowania, w terminie do dnia 31 grudnia każdego roku, podaje do publicznej wiadomości na stronie urzędu obsługującego tego ministra wysokość opłaty w następnym roku kalendarzowym zwaloryzowanej zgodnie z ust. 6.
 7. Z opłat, o których mowa w ust. 6, są zwolnione podmioty, które prowadzą całość kształcenia nieodpłatnie.
 8. Przepisy ust. 1-7 stosuje się również do placówek niepublicznych prowadzonych zgodnie z przepisami rozdziału 8.
 8a. Akredytację na kształcenie ustawiczne prowadzone w formie kwalifikacyjnego kursu zawodowego może uzyskać podmiot prowadzący działalność oświatową, o której mowa w art. 170 ust. 2, a także instytucja rynku pracy, o której mowa w art. 6 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy, prowadząca działalność edukacyjno-szkoleniową, które prowadziły kwalifikacyjne kursy zawodowe lub prowadziły, na podstawie odrębnych przepisów, edukację pozaszkolną w zakresie zawodu lub zawodów odpowiadających zawodowi lub zawodom określonym w klasyfikacji zawodów szkolnictwa branżowego, przez okres co najmniej 3 lat. Przepisy ust. 2-7 stosuje się.
-9. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowy tryb przyznawania i cofania akredytacji podmiotom, o których mowa w ust. 1 i 8, skład i sposób działania zespołu, o którym mowa w ust. 4a, oraz wzory dokumentów stosowanych w postępowaniu o uzyskanie akredytacji, uwzględniając udział w zespole w szczególności przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców.
+9. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, szczegółowe warunki i tryb przyznawania, odmowy przyznania oraz cofania akredytacji na kształcenie ustawiczne w formach pozaszkolnych podmiotom, o których mowa w ust. 1, 1a, 8 i 8a, skład i sposób działania zespołu, o którym mowa w ust. 4a, oraz zadania przewodniczącego tego zespołu, a także wzory dokumentów stosowanych w postępowaniu o uzyskanie akredytacji, uwzględniając udział w zespole w szczególności przedstawicieli wojewódzkiego lub powiatowego urzędu pracy oraz organizacji pracodawców.
 10. (uchylony)
 11. Kurator oświaty prowadzi wykaz pozaszkolnych form kształcenia ustawicznego, na kształcenie w których przyznał akredytację, i podaje go do publicznej wiadomości na stronie internetowej kuratorium oświaty. Wykaz zawiera w szczególności: nazwę i adres podmiotu prowadzącego daną formę pozaszkolną, miejsce prowadzenia kształcenia, zakres i formę kształcenia.
 
 **Art. 119.** Zadania w zakresie kształcenia i wychowania młodzieży wykonują także Ochotnicze Hufce Pracy organizowane na zasadach określonych w odrębnych przepisach.
 
 **Art. 120.**
-1. Praktyczna nauka zawodu może odbywać się u pracodawców lub w indywidualnych gospodarstwach rolnych, zapewniających rzeczywiste warunki pracy, a także w centrach kształcenia zawodowego, warsztatach szkolnych, pracowniach szkolnych i placówkach kształcenia ustawicznego.
+1. Praktyczna nauka zawodu może odbywać się u pracodawców lub w indywidualnych gospodarstwach rolnych, zapewniających rzeczywiste warunki pracy, a także w branżowych centrach umiejętności, centrach kształcenia zawodowego, warsztatach szkolnych, pracowniach szkolnych i placówkach kształcenia ustawicznego.
 1a. Praktyczna nauka zawodu może być realizowana również za granicą na podstawie umów międzynarodowych lub porozumień o współpracy bezpośredniej zawieranych przez szkoły, jednostki samorządu terytorialnego i organy administracji rządowej lub w ramach programów edukacyjnych Unii Europejskiej.
 2. Praktyczna nauka zawodu odbywa się w podmiotach, o których mowa w ust. 1, na podstawie umowy zawartej pomiędzy szkołą a tym podmiotem. Umowa powinna określać w szczególności sposób ponoszenia kosztów realizowania praktycznej nauki zawodu.
 3. Przepisu ust. 2 nie stosuje się do praktycznej nauki zawodu organizowanej przez szkołę w jej warsztatach oraz pracowniach szkolnych dla uczniów tej szkoły.
@@ -2439,7 +2618,8 @@
   1) oznaczenie osoby zamierzającej prowadzić szkołę lub placówkę, jej miejsca zamieszkania lub siedziby;
   2) określenie odpowiednio typu lub rodzaju szkoły lub placówki oraz daty rozpoczęcia jej funkcjonowania, a w przypadku:
     a) szkoły prowadzącej kształcenie zawodowe - nazw zawodów, w których szkoła będzie kształcić, zgodnych z nazwami zawodów określonych w klasyfikacji zawodów szkolnictwa branżowego albo w klasyfikacji zawodów szkolnictwa artystycznego,
-    b) placówki albo centrum, o których mowa w art. 2 pkt 4 - formy pozaszkolnej, o której mowa w art. 117 ust. 1a, którą placówka albo centrum będzie prowadzić;
+    b) placówki albo centrum, o których mowa w art. 2 pkt 4 - formy pozaszkolnej, o której mowa w art. 117 ust. 1a, którą placówka albo centrum będzie prowadzić,
+    c) branżowego centrum umiejętności - wskazanie organizacji branżowej właściwej dla danej dziedziny zawodowej, z którą osoba zamierzająca prowadzić to centrum zawarła porozumienie, o którym mowa w art. 8 ust. 3a; do zgłoszenia dołącza się kopię porozumienia poświadczoną za zgodność z oryginałem;
   2a) w przypadku szkoły podstawowej lub liceum ogólnokształcącego - informację, czy szkoła jest przeznaczona dla dzieci i młodzieży czy dla dorosłych;
   2b) w przypadku szkoły podstawowej - informację, czy w szkole będzie zorganizowany oddział przedszkolny lub oddziały przedszkolne;
   3) wskazanie adresu siedziby szkoły lub placówki oraz innych lokalizacji prowadzenia zajęć dydaktycznych, wychowawczych i opiekuńczych, jeżeli ich utworzenie jest przewidywane, przy czym inne lokalizacje muszą znajdować się na terenie jednostki samorządu terytorialnego dokonującej wpisu do ewidencji, a w przypadku szkoły artystycznej na terenie tej samej miejscowości, a także informację o warunkach lokalowych zapewniających:
@@ -2470,6 +2650,7 @@
   2) datę i numer wpisu do ewidencji;
   3) nazwę oraz odpowiednio typ i rodzaj szkoły lub placówki;
   4) osobę prawną lub fizyczną prowadzącą szkołę lub placówkę;
+  4a) w przypadku branżowego centrum umiejętności - nazwę organizacji branżowej, o której mowa w ust. 4 pkt 2 lit. c;
   5) adres szkoły lub placówki;
   6) w przypadku szkoły prowadzącej kształcenie zawodowe - nazwy zawodów, w jakich szkoła kształci;
   6a) w przypadku szkoły artystycznej - nazwy zawodów oraz nazwy specjalności lub specjalizacji, w których kształci szkoła;
@@ -2522,6 +2703,7 @@
   4c) szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów;
   4d) formę kształcenia - w przypadku szkoły dla dorosłych, branżowej szkoły II stopnia, szkoły policealnej;
   4e) poszczególne formy pozaszkolne, o których mowa w art. 117 ust. 1a - w przypadku placówki i centrum, o których mowa w art. 2 pkt 4, oraz szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej;
+  4f) organizację branżową właściwą dla danej dziedziny zawodowej, z którą organ prowadzący branżowe centrum umiejętności zawarł porozumienie, o którym mowa w art. 8 ust. 3a, jeżeli organizacja ta nie jest organem prowadzącym to centrum - w przypadku branżowego centrum umiejętności;
   5) prawa i obowiązki pracowników oraz uczniów szkoły lub placówki, w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły lub placówki, a także tryb składania skarg w przypadku naruszenia praw uczniów;
   6) sposób uzyskiwania środków finansowych na działalność szkoły lub placówki;
   7) zasady przyjmowania uczniów do szkoły lub placówki - z tym że statut uwzględnia warunki, o których mowa w:
@@ -2534,7 +2716,9 @@
 4. Osoba prowadząca szkołę lub placówkę może ją zlikwidować z końcem roku szkolnego. W tym przypadku osoba prowadząca szkołę lub placówkę jest obowiązana co najmniej na 6 miesięcy przed terminem likwidacji zawiadomić o zamiarze i przyczynach likwidacji: rodziców uczniów, organ, o którym mowa w art. 168 ust. 1 i 2, oraz gminę, na której terenie jest położona szkoła lub placówka.
 5. Dokumentację przebiegu nauczania zlikwidowanej szkoły przekazuje się organowi sprawującemu nadzór pedagogiczny, w terminie jednego miesiąca od dnia zakończenia likwidacji. Po zakończeniu likwidacji wpis do ewidencji ulega wykreśleniu.
 
-**Art. 172a.** Przepis art. 68 ust. 7-7d stosuje się do szkół niepublicznych prowadzących kształcenie zawodowe, z wyjątkiem niepublicznych szkół artystycznych.
+**Art. 172a.**
+1. Przepis art. 68 ust. 7-7d stosuje się do szkół niepublicznych prowadzących kształcenie zawodowe, z wyjątkiem niepublicznych szkół artystycznych.
+2. Przepisy wydane na podstawie art. 117 ust. 5 stosuje się również do niepublicznych placówek kształcenia ustawicznego, centrów kształcenia zawodowego i branżowych centrów umiejętności.
 
 **Art. 173.**
 1. Przepisy art. 106 ust. 1-3, 5 i 6 stosuje się odpowiednio do szkół niepublicznych.
