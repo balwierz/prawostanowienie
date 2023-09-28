@@ -214,7 +214,7 @@
   7) są usługi finansowe związane z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych, w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2018 r. poz. 2286, z późn. zm.), oraz operacje przeprowadzane z Europejskim Instrumentem Stabilności Finansowej i Europejskim Mechanizmem Stabilności;
   8) są pożyczki lub kredyty, bez względu na to, czy wiążą się one z emisją, sprzedażą, kupnem lub zbyciem papierów wartościowych lub innych instrumentów finansowych w rozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi, z wyjątkiem kredytów zaciąganych przez jednostki samorządu terytorialnego w ramach limitów zobowiązań określonych w uchwale budżetowej;
   9) są usługi w dziedzinie obrony cywilnej, ochrony ludności i zapobiegania niebezpieczeństwom, świadczone przez organizacje lub stowarzyszenia o charakterze niekomercyjnym i objęte kodami CPV 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 oraz 85143000-3, określonymi we Wspólnym Słowniku Zamówień, z wyjątkiem usług transportu sanitarnego pacjentów;
-  10) są usługi publiczne w zakresie transportu pasażerskiego koleją lub metrem;
+  10) (uchylony)
   11) są dostawy uprawnień do emisji do powietrza gazów cieplarnianych i innych substancji, jednostek poświadczonej redukcji emisji oraz jednostek redukcji emisji, w rozumieniu przepisów o handlu uprawnieniami do emisji do powietrza gazów cieplarnianych i innych substancji.
 2. Przepisów ustawy nie stosuje się do umów:
   1) z zakresu prawa pracy;
