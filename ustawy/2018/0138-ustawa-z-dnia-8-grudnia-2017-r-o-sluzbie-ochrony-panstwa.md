@@ -346,7 +346,7 @@
 
 **Art. 42.**
 1. Przy wykonywaniu czynności operacyjno-rozpoznawczych podejmowanych przez SOP w celu:
-  1) rozpoznania i zapobiegania ściganych z oskarżenia publicznego umyślnych przestępstw określonych w art. 134, art. 135 § 1, art. 136 § 1, art. 148, art. 156 § 1 i 3, art. 157 § 1, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, art. 167, art. 173 § 1 i 3, art. 189, art. 223, art. 252 § 1-3, art. 258 oraz art. 280-282 Kodeksu karnego i skierowanych przeciwko osobom, o których mowa w art. 3 pkt 1 lit. a-d lub przeciwko bezpieczeństwu obiektów wymienionych w art. 3 pkt 1 lit. e,
+  1) rozpoznania i zapobiegania ściganych z oskarżenia publicznego umyślnych przestępstw określonych w art. 134, art. 135 § 1, art. 136 § 1, art. 148, art. 148a, art. 156 § 1 i 3, art. 157 § 1, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, art. 167, art. 173 § 1 i 3, art. 189, art. 223, art. 252 § 1-3, art. 258 oraz art. 280-282 Kodeksu karnego i skierowanych przeciwko osobom, o których mowa w art. 3 pkt 1 lit. a-d lub przeciwko bezpieczeństwu obiektów wymienionych w art. 3 pkt 1 lit. e,
   2) rozpoznania, zapobiegania i wykrywania ściganych z oskarżenia publicznego, umyślnych przestępstw określonych w art. 228, art. 229, art. 231, art. 265 oraz art. 266 Kodeksu karnego, popełnionych przez funkcjonariuszy i pracowników SOP w związku z wykonywaniem obowiązków służbowych
 - gdy inne środki okazały się bezskuteczne albo będą nieprzydatne, Sąd Okręgowy w Warszawie może, w drodze postanowienia, zarządzić kontrolę operacyjną na pisemny wniosek Komendanta SOP złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego.
 2. Wniosek Komendanta SOP, o którym mowa w ust. 1, powinien zawierać w szczególności:
