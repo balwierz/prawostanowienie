@@ -40,7 +40,7 @@
 § 5. (uchylony)
 § 6. (uchylony)
 
-**Art. 8.** Sąd Najwyższy niezwłocznie publikuje wydane przez siebie orzeczenie, a po sporządzeniu jego uzasadnienia - również uzasadnienie orzeczenia, w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego.
+**Art. 8.** Sąd Najwyższy niezwłocznie publikuje wydane przez siebie orzeczenie, a po sporządzeniu jego uzasadnienia - również uzasadnienie orzeczenia, w Biuletynie Informacji Publicznej na stronie podmiotowej Sądu Najwyższego. Z orzeczeniem lub jego uzasadnieniem publikuje się również zgłoszone zdanie odrębne wraz z jego uzasadnieniem.
 
 **Art. 9.** Sąd Najwyższy może wydawać zbiór swoich orzeczeń. Nazwa „Orzecznictwo Sądu Najwyższego” z oznaczeniem odpowiedniej izby podlega ochronie prawnej.
 
