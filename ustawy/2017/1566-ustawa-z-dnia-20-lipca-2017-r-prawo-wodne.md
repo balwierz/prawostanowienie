@@ -221,6 +221,8 @@
 48) ryzyku powodziowym - rozumie się przez to kombinację prawdopodobieństwa wystąpienia powodzi i potencjalnych negatywnych skutków powodzi dla życia i zdrowia ludzi, środowiska, dziedzictwa kulturowego oraz działalności gospodarczej;
 49) siedlisku - rozumie się przez to siedlisko roślin, siedlisko zwierząt lub siedlisko grzybów w rozumieniu art. 5 pkt 18 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody;
 50) silnie zmienionej jednolitej części wód powierzchniowych - rozumie się przez to jednolitą część wód powierzchniowych, której charakter został w znacznym stopniu zmieniony w następstwie fizycznych przeobrażeń będących wynikiem działalności człowieka;
+50a) systemie oczyszczania lub podczyszczania ścieków zasolonych - rozumie się przez to urządzenia lub zespół urządzeń do oczyszczania lub podczyszczania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, pozwalające zmniejszyć sumaryczne stężenie chlorków i siarczanów do poziomu stężenia poniżej 1500 mg/l, a w przypadku zakładów innych niż zakłady odprowadzające ścieki o zwiększonym zasoleniu - system pozwalający zmniejszyć sumaryczne stężenie chlorków i siarczanów co najmniej o 500 mg/l, nie wliczając w to wartości oczyszczenia lub podczyszczenia ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, wynikających z obowiązków oczyszczania lub podczyszczania tych ścieków lub wód nałożonych na zakład w pozwoleniu wodnoprawnym lub pozwoleniu zintegrowanym;
+50b) systemie retencyjno-dozującym - rozumie się przez to zespół urządzeń służący do wprowadzania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, z zakładów do końcowego odbiornika tych ścieków lub wód i ich retencjonowania w okresach obowiązywania na obszarze, na którym są zlokalizowane odbiorniki ścieków, ostrzeżenia przed suszą hydrologiczną, wydanego przez państwową służbę hydrologiczno-meteorologiczną, umożliwiający okresowe wstrzymanie lub ograniczenie wprowadzania tych ścieków lub wód do wód;
 51) stanie ekologicznym - rozumie się przez to określoną jakość struktury i funkcjonowania ekosystemu wodnego związanego z jednolitymi częściami wód powierzchniowych niewyznaczonymi jako silnie zmienione jednolite części wód powierzchniowych lub sztuczne jednolite części wód powierzchniowych;
 52) stanie ilościowym wód podziemnych - rozumie się przez to określony poziom, na jakim pobór wody ma wpływ na jednolitą część wód podziemnych;
 53) stanie wód podziemnych - rozumie się przez to ogólny stan jednolitych części wód podziemnych, który określa się na podstawie oceny stanu ilościowego wód podziemnych oraz oceny stanu chemicznego tych wód, przy czym o ogólnym stanie decyduje gorszy ze stanów;
@@ -278,6 +280,7 @@
 71) współrzędnych - rozumie się przez to współrzędne w geodezyjnym układzie odniesienia PL-ETRF2000, o których mowa w przepisach wydanych na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz. U. z 2016 r. poz. 1629 i 1948 oraz z 2017 r. poz. 60, 1509 i 1566);
 72) wyłącznej strefie ekonomicznej Rzeczypospolitej Polskiej - rozumie się przez to wyłączną strefę ekonomiczną, o której mowa w art. 15 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej;
 73) zakładach - rozumie się przez to podmioty korzystające z wód w ramach usług wodnych, wykonujące urządzenia wodne lub wykonujące inne działania wymagające zgody wodnoprawnej;
+73a) zakładzie odprowadzającym ścieki o zwiększonym zasoleniu - rozumie się przez to zakład wprowadzający do śródlądowych wód powierzchniowych płynących ścieki przemysłowe o sumarycznym stężeniu chlorków i siarczanów powyżej 1500 mg/l lub wody pochodzące z odwodnienia zakładów górniczych, zawierające chlorki i siarczany, niezależnie od sumy stężeń chlorków i siarczanów, jeżeli sumaryczna zawartość stężeń chlorków i siarczanów w odbiornikach tych ścieków lub wód, wyliczona przy założeniu pełnego wymieszania, przekracza 1000 mg/l;
 74) zanieczyszczeniu - rozumie się przez to emisję w rozumieniu art. 3 pkt 4 ustawy z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska, która może być szkodliwa dla zdrowia ludzi lub stanu środowiska, w tym jakości ekosystemów wodnych lub ekosystemów lądowych bezpośrednio zależnych od ekosystemów wodnych, powodować szkodę w dobrach materialnych, pogarszać walory estetyczne środowiska lub kolidować z uzasadnionymi sposobami korzystania ze środowiska, w szczególności powodować zanieczyszczenie wód powierzchniowych i wód podziemnych;
 75) zanieczyszczeniu wód morskich - rozumie się przez to będące wynikiem działalności człowieka bezpośrednie lub pośrednie wprowadzanie do środowiska wód morskich, w tym dna i skały macierzystej znajdujących się na obszarze morza terytorialnego, morskich wód wewnętrznych, wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej i wód przybrzeżnych, substancji lub energii, w tym podmorskiego hałasu, które wywołuje lub może wywoływać negatywne skutki, takie jak:
   a) straty w żywych zasobach i ekosystemach morskich, w tym utratę różnorodności biologicznej,
@@ -811,6 +814,10 @@
   3) wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni do jezior oraz do ich dopływów,
   4) ścieków, o których mowa w art. 75 pkt 3 lit. a, jeżeli jest to zgodne z warunkami określonymi w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2,
   5) wód wykorzystanych pochodzących z pomp ciepła lub wykorzystanych wód geotermalnych - do wód podziemnych
+  6) ścieków oczyszczonych do jezior, jeżeli:
+    a) zakład korzystał z wyłączenia z zakazu określonego w art. 15 ustawy z dnia 3 czerwca 2005 r. o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw (Dz. U. poz. 1087),
+    b) czas dopływu oczyszczonych ścieków do jeziora byłby krótszy niż 24 godziny, także w przypadku wprowadzania ścieków oczyszczonych do wód cieków naturalnych oraz kanałów będących dopływami jezior, oraz
+    c) są prowadzone pomiary: w sposób ciągły - ilości ścieków, a także w sposób okresowy, nie rzadziej niż raz na kwartał - jakości ścieków
 - o ile organ właściwy w sprawach pozwoleń wodnoprawnych ustali, że takie dopuszczenie nie koliduje z celami środowiskowymi dla wód lub wymaganiami jakościowymi dla wód.
 2. Właściwy organ Wód Polskich może, w drodze decyzji, zwolnić od zakazu wprowadzania do ziemi, w odległości mniejszej niż 1 kilometr od granic kąpielisk, miejsc okazjonalnie wykorzystywanych do kąpieli oraz plaż publicznych nad wodami, ścieków i wód innych niż wymienione w ust. 1 pkt 1, jeżeli wystąpi istotna potrzeba ekonomiczna lub społeczna, a zwolnienie nie spowoduje zagrożenia dla jakości wód.
 
@@ -1012,9 +1019,21 @@
   3) koniecznością redukcji substancji szczególnie szkodliwych w miejscu ich powstawania, gdy nie jest możliwe ich usunięcie w mechaniczno-biologicznych procesach oczyszczania.
 
 **Art. 101.**
-1. Zakłady pobierające wodę, przeznaczające ścieki do rolniczego wykorzystania oraz wprowadzające ścieki do wód lub do ziemi są obowiązane prowadzić pomiary ilości pobranej wody oraz ilości i jakości ścieków oraz prowadzić ewidencję dokonywanych pomiarów.
+1. Zakłady pobierające wodę, przeznaczające ścieki do rolniczego wykorzystania oraz wprowadzające ścieki do wód lub ziemi, są obowiązane:
+  1) prowadzić:
+    a) pomiary ilości pobranej wody oraz ilości i jakości ścieków, a także ewidencję dokonywanych pomiarów,
+    b) ewidencję każdego zrzutu z przelewów burzowych komunalnej kanalizacji ogólnospławnej oraz z przelewów kanalizacji deszczowej, w której wskazuje się datę i czas trwania zrzutu;
+  2) przechowywać ewidencję, o której mowa w pkt 1 lit. b, przez okres 5 lat na potrzeby kontroli gospodarowania wodami.
 2. Zakłady wprowadzające ścieki do wód lub do ziemi mogą, w pozwoleniu wodnoprawnym, zostać obowiązane do prowadzenia pomiarów jakości wód powierzchniowych powyżej i poniżej miejsca zrzutu ścieków oraz wód podziemnych, a także prowadzenia ewidencji dokonywanych pomiarów, jeżeli zachodzi potrzeba zapewnienia możliwości utrzymania dobrego stanu wód lub jego niepogarszania oraz osiągnięcia celów środowiskowych, o których mowa w art. 56, art. 57, art. 59 oraz w art. 61.
 3. Zakłady pobierające wodę w ilości większej niż 100 m3 na dobę są obowiązane do dokonywania ciągłego pomiaru ilości pobieranej wody oraz prowadzenia ewidencji dokonywanych pomiarów.
+
+**Art. 101a.**
+1. Jeżeli zakład posiada system retencyjno-dozujący, to na obszarze, na którym są zlokalizowane odbiorniki ścieków, zgodnie z ostrzeżeniami przed suszą hydrologiczną zakład ten jest obowiązany przez okres suszy hydrologicznej do:
+  1) wstrzymania wprowadzania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, do wód lub
+  2) ograniczenia wprowadzania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, do wód co najmniej do poziomu 1/2 wysokości określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalnej ilości ścieków wprowadzanych do wód
+- jednak nie dłużej niż do osiągnięcia maksymalnego wypełnienia urządzeń wchodzących w skład tego systemu służących do retencji tych wód lub ścieków, biorąc pod uwagę przewidywaną długość okresu suszy hydrologicznej, a także ewentualną potrzebę zapewnienia zdolności retencyjnych systemu retencyjno-dozującego w okresie następnej suszy, która mogłaby wystąpić w najbliższym okresie.
+2. Po zakończeniu okresu suszy zakład, o którym mowa w ust. 1, jest obowiązany do zwiększania zdolności retencyjnych systemu retencyjno-dozującego, jeżeli warunki środowiskowe na to pozwalają.
+3. W przypadku ponownego wystąpienia suszy hydrologicznej zakład, o którym mowa w ust. 1, jest obowiązany do stosowania wymagań określonych w ust. 1 w zakresie pozostałej wolnej pojemności urządzeń wchodzących w skład systemu retencyjno-dozującego służących do retencji tych wód lub ścieków, biorąc pod uwagę przewidywaną długość okresu suszy hydrologicznej, a także ewentualną potrzebę zapewnienia zdolności retencyjnych systemu retencyjno-dozującego w okresie następnej suszy, która mogłaby wystąpić w najbliższym okresie.
 
 ### Rozdział 4 — Ochrona wód przed zanieczyszczeniem azotanami pochodzącymi ze źródeł rolniczych
 
@@ -2077,6 +2096,28 @@
 14. Jeżeli właściciel urządzenia wodnego nie uzyskał decyzji o legalizacji urządzenia wodnego, a likwidacja urządzenia jest niemożliwa ze względów technicznych lub ekonomicznych, organ właściwy w sprawach pozwoleń wodnoprawnych na wykonywanie urządzeń wodnych może nałożyć na właściciela tego urządzenia, w drodze decyzji, obowiązek wykonania urządzeń zapobiegających szkodom.
 15. W postępowaniu w sprawie wydania decyzji o likwidacji urządzenia wodnego przepisy art. 401 i art. 402 stosuje się odpowiednio.
 
+**Art. 190a.**
+1. Można uniemożliwić lub ograniczyć korzystanie z urządzenia wodnego wykonanego bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego lub urządzenia wodnego, z którego korzystanie z wód odbywa się bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego, lub pozwolenia zintegrowanego, które stanowi:
+  1) wylot urządzenia służącego do wprowadzania ścieków do wód, ziemi lub urządzeń wodnych,
+  2) wylot służący do wprowadzania wody do wód, ziemi lub urządzeń wodnych lub
+  3) pomost i przystań
+- przez zastosowanie środków lub urządzeń służących odpowiednio do zablokowania odprowadzania ścieków lub wód z tego urządzenia albo utrudniających wejście na dane urządzenie.
+2. Uniemożliwienia korzystania z urządzenia wodnego, o którym mowa w ust. 1, lub ograniczenia korzystania z tego urządzenia, dokonuje organ Wód Polskich właściwy w sprawie wydania pozwolenia wodnoprawnego lub dokonania zgłoszenia wodnoprawnego lub Inspekcja Wodna.
+3. W przypadku, o którym mowa w ust. 1:
+  1) Inspekcja Wodna niezwłocznie powiadamia o uniemożliwieniu korzystania z urządzenia wodnego, o którym mowa w ust. 1, lub ograniczeniu korzystania z tego urządzenia właściwy organ Wód Polskich;
+  2) właściwy organ Wód Polskich:
+    a) niezwłocznie powiadamia o uniemożliwieniu korzystania z urządzenia wodnego, o którym mowa w ust. 1, lub ograniczeniu korzystania z tego urządzenia odpowiednio właściciela urządzenia wodnego lub podmiot korzystający z tego urządzenia - jeżeli jest możliwe ich ustalenie,
+    b) podejmuje działania w celu wszczęcia procedury legalizacji urządzenia wodnego - w przypadku korzystania z urządzenia wodnego wykonanego bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego,
+    c) podejmuje działania w celu wszczęcia postępowania na podstawie art. 343 ust. 1 lub 6 - w przypadku korzystania z wód przez zakład bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego.
+4. Właściciel urządzenia wodnego, o którym mowa w ust. 1, lub podmiot korzystający z tego urządzenia mogą w terminie 7 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 3 pkt 2 lit. a, lub od dnia powzięcia wiadomości o uniemożliwieniu korzystania z tego urządzenia lub ograniczeniu korzystania z niego, wnieść sprzeciw do organu, o którym mowa w ust. 2.
+5. Do sprzeciwu, o którym mowa w ust. 4, załącza się dokumenty potwierdzające:
+  1) tytuł prawny podmiotu wnoszącego sprzeciw do dysponowania urządzeniem wodnym;
+  2) legalność wykonania urządzenia wodnego;
+  3) legalność korzystania z wód z wykorzystaniem urządzenia wodnego.
+6. Właściwy organ Wód Polskich rozpatruje sprzeciw w terminie 14 dni od dnia jego wniesienia i w przypadku:
+  1) uwzględnienia sprzeciwu - niezwłocznie usuwa zainstalowane przez siebie lub Inspekcję Wodną urządzenia, które uniemożliwiały lub ograniczały korzystanie z wykonanego urządzenia;
+  2) gdy urządzenie wodne zostało wykonane bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego lub korzystanie z wód z urządzenia wodnego odbywa się bez wymaganego pozwolenia wodnoprawnego lub zgłoszenia wodnoprawnego - odmawia, w drodze decyzji, uwzględnienia sprzeciwu.
+
 **Art. 191.**
 1. W przypadku nienależytego utrzymywania urządzenia wodnego, którego następstwem jest zmiana funkcji tego urządzenia lub szkodliwe oddziaływanie tego urządzenia na wody lub grunty, organ właściwy w sprawach pozwoleń wodnoprawnych na wykonywanie urządzeń wodnych z urzędu lub na wniosek, mając na uwadze, że korzystanie z wód nie może powodować pogorszenia stanu wód i ekosystemów od nich zależnych, marnotrawstwa wody lub energii wody, a także nie może wyrządzać szkód, może, w drodze decyzji, nakazać właścicielowi tego urządzenia przywrócenie poprzedniej funkcji tego urządzenia, wykonanie urządzeń zapobiegających szkodom lub likwidację szkód.
 2. W decyzji, o której mowa w ust. 1, określa się warunki i termin przywrócenia poprzedniej funkcji urządzenia wodnego, wykonania urządzeń zapobiegających szkodom lub likwidacji szkód.
@@ -2142,6 +2183,33 @@
 8. Wydając rozporządzenie, o którym mowa w ust. 7, minister właściwy do spraw gospodarki wodnej:
   1) uwzględni podział statków w zależności od rodzaju, ładowności i mocy silnika;
   2) będzie się kierował koniecznością zestawiania wydatków grupowanych w zależności od rodzaju zabudowy i klasy śródlądowej drogi wodnej, a także przepisami prawa Unii Europejskiej dotyczącymi systemu księgowego dla wydatków na infrastrukturę w transporcie kolejowym, drogowym i w żegludze śródlądowej.
+
+### Rozdział 1a — Przygotowanie inwestycji w zakresie systemu retencyjno-dozującego
+
+**Art. 194a.**
+1. Do inwestycji polegającej na budowie, rozbudowie lub przebudowie systemu retencyjno-dozującego o pojemności umożliwiającej wstrzymanie przez co najmniej 5 następujących po sobie dni wprowadzania do wód ścieków lub wód, stosuje się przepisy niniejszego rozdziału, jeżeli inwestor uzyska pozytywną opinię Prezesa Wód Polskich dotyczącą planowanej inwestycji.
+2. Za inwestora, o którym mowa w ust. 1, uznaje się zakład wprowadzający do śródlądowych wód powierzchniowych płynących ścieki przemysłowe lub wody pochodzące z odwodnienia zakładów górniczych, zawierające chlorki i siarczany lub działający na rzecz takiego zakładu inny podmiot, który zajmuje się lub będzie zajmował się wprowadzeniem wód z zakładów górniczych do wód.
+
+**Art. 194b.**
+1. Prezes Wód Polskich, na wniosek inwestora, w terminie 30 dni od dnia otrzymania wniosku sporządza i przedstawia inwestorowi opinię dotyczącą możliwości zastosowania ograniczenia w korzystaniu z nieruchomości w związku z realizacją inwestycji w zakresie systemu retencyjno-dozującego, którą przygotowuje z uwzględnieniem:
+  1) planowanej lokalizacji inwestycji na nieruchomościach osób trzecich, uwzględniając potrzebę stosowania proporcjonalnych ograniczeń praw i wolności osób trzecich, a w szczególności przebiegu inwestycji liniowej po najkrótszej drodze od odbiornika wód pochodzących z odwodnienia zakładów górniczych do zakładu górniczego lub zbiornika retencyjnego, w którym są przetrzymywane te wody, chyba że ten przebieg powodowałby większą ingerencję w prawa i wolności osób trzecich, a także z uwzględnieniem uwarunkowań przyrodniczych i terenowych;
+  2) zakładanego efektu realizacji inwestycji dla środowiska wodnego, uwzględniając potrzebę zapewnienia retencjonowania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, podczas obowiązywania na obszarze, na którym zlokalizowano odbiorniki ścieków, ostrzeżeń przed suszą hydrologiczną w celu okresowego, trwającego przez co najmniej 5 następujących po sobie dni wstrzymania wprowadzania tych ścieków do wód lub ziemi;
+  3) potrzeby zwiększenia efektywności działania systemu lub pozytywnego wpływu na środowisko planowanych zmian - w przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego.
+2. Do wniosku, o którym mowa w ust. 1, załącza się:
+  1) opis planowanej lokalizacji inwestycji i stanu prawnego nieruchomości, na której ta inwestycja będzie realizowana;
+  2) opis zakładanego efektu realizacji inwestycji dla środowiska wodnego z podaniem:
+    a) zakładanej pojemności zbiorników retencyjnych,
+    b) ilości ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, odprowadzanych systemem retencyjno-dozującym,
+    c) maksymalnej ilości ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, wprowadzanych do wód lub ziemi, określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym;
+  3) w przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego - opis zakładanego zwiększenia efektywności działania tego systemu lub opis pozytywnego wpływu planowanych zmian na środowisko.
+3. Opinię, o której mowa w ust. 1, inwestor załącza do:
+  1) wniosku o wydanie decyzji o pozwoleniu na realizację inwestycji, o którym mowa w art. 6 ust. 1 ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych (Dz. U. z 2021 r. poz. 1812 oraz z 2023 r. poz. 1890);
+  2) wniosku o pozwolenie na budowę;
+  3) odpowiedniej zgody wodnoprawnej, jeżeli jest wymagana.
+
+**Art. 194c.** Do inwestycji, o której mowa w art. 194a, stosuje się przepisy ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych dotyczące inwestycji, o których mowa w art. 1 pkt 1 tej ustawy.
+
+**Art. 194d.** Miejscowy plan zagospodarowania przestrzennego, w którym wyznaczono tereny rolnicze, tereny zabudowy zagrodowej w gospodarstwach rolnych, leśnych, hodowlanych i ogrodniczych lub tereny łąk lub pastwisk, umożliwia również lokalizację na tych terenach, z wyjątkiem obszarów objętych przynajmniej jedną formą ochrony przyrody, o której mowa w art. 6 ust. 1 pkt 1-9 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, systemów retencyjno-dozujących lub ich części, chyba że ustalenia tego planu miejscowego zakazują ich lokalizacji.
 
 ### Rozdział 2 — Melioracje wodne
 
@@ -3009,13 +3077,26 @@
 2. Wysokość opłaty zmiennej za pobór wód podziemnych lub wódpowierzchniowych do celów realizacji zadań własnych gminy w zakresie zbiorowego zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi ustala się jako iloczyn jednostkowej stawki opłaty i ilości pobranych wód podziemnych lub wód powierzchniowych, wyrażonej w m3.
 3. Wysokość opłaty za pobór wód do celów elektrowni wodnych ustala się jako sumę iloczynów jednostkowej stawki opłaty i ilości energii elektrycznej wyprodukowanej w obiekcie energetyki wodnej, wyrażonej w MWh, oraz stawki opłaty i ilości wód podziemnych lub wód powierzchniowych pobranych bezzwrotnie na potrzeby technologiczne, wyrażonej w m3, nieprzeznaczonej wprost do produkcji energii elektrycznej.
 4. Wysokość opłaty zmiennej za pobór wód do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni i elektrociepłowni ustala się jako iloczyn jednostkowej stawki opłaty i wyrażonej w m3 różnicy między ilością wód pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni - wprowadzanych do wód lub do ziemi.
+4a. W przypadku poboru wód podziemnych lub wód powierzchniowych bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego ilości pobranych wód podziemnych lub wód powierzchniowych ustala się w toku kontroli gospodarowania wodami, przyjmując pobór wynikający z maksymalnej technicznej wydajności eksploatowanych instalacji lub urządzeń do poboru wód, a także przyjmując okres eksploatacji instalacji lub urządzenia do poboru wód przez jeden kwartał, jeżeli w toku kontroli gospodarowania wodami nie ustalono tego okresu eksploatacji.
 5. Wysokość opłaty zmiennej za odprowadzanie do wód - wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast, ustala się jako iloczyn jednostkowej stawki opłaty, ilości odprowadzonych wód, wyrażonej w m3, i czasu, wyrażonego w latach, z uwzględnieniem istnienia urządzeń do retencjonowania wody z terenów uszczelnionych oraz ich pojemności.
+5a. W przypadku odprowadzania wód opadowych lub roztopowych z przelewów kanalizacji deszczowej do wód w zakresie ustalonym w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym opłatę zmienną za odprowadzanie wód opadowych lub roztopowych z tych przelewów ustala się za każdy przelew w wysokości stanowiącej równowartość 10% ustalonej opłaty zmiennej, o której mowa w ust. 5, należnej za okres rozliczeniowy, w którym doszło do uruchomienia przelewu.
 6. Wysokość opłaty zmiennej za wprowadzanie ścieków do wód lub do ziemi ustala się jako iloczyn jednostkowej stawki opłaty i wyrażonej w kg ilości substancji wprowadzanych ze ściekami do wód lub do ziemi, w tym substancji wyrażonych jako wskaźnik:
   1) pięciodobowego biochemicznego zapotrzebowania tlenu (BZT5);
   2) chemicznego zapotrzebowania tlenu;
   3) zawiesiny ogólnej;
   4) sumy chlorków i siarczanów (Cl+SO4).
+6a. Wysokość opłaty zmiennej za wprowadzanie ścieków do wód lub ziemi ustala się także z uwzględnieniem ilości ścieków oczyszczonych lub podczyszczonych w systemie oczyszczania lub podczyszczania ścieków zasolonych, odprowadzanych z zakładu odprowadzającego ścieki o zwiększonym zasoleniu oraz zastosowania systemu retencyjno-dozującego lub innego systemu pozwalającego uzyskać ten sam efekt, co system retencyjno-dozujący.
+6b. W przypadku wprowadzania ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego ilość ścieków wprowadzonych do wód lub ziemi ustala się w toku kontroli gospodarowania wodami, przyjmując ilość ścieków wynikającą z maksymalnej technicznej wydajności instalacji lub urządzeń służących do wprowadzania ścieków do wód lub ziemi, a także przyjmując okres eksploatacji instalacji lub urządzenia do wprowadzania ścieków do wód lub ziemi przez jeden kwartał, jeżeli w toku kontroli gospodarowania wodami nie ustalono tego okresu eksploatacji.
+6c. W przypadku wprowadzania ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego ilości substancji wprowadzanych ze ściekami do wód lub ziemi, w tym substancji wyrażonych jako wskaźnik:
+  1) pięciodobowego biochemicznego zapotrzebowania tlenu (BZT5),
+  2) chemicznego zapotrzebowania tlenu,
+  3) zawiesiny ogólnej,
+  4) sumy chlorków i siarczanów (Cl+SO4)
+- ustala się, przyjmując najwyższe dopuszczalne wartości substancji zanieczyszczających dla danego rodzaju ścieków, określone w przepisach wydanych na podstawie art. 99 ust. 1.
+6d. W przypadku wprowadzania do wód ścieków z przelewów burzowych komunalnej kanalizacji ogólnospławnej w zakresie ustalonym w pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym opłatę zmienną za wprowadzenie do wód ścieków z tych przelewów ustala się za każdy przelew w wysokości stanowiącej równowartość 10% ustalonej opłaty zmiennej, o której mowa w ust. 6, należnej za okres rozliczeniowy, w którym doszło do uruchomienia przelewu burzowego.
 7. Wysokość opłaty zmiennej za wprowadzanie do wód lub do ziemi wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni ustala się jako iloczyn jednostkowej stawki opłaty i ilości wprowadzanych do wód lub do ziemi wód pochodzących z obiegów chłodzących, wyrażonej w dam3, z uwzględnieniem ich temperatury.
+7a. W przypadku wprowadzania wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego ilość wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni ustala się w toku kontroli gospodarowania wodami na podstawie maksymalnej technicznej wydajności instalacji lub urządzeń służących do wprowadzania wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni do wód lub ziemi.
+7b. W przypadku wprowadzania wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego temperaturę wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni ustala się, przyjmując najwyższą dopuszczalną temperaturę określoną w przepisach wydanych na podstawie art. 99 ust. 1.
 8. Wysokość opłaty za zmniejszenie naturalnej retencji terenowej na skutek wykonywania na nieruchomości o powierzchni powyżej 3500 m2 robót lub obiektów budowlanych trwale związanych z gruntem mających wpływ na zmniejszenie tej retencji przez wyłączenie więcej niż 70% powierzchni nieruchomości z powierzchni biologicznie czynnej na obszarach nieujętych w systemy kanalizacji otwartej lub zamkniętej ustala się jako iloczyn jednostkowej stawki opłaty, wyrażonej w m2 wielkościutraconej powierzchni biologicznie czynnej oraz czasu wyrażonego w latach.
 9. Wysokość opłaty za wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także wycinanie roślin z wód lub brzegu, ustala się jako iloczyn jednostkowej stawki opłaty i ilości:
   1) wydobytego kamienia wyrażonej w Mg;
@@ -3497,7 +3578,7 @@
   1) przyrządy pomiarowe lub systemy pomiarowe służące do pomiaru ilości pobieranych wód podziemnych i wód powierzchniowych;
   2) przyrządy pomiarowe lub systemy pomiarowe służące do pomiaru ilości ścieków wprowadzanych do wód lub do ziemi, jeżeli wprowadzają do wód lub do ziemi ścieki w ilości średniej dobowej powyżej 0,01 m3/s;
   3) przyrządy pomiarowe lub systemy pomiarowe służące do pomiaru temperatury na wlocie do ujęcia wody oraz na wylocie do odbiornika dla wód z systemów chłodzenia elektrowni lub elektrociepłowni.
-2. Podmioty korzystające z usług wodnych, wprowadzające ścieki do wód lub do ziemi zapewniają pobieranie próbek przez akredytowane laboratoria, o których mowa w przepisach ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności, oraz dokonują badania jakości ścieków w tych laboratoriach.
+2. Podmioty korzystające z usług wodnych, wprowadzające ścieki do wód lub ziemi, zapewniają pobieranie próbek przez akredytowane laboratoria, o których mowa w przepisach ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, oraz dokonują badania jakości ścieków w tych laboratoriach.
 3. (uchylony)
 4. Do ustalenia ilości wprowadzanych do wód lub do ziemi wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni oraz ich temperatury stosuje się systemy pomiarowe umożliwiające wyznaczenie tych parametrów.
 5. Wody Polskie wyposażają podmioty korzystające z usług wodnych w przyrządy pomiarowe, o których mowa w ust. 1, z wyłączeniem przypadków, w których:
@@ -4526,9 +4607,11 @@
 **Art. 387.**
 1. Państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna publikują informacje zebrane i przetworzone w ostrzeżeniach, prognozach, komunikatach, biuletynach lub rocznikach.
 2. Państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna nieodpłatnie przekazują ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki podmiotom określonym w przepisach wydanych na podstawie ust. 3.
+2a. Państwowa służba hydrologiczno-meteorologiczna opracowuje i przekazuje zakładom odprowadzającym ścieki o zwiększonym zasoleniu ostrzeżenia przed suszą hydrologiczną dla obszaru lokalizacji zrzutu chlorków i siarczanów dokonywanego przez zakład, a także prognozy hydrologiczne dotyczące suszy hydrologicznej, jeżeli posiada takie informacje.
 3. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia:
-  1) podmioty, którym państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna są obowiązane przekazywać ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki;
+  1) podmioty, którym państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna są obowiązane przekazywać ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki, z wyjątkiem podmiotów, o których mowa w ust. 2a;
   2) sposób i częstotliwość opracowywania oraz przekazywania ostrzeżeń, prognoz, komunikatów, biuletynów lub roczników;
+  2a) sposób opracowywania oraz przekazywania ostrzeżeń przed suszą hydrologiczną i prognoz hydrologicznych dotyczących suszy hydrologicznej zakładom odprowadzającym ścieki o zwiększonym zasoleniu;
   3) sposoby uzyskiwania potwierdzenia przekazania ostrzeżeń;
   4) charakterystykę stanu hydrologicznego, meteorologicznego oraz hydrogeologicznego.
 4. Wydając rozporządzenie, o którym mowa w ust. 3, minister właściwy do spraw gospodarki wodnej kieruje się względami bezpieczeństwa państwa, bezpieczeństwa ludzi i mienia oraz uwzględnia konieczność sprawnego przekazywania ostrzeżeń, prognoz, komunikatów i biuletynów w zależności od aktualnego lub prognozowanego stanu hydrologicznego, meteorologicznego lub hydrogeologicznego.
@@ -4611,7 +4694,8 @@
   10) przebudowa rowu polegająca na wykonaniu przepustu lub innego przekroju zamkniętego na długości nie większej niż 10 m;
   11) przebudowa lub odbudowa urządzeń odwadniających zlokalizowanych w pasie drogowym dróg publicznych, obszarze kolejowym, na lotniskach lub lądowiskach;
   12) wydobywanie kamienia, żwiru, piasku, innych materiałów z wód w związku z utrzymywaniem wód, śródlądowych dróg wodnych oraz remontem urządzeń wodnych, wykonywane w ramach obowiązków właściciela wód;
-  13) wykonanie urządzeń wodnych służących do wprowadzania do ziemi ścieków oczyszczonych w przydomowej oczyszczalni ścieków na potrzeby zwykłego korzystania z wód.
+  13) wykonanie urządzeń wodnych służących do wprowadzania do ziemi ścieków oczyszczonych w przydomowej oczyszczalni ścieków na potrzeby zwykłego korzystania z wód;
+  14) wykonanie, odbudowa, rozbudowa, przebudowa lub rozbiórka urządzeń pomiarowych ilości wód i jakości wód służących do badania przewodności i temperatury wody w celu szacowania sumarycznego stężenia chlorków i siarczanów, a także lokalizowanie tych urządzeń na obszarach szczególnego zagrożenia powodzią.
 2. Jeżeli realizacja dwóch lub więcej przedsięwzięć, o których mowa w ust. 1 pkt 1, 9 i 10, skutkuje przekroczeniem parametrów określonych dla tych przedsięwzięć, organ właściwy w sprawach zgłoszeń wodnoprawnych orzeka, w drodze decyzji, o obowiązku uzyskania pozwolenia wodnoprawnego.
 3. Dokonując zgłoszenia, o którym mowa w ust. 1 pkt 1, 9 i 10, bierze się pod uwagę parametry skumulowane z innymi planowanymi, realizowanymi oraz zrealizowanymi przedsięwzięciami.
 4. Jeżeli przedsięwzięcie obejmuje działania wymagające uzyskania pozwolenia wodnoprawnego i zgłoszenia wodnoprawnego, wniosek o wydanie pozwolenia wodnoprawnego i zgłoszenie wodnoprawne rozpatruje się w ramach jednego postępowania zakończonego wydaniem pozwolenia wodnoprawnego.
@@ -4882,7 +4966,7 @@
   8) określenie zakresu i częstotliwości wykonywania wymaganych analiz ścieków wprowadzanych do wód lub do ziemi;
   9) określenie zakresu i częstotliwości wykonywania wymaganych analiz wód powierzchniowych powyżej i poniżej miejsca, w którym ścieki są wprowadzane do wód lub do ziemi;
   10) opis urządzeń służących do pobierania próbek ścieków, pomiaru oraz rejestracji ilości, stanu i składu ścieków wprowadzanych do wód lub do ziemi;
-  11) opis jakości wód w miejscu zamierzonego wprowadzania ścieków do wód lub do ziemi;
+  11) opis jakości wód w miejscu zamierzonego wprowadzania ścieków do wód lub ziemi, a w przypadku wprowadzania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, przez zakłady odprowadzające ścieki o zwiększonym zasoleniu, także opis ilościowy wód w tym miejscu, określający co najmniej SNQ tych wód;
   12) informację o sposobie zagospodarowania osadów ściekowych;
   13) informację o terminach wprowadzania ścieków do wód lub do ziemi dla zakładów, których działalność cechuje się sezonową zmiennością;
   14) opis przedsięwzięć i działań niezbędnych dla spełnienia warunków, o których mowa w art. 68, jeżeli te warunki znajdują zastosowanie;
@@ -4985,7 +5069,8 @@
 5) zakład nie rozpoczął w terminie korzystania z uprawnień wynikających z pozwolenia wodnoprawnego innych niż określone w art. 414 ust. 1 pkt 3 lub nie korzystał z tych uprawnień przez okres co najmniej 2 lat;
 6) nastąpiła zmiana przepisów wydanych na podstawie art. 99 ust. 1 pkt 2 i 3 oraz ust. 2;
 7) nastąpiło zagrożenie osiągnięcia celów środowiskowych i jest to uzasadnione danymi z monitoringu wód oraz wynikami dodatkowego przeglądu pozwoleń wodnoprawnych, o którym mowa w art. 325 ust. 1 pkt 2;
-8) nie wykonano lub nie przedłożono analizy ryzyka, o której mowa w art. 133 ust. 3, jeżeli taka analiza była wymagana.
+8) nie wykonano lub nie przedłożono analizy ryzyka, o której mowa w art. 133 ust. 3, jeżeli taka analiza była wymagana;
+9) dalsze korzystanie z wód na warunkach ustalonych w pozwoleniu wodnoprawnym stwarza stan zagrażający życiu lub zdrowiu ludzi lub stan zagrażający powstaniu poważnych szkód w środowisku, w szczególności z uwagi na występujące zmiany w środowisku wodnym.
 
 **Art. 416.**
 1. Organ właściwy w sprawach pozwoleń wodnoprawnych dokonuje przeglądu pozwoleń wodnoprawnych na pobór wód lub wprowadzanie ścieków do wód lub do ziemi, lub do urządzeń kanalizacyjnych, a także realizacji tych pozwoleń, co najmniej raz na 4 lata.
@@ -5019,6 +5104,11 @@
 3. Przejście urządzeń wodnych lub ich części, o których mowa w ust. 2, stwierdza wojewoda, w drodze decyzji, na wniosek właściciela wód.
 
 **Art. 420.** Przepisu art. 419 ust. 2 nie stosuje się do stawów oraz gruntów, na których znajdują się urządzenia wodne.
+
+**Art. 420a.** Organ właściwy w sprawach pozwoleń wodnoprawnych, na podstawie informacji uzyskiwanych o wydanym, cofniętym, przeniesionym lub ograniczonym pozwoleniu wodnoprawnym, po uprawomocnieniu się decyzji, niezwłocznie informuje państwową służbę hydrologiczno-meteorologiczną oraz wojewódzkiego inspektora ochrony środowiska o zakładzie, który stał się albo przestał być zakładem odprowadzającym ścieki o zwiększonym zasoleniu, a także o wszelkich zmianach:
+1) nazwy tego zakładu i jego adresu do korespondencji;
+2) adresu do korespondencji elektronicznej tego zakładu;
+3) współrzędnych geograficznych lokalizacji zrzutu wód przez ten zakład, zawierających chlorki i siarczany, do odbiornika wraz z podaniem nazwy tego odbiornika, a jeżeli występuje kilka takich miejsc - współrzędnych każdego z tych miejsc.
 
 ### Rozdział 4 — Zgłoszenie wodnoprawne
 
