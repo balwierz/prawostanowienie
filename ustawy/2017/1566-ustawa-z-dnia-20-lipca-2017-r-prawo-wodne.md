@@ -2960,6 +2960,7 @@
   1) nieruchomości gruntowych związanych z gospodarką wodną, w tym nieruchomości położonych w międzywalu, wraz z położonymi na tych nieruchomościach budynkami, budowlami oraz innymi urządzeniami i lokalami;
   2) nieruchomości innych niż wymienione w pkt 1, służących do realizacji zadań określonych w przepisach ustawy.
 8. Wody Polskie reprezentują Skarb Państwa oraz wykonują prawa właścicielskie Skarbu Państwa w stosunku do stanowiących własność Skarbu Państwa urządzeń wodnych posadowionych na gruntach pokrytych śródlądowymi wodami płynącymi oraz na gruntach, o których mowa w art. 218 ust. 3, z wyłączeniem urządzeń wodnych, w stosunku do których prawa właścicielskie Skarbu Państwa oraz reprezentację Skarbu Państwa wykonują starosta realizujący zadanie z zakresu administracji rządowej lub podmioty, którym to mienie zostało powierzone.
+8a. Wody Polskie mogą nabywać w imieniu i na rzecz Skarbu Państwa nieruchomości, urządzenia wodne lub ich części, które będą służyć do realizacji zadań określonych w przepisach ustawy.
 9. (uchylony)
 10. Wody Polskie mogą wystąpić z wnioskiem do właściwego wojewody o stwierdzenie wykonywania praw właścicielskich Skarbu Państwa, o których mowa w ust. 1, 3, 5, 7 i 8. Wojewoda stwierdza wykonywanie praw właścicielskich w drodze decyzji.
 11. Wykonywanie praw właścicielskich Skarbu Państwa, o których mowa w ust. 1, 3, 5, 7 i 8, nie narusza praw osób trzecich.
@@ -4803,7 +4804,7 @@
   4) wykonanie kąpieliska lub wyznaczenie miejsca okazjonalnie wykorzystywanego do kąpieli, w tym na obszarze morza terytorialnego;
   5) trwałe odwadnianie wykopów budowlanych;
   6) prowadzenie robót w wodach oraz innych robót, które mogą być przyczyną zmiany stanu wód podziemnych;
-  7) wykonanie urządzeń odwadniających obiekty budowlane, o zasięgu oddziaływania niewykraczającym poza granice terenu, którego zakład jest właścicielem;
+  7) wykonanie urządzeń odwadniających obiekty budowlane i odprowadzanie nimi wody, o zasięgu oddziaływania niewykraczającym poza granice terenu, którego zakład jest właścicielem;
   8) odprowadzanie wód z wykopów budowlanych lub z próbnych pompowań otworów hydrogeologicznych;
   9) wykonanie stawów, które nie są napełniane w ramach usług wodnych, ale wyłącznie wodami opadowymi lub roztopowymi, lub wodami gruntowymi o powierzchni nieprzekraczającej 5000 m2 oraz głębokości nieprzekraczającej 3 m od naturalnej powierzchni terenu, o zasięgu oddziaływania niewykraczającym poza granice terenu, którego zakład jest właścicielem, lub terenu znajdującego się w zasięgu oddziaływania, gdy zakład posiada uprzednią pisemną zgodę właścicieli gruntów objętych oddziaływaniem na wykonanie stawu;
   10) przebudowa rowu polegająca na wykonaniu przepustu lub innego przekroju zamkniętego na długości nie większej niż 10 m;
@@ -4862,6 +4863,7 @@
   7) ustaleń miejscowych planów zagospodarowania przestrzennego, decyzji o warunkach zabudowy i decyzji o ustaleniu lokalizacji inwestycji celu publicznego;
   8) wymagań ochrony zdrowia ludzi, środowiska, ochrony przyrody i dóbr kultury wpisanych do rejestru zabytków oraz wynikających z przepisów ustawy oraz przepisów odrębnych.
 2. W przypadku gdy została wydana ocena wodnoprawna, nie ocenia się zgodności pozwolenia wodnoprawnego z ustaleniami planu gospodarowania wodami na obszarze dorzecza.
+3. Przepisu ust. 1 pkt 7 nie stosuje się do inwestycji strategicznych, o których mowa w art. 59a ust. 4 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 
 **Art. 397.**
 1. Organem właściwym w sprawie zgód wodnoprawnych są właściwe organy Wód Polskich.
@@ -5024,6 +5026,7 @@
   4) ocenę wodnoprawną, jeżeli jest wymagana;
   5) wypisy z rejestru gruntów lub uproszczone wypisy z rejestru gruntów dla nieruchomości usytuowanych w zasięgu oddziaływania zamierzonego korzystania z wód lub w zasięgu oddziaływania planowanych do wykonania urządzeń wodnych;
   6) potwierdzenie skutecznego zgłoszenia, o którym mowa w art. 118 ust. 1 ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody, jeżeli jest wymagane.
+2a. Przepisu ust. 2 pkt 3 nie stosuje się do inwestycji strategicznych, o których mowa w art. 59a ust. 4 ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko.
 3. Do wniosku o wydanie pozwolenia wodnoprawnego na piętrzenie wód powierzchniowych budowlą piętrzącą o wysokości piętrzenia powyżej 1 m oraz wyposażoną w urządzenia umożliwiające regulowanie przepływu lub na zależne od siebie korzystanie z wód przez kilka zakładów dołącza się projekt instrukcji gospodarowania wodą zawierający opis sposobu gospodarowania wodą i zaspokojenia potrzeb wszystkich użytkowników odnoszących korzyści z urządzeń wodnych, których dotyczy instrukcja gospodarowania wodą, w liczbie egzemplarzy uwzględniającej właściciela wody oraz liczbę zakładów korzystających z wód, których dotyczy instrukcja gospodarowania wodą.
 4. Do wniosku o wydanie pozwolenia wodnoprawnego na pobór wód podziemnych oraz na odwodnienie zakładu górniczego lub obiektu budowlanego dołącza się dokumentację hydrogeologiczną, jeżeli jest wymagana.
 5. Do wniosku o wydanie pozwolenia wodnoprawnego na wprowadzanie do urządzeń kanalizacyjnych ścieków przemysłowych zawierających substancje szczególnie szkodliwe dla środowiska wodnego, określone w przepisach wydanych na podstawie art. 100 ust. 1, dołącza się zgodę właściciela tych urządzeń lub obowiązującą na dzień złożenia wniosku umowę obejmującą zobowiązanie do odbioru tych ścieków zawartą z właścicielem tych urządzeń.
