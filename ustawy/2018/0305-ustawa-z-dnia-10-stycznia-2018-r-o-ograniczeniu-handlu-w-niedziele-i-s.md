@@ -70,9 +70,10 @@
 
 **Art. 7.**
 1. Zakaz, o którym mowa w art. 5, nie obowiązuje w:
-  1) kolejne dwie niedziele poprzedzające pierwszy dzień Bożego Narodzenia;
+  1) kolejne dwie niedziele poprzedzające pierwszy dzień Bożego Narodzenia, z wyłączeniem niedzieli przypadającej na dzień 24 grudnia;
   2) niedzielę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy;
   3) ostatnią niedzielę przypadającą w styczniu, kwietniu, czerwcu i sierpniu.
+1a. Jeżeli niedziela poprzedzająca pierwszy dzień Bożego Narodzenia przypada na dzień 24 grudnia, zakaz, o którym mowa w art. 5, nie obowiązuje w kolejne dwie niedziele poprzedzające tę niedzielę.
 2. Jeżeli w niedzielę, o której mowa w ust. 1 pkt 3, przypada święto, przepis art. 5 stosuje się.
 
 ## Rozdział 3 — Ograniczenia handlu oraz wykonywania czynności związanych z handlem w dniu 24 grudnia i w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy
@@ -82,7 +83,8 @@
   1) handel oraz wykonywanie czynności związanych z handlem,
   2) powierzanie pracownikowi lub zatrudnionemu wykonywania pracy w handlu oraz wykonywania czynności związanych z handlem
 - po godzinie 1400 są zakazane, z wyjątkiem przypadków określonych w art. 6.
-2. Jeżeli dzień 24 grudnia przypada w niedzielę przepis ust. 1 stosuje się.
+2. (uchylony)
+3. Jeżeli dzień 24 grudnia przypada w niedzielę, zakaz, o którym mowa w art. 5, obowiązuje, z wyjątkiem przypadków określonych w art. 6.
 
 **Art. 9.**
 1. Pracownik zachowuje prawo do wynagrodzenia za czas nieprzepracowany w związku ze zmniejszeniem wymiaru jego czasu pracy z powodu wykonywania pracy w dniu 24 grudnia lub w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy do godziny 1400.
