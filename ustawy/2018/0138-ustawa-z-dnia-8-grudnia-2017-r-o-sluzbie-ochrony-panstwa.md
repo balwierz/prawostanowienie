@@ -376,7 +376,7 @@
 
 **Art. 46.**
 1. Sąd Okręgowy w Warszawie przed wydaniem postanowienia, o którym mowa w art. 42 ust. 1 i 4 oraz art. 44, zapoznaje się z materiałami uzasadniającymi wniosek, w szczególności zgromadzonymi podczas stosowania kontroli operacyjnej zarządzonej w tej sprawie.
-2. Wnioski, o których mowa w art. 42 ust. 1 i 4 oraz art. 44, Sąd Okręgowy w Warszawie rozpoznaje jednoosobowo, przy czym czynności sądu związane z rozpoznawaniem tych wniosków powinny być realizowane w warunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wykonawczych wydanych na podstawie art. 181 § 2 Kodeksu postępowania karnego. W posiedzeniu Sądu Okręgowego w Warszawie może wziąć udział wyłącznie Prokurator Generalny i przedstawiciel Komendanta SOP.
+2. Wnioski, o których mowa w art. 42 ust. 1 i 4 oraz art. 44, Sąd Okręgowy w Warszawie rozpoznaje jednoosobowo, przy czym czynności sądu związane z rozpoznawaniem tych wniosków powinny być realizowane w warunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wykonawczych wydanych na podstawie art. 181 § 2 Kodeksu postępowania karnego. W posiedzeniu Sądu Okręgowego w Warszawie może wziąć udział wyłącznie Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy i przedstawiciel Komendanta SOP.
 3. Wnioski, postanowienia, pisemne zgody i zarządzenia, o których mowa w art. 42 i art. 44, w odniesieniu do spraw określonych w art. 42 ust. 1 pkt 2, Komendant SOP przekazuje do wiadomości Inspektorowi Nadzoru Wewnętrznego.
 
 **Art. 47.**
@@ -388,7 +388,7 @@
 2. W przypadku gdy materiały, o których mowa w ust. 1:
   1) zawierają informacje, o których mowa w art. 178 Kodeksu postępowania karnego, Komendant SOP zarządza ich niezwłoczne, komisyjne i protokolarne zniszczenie;
   2) mogą zawierać informacje, o których mowa w art. 178a i art. 180 § 3 Kodeksu postępowania karnego, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 Kodeksu karnego, albo informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 Kodeksu postępowania karnego, Komendant SOP przekazuje Prokuratorowi Generalnemu te materiały.
-3. W przypadku, o którym mowa w ust. 2 pkt 2, Prokurator Generalny niezwłocznie po otrzymaniu materiałów kieruje je do Sądu Okręgowego w Warszawie wraz z wnioskiem o:
+3. W przypadku, o którym mowa w ust. 2 pkt 2, Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy niezwłocznie po otrzymaniu materiałów kieruje je do Sądu Okręgowego w Warszawie wraz z wnioskiem o:
   1) stwierdzenie, które z przekazanych materiałów zawierają informacje, o których mowa w ust. 2 pkt 2;
   2) dopuszczenie do wykorzystania w postępowaniu karnym materiałów zawierających informacje stanowiące tajemnice związane z wykonywaniem zawodu lub funkcji, o których mowa w art. 180 § 2 Kodeksu postępowania karnego, nieobjęte zakazami określonymi w art. 178a i art. 180 § 3 Kodeksu postępowania karnego, z wyłączeniem informacji o przestępstwach, o których mowa w art. 240 § 1 Kodeksu karnego.
 4. Sąd Okręgowy w Warszawie niezwłocznie po złożeniu wniosku przez Prokuratora Generalnego wydaje postanowienie o dopuszczeniu do wykorzystania w postępowaniu karnym materiałów, o których mowa w ust. 3 pkt 2, gdy jest to niezbędne dla dobra wymiaru sprawiedliwości, a okoliczność nie może być ustalona na podstawie innego dowodu, a także zarządza niezwłoczne zniszczenie materiałów, których wykorzystanie w postępowaniu karnym jest niedopuszczalne.
@@ -397,14 +397,14 @@
 **Art. 49.**
 1. Kontrola operacyjna powinna być zakończona niezwłocznie po ustaniu przyczyn jej zarządzenia, najpóźniej jednak z upływem okresu, na który została wprowadzona.
 2. Komendant SOP informuje Prokuratora Generalnego o wynikach kontroli operacyjnej po jej zakończeniu, a na jego żądanie również o przebiegu tej kontroli.
-3. Jeżeli materiał zgromadzony w sprawie uzasadnia prowadzenie czynności procesowych, wykonuje je Prokurator Generalny. Właściwy prokurator może zarządzić ich prowadzenie w całości lub części przez Agencję Bezpieczeństwa Wewnętrznego, w zakresie zadań wynikających z art. 5 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2017 r. poz. 1920 i 2405), Policję lub Straż Graniczną.
+3. Jeżeli materiał zgromadzony w sprawie uzasadnia prowadzenie czynności procesowych, wykonuje je Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy. Właściwy prokurator może zarządzić ich prowadzenie w całości lub części przez Agencję Bezpieczeństwa Wewnętrznego, w zakresie zadań wynikających z art. 5 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2017 r. poz. 1920 i 2405), Policję lub Straż Graniczną.
 
 **Art. 50.** Komendant SOP jest obowiązany do wykonania zarządzenia Sądu Okręgowego w Warszawie o zniszczeniu materiałów, o którym mowa w art. 48 ust. 4, oraz niezwłocznego, komisyjnego i protokolarnego zniszczenia materiałów, których wykorzystanie w postępowaniu karnym jest niedopuszczalne. Komendant SOP niezwłocznie informuje Prokuratora Generalnego o zniszczeniu tych materiałów.
 
 **Art. 51.** Osobie, wobec której kontrola operacyjna była stosowana, nie udostępnia się materiałów zgromadzonych podczas trwania tej kontroli.
 
 **Art. 52.**
-1. Sąd Okręgowy w Warszawie, Prokurator Generalny oraz Komendant SOP prowadzą rejestry postanowień, pisemnych zgód, wniosków i zarządzeń dotyczących kontroli operacyjnej.
+1. Sąd Okręgowy w Warszawie, Pierwszy Zastępca Prokuratora Generalnego Prokurator Krajowy oraz Komendant SOP prowadzą rejestry postanowień, pisemnych zgód, wniosków i zarządzeń dotyczących kontroli operacyjnej.
 2. Komendant SOP prowadzi rejestr centralny wniosków i zarządzeń dotyczących kontroli operacyjnej prowadzonej przez SOP.
 3. W komórkach organizacyjnych SOP wykonujących zarządzenia w sprawie kontroli operacyjnej można odrębnie rejestrować dane zawarte w dokumentacji kontroli operacyjnej w zakresie przewidzianym dla prowadzonych przez SOP rejestrów, o których mowa w ust. 1.
 4. Rejestry, o których mowa w ust. 1-3, prowadzi się w formie elektronicznej, z zachowaniem przepisów o ochronie informacji niejawnych.
