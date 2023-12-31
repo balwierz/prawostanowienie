@@ -6409,10 +6409,10 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
   1) systemie retencyjno-dozującym - jeżeli zakład korzysta z takiego systemu, w tym o lokalizacji i pojemności zbiorników, które wchodzą w skład tego systemu, a także liczbie następujących po sobie dni, w których zakład może wstrzymać zrzut ścieków przemysłowych lub wód pochodzących z odwodnienia jego zakładów górniczych w okresach suszy hydrologicznej;
   2) systemie oczyszczania lub podczyszczania ścieków zasolonych - jeżeli zakład korzysta z tego systemu, w tym ilości ścieków przemysłowych zawierających chlorki i siarczany lub wód pochodzących z odwodnienia zakładów górniczych, które są oczyszczane lub podczyszczane w tym systemie, i parametrach technicznych tego systemu.
 2s. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 3b, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają ilość wprowadzanych do wód lub ziemi wód pochodzących z pomp ciepła lub akumulatorów ciepła warstwy wodonośnej wyrażoną w m3, wraz z informacją o ich temperaturze, odczytaną z urządzeń pomiarowych lub oszacowaną na podstawie obserwacji, analiz lub kalkulacji związanych z parametrami charakteryzującymi wydajność lub moc urządzenia.
-3. W okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2023 r. Wody Polskie ustalają wysokość opłat za usługi wodne, nie uwzględniając średniego niskiego przepływu z wielolecia (SNQ).
+3. (uchylony)
 4. Przepisy wydane na podstawie art. 277 ust. 1 stosuje się.
 5. Przepisy art. 272 ust. 10 i 17-21 oraz art. 273 stosuje się odpowiednio.
-6. Do dnia 31 grudnia 2023 r. Wody Polskie opracują metodykę wyznaczania średniego niskiego przepływu z wielolecia (SNQ) na potrzeby ustalania wysokości opłat za usługi wodne.
+6. (uchylony)
 7. Do dnia 31 grudnia 2020 r. Wody Polskie wyposażą w przyrządy pomiarowe podmioty obowiązane do ponoszenia opłaty za usługi wodne, o której mowa w art. 268 ust. 1.
 
 **Art. 552a.** W przypadku gdy pozwolenie wodnoprawne albo pozwolenie zintegrowane nie określa zakresu korzystania z wód w m3/s, ustalenia wysokości opłaty stałej za usługi wodne, o których mowa w art. 271 ust. 2-5, dokonuje się z uwzględnieniem wyrażonych w m3na godzinę maksymalnych ilości możliwych do:
@@ -6479,9 +6479,7 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
   7) wielopierścieniowe węglowodory aromatyczne.
 4. W terminie do dnia 22 grudnia 2027 r. zostanie osiągnięty dobry stan chemiczny wód powierzchniowych w odniesieniu do substancji priorytetowych, o których mowa w ust. 1.
 
-**Art. 561.** Do dnia 31 grudnia 2023 r. górne jednostkowe stawki opłat za pobór wód w formie opłaty stałej wynoszą:
-1) za pobór wód podziemnych - 500 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wody;
-2) za pobór wód powierzchniowych - 250 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wody.
+**Art. 561.** (uchylony)
 
 **Art. 562.** Organy właściwe w sprawach pozwoleń wodnoprawnych oraz pozwoleń zintegrowanych, w terminie do dnia 31 grudnia 2021 r., na wniosek zainteresowanych zakładów mogą dokonać zmiany pozwoleń wodnoprawnych na pobór wód powierzchniowych lub wód podziemnych lub pozwoleń zintegrowanych w zakresie poboru wód powierzchniowych lub wód podziemnych, ustalając w tych pozwoleniach rzeczywiste maksymalne ilości pobieranej wody przez te zakłady.
 
