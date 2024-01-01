@@ -120,7 +120,7 @@
 5. Właściwy dyrektor zarządu zlewni Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego w stosunku do kierowników nadzorów wodnych Wód Polskich w sprawach określonych ustawą.
 6. W sprawach należących do zakresu działania Wód Polskich organem właściwym w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego jest:
   1) dyrektor regionalnego zarządu gospodarki wodnej Wód Polskich - w sprawach decyzji, o których mowa w art. 76 ust. 2, art. 77 ust. 3, 8, 11 i 14, art. 166 ust. 5, art. 175 ust. 1, art. 176 ust. 4 i 9, art. 182 ust. 1, art. 199 ust. 4, art. 201 ust. 1, art. 202 ust. 1, art. 206, art. 343 ust. 2, 3 i 6 oraz w art. 472a ust. 2;
-  2) dyrektor zarządu zlewni Wód Polskich - w sprawach decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 281 ust. 7, art. 310 ust. 7 oraz w art. 311 ust. 6;
+  2) dyrektor zarządu zlewni Wód Polskich - w sprawach decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 310 ust. 7, art. 311 ust. 6 oraz art. 472aa ust. 2;
   3) kierownik nadzoru wodnego Wód Polskich - w sprawach decyzji, o których mowa w art. 232 ust. 4, art. 394 ust. 2 oraz w art. 424 ust. 1.
 
 **Art. 15.** W celu zapewnienia prawidłowego gospodarowania wodami na obszarach dorzeczy zarządzanie zasobami wodnymi wymaga:
@@ -1312,7 +1312,8 @@
   23) użytkowanie statków o napędzie spalinowym;
   24) lokalizowanie nowych przedsięwzięć mogących znacząco oddziaływać na środowisko;
   25) składowanie opakowań po nawozach i środkach ochrony roślin;
-  26) stosowanie i składowanie chemicznych środków zimowego utrzymania dróg.
+  26) stosowanie i składowanie chemicznych środków zimowego utrzymania dróg;
+  27) lokalizowanie pomp ciepła i akumulatorów ciepła warstwy wodonośnej.
 2. Na gruntach rolnych lub leśnych położonych na terenach ochrony pośredniej może być wprowadzony obowiązek stosowania odpowiednich upraw rolnych lub leśnych.
 
 **Art. 131.** Przy wprowadzaniu zakazów, nakazów i ograniczeń dotyczących użytkowania gruntów na terenie ochrony pośredniej uwzględnia się warunki infiltracji zanieczyszczeń do poziomu wodonośnego, z którego woda jest ujmowana.
@@ -1384,7 +1385,8 @@
 16) chów lub hodowlę ryb, ich dokarmianie lub zanęcanie;
 17) lokalizowanie nowych przedsięwzięć mogących znacząco oddziaływać na środowisko;
 18) składowanie opakowań po nawozach i środkach ochrony roślin;
-19) stosowanie i składowanie chemicznych środków zimowego utrzymania dróg.
+19) stosowanie i składowanie chemicznych środków zimowego utrzymania dróg;
+20) lokalizowanie pomp ciepła i akumulatorów ciepła warstwy wodonośnej.
 
 **Art. 141.**
 1. Wojewoda, na wniosek Wód Polskich, ustanawia obszar ochronny, w drodze aktu prawa miejscowego, wskazując ograniczenia lub zakazy dotyczące użytkowania gruntów oraz korzystania z wód na terenie obszaru ochronnego oraz granice tego obszaru.
@@ -2656,12 +2658,13 @@
   30) opiniują wieloletnie plany rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych, o których mowa w art. 21 ust. 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków.
 4. Zarządy zlewni wykonują następujące zadania Wód Polskich:
   1) z uwzględnieniem przepisów art. 397 ust. 3 prowadzą sprawy dotyczące:
-    a) decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 237 ust. 3, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. 281 ust. 7, art. 310 ust. 7 oraz art. 311 ust. 6,
+    a) decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 237 ust. 3, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. art. 310 ust. 7 oraz art. 311 ust. 6,
     b) zgód wodnoprawnych, o których mowa w art. 388 ust. 1 pkt 1;
   2) współuczestniczą w zapewnieniu ochrony ludności i mienia przed powodzią i przeciwdziałaniu skutkom suszy, na poziomie zlewni;
   3) prowadzą sprawy dotyczące:
     a) opłat za usługi wodne, o których mowa w art. 268 ust. 1 oraz w art. 269 ust. 1 pkt 2,
-    b) opłat podwyższonych, o których mowa w art. 280 pkt 1;
+    b) (uchylony)
+    c) administracyjnych kar pieniężnych, o których mowa w art. 472aa ust. 1;
   4) zawierają porozumienia, o których mowa w art. 238 ust. 2;
   5) ustalają wysokość należności, o których mowa w art. 306 ust. 1;
   6) planują i prowadzą inwestycje z zakresu gospodarki wodnej, w tym pełnią funkcję inwestora albo inwestora zastępczego, w zakresie określonym w przepisach ustawy, z wyłączeniem śródlądowych dróg wodnych o szczególnym znaczeniu transportowym;
@@ -2841,6 +2844,7 @@
 
 **Art. 255.** Przychodami Wód Polskich są:
 1) wpływy z tytułu opłat za usługi wodne oraz opłat podwyższonych;
+1a) wpływy z tytułu administracyjnych kar pieniężnych nakładanych przez Wody Polskie;
 2) wpływy z tytułu należności za korzystanie ze śródlądowych dróg wodnych oraz urządzeń wodnych stanowiących własność Skarbu Państwa, usytuowanych na śródlądowych wodach powierzchniowych;
 3) wpływy z opłat rocznych z tytułu oddania w użytkowanie gruntów pokrytych wodami, wobec których Wody Polskie wykonują prawa właścicielskie Skarbu Państwa;
 4) wpływy z opłat z tytułu umów dotyczących wykonywania rybactwa śródlądowego na śródlądowych wodach płynących stanowiących własność Skarbu Państwa;
@@ -3037,18 +3041,25 @@
 
 **Art. 270.**
 1. Opłata za usługi wodne za pobór wód składa się z opłaty stałej oraz opłaty zmiennej uzależnionej od ilości wód pobranych.
-2. Opłaty stałej nie ponosi się za pobór wód do celów rolniczych lub leśnych na potrzeby nawadniania gruntów i upraw, na potrzeby chowu i hodowli ryb oraz do celów elektrowni wodnych.
+2. Opłaty stałej nie ponosi się za pobór wód:
+  1) do celów rolniczych lub leśnych na potrzeby nawadniania gruntów i upraw;
+  2) na potrzeby chowu i hodowli ryb;
+  3) do celów elektrowni wodnych;
+  4) do celów pomp ciepła i akumulatorów ciepła warstwy wodonośnej, które pobierają, wykorzystują, a następnie odprowadzają do wód lub tej samej warstwy wodonośnej wodę w tej samej ilości i niepogorszonej jakości, z wyjątkiem zmiany jej temperatury.
 2a. Opłaty stałej nie ponosi się także za pobór wód do celów ochrony przyrody w lasach lub ochrony przeciwpożarowej lasu.
 3. Opłatę za usługi wodne za odprowadzanie do wód - wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast ponosi się wyłącznie w formie opłaty stałej.
 4. Opłatę za pobór wód do celów elektrowni wodnych ponosi się wyłącznie za ilość energii elektrycznej wyprodukowanej w obiekcie energetyki wodnej z wykorzystaniem wody pobranej zwrotnie, rozumianej jako woda, która została pobrana, wykorzystana, a następnie odprowadzona w tej samej ilości i niepogorszonej jakości, oraz za pobraną bezzwrotnie wodę technologiczną nieprzeznaczoną wprost do produkcji energii elektrycznej.
+4a. Opłatę za pobór wód do celów, o których mowa w ust. 2 pkt 4, ponosi się wyłącznie za ilość energii cieplnej wyprodukowanej lub pobranej przez instalacje z wykorzystaniem wody, która została pobrana, wykorzystana, a następnie odprowadzona do wód lub tej samej warstwy wodonośnej w tej samej ilości i niepogorszonej jakości, z wyjątkiem zmiany jej temperatury, oraz za pobraną bezzwrotnie wodę technologiczną nieprzeznaczoną wprost do celów ogrzewania lub chłodzenia.
 5. Opłatę zmienną za pobór wód do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni lub elektrociepłowni ponosi się wyłącznie za różnicę między ilością wód pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni wprowadzanych do wód lub do ziemi.
 6. Wysokość opłaty za usługi wodne zależy odpowiednio od ilości pobranej wody oraz od tego, czy pobrano wodę powierzchniową czy wodę podziemną, przeznaczenia wody, jej średniego niskiego przepływu z wielolecia (SNQ), przy czym wielolecie obejmuje co najmniej 20 lat hydrologicznych, oraz dostępnych zasobów wód podziemnych.
 7. Wysokość opłaty za usługi wodne za zmniejszenie naturalnej retencji terenowej na skutek wykonywania na nieruchomości o powierzchni powyżej 3500 m2 robót lub obiektów budowlanych trwale związanych z gruntem, mających wpływ na zmniejszenie tej retencji przez wyłączenie więcej niż 70% powierzchni nieruchomości z powierzchni biologicznie czynnej na obszarach nieujętych w systemy kanalizacji otwartej lub zamkniętej zależy odpowiednio od wielkości powierzchni uszczelnionej, rozumianej jako powierzchnia zabudowana wyłączona z powierzchni biologicznie czynnej oraz zastosowania kompensacji retencyjnej.
 8. Opłata za usługi wodne za wprowadzanie ścieków do wód lub do ziemi składa się z opłaty stałej oraz opłaty zmiennej zależnej od ilości i jakości ścieków wprowadzanych w ramach pozwolenia wodnoprawnego albo pozwolenia zintegrowanego.
-9. Wysokość opłaty za wprowadzanie ścieków do wód lub do ziemi zależy od rodzaju substancji zawartych w ściekach i ich ilości, rodzaju ścieków, a w przypadku wód z obiegów chłodzących elektrowni lub elektrociepłowni - od temperatury tych wód.
+9. Wysokość opłaty za wprowadzanie ścieków do wód lub ziemi zależy od rodzaju substancji zawartych w ściekach i ich ilości, rodzaju ścieków, a w przypadku:
+  1) wód z obiegów chłodzących elektrowni lub elektrociepłowni - od temperatury tych wód;
+  2) ścieków przemysłowych lub wody pochodzące z odwodnienia zakładów górniczych, zawierających chlorki i siarczany - także od ilości ścieków lub wód oczyszczonych lub podczyszczonych w systemie oczyszczania lub podczyszczania ścieków zasolonych, odprowadzanych z zakładu, zastosowania w zakładzie systemu retencyjno-dozującego lub innego systemu pozwalającego uzyskać ten sam efekt, co system retencyjno-dozujący.
 10. Przez substancje zawarte w ściekach rozumie się także substancje wyrażone jako wskaźniki pięciodobowego biochemicznego zapotrzebowania tlenu (BZT5), chemicznego zapotrzebowania tlenu, zawiesiny ogólnej oraz sumy chlorków i siarczanów (Cl+SO4).
 11. Opłata za usługi wodne za odprowadzanie do wód - wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast składa się z opłaty stałej oraz opłaty zmiennej zależnej od istnienia urządzeń do retencjonowania wody z terenów uszczelnionych.
-12. Opłatę za usługi wodne za wprowadzanie do wód lub do ziemi wód z obiegów chłodzących elektrowni lub elektrociepłowni ponosi się wyłącznie w formie opłaty zmiennej.
+12. Opłatę za usługi wodne za wprowadzanie do wód lub ziemi wód z obiegów chłodzących elektrowni lub elektrociepłowni, a także z pomp ciepła i akumulatorów ciepła warstwy wodonośnej, które pobierają wodę, wykorzystują, a następnie odprowadzają do wód lub tej samej warstwy wodonośnej w tej samej ilości i niepogorszonej jakości, z wyjątkiem zmiany jej temperatury, ponosi się wyłącznie w formie opłaty zmiennej.
 
 **Art. 271.**
 1. Wysokość opłaty stałej za:
@@ -3065,7 +3076,9 @@
   1) wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast,
   2) wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast
 - ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalnej ilości wód, wyrażonej w m3/s, odprowadzanych do wód.
+4a. Na potrzeby ustalenia wysokości opłaty stałej za odprowadzanie do wód - wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej, za czas ich wprowadzania uznaje się średnią roczną liczbę zrzutów wód opadowych lub roztopowych ustaloną w pozwoleniu wodnoprawnym z przelewów kanalizacji deszczowej.
 5. Wysokość opłaty stałej za wprowadzanie ścieków do wód lub do ziemi ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i określonej w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalnej ilości ścieków wprowadzanych do wód lub do ziemi, wyrażonej w m3/s.
+ Na potrzeby ustalenia wysokości opłaty stałej za wprowadzanie ścieków z przelewów burzowych komunalnej kanalizacji ogólnospławnej do wód, za czas wprowadzania tych ścieków do wód uznaje się, ustaloną w pozwoleniu wodnoprawnym, średnią roczną liczbę zrzutów z przelewów burzowych komunalnej kanalizacji ogólnospławnej.
 5a. Opłatę stałą ponosi się za okres od dnia, w którym pozwolenie wodnoprawne albo pozwolenie zintegrowane stało się ostateczne do dnia jego wygaśnięcia, cofnięcia lub utraty mocy bez względu na przyczynę.
 5b. W przypadku realizacji przedsięwzięcia w zakresie obiektów liniowych, opłatę stałą ponosi się za okres od dnia przystąpienia do użytkowania urządzenia wodnego służącego do realizacji usług wodnych.
 6. Podmiot obowiązany do ponoszenia opłat za usługi wodne wnosi opłatę stałą na rachunek bankowy Wód Polskich w 4 równych ratach kwartalnych nie później niż do końca miesiąca następującego po upływie każdego kwartału.
@@ -3076,6 +3089,8 @@
 1. Wysokość opłaty zmiennej za pobór wód podziemnych lub wód powierzchniowych ustala się jako iloczyn jednostkowej stawki opłaty i ilości pobranych wód podziemnych lub wód powierzchniowych, wyrażonej w m3.
 2. Wysokość opłaty zmiennej za pobór wód podziemnych lub wódpowierzchniowych do celów realizacji zadań własnych gminy w zakresie zbiorowego zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi ustala się jako iloczyn jednostkowej stawki opłaty i ilości pobranych wód podziemnych lub wód powierzchniowych, wyrażonej w m3.
 3. Wysokość opłaty za pobór wód do celów elektrowni wodnych ustala się jako sumę iloczynów jednostkowej stawki opłaty i ilości energii elektrycznej wyprodukowanej w obiekcie energetyki wodnej, wyrażonej w MWh, oraz stawki opłaty i ilości wód podziemnych lub wód powierzchniowych pobranych bezzwrotnie na potrzeby technologiczne, wyrażonej w m3, nieprzeznaczonej wprost do produkcji energii elektrycznej.
+3a. Wysokość opłaty zmiennej za pobór wód do celów, o których mowa w art. 270 ust. 2 pkt 4, ustala się jako sumę iloczynów jednostkowej stawki opłaty i ilości energii cieplnej wyprodukowanej lub pobranej w instalacji, wyrażonej w MWh, oraz stawki opłaty i ilości wód podziemnych lub wód powierzchniowych pobranych bezzwrotnie na potrzeby technologiczne, wyrażonej w m3, nieprzeznaczonej wprost do produkcji energii cieplnej.
+3b. Wysokość opłaty zmiennej za wprowadzanie wód pochodzących z pomp ciepła lub akumulatorów ciepła warstwy wodonośnej do wód ustala się jako iloczyn jednostkowej stawki opłaty i ilości wód wprowadzanych do wód, pochodzących z pomp ciepła lub akumulatorów ciepła warstwy wodonośnej, wyrażonej w m3, z uwzględnieniem ich temperatury.
 4. Wysokość opłaty zmiennej za pobór wód do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni i elektrociepłowni ustala się jako iloczyn jednostkowej stawki opłaty i wyrażonej w m3 różnicy między ilością wód pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni - wprowadzanych do wód lub do ziemi.
 4a. W przypadku poboru wód podziemnych lub wód powierzchniowych bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego ilości pobranych wód podziemnych lub wód powierzchniowych ustala się w toku kontroli gospodarowania wodami, przyjmując pobór wynikający z maksymalnej technicznej wydajności eksploatowanych instalacji lub urządzeń do poboru wód, a także przyjmując okres eksploatacji instalacji lub urządzenia do poboru wód przez jeden kwartał, jeżeli w toku kontroli gospodarowania wodami nie ustalono tego okresu eksploatacji.
 5. Wysokość opłaty zmiennej za odprowadzanie do wód - wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych w granicach administracyjnych miast, ustala się jako iloczyn jednostkowej stawki opłaty, ilości odprowadzonych wód, wyrażonej w m3, i czasu, wyrażonego w latach, z uwzględnieniem istnienia urządzeń do retencjonowania wody z terenów uszczelnionych oraz ich pojemności.
@@ -3103,6 +3118,7 @@
   2) wydobytego żwiru lub piasku wyrażonej w Mg;
   3) wydobytych innych materiałów wyrażonej w Mg;
   4) wyciętej trzciny lub wikliny wyrażonej w m3.
+9a. W przypadku wydobywania z wód powierzchniowych, w tym morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także wycinania roślin z wód lub brzegu bez wymaganego pozwolenia wodnoprawnego ilość wydobytego kamienia, żwiru, piasku oraz innych materiałów, a także wyciętych roślin z wód lub brzegu ustala się na podstawie badań, pomiarów lub innych czynności kontrolnych wykonywanych w ramach kontroli gospodarowania wodami.
 10. Ustalając wysokość opłat, o których mowa w ust. 1-9, uwzględnia się okres rozliczeniowy wynoszący kwartał.
 11. Ustalenie ilości pobranych wód podziemnych lub wód powierzchniowych lub ilości ścieków wprowadzanych do wód lub do ziemi odbywa się na podstawie odczytu wskazań przyrządów pomiarowych lub na podstawie danych z systemów pomiarowych.
 12. Podmiot obowiązany do ponoszenia opłat za usługi wodne jest obowiązany zapewnić odrębny pomiar ilości pobieranych wód podziemnych oraz pobieranych wód powierzchniowych.
@@ -3278,7 +3294,8 @@
   b) do celów rolniczych na potrzeby zaopatrzenia w wodę ludzi i zwierząt gospodarskich, w zakresie niebędącym zwykłym korzystaniem z wód:
     – 0,10 zł za 1 m3 pobranych wód podziemnych,
     – 0,05 zł za 1 m3 pobranych wód powierzchniowych,
-  c) do celów rolniczych lub leśnych na potrzeby nawadniania gruntów i upraw, pobieranej za pomocą urządzeń pompowych - 0,15 zł za 1 m3 pobranych wód podziemnych;
+  c) do celów rolniczych lub leśnych na potrzeby nawadniania gruntów i upraw, pobieranej za pomocą urządzeń pompowych - 0,15 zł za 1 m3 pobranych wód podziemnych,
+  d) do celów, o których mowa w art. 270 ust. 2 pkt 4 - 1,00 zł za 1 MWh energii cieplnej wyprodukowanej lub pobranej przez instalacje oraz 0,80 zł za pobór bezzwrotny 1 m3wody technologicznej nieprzeznaczonej wprost do produkcji lub poboru energii cieplnej;
 4) za pobór wód w formie opłaty zmiennej, w zależności od ilości pobieranych wód podziemnych lub wód powierzchniowych w ramach pozwoleń wodnoprawnych albo pozwoleń zintegrowanych, do celów realizacji zadań własnych gminy w zakresie zbiorowego zaopatrzenia ludności w wodę przeznaczoną do spożycia przez ludzi:
   a) 0,30 za 1 m3 pobranych wód podziemnych lub wód powierzchniowych w ilości średniorocznej przekraczającej 1,0 m3/s,
   b) 0,20 zł za 1 m3 pobranych wód podziemnych lub wód powierzchniowych w ilości średniorocznej od 0,26 do 1,0 m3/s,
@@ -3310,6 +3327,10 @@
   a) 0,68 zł - jeżeli temperatura wprowadzanych wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni jest wyższa niż +26°C, a nie przekracza +32°C,
   b) 1,36 zł - jeżeli temperatura wprowadzanych wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni jest wyższa niż +32°C, a nie przekracza +35°C,
   c) 4,24 zł - jeżeli temperatura wprowadzanych wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni jest wyższa niż +35°C;
+10a) za wprowadzanie do wód podziemnych 1 m3wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej:
+  a) 0,68 zł - jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +26°C, a nie przekracza +32°C,
+  b) 1,36 zł - jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +32°C, a nie przekracza +35°C,
+  c) 4,24 zł - jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +35°C;
 11) za wydobywanie z wód powierzchniowych, w tym z morskich wód wewnętrznych wraz z wodami wewnętrznymi Zatoki Gdańskiej oraz wód morza terytorialnego, kamienia, żwiru, piasku oraz innych materiałów, a także wycinanie roślin z wód lub brzegu:
   a) 0,75 zł za 1 Mg wydobytego kamienia,
   b) 0,50 zł za 1 Mg wydobytego żwiru lub piasku,
@@ -3381,6 +3402,12 @@
     b) rodzaju ścieków,
     c) jakości i rodzaju pobranej wody oraz jej przeznaczenia,
     d) części obszaru państwa.
+    e) korzystania z systemu retencyjno-dozującego o określonej pojemności lub innego systemu pozwalającego uzyskać ten sam efekt co system retencyjno-dozujący,
+    f) oczyszczania lub podczyszczania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany w systemie oczyszczania lub podczyszczania ścieków zasolonych.
+3. Współczynnik różnicujący jednostkową stawkę opłaty za usługę wodną w zakresie, o którym mowa w ust. 2 pkt 2 lit. e, dla systemu retencyjno-dozującego o pojemności pozwalającej wstrzymać wprowadzanie do wód ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, przez co najmniej:
+  1) 5 następujących po sobie dni - wynosi 0,8;
+  2) 10 następujących po sobie dni - wynosi 0,5.
+4. Współczynnik różnicujący jednostkową stawkę opłaty za usługę wodną w zakresie, o którym mowa w ust. 2 pkt 2 lit. f, wynosi 0,35.
 
 **Art. 278.**
 1. Wysokość opłaty za wprowadzenie ścieków do wód lub do ziemi ustala się, biorąc pod uwagę substancję wyrażoną jako wskaźnik, o którym mowa w art. 272 ust. 6, który powoduje opłatę najwyższą.
@@ -3393,6 +3420,7 @@
 **Art. 279.** Zwolnione z opłat za usługi wodne jest wprowadzanie:
 1) do ziemi - ścieków w celu rolniczego wykorzystania, w przypadku posiadania pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na takie ich wykorzystanie;
 2) do wód lub do ziemi - wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni, jeżeli ich temperatura nie przekracza +26°C albo różnica między temperaturą wód pobranych i wprowadzanych do wód lub do ziemi pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni jest mniejsza niż 11°C;
+2a) do wód - wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej, jeżeli ich temperatura nie przekracza +26°C;
 3) do wód lub do ziemi - ścieków będących wodami zasolonymi, jeżeli wartość sumy chlorków i siarczanów (Cl+SO4) w tych wodach nie przekracza 500 mg/l;
 4) do wód lub do ziemi - wód wykorzystanych na potrzeby chowu i hodowli ryb w obiektach przepływowych, charakteryzujących się poborem zwrotnym, pod warunkiem że ilość i rodzaj substancji w nich zawartych nie przekroczy wartości ustalonych w warunkach wprowadzania ścieków do wód określonych w pozwoleniu wodnoprawnym;
 5) do wód lub do ziemi - wód wykorzystanych, odprowadzanych z obiektów chowu i hodowli ryb oraz innych organizmów wodnych w stawach o wodzie stojącej, o ile produkcja tych ryb oraz tych organizmów, rozumiana jako średnioroczny przyrost masy tych ryb oraz tych organizmów w poszczególnych latach cyklu produkcyjnego, nie przekracza 1500 kg z 1 ha powierzchni użytkowej stawów rybnych tego obiektu w jednym roku danego cyklu produkcyjnego.
@@ -3402,26 +3430,13 @@
 2. W przypadku, o którym mowa w ust. 1, podmiotowi obowiązanemu do ponoszenia opłat za usługi wodne nie przekazuje się informacji, o której mowa w art. 271 ust. 1 lub w art. 272 ust. 17 albo 22, lub w art. 275 ust. 13.
 
 **Art. 280.** Opłatę podwyższoną ponosi się w razie:
-1) korzystania z usług wodnych polegających na:
-  a) poborze wód podziemnych lub wód powierzchniowych,
-  b) wprowadzaniu ścieków do wód lub do ziemi
-- bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego;
+1) (uchylony)
 2) korzystania z usług wodnych polegających na:
   a) poborze wód podziemnych lub wód powierzchniowych,
   b) wprowadzaniu ścieków do wód lub do ziemi
 - z przekroczeniem warunków określonych w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym.
 
-**Art. 281.**
-1. Wysokość opłaty podwyższonej, o której mowa w art. 280 pkt 1, w przypadku:
-  1) dokonywania poboru wód podziemnych lub wód powierzchniowych bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego ustala się w wysokości 500% opłaty zmiennej za pobór wód podziemnych lub wód powierzchniowych;
-  2) wprowadzania ścieków do wód lub do ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub do ziemi ustala się w wysokości 500% opłaty zmiennej za wprowadzanie ścieków do wód lub do ziemi.
-2. Opłatę podwyższoną ponosi się niezależnie od opłaty zmiennej za usługi wodne.
-3. Ustalając wysokość opłaty podwyższonej, uwzględnia się okres rozliczeniowy wynoszący kwartał.
-4. Ustalenia ilości pobranych wód podziemnych lub wód powierzchniowych lub ilości ścieków wprowadzanych do wód lub do ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego dokonują Wody Polskie na podstawie badań, pomiarów lub innych czynności kontrolnych wykonywanych w ramach kontroli gospodarowania wodami.
-5. Wysokość opłaty podwyższonej ustalają Wody Polskie oraz przekazują podmiotom obowiązanym do ponoszenia opłat podwyższonych w formie informacji.
-6. Podmiot obowiązany do ponoszenia opłaty podwyższonej wnosi tę opłatę na rachunek bankowy Wód Polskich w terminie 14 dni od dnia, w którym doręczono mu informację, o której mowa w ust. 5.
-7. Jeżeli podmiot obowiązany do uiszczenia opłaty podwyższonej zaniechał wykonania obowiązku, o którym mowa w ust. 6, właściwy organ Wód Polskich określa wysokość opłaty podwyższonej w drodze decyzji.
-8. Przepisy art. 272 ust. 20 oraz art. 273 stosuje się odpowiednio.
+**Art. 281.** (uchylony)
 
 **Art. 282.**
 1. Wysokość opłaty podwyższonej, o której mowa w art. 280 pkt 2 lit. a, ustala się jako 10-krotność wielkości jednostkowej stawki opłaty zmiennej za usługi wodne za pobór wód podziemnych lub wód powierzchniowych.
@@ -3543,9 +3558,9 @@
 2. Opłaty podwyższone, o których mowa w art. 280, wnosi się na rachunek bankowy Wód Polskich.
 3. Wpływy z tytułu opłat za usługi wodne oraz opłat podwyższonych stanowią przychody Wód Polskich, z wyjątkiem wpływów z:
   1) opłat za wprowadzanie ścieków do wód lub do ziemi, o których mowa w art. 268 ust. 1 pkt 2,
-  2) opłat podwyższonych, o których mowa w art. 280 pkt 1 lit. b oraz pkt 2 lit. b
+  2) opłaty podwyższonej, o której mowa w art. 280 pkt 2 lit. b
 - które w 10% stanowią przychód Wód Polskich, a w 90% stanowią przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
-4. Wpływy z tytułu opłat za wprowadzanie ścieków do wód lub do ziemi, o których mowa w art. 268 ust. 1 pkt 2, oraz wpływy z opłat podwyższonych, o których mowa w art. 280 pkt 1 lit. b oraz pkt 2 lit. b, w części stanowiącej przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, Wody Polskie przekazują na rachunek bankowy tego Funduszu w terminie do końca następnego miesiąca po ich wpływie na rachunek bankowy Wód Polskich.
+4. Wpływy z tytułu opłat za wprowadzanie ścieków do wód lub do ziemi, o których mowa w art. 268 ust. 1 pkt 2, oraz wpływy z opłaty podwyższonej, o której mowa w art. 280 pkt 2 lit. b, w części stanowiącej przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, Wody Polskie przekazują na rachunek bankowy tego Funduszu w terminie do końca następnego miesiąca po ich wpływie na rachunek bankowy Wód Polskich.
 5. Wpływy z tytułu opłat za usługi wodne z tytułu zmniejszenia naturalnej retencji terenowej, o której mowa w art. 269 ust. 1 pkt 1, stanowią w 90% przychód Wód Polskich, a w 10% dochód budżetu właściwej gminy.
 6. Wpływy z tytułu opłat za zmniejszenie naturalnej retencji terenowej, o której mowa w art. 269 ust. 1 pkt 1, w części stanowiącej przychód Wód Polskich, gminy przekazują na rachunek bankowy Wód Polskich w terminie do końca następnego miesiąca po ich wpływie na rachunek bankowy właściwych urzędów gmin (miast).
 
@@ -4866,7 +4881,7 @@
   5) ilość, stan i skład ścieków wykorzystywanych rolniczo, roczne wielkości dawek polewowych i terminy ich stosowania, numery i powierzchnie nawożonych działek;
   6) sposób i zakres prowadzenia pomiarów ilości i jakości pobieranej wody w stanie pierwotnym;
   7) termin rozpoczęcia, sposób i zakres prowadzenia pomiarów ilości i jakości ścieków wprowadzanych do wód, do ziemi lub do urządzeń kanalizacyjnych albo wykorzystywanych rolniczo;
-  8) miejsce poboru próbek ścieków;
+  8) miejsce i sposób poboru próbek ścieków;
   9) prowadzenie okresowych pomiarów wydajności i poziomu zwierciadła wody w studni;
   10) sposób gospodarowania wodą, w tym charakterystyczne rzędne piętrzenia wraz z terminami i warunkami ich utrzymywania oraz przepływy;
   11) wielkość przepływu nienaruszalnego, ograniczenia wynikające z konieczności jego zachowania oraz sposób odczytywania jego wartości w miejscu korzystania z wód;
@@ -4878,7 +4893,8 @@
   17) powierzchnię całkowitą nieruchomości o powierzchni powyżej 3500 m2, w tym powierzchnię objętą robotami lub obiektami budowlanymi oraz powierzchnię biologicznie czynną;
   18) opis robót lub obiektów budowlanych mających wpływ na zmniejszenie naturalnej retencji terenowej;
   19) pojemność naturalnej retencji terenowej wyrażoną w m3 na rok;
-  20) ilość wód opadowych i roztopowych oraz średnią ilość wód opadowych i roztopowych odprowadzanych do urządzeń do retencjonowania wody z terenów uszczelnionych wyrażoną w m3 na rok.
+  20) ilość wód opadowych i roztopowych oraz średnią ilość wód opadowych i roztopowych odprowadzanych do urządzeń do retencjonowania wody z terenów uszczelnionych wyrażoną w m3 na rok;
+  21) średnią roczną liczbę zrzutów z poszczególnych przelewów burzowych.
 3. W pozwoleniu wodnoprawnym wskazuje się zakazy, o których mowa w art. 192 ust. 1 pkt 3, i obszar, na którym one obowiązują.
 4. Organ właściwy w sprawach pozwoleń wodnoprawnych, mając na uwadze stosowaną przez zakład technologię oczyszczania ścieków i częstotliwość wprowadzania ścieków do wód lub do ziemi, może określić w pozwoleniu inny niż wskazany w przepisach wydanych na podstawie art. 99 ust. 1 pkt 2 sposób prowadzenia pomiarów jakości ścieków wprowadzanych do wód lub do ziemi, w tym pobierania próbek.
 5. W przypadku, o którym mowa w ust. 4, organ właściwy w sprawach pozwoleń wodnoprawnych określa w pozwoleniu sposób dokonywania oceny wyników pomiarów, czy ścieki odpowiadają wymaganym warunkom.
@@ -4972,6 +4988,7 @@
   14) opis przedsięwzięć i działań niezbędnych dla spełnienia warunków, o których mowa w art. 68, jeżeli te warunki znajdują zastosowanie;
   15) informację o sposobie i zakresie prowadzenia pomiarów ilości i jakości ścieków wprowadzanych do wód, do ziemi lub do urządzeń kanalizacyjnych albo wykorzystywanych rolniczo;
   16) określenie rodzajów ścieków odprowadzanych do urządzeń kanalizacyjnych zakładu, który w ramach usług wodnych wprowadza ścieki do wód lub do ziemi.
+4a. Operat, na podstawie którego wydaje się pozwolenie wodnoprawne na wprowadzanie ścieków do wód z uwzględnieniem wprowadzania ścieków z przelewów burzowych kanalizacji ogólnospławnej, zawiera także określenie średniej rocznej liczby zrzutów z poszczególnych przelewów burzowych.
 5. Operat, na podstawie którego wydaje się pozwolenie wodnoprawne na rolnicze wykorzystanie ścieków, oprócz danych, o których mowa w ust. 1 i 2, zawiera określenie:
   1) ilości, stanu i składu ścieków;
   2) rocznych wielkości dawek polewowych i terminów ich stosowania;
@@ -4985,6 +5002,7 @@
   6) ilość wód opadowych lub roztopowych odprowadzanych do systemów kanalizacji zbiorczej z terenów uszczelnionych wyrażoną w m3;
   7) rodzaj urządzeń do retencjonowania wody z terenów uszczelnionych i ich pojemność;
   8) stosunek pojemności urządzeń do retencjonowania wody z terenów uszczelnionych do rocznego odpływu z terenów uszczelnionych.
+6a. Operat, na podstawie którego wydaje się pozwolenie wodnoprawne na odprowadzanie wód opadowych lub roztopowych, ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast do wód, z uwzględnieniem odprowadzania wód opadowych lub roztopowych z przelewów burzowych kanalizacji deszczowej do wód, zawiera także określenie średniej rocznej liczby zrzutów z poszczególnych przelewów kanalizacji deszczowej.
 7. Operat, na podstawie którego wydaje się pozwolenie wodnoprawne na wykonywanie na nieruchomości o powierzchni powyżej 3500 m2 robót lub obiektów budowlanych trwale związanych z gruntem, mających wpływ na zmniejszenie naturalnej retencji terenowej przez wyłączenie więcej niż 70% powierzchni nieruchomości z powierzchni biologicznie czynnej na obszarach nieujętych w systemy kanalizacji otwartej lub zamkniętej, oprócz odpowiednich danych, o których mowa w ust. 1 i 2, zawiera:
   1) powierzchnię całkowitą nieruchomości, w tym powierzchnię objętą robotami lub obiektami budowlanymi oraz powierzchnię biologicznie czynną;
   2) opis robót lub obiektów budowlanych mających wpływ na zmniejszenie naturalnej retencji terenowej;
@@ -5525,6 +5543,20 @@
 3. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, wynosi do 10 000 zł.
 4. Wpływy z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, stanowią dochód Wód Polskich.
 
+**Art. 472aa.**
+1. Administracyjnej karze pieniężnej podlega, kto wbrew przepisowi:
+  1) art. 343 ust. 1, mimo wezwania Wód Polskich, nie usuwa w terminie określonym przez Wody Polskie zaniedbań w zakresie gospodarki wodnej, w wyniku których może powstać stan zagrażający życiu lub zdrowiu ludzi, zwierząt lub środowisku albo prawnie chronionemu interesowi osób trzecich;
+  2) art. 389, art. 394 ust. 1 lub art. 425 ust. 1 korzysta z wód, wykonuje urządzenia wodne, roboty w wodach lub inne działania wymagające odpowiedniej zgody wodnoprawnej, bez odpowiednio pozwolenia wodnoprawnego lub pozwolenia zintegrowanego, zgłoszenia wodnoprawnego lub oceny wodnoprawnej;
+  3) art. 101a ust. 1 lub 3 na obszarze, na którym jest zlokalizowany odbiornik ścieków danego zakładu, w okresach obowiązywania ostrzeżenia przed suszą hydrologiczną nie wstrzymuje lub nie ogranicza wprowadzania do wód ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany.
+2. Administracyjną karę pieniężną, o której mowa w ust. 1, wymierza, w drodze decyzji, właściwy organ Wód Polskich, a w odniesieniu do Wód Polskich - minister właściwy do spraw gospodarki wodnej.
+3. Wysokość administracyjnej kary pieniężnej, o której mowa w ust. 1, wynosi od 5000 zł do 1 000 000 zł, z wyjątkiem:
+  1) dokonywania poboru wód podziemnych lub wód powierzchniowych bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego - gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500% opłaty zmiennej za pobór wód podziemnych lub wód powierzchniowych;
+  2) wprowadzania ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi - gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500% opłaty zmiennej za wprowadzanie ścieków do wód lub ziemi;
+  3) odprowadzania wód opadowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast do wód - gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500% opłaty zmiennej za odprowadzanie wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast do wód.
+4. Wpływy z tytułu administracyjnych kar pieniężnych stanowią dochód Wód Polskich, z wyjątkiem wpływów z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, za wprowadzanie ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi, które w 10% stanowią przychód Wód Polskich, a w 90% - przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+5. W przypadku administracyjnej kary pieniężnej, o której mowa w ust. 1, wymierzanej Wodom Polskim wpływy z tytułu tej kary w części przeznaczonej dla Wód Polskich stanowią dochód budżetu państwa.
+6. Do wpływów z tytułu administracyjnej kary pieniężnej, o której mowa w ust. 1, za wprowadzanie ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi stosuje się przepis art. 299 ust. 4.
+
 **Art. 472b.**
 1. W przypadku gdy aglomeracja nie spełnia warunków, o których mowa w art. 87a, gmina za to odpowiedzialna podlega administracyjnej karze pieniężnej.
 2. W przypadku aglomeracji zlokalizowanej na obszarze dwóch lub więcej gmin administracyjną karę pieniężną, o której mowa w ust. 1, ponoszą gminy wchodzące w skład aglomeracji proporcjonalnie do wielkości równoważnej liczby mieszkańców danej gminy w aglomeracji powodującej niespełnienie warunków, o których mowa w art. 87a.
@@ -5543,7 +5575,7 @@
 **Art. 472c.**
 1. W decyzji o nałożeniu administracyjnej kary pieniężnej wskazuje się numer rachunku bankowego, na który uiszcza się administracyjną karę pieniężną.
 2. Administracyjną karę pieniężną uiszcza się w terminie 14 dni od dnia, w którym decyzja, o której mowa w ust. 1, stała się ostateczna.
-3. W zakresie nieuregulowanym w niniejszej ustawie do administracyjnych kar pieniężnych, o których mowa w art. 472a ust. 1 i art. 472b ust. 1, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+3. W zakresie nieuregulowanym w niniejszej ustawie do administracyjnych kar pieniężnych, o których mowa w art. 472a ust. 1, art. 472aa ust. 1 i art. 472b ust. 1, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
 
 ## Dział XII — Przepisy karne
 
@@ -5563,8 +5595,8 @@
 – podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
 **Art. 476.**
-1. Kto bez wymaganej zgody wodnoprawnej albo z przekroczeniem warunków określonych w pozwoleniu wodnoprawnym korzysta z wód lub wykonuje urządzenia wodne albo inne czynności wymagające pozwolenia wodnoprawnego
-  – podlega karze aresztu, ograniczenia wolności albo grzywny.
+1. Kto z przekroczeniem warunków określonych w pozwoleniu wodnoprawnym lub pozwoleniu zintegrowanym korzysta z wód lub wykonuje urządzenia wodne albo inne czynności wymagające pozwolenia wodnoprawnego,
+   podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości od 1000 zł do 7500 zł.
 2. Tej samej karze podlega, kto nie wykonuje obowiązków określonych w decyzji stwierdzającej wygaśnięcie lub cofnięcie pozwolenia wodnoprawnego.
 3. Nie popełnia wykroczenia, o którym mowa w ust. 1 i 2, kto wykorzystuje wody na potrzeby wytwarzania energii elektrycznej na polecenie operatora systemu przesyłowego elektroenergetycznego lub operatora systemu połączonego elektroenergetycznego w celu usunięcia zagrożenia bezpieczeństwa dostaw energii elektrycznej w rozumieniu ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2017 r. poz. 220, 791, 1089, 1387 i 1566), jeżeli wykorzystanie tej wody nastąpiło w rozmiarze i w czasie niezbędnym do usunięcia tego zagrożenia.
 
@@ -5582,7 +5614,7 @@
 11) przepisowi art. 233 ust. 2 nie zapewnia dostępu do wody w sposób umożliwiający powszechne korzystanie z wód,
 12) przepisowi art. 304 ust. 1 nie przekazuje wyników prowadzonych pomiarów ilości pobieranych wód podziemnych i wód powierzchniowych lub ilości i jakości ścieków wprowadzanych do wód lub do ziemi lub nieterminowo przekazuje te wyniki,
 13) przepisowi art. 344 ust. 4 nie prowadzi kontroli wewnętrznej
-- podlega karze grzywny.
+podlega karze grzywny, przy czym grzywna za wykroczenia, o których mowa w pkt 4-8 i 12, wynosi od 1000 zł do 7500 zł.
 
 **Art. 478.** Kto:
 1) wbrew przepisowi art. 234 ust. 1 zmienia kierunek i natężenie odpływu znajdujących się na jego gruncie wód opadowych lub roztopowych lub kierunek odpływu wód ze źródeł, lub odprowadza wody, lub wprowadza ścieki na grunty sąsiednie,
@@ -5611,9 +5643,12 @@
 14) wbrew przepisom art. 125 ust. 2 lub art. 129 ust. 3 niszczy, uszkadza lub przemieszcza tablice zawierające informacje o ustanowieniu strefy ochronnej lub stałe znaki stojące lub pływające, lub tablice zawierające informacje o ustanowieniu strefy ochronnej i zakazie wstępu osób nieupoważnionych,
 15) wbrew przepisowi art. 382 ust. 2 pkt 1 bez upoważnienia przemieszcza urządzenia pomiarowe służb państwowych,
 16) wbrew przepisowi art. 403 ust. 1 pkt 2 nie wykonuje określonego w pozwoleniu wodnoprawnym obowiązku wykonania urządzeń zapobiegających szkodom lub zmniejszających negatywne skutki wykonywania tego pozwolenia
-- podlega karze grzywny.
+podlega karze grzywny, przy czym grzywna za wykroczenia, o których mowa w pkt 2, 6, 7, 9, 10 i 12-16, wynosi od 1000 zł do 7500 zł.
 
-**Art. 479.** Orzekanie w sprawach o czyny, o których mowa w art. 476-478, następuje na zasadach i w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.).
+**Art. 478a.** Kto utrudnia lub udaremnia przeprowadzenie kontroli gospodarowania wodami albo wykrywanie i zwalczanie przestępstw lub wykroczeń przez Inspekcję Wodną,
+ podlega karze ograniczenia wolności albo grzywny.
+
+**Art. 479.** Orzekanie w sprawach o czyny, o których mowa w art. 476-478a, następuje na zasadach i w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 ## Dział XIII — Zmiany w przepisach, przepisy przejściowe, dostosowujące i końcowe
 
@@ -6251,6 +6286,7 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
   2) chemicznego zapotrzebowania tlenu;
   3) zawiesiny ogólnej;
   4) sumy chlorków i siarczanów (Cl+SO4).
+2ha. W celu ustalenia wysokości opłat, o których mowa w art. 272 ust. 5a i 6d, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają także informacje o terminach, w których doszło odpowiednio do uruchomienia przelewu kanalizacji deszczowej lub przelewu burzowego komunalnej kanalizacji ogólnospławnej.
 2i. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 7, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają ilość wprowadzanych do wód lub do ziemi wód pochodzących z obiegów chłodzących elektrowni lub elektrociepłowni wyrażoną w dam3, wraz z informacją o ich temperaturze, odczytaną z urządzeń pomiarowych lub oszacowaną na podstawie obserwacji, analiz lub kalkulacji związanych z parametrami charakteryzującymi wydajność lub moc urządzenia.
 2j. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 8, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają wyrażoną w m2wielkość utraconej powierzchni biologicznie czynnej na nieruchomości o powierzchni powyżej 3500 m2na obszarach nieujętych w systemy kanalizacji otwartej lub zamkniętej, wraz z informacją o powierzchni tej nieruchomości, istnieniu urządzeń do retencjonowania wody oraz o ich pojemności.
 2k. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 9, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają ilość:
@@ -6265,6 +6301,11 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
   1) pięciodobowego biochemicznego zapotrzebowania tlenu (BZT5);
   2) chemicznego zapotrzebowania tlenu;
   3) zawiesiny ogólnej.
+2p. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 3a, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają wyrażoną w MWh ilość energii cieplnej wyprodukowanej lub pobranej w instalacji oraz wyrażoną w m3ilość wód podziemnych lub wód powierzchniowych pobranych bezzwrotnie na potrzeby technologiczne, nieprzeznaczonych wprost do produkcji energii cieplnej.
+2r. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 6a, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają także informacje o:
+  1) systemie retencyjno-dozującym - jeżeli zakład korzysta z takiego systemu, w tym o lokalizacji i pojemności zbiorników, które wchodzą w skład tego systemu, a także liczbie następujących po sobie dni, w których zakład może wstrzymać zrzut ścieków przemysłowych lub wód pochodzących z odwodnienia jego zakładów górniczych w okresach suszy hydrologicznej;
+  2) systemie oczyszczania lub podczyszczania ścieków zasolonych - jeżeli zakład korzysta z tego systemu, w tym ilości ścieków przemysłowych zawierających chlorki i siarczany lub wód pochodzących z odwodnienia zakładów górniczych, które są oczyszczane lub podczyszczane w tym systemie, i parametrach technicznych tego systemu.
+2s. W celu ustalenia wysokości opłaty, o której mowa w art. 272 ust. 3b, oświadczenia, o których mowa w ust. 2a pkt 2, zawierają ilość wprowadzanych do wód lub ziemi wód pochodzących z pomp ciepła lub akumulatorów ciepła warstwy wodonośnej wyrażoną w m3, wraz z informacją o ich temperaturze, odczytaną z urządzeń pomiarowych lub oszacowaną na podstawie obserwacji, analiz lub kalkulacji związanych z parametrami charakteryzującymi wydajność lub moc urządzenia.
 3. W okresie od dnia wejścia w życie ustawy do dnia 31 grudnia 2023 r. Wody Polskie ustalają wysokość opłat za usługi wodne, nie uwzględniając średniego niskiego przepływu z wielolecia (SNQ).
 4. Przepisy wydane na podstawie art. 277 ust. 1 stosuje się.
 5. Przepisy art. 272 ust. 10 i 17-21 oraz art. 273 stosuje się odpowiednio.
