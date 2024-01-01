@@ -1208,7 +1208,7 @@ organ dotujący wzywa dyrektora szkoły, centrum lub placówki lub organ prowadz
   4) 2021 r. - 1584 mln zł;
   5) 2022 r. - 1630 mln zł;
   6) w 2023 r. - 1749 mln zł;
-  7) w 2024 r. - 1732 mln zł;
+  7) w 2024 r. - 4190 mln zł;
   8) w 2025 r. - 1785 mln zł;
   9) w 2026 r. - 1832 mln zł;
   10) w 2027 r. - 1856 mln zł.
