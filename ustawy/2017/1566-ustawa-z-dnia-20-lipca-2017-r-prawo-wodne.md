@@ -1425,7 +1425,7 @@
 2) z właściwymi organami innych państw członkowskich Unii Europejskiej położonych w regionie Morza Bałtyckiego;
 3) z właściwymi organami państw leżących poza granicami Unii Europejskiej, które graniczą z regionem Morza Bałtyckiego.
 
-**Art. 149.** Organy administracji rządowej i samorządowej, państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna oraz instytuty badawcze są obowiązane do nieodpłatnego przekazywania posiadanych danych niezbędnych do opracowania wstępnej oceny stanu środowiska wód morskich, zestawu właściwości typowych dla dobrego stanu środowiska wód morskich, zestawu celów środowiskowych dla wód morskich, programu monitoringu wód morskich oraz programu ochrony wód morskich, w tym danych dotyczących wód śródlądowych, organom opracowującym i aktualizującym te dokumenty.
+**Art. 149.** Organy administracji rządowej i samorządowej, państwowa służba hydrologiczno-meteorologiczna i państwowa służba geologiczna oraz instytuty badawcze są obowiązane do nieodpłatnego przekazywania posiadanych danych niezbędnych do opracowania wstępnej oceny stanu środowiska wód morskich, zestawu właściwości typowych dla dobrego stanu środowiska wód morskich, zestawu celów środowiskowych dla wód morskich, programu monitoringu wód morskich oraz programu ochrony wód morskich, w tym danych dotyczących wód śródlądowych, organom opracowującym i aktualizującym te dokumenty.
 
 **Art. 150.**
 1. Wstępna ocena stanu środowiska wód morskich zawiera:
@@ -1929,7 +1929,7 @@
   5) możliwy wpływ zmian klimatu na występowanie powodzi.
 22. Przepisy ust. 1-19 stosuje się odpowiednio do aktualizacji planów zarządzania ryzykiem powodziowym.
 23. Minister właściwy do spraw gospodarki wodnej udostępnia Komisji Europejskiej plany zarządzania ryzykiem powodziowym oraz ich przeglądy i aktualizacje w terminie 3 miesięcy odpowiednio od dnia przyjęcia planów zarządzania ryzykiem powodziowym oraz dokonania ich przeglądów lub aktualizacji.
-24. Organy administracji rządowej i samorządowej, państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna oraz instytuty badawcze są obowiązane do nieodpłatnego przekazywania posiadanych danych niezbędnych do przygotowania wstępnej oceny ryzyka powodziowego, sporządzenia map zagrożenia powodziowego i map ryzyka powodziowego oraz przygotowania planów zarządzania ryzykiem powodziowym organom przygotowującym i sporządzającym te dokumenty, a także ich przeglądów lub aktualizacji.
+24. Organy administracji rządowej i samorządowej, państwowa służba hydrologiczno-meteorologiczna i państwowa służba geologiczna oraz instytuty badawcze są obowiązane do nieodpłatnego przekazywania posiadanych danych niezbędnych do przygotowania wstępnej oceny ryzyka powodziowego, sporządzenia map zagrożenia powodziowego i map ryzyka powodziowego oraz przygotowania planów zarządzania ryzykiem powodziowym organom przygotowującym i sporządzającym te dokumenty, a także ich przeglądów lub aktualizacji.
 25. W przypadku wystąpienia problemów mających wpływ na zarządzanie ryzykiem powodziowym, które nie mogą być rozwiązane na podstawie przepisów ustawy, minister właściwy do spraw gospodarki wodnej może poinformować o tych problemach Komisję Europejską oraz właściwe organy zainteresowanych państw członkowskich Unii Europejskiej oraz wskazać propozycję ich rozwiązania.
 
 **Art. 174.**
@@ -3134,7 +3134,7 @@
 4. Opłatę za pobór wód do celów elektrowni wodnych ponosi się wyłącznie za ilość energii elektrycznej wyprodukowanej w obiekcie energetyki wodnej z wykorzystaniem wody pobranej zwrotnie, rozumianej jako woda, która została pobrana, wykorzystana, a następnie odprowadzona w tej samej ilości i niepogorszonej jakości, oraz za pobraną bezzwrotnie wodę technologiczną nieprzeznaczoną wprost do produkcji energii elektrycznej.
 4a. Opłatę za pobór wód do celów, o których mowa w ust. 2 pkt 4, ponosi się wyłącznie za ilość energii cieplnej wyprodukowanej lub pobranej przez instalacje z wykorzystaniem wody, która została pobrana, wykorzystana, a następnie odprowadzona do wód lub tej samej warstwy wodonośnej w tej samej ilości i niepogorszonej jakości, z wyjątkiem zmiany jej temperatury, oraz za pobraną bezzwrotnie wodę technologiczną nieprzeznaczoną wprost do celów ogrzewania lub chłodzenia.
 5. Opłatę zmienną za pobór wód do celów zapewnienia funkcjonowania systemów chłodzenia elektrowni lub elektrociepłowni ponosi się wyłącznie za różnicę między ilością wód pobranych do tych celów a ilością wód z obiegów chłodzących elektrowni lub elektrociepłowni wprowadzanych do wód lub do ziemi.
-6. Wysokość opłaty za usługi wodne zależy odpowiednio od ilości pobranej wody oraz od tego, czy pobrano wodę powierzchniową czy wodę podziemną, przeznaczenia wody, jej średniego niskiego przepływu z wielolecia (SNQ), przy czym wielolecie obejmuje co najmniej 20 lat hydrologicznych, oraz dostępnych zasobów wód podziemnych.
+6. Wysokość opłaty za usługi wodne zależy odpowiednio od ilości pobranych wód, od tego, czy pobrano wody powierzchniowe czy wody podziemne, oraz od przeznaczenia wody.
 7. Wysokość opłaty za usługi wodne za zmniejszenie naturalnej retencji terenowej na skutek wykonywania na nieruchomości o powierzchni powyżej 3500 m2 robót lub obiektów budowlanych trwale związanych z gruntem, mających wpływ na zmniejszenie tej retencji przez wyłączenie więcej niż 70% powierzchni nieruchomości z powierzchni biologicznie czynnej na obszarach nieujętych w systemy kanalizacji otwartej lub zamkniętej zależy odpowiednio od wielkości powierzchni uszczelnionej, rozumianej jako powierzchnia zabudowana wyłączona z powierzchni biologicznie czynnej oraz zastosowania kompensacji retencyjnej.
 8. Opłata za usługi wodne za wprowadzanie ścieków do wód lub do ziemi składa się z opłaty stałej oraz opłaty zmiennej zależnej od ilości i jakości ścieków wprowadzanych w ramach pozwolenia wodnoprawnego albo pozwolenia zintegrowanego.
 9. Wysokość opłaty za wprowadzanie ścieków do wód lub ziemi zależy od rodzaju substancji zawartych w ściekach i ich ilości, rodzaju ścieków, a w przypadku:
@@ -3153,8 +3153,8 @@
     b) wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast,
   4) wprowadzanie ścieków do wód lub do ziemi
 - ustalają Wody Polskie oraz przekazują podmiotom obowiązanym do ponoszenia opłat za usługi wodne w formie informacji rocznej, zawierającej także sposób obliczenia tej opłaty.
-2. Wysokość opłaty stałej za pobór wód podziemnych ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i maksymalnej ilości wody podziemnej wyrażonej w m3/s, która może być pobrana na podstawie pozwolenia wodnoprawnego albo pozwolenia zintegrowanego, z uwzględnieniem stosunku ilości wody podziemnej, która może być pobrana na podstawie tych pozwoleń, do dostępnych zasobów wód podziemnych.
-3. Wysokość opłaty stałej za pobór wód powierzchniowych ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i maksymalnej ilości wody powierzchniowej wyrażonej w m3/s, która może być pobrana na podstawie pozwolenia wodnoprawnego albo pozwolenia zintegrowanego, z uwzględnieniem stosunku ilości wody powierzchniowej, która może być pobrana na podstawie tych pozwoleń, do SNQ.
+2. Wysokość opłaty stałej za pobór wód podziemnych ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i maksymalnej ilości wody podziemnej wyrażonej w m3/s, która może być pobrana na podstawie pozwolenia wodnoprawnego albo pozwolenia zintegrowanego.
+3. Wysokość opłaty stałej za pobór wód powierzchniowych ustala się jako iloczyn jednostkowej stawki opłaty, czasu wyrażonego w dniach i maksymalnej ilości wody powierzchniowej wyrażonej w m3/s, która może być pobrana na podstawie pozwolenia wodnoprawnego albo pozwolenia zintegrowanego.
 4. Wysokość opłaty stałej za odprowadzanie do wód:
   1) wód opadowych lub roztopowych ujętych w otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej w granicach administracyjnych miast,
   2) wód pochodzących z odwodnienia gruntów w granicach administracyjnych miast
@@ -3268,17 +3268,8 @@
 
 **Art. 274.** Górne jednostkowe stawki opłat za usługi wodne, o których mowa w art. 268 ust. 1 pkt 1-3 oraz w art. 269, wynoszą:
 1) za pobór wód w formie opłaty stałej:
-  a) za pobór:
-    – wód podziemnych - 500 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód, jeżeli pobór wód nie jest większy niż 10% dostępnych zasobów wód podziemnych,
-    – wód podziemnych - 1000 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód, jeżeli pobór wód jest większy niż 10% i nie jest większy niż 30% dostępnych zasobów wód podziemnych,
-    – wód podziemnych - 2000 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód, jeżeli pobór wód jest większy niż 30% dostępnych zasobów wód podziemnych,
-  b) za pobór:
-    – wód powierzchniowych - 250 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód, jeżeli pobór wód nie jest większy niż 10% SNQ,
-    – wód powierzchniowych - 500 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód, jeżeli pobór wód jest większy niż 10% SNQ i nie jest większy niż 50% SNQ,
-    – wód powierzchniowych - 1000 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód, jeżeli pobór wód jest większy niż 50% SNQ,
-  c) za pobór wód do celów wytwarzania energii elektrycznej lub cieplnej dla instalacji posiadających w dniu wejścia w życie ustawy ważne pozwolenia wodnoprawne albo pozwolenia zintegrowane:
-    – wód podziemnych - 500 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód,
-    – wód powierzchniowych - 250 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód;
+  a) za pobór wód podziemnych - 500 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód,
+  b) za pobór wód powierzchniowych - 250 zł na dobę za 1 m3/s za określony w pozwoleniu wodnoprawnym albo w pozwoleniu zintegrowanym maksymalny pobór wód;
 2) za pobór wód w formie opłaty zmiennej, w zależności od ilości pobieranej wody w ramach pozwolenia wodnoprawnego albo pozwolenia zintegrowanego:
   a) do celów wydobywania węgla kamiennego i węgla brunatnego (lignitu):
     – 0,70 zł za 1 m3 pobranych wód podziemnych,
@@ -4089,7 +4080,7 @@
 1. Źródłami danych dla systemu informacyjnego gospodarowania wodami są rejestry i zbiory danych prowadzone przez ministra właściwego do spraw gospodarki wodnej oraz Wody Polskie, a także:
   1) w zakresie stacji wodowskazowych, stacji synoptycznych, stacji klimatologicznych oraz stacji opadowych - podstawowa sieć pomiarowo-obserwacyjna, o której mowa w art. 378 ust. 2;
   2) w zakresie wyników oceny stanu ilościowego i chemicznego jednolitych części wód podziemnych - Inspekcja Ochrony Środowiska oraz państwowy monitoring środowiska;
-  3) w zakresie warunków hydrogeologicznych, oceny wielkości zasobów wód podziemnych, stanu chemicznego oraz ilościowego wód podziemnych - państwowa służba hydrogeologiczna oraz sieć obserwacyjno-badawcza wód podziemnych, o której mowa w art. 381 ust. 2;
+  3) w zakresie warunków hydrogeologicznych, oceny wielkości zasobów wód podziemnych, stanu chemicznego oraz ilościowego wód podziemnych - państwowa służba geologiczna oraz sieć obserwacyjno-badawcza wód podziemnych, o której mowa w art. 381 ust. 2;
   4) w zakresie stanów wód i przepływów dla posterunków wodowskazowych - państwowa służba hydrologiczno-meteorologiczna i pomiary i obserwacje hydrologiczne, o których mowa w art. 376 pkt 1;
   5) w zakresie wyników pomiarów monitoringu wód - państwowy monitoring środowiska;
   6) w zakresie profilu wody w kąpielisku - profil wody w kąpielisku;
@@ -4341,7 +4332,7 @@
 5. Właściwy organ Inspekcji Ochrony Środowiska prowadzi obserwacje elementów hydromorfologicznych na potrzeby oceny stanu ekologicznego i potencjału ekologicznego.
 6. Właściwy organ Inspekcji Ochrony Środowiska wykonuje badania osadów dennych rzek i jezior na potrzeby klasyfikacji stanu chemicznego wód powierzchniowych.
 7. Właściwy organ Inspekcji Ochrony Środowiska wykonuje badania bioakumulacji substancji priorytetowych, określonych w przepisach wydanych na podstawie art. 114, na potrzeby klasyfikacji stanu chemicznego wód powierzchniowych, oraz badania stanu ichtiofauny na potrzeby klasyfikacji stanu ekologicznego lub potencjału ekologicznego, a dodatkowo, jeżeli jest to uzasadnione specyfiką badań, wykonuje badania i obserwacje, o których mowa w ust. 3, 5 i 6.
-8. Państwowa służba hydrogeologiczna wykonuje badania i ocenia stan wód podziemnych w zakresie elementów fizykochemicznych i ilościowych.
+8. Państwowa służba geologiczna wykonuje badania i ocenia stan wód podziemnych w zakresie elementów fizykochemicznych i ilościowych.
 9. W uzasadnionych przypadkach właściwy organ Inspekcji Ochrony Środowiska wykonuje uzupełniające badania wód podziemnych w zakresie elementów fizykochemicznych.
 10. Właściwy organ Inspekcji Ochrony Środowiska na podstawie wyników badań i obserwacji, o których mowa w ust. 3 i 5-7, oraz z wykorzystaniem wyników badań, o których mowa w ust. 4, dokonuje oceny stanu jednolitych części wód powierzchniowych dla obszaru województwa, z uwzględnieniem wód przejściowych i wód przybrzeżnych.
 11. Właściwy organ Inspekcji Ochrony Środowiska dokonuje oceny stanu wód na obszarach dorzeczy:
@@ -4488,12 +4479,12 @@
 
 **Art. 360.** Minister właściwy do spraw gospodarki wodnej sprawuje nadzór nad działalnością:
 1) państwowej służby hydrologiczno-meteorologicznej;
-2) państwowej służby hydrogeologicznej;
+2) (uchylony)
 3) państwowej służby do spraw bezpieczeństwa budowli piętrzących.
 
 **Art. 361.** Nadzór, o którym mowa w art. 360, polega w szczególności na:
-1) zatwierdzaniu rocznych sprawozdań z realizacji przez państwową służbę hydrologiczno-meteorologiczną, państwową służbę hydrogeologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących zadań określonych w przepisach ustawy;
-2) kontroli efektywności i celowości wydatkowania środków publicznych, w tym wykorzystania środków przekazanych przez Wody Polskie, na realizację zadań przez państwową służbę hydrologiczno-meteorologiczną, państwową służbę hydrogeologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących.
+1) zatwierdzaniu rocznych sprawozdań z realizacji przez państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących zadań określonych w przepisach ustawy;
+2) kontroli efektywności i celowości wydatkowania środków publicznych, w tym wykorzystania środków przekazanych przez Wody Polskie, na realizację zadań przez państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących.
 
 **Art. 362.** Państwowa Rada Gospodarki Wodnej, zwana dalej „Państwową Radą”, jest organem opiniodawczo-doradczym ministra właściwego do spraw gospodarki wodnej.
 
@@ -4538,8 +4529,8 @@
 3. Państwowa służba do spraw bezpieczeństwa budowli piętrzących przekazuje ministrowi właściwemu do spraw gospodarki wodnej roczne sprawozdanie z realizacji zadań określonych w przepisach ustawy w terminie do dnia 30 czerwca roku następującego po roku, którego dotyczy sprawozdanie.
 
 **Art. 369.**
-1. Państwowa służba hydrogeologiczna wykonuje zadania państwa na potrzeby rozpoznawania, bilansowania i ochrony wód podziemnych w celu racjonalnego wykorzystania tych wód przez społeczeństwo oraz gospodarkę.
-2. Państwowa służba hydrogeologiczna przekazuje ministrowi właściwemu do spraw gospodarki wodnej roczne sprawozdanie z realizacji zadań określonych w przepisach ustawy w terminie do dnia 30 czerwca roku następującego po roku, którego dotyczy sprawozdanie.
+1. Państwowa służba geologiczna wykonuje zadania państwa na potrzeby rozpoznawania, bilansowania i ochrony wód podziemnych w celu racjonalnego wykorzystania tych wód przez społeczeństwo oraz gospodarkę.
+2. Państwowa służba geologiczna przekazuje ministrowi właściwemu do spraw gospodarki wodnej oraz ministrowi właściwemu do spraw środowiska roczne sprawozdanie z realizacji zadań określonych w przepisach ustawy w terminie do dnia 30 czerwca roku następującego po roku, którego dotyczy to sprawozdanie.
 
 **Art. 370.** Państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę do spraw bezpieczeństwa budowli piętrzących pełni Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy.
 
@@ -4547,7 +4538,7 @@
 
 **Art. 372.** Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy posiada i utrzymuje bazę danych historycznych z zakresu meteorologii, hydrologii i oceanologii, zgromadzoną w wyniku ujednoliconych metod określanych przez Światową Organizację Meteorologiczną, stanowiącą wyłączne źródło informacji hydrologicznych, meteorologicznych i oceanologicznych dla potrzeb rozpoznania i kształtowania oraz ochrony zasobów wodnych kraju, a także rozpoznania warunków meteorologicznych, klimatologicznych i oceanologicznych.
 
-**Art. 373.** Państwową służbę hydrogeologiczną pełni Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy.
+**Art. 373.** Państwową służbę geologiczną w zakresie realizacji zadań określonych w przepisach ustawy pełni Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy.
 
 **Art. 374.** Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy posiada i utrzymuje bazę danych historycznych z zakresu hydrogeologii.
 
@@ -4637,6 +4628,7 @@
 4) wykonywanie bieżących analiz i ocen sytuacji hydrogeologicznej;
 5) opracowywanie oraz przekazywanie prognoz zmian wielkości zasobów wód podziemnych, w tym dostępnych zasobów wód podziemnych oraz stanu wód podziemnych, a także ich zagrożeń;
 6) opracowywanie i przekazywanie organom administracji publicznej ostrzeżeń przed niebezpiecznymi zjawiskami zachodzącymi w strefach zasilania oraz poboru wód podziemnych;
+6a) monitorowanie i bilansowanie transgranicznych jednolitych części wód podziemnych na obszarach szczególnie ważnych ze względu na interes publiczny;
 7) udział w działaniach związanych z zapobieganiem skutkom nadzwyczajnych zagrożeń wywołanych w szczególności przez powodzie, o których mowa w pkt 3 lit. h, oraz susze, a także wyznaczanie zasięgów powodzi historycznych na podstawie danych geologicznych;
 8) ocena wpływu i oddziaływań na stan chemiczny i ilościowy wód podziemnych;
 9) wykonywanie badań hydrogeologicznych na potrzeby planowania w gospodarowaniu wodami;
@@ -4644,7 +4636,7 @@
 11) prowadzenie prac rozwojowych i metodycznych w zakresie zadań wymienionych w pkt 1-9.
 
 **Art. 381.**
-1. Państwowa służba hydrogeologiczna posiada i utrzymuje sieć obserwacyjno-badawczą wód podziemnych oraz zespoły do spraw ocen i prognoz hydrogeologicznych.
+1. Państwowa służba geologiczna posiada i utrzymuje sieć obserwacyjno-badawczą wód podziemnych oraz zespoły do spraw ocen i prognoz hydrogeologicznych.
 2. Sieć obserwacyjno-badawczą wód podziemnych stanowią:
   1) stacje hydrogeologiczne;
   2) punkty obserwacyjne zwierciadła wód podziemnych;
@@ -4675,8 +4667,8 @@
 2. Na terenach zamkniętych w rozumieniu art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne prace, o których mowa w ust. 1, mogą być wykonywane tylko za zgodą zarządzającego tym terenem.
 3. W granicach parku narodowego prace, o których mowa w ust. 1, mogą być wykonywane za zgodą dyrektora parku narodowego.
 4. Właściciel nieruchomości jest obowiązany umożliwić wykonanie prac, o których mowa w ust. 1, przez osoby upoważnione przez służby państwowe.
-5. Osoby, o których mowa w ust. 1, są obowiązane posiadać legitymację służbową pozwalającą zidentyfikować pracownika państwowej służby oraz określającą przysługujące mu uprawnienia.
-6. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wzór legitymacji służbowej, o której mowa w ust. 5, kierując się koniecznością zapewnienia identyfikacji służby państwowej i osób wykonujących kontrolę.
+5. Osoby, o których mowa w ust. 1, będące pracownikami państwowej służby hydrologiczno-meteorologicznej i państwowej służby do spraw bezpieczeństwa budowli piętrzących są obowiązane do posiadania legitymacji służbowej pozwalającej zidentyfikować pracownika oraz określającej przysługujące im uprawnienia.
+6. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wzór legitymacji służbowej, o której mowa w ust. 5, kierując się koniecznością zapewnienia identyfikacji państwowej służby hydrologiczno-meteorologicznej i państwowej służby do spraw bezpieczeństwa budowli piętrzących i osób wykonujących kontrolę.
 
 **Art. 384.**
 1. Wobec pracowników inżynieryjno-technicznych zatrudnionych w ramach państwowej służby hydrologiczno-meteorologicznej wprowadza się rozkład czasu pracy:
@@ -4691,16 +4683,24 @@
 **Art. 385.**
 1. Służby państwowe są finansowane ze środków budżetu państwa.
 2. Ze środków budżetu państwa w części dotyczącej gospodarki wodnej będących w dyspozycji ministra właściwego do spraw gospodarki wodnej finansuje się, w formie dotacji celowej, na zasadach określonych w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych:
-  1) utrzymywanie bieżącej działalności służb państwowych;
+  1) utrzymywanie bieżącej działalności służb państwowych, z wyłączeniem bieżącej działalności państwowej służby geologicznej w zakresie realizacji zadań określonych w przepisach ustawy;
   2) utrzymywanie, odbudowę, rozbudowę, przebudowę i rozbiórkę podstawowej sieci pomiarowo-obserwacyjnej państwowej służby hydrologiczno-meteorologicznej oraz system gromadzenia, przetwarzania i wymiany danych;
-  3) utrzymywanie, odbudowę, rozbudowę, przebudowę i rozbiórkę hydrogeologicznych urządzeń pomiarowych państwowej służby hydrogeologicznej;
+  3) (uchylony)
   4) utrzymywanie i rozwój komórek metodycznych;
-  5) opracowywanie danych oraz informacji hydrologiczno-meteorologicznych i hydrogeologicznych;
-  6) opracowywanie i publikowanie ostrzeżeń, ogólnych prognoz oraz komunikatów hydrologicznych i meteorologicznych, biuletynów, a także roczników hydrologicznych, meteorologicznych i hydrogeologicznych;
+  5) opracowywanie danych oraz informacji hydrologiczno-meteorologicznych;
+  6) opracowywanie i publikowanie ostrzeżeń, ogólnych prognoz oraz komunikatów hydrologicznych i meteorologicznych, biuletynów, a także roczników hydrologicznych i meteorologicznych;
   7) wykonywanie modelowania hydrologiczno-hydraulicznego, szczególnie w zakresie zagrożeń powodziowych i zjawiska suszy;
   8) prowadzenie działań edukacyjnych w zakresie hydrologii, meteorologii i oceanologii;
   9) współpracę z organami administracji publicznej w zakresie ograniczania skutków niebezpiecznych zjawisk zachodzących w atmosferze i hydrosferze;
-  10) wypłatę odszkodowań, o których mowa w art. 382 ust. 9.
+  10) wypłatę odszkodowań, o których mowa w art. 382 ust. 9, z uwzględnieniem ust. 2a pkt 7.
+2a. Ze środków budżetu państwa w części dotyczącej środowiska będących w dyspozycji ministra właściwego do spraw środowiska finansuje się, w formie dotacji celowej, na zasadach określonych w art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych:
+  1) utrzymywanie bieżącej działalności państwowej służby geologicznej w zakresie realizacji zadań określonych w przepisach ustawy;
+  2) utrzymywanie, odbudowę, rozbudowę, przebudowę i rozbiórkę hydrogeologicznych urządzeń pomiarowych państwowej służby geologicznej w zakresie dotyczącym realizacji zadań określonych w przepisach ustawy;
+  3) utrzymywanie i rozwój komórek metodycznych;
+  4) opracowywanie danych oraz informacji hydrogeologicznych;
+  5) opracowywanie i publikowanie ostrzeżeń, ogólnych prognoz, komunikatów, biuletynów, a także roczników hydrogeologicznych;
+  6) współpracę z organami administracji publicznej w zakresie ograniczania skutków niebezpiecznych zjawisk zachodzących w atmosferze i hydrosferze, w szczególności zjawiska suszy;
+  7) wypłatę odszkodowań, o których mowa w art. 382 ust. 9, w zakresie wynikającym z działalności państwowej służby geologicznej.
 3. Ze środków budżetu państwa będących w dyspozycji właściwych dysponentów części budżetu państwa finansuje się:
   1) osłonę hydrologiczno-meteorologiczną żeglugi morskiej, rybołówstwa i żeglugi śródlądowej;
   2) osłonę hydrologiczno-meteorologiczną rolnictwa;
@@ -4721,15 +4721,15 @@
 3. Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy oraz Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy przekazują nieodpłatnie w celu ponownego wykorzystywania informacje zbierane i przetwarzane odpowiednio przez państwową służbę hydrologiczno-meteorologiczną oraz państwową służbę hydrogeologiczną na zasadach określonych w przepisach ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego.
 
 **Art. 387.**
-1. Państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna publikują informacje zebrane i przetworzone w ostrzeżeniach, prognozach, komunikatach, biuletynach lub rocznikach.
-2. Państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna nieodpłatnie przekazują ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki podmiotom określonym w przepisach wydanych na podstawie ust. 3.
+1. Państwowa służba hydrologiczno-meteorologiczna i państwowa służba geologiczna publikują informacje zebrane i przetworzone w ostrzeżeniach, prognozach, komunikatach, biuletynach lub rocznikach.
+2. Państwowa służba hydrologiczno-meteorologiczna i państwowa służba geologiczna nieodpłatnie przekazują ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki podmiotom określonym w przepisach wydanych na podstawie ust. 3.
 2a. Państwowa służba hydrologiczno-meteorologiczna opracowuje i przekazuje zakładom odprowadzającym ścieki o zwiększonym zasoleniu ostrzeżenia przed suszą hydrologiczną dla obszaru lokalizacji zrzutu chlorków i siarczanów dokonywanego przez zakład, a także prognozy hydrologiczne dotyczące suszy hydrologicznej, jeżeli posiada takie informacje.
-3. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia:
-  1) podmioty, którym państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna są obowiązane przekazywać ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki, z wyjątkiem podmiotów, o których mowa w ust. 2a;
+3. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw środowiska określi, w drodze rozporządzenia:
+  1) podmioty, którym państwowa służba hydrologiczno-meteorologiczna i państwowa służba geologiczna są obowiązane przekazywać ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki, z wyjątkiem podmiotów, o których mowa w ust. 2a;
   2) sposób i częstotliwość opracowywania oraz przekazywania ostrzeżeń, prognoz, komunikatów, biuletynów lub roczników;
-  2a) sposób opracowywania oraz przekazywania ostrzeżeń przed suszą hydrologiczną i prognoz hydrologicznych dotyczących suszy hydrologicznej zakładom odprowadzającym ścieki o zwiększonym zasoleniu;
-  3) sposoby uzyskiwania potwierdzenia przekazania ostrzeżeń;
-  4) charakterystykę stanu hydrologicznego, meteorologicznego oraz hydrogeologicznego.
+  3) sposób opracowywania oraz przekazywania ostrzeżeń przed suszą hydrologiczną i prognoz hydrologicznych dotyczących suszy hydrologicznej zakładom odprowadzającym ścieki o zwiększonym zasoleniu;
+  4) sposoby uzyskiwania potwierdzenia przekazania ostrzeżeń;
+  5) charakterystykę stanu hydrologicznego, meteorologicznego oraz hydrogeologicznego.
 4. Wydając rozporządzenie, o którym mowa w ust. 3, minister właściwy do spraw gospodarki wodnej kieruje się względami bezpieczeństwa państwa, bezpieczeństwa ludzi i mienia oraz uwzględnia konieczność sprawnego przekazywania ostrzeżeń, prognoz, komunikatów i biuletynów w zależności od aktualnego lub prognozowanego stanu hydrologicznego, meteorologicznego lub hydrogeologicznego.
 5. Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie informacje o stanie atmosfery i hydrosfery organom władzy publicznej oraz właścicielom wód lub działającym w ich imieniu zarządcom, a także uczelniom, instytutom badawczym, Centrum Łukasiewicz, instytutom działającym w ramach Sieci Badawczej Łukasiewicz oraz jednostkom naukowym Polskiej Akademii Nauk.
 6. Państwowy Instytut Geologiczny - Państwowy Instytut Badawczy jest obowiązany udostępniać nieodpłatnie zebrane informacje o stanie zasobów wód podziemnych organom władzy publicznej, a także uczelniom, instytutom badawczym, Centrum Łukasiewicz, instytutom działającym w ramach Sieci Badawczej Łukasiewicz oraz jednostkom naukowym Polskiej Akademii Nauk.
@@ -6549,5 +6549,5 @@ w terminie 30 dni od dnia, w którym upływa dzień przypadający na koniec każ
 1) art. 102-112, art. 494, art. 502, art. 506, art. 515, art. 525 ust. 3-6 oraz 8 i 9, art. 539 ust. 3-5 i 7, art. 540 ust. 1-4, 6 i 7, art. 541, art. 542, art. 544 ust. 1, art. 554 oraz art. 570, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
 2) art. 532 ust. 5 i 6, które wchodzą w życie z dniem 31 grudnia 2017 r.;
 3) art. 524, który wchodzi w życie z dniem 1 stycznia 2019 r.;
-4) art. 274 pkt 1, który wchodzi w życie z dniem 1 stycznia 2024 r.;
+4) (uchylony)
 5) art. 36 ust. 1-3 oraz 6 i 7 oraz art. 303 ust. 1 i 4, które wchodzą w życie z dniem 1 stycznia 2027 r.
