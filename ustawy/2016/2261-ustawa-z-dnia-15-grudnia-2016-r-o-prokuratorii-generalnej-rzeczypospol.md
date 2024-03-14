@@ -249,6 +249,8 @@
 1. Dane służące do składania podpisu elektronicznego są udzielane radcom i referendarzom po złożeniu stosownego wniosku za pośrednictwem Prezesa Prokuratorii Generalnej.
 2. Dopuszcza się również komunikowanie się radcy i referendarza z sądem przy wykorzystaniu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego.
 
+**Art. 36a.** Prokuratoria Generalna jest obowiązana posiadać konto w portalu informacyjnym, o którym mowa w art. 53e § 1 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych (Dz. U. z 2023 r. poz. 217, z późn. zm.).
+
 **Art. 37.** Prezes Rady Ministrów określi, w drodze rozporządzenia, zakres i tryb współdziałania Prokuratorii Generalnej i Prezesa Prokuratorii Generalnej przy wykonywaniu zadań z organami władzy publicznej, państwowymi osobami prawnymi, osobami zastępowanymi, państwowymi jednostkami organizacyjnymi nieposiadającymi osobowości prawnej oraz organami jednostek samorządu terytorialnego i innymi podmiotami, którym powierzono wykonywanie zadań publicznych na podstawie ustaw lub porozumień, w tym w szczególności zakres czynności wykonywanych w ramach współdziałania przez Prokuratorię Generalną i te podmioty, terminy wykonywania tych czynności oraz wymieniane informacje i dokumenty, mając na względzie zapewnienie należytej ochrony praw i interesów Rzeczypospolitej Polskiej lub osób zastępowanych, sprawności postępowania w tym dostępu Prokuratorii Generalnej do niezbędnych informacji i dokumentów, a także wymogi wynikające z przepisów dotyczących właściwych postępowań.
 
 ## Rozdział 4 — Tajemnica Prokuratorii Generalnej
