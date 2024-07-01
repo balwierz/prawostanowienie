@@ -2588,6 +2588,7 @@
   2) regionalne zarządy gospodarki wodnej z siedzibami w Białymstoku, Bydgoszczy, Gdańsku, Gliwicach, Krakowie, Lublinie, Poznaniu, Rzeszowie, Szczecinie, Warszawie i we Wrocławiu;
   3) zarządy zlewni;
   4) nadzory wodne.
+3a. W skład Wód Polskich wchodzi Inspekcja Wodna.
 4. Minister właściwy do spraw gospodarki wodnej nadaje Wodom Polskim, w drodze rozporządzenia, statut określający strukturę i organizację Wód Polskich, uwzględniając zakres zadań jednostek organizacyjnych Wód Polskich i ich obszar działania, potrzebę racjonalnego wykorzystania środków publicznych oraz podział hydrograficzny kraju.
 5. Wody Polskie w ramach działalności związanej z wykonywaniem zadań organu właściwego w sprawach gospodarowania wodami mają prawo do używania oznak z godłem Rzeczypospolitej Polskiej oraz okrągłej pieczęci z wizerunkiem godła Rzeczypospolitej Polskiej pośrodku i nazwą w otoku.
 
@@ -2618,7 +2619,8 @@
   22) ustala przebieg granic obszarów dorzeczy, granic regionów wodnych oraz granic zlewni, o których mowa w art. 13 ust. 4;
   23) wykonuje kontrolę gospodarowania wodami, o której mowa w art. 335 ust. 1 pkt 1, oraz wydaje decyzje, o których mowa w art. 343 ust. 2, 3 i 6;
   24) dokonuje uzgodnienia list programów priorytetowych Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej w części dotyczącej gospodarki wodnej;
-  25) prowadzi sprawy, w których Prezes Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+  25) prowadzi sprawy, w których Prezes Wód Polskich pełni funkcję organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego;
+  26) realizuje zadania Krajowej Inspekcji Wodnej.
 3. Regionalne zarządy gospodarki wodnej wykonują następujące zadania Wód Polskich:
   1) z uwzględnieniem przepisów art. 397 ust. 3 prowadzą sprawy dotyczące:
     a) decyzji, o których mowa w art. 76 ust. 2, art. 77 ust. 3, 8, 11 i 14, art. 166 ust. 5, art. 175 ust. 1, art. 176 ust. 4 i 9, art. 182 ust. 1, art. 199 ust. 4, art. 201 ust. 1, art. 202 ust. 1, art. 206 oraz w art. 343 ust. 2, 3 i 6,
@@ -2655,7 +2657,8 @@
   27) pełnią funkcję organu regulacyjnego, o którym mowa w art. 27a ust. 1 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2017 r. poz. 328, 1566 i 2180);
   28) prowadzą system informacyjny gospodarowania wodami, o którym mowa w art. 329, oraz udostępniają gromadzone w tym systemie dane.
   29) współpracują z Krajowym Zarządem Gospodarki Wodnej w zakresie opracowywania krajowego programu oczyszczania ścieków komunalnych i jego aktualizacji;
-  30) opiniują wieloletnie plany rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych, o których mowa w art. 21 ust. 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków.
+  30) opiniują wieloletnie plany rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych, o których mowa w art. 21 ust. 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków;
+  31) realizują zadania regionalnej inspekcji wodnej.
 4. Zarządy zlewni wykonują następujące zadania Wód Polskich:
   1) z uwzględnieniem przepisów art. 397 ust. 3 prowadzą sprawy dotyczące:
     a) decyzji, o których mowa w art. 80, art. 132, art. 135 ust. 1 pkt 1 i ust. 3, art. 226 ust. 4, art. 237 ust. 3, art. 271 ust. 7, art. 272 ust. 19, art. 273 ust. 6, art. 275 ust. 15 i 19, art. art. 310 ust. 7 oraz art. 311 ust. 6,
@@ -2804,7 +2807,86 @@
   1) ministrowi właściwemu do spraw gospodarki wodnej;
   2) pracownikom urzędu obsługującego ministra właściwego do spraw gospodarki wodnej zajmującym się nadzorem nad gospodarką wodną.
 5. Pracownicy Wód Polskich zatrudnieni na stanowiskach innych niż określone w przepisach wydanych na podstawie ust. 6 oraz osoby, o których mowa w ust. 4, ponoszą koszty munduru gospodarki wodnej.
-6. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wykaz stanowisk służbowych w Wodach Polskich, na których pracownicy są obowiązani do noszenia munduru gospodarki wodnej, elementy składowe i wzory munduru gospodarki wodnej oraz czas ich używania, mając na uwadze rodzaj stanowisk służbowych, a także potrzebę odróżnienia tego munduru od umundurowania wykorzystywanego przez inne służby.
+6. Minister właściwy do spraw gospodarki wodnej określi, w drodze rozporządzenia, wykaz stanowisk służbowych w Wodach Polskich, w tym w Inspekcji Wodnej, na których pracownicy są obowiązani do noszenia munduru gospodarki wodnej, elementy składowe munduru, w tym te wyróżniające mundur Inspekcji Wodnej wśród mundurów Wód Polskich, wzory munduru gospodarki wodnej oraz czas ich używania, mając na uwadze rodzaj stanowisk służbowych, a także potrzebę odróżnienia tego munduru od umundurowania wykorzystywanego przez inne służby.
+
+### Rozdział 2a — Inspekcja Wodna
+
+**Art. 251a.**
+1. Inspekcją Wodną kieruje Krajowy Inspektor Wodny przy pomocy regionalnych inspektorów wodnych.
+2. Prezes Wód Polskich pełni funkcję Krajowego Inspektora Wodnego.
+3. Dyrektorzy regionalnych zarządów gospodarki wodnej Wód Polskich pełnią funkcje regionalnych inspektorów wodnych.
+4. Zadania Inspekcji Wodnej wykonują inspektorzy będący pracownikami Wód Polskich.
+5. W skład Inspekcji Wodnej wchodzą:
+  1) Krajowa Inspekcja Wodna działająca przy Krajowym Zarządzie Gospodarki Wodnej;
+  2) regionalne inspekcje wodne działające przy regionalnych zarządach gospodarki wodnej.
+6. Obszar działania poszczególnych regionalnych inspekcji wodnych wyznacza obszar działania poszczególnych regionalnych zarządów gospodarki wodnej.
+
+**Art. 251b.** Zadaniem Inspekcji Wodnej jest:
+1) kontrola przestrzegania przepisów niniejszej ustawy, ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym oraz przepisów wydanych na podstawie tych ustaw;
+2) kontrola gospodarowania wodami w zakresie określonym w przepisach działu VII rozdziału 3;
+3) dokonywanie czynności, o których mowa w art. 190a ust. 1 i 3 pkt 1.
+
+**Art. 251c.**
+1. Krajowy Inspektor Wodny kieruje pracą Krajowej Inspekcji Wodnej.
+2. Do zadań Krajowej Inspekcji Wodnej należy:
+  1) koordynacja działalności regionalnych inspekcji wodnych i nadzór nad tą działalnością, w szczególności poprzez wydawanie poleceń dotyczących sposobu realizacji zadań oraz żądanie przekazania informacji;
+  2) określanie ryzyka wystąpienia potencjalnych zdarzeń mogących powodować negatywne skutki dla wód lub zasobów ryb w wodach w celu eliminacji tych skutków;
+  3) opracowywanie rocznego planu działania Inspekcji Wodnej;
+  4) przygotowywanie planu kontroli gospodarowania wodami na dany rok.
+
+**Art. 251d.**
+1. Regionalny inspektor wodny kieruje pracą regionalnej inspekcji wodnej.
+2. Regionalny inspektor wodny wykonuje zadania, o których mowa w art. 251b, w zakresie swojej właściwości, oraz przekazuje właściwym organom Wód Polskich dokumentację sporządzoną w ramach czynności służbowych, w celu ewentualnego wszczęcia właściwego postępowania lub podjęcia innych czynności przewidzianych w ustawie.
+3. Podczas wykonywania zadań regionalnej inspekcji wodnej, o których mowa w ust. 2, inspektorzy regionalnej inspekcji wodnej są uprawnieni do:
+  1) poboru próbek wody i ścieków do badań wykonywanych przez inspektora akredytowanego w rozumieniu przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854);
+  2) nakładania grzywny w drodze mandatu karnego za wykroczenia określone w niniejszej ustawie oraz w ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym;
+  3) kontrolowania dokumentów uprawniających do połowu ryb osób dokonujących połowu, a w przypadku podejrzenia popełnienia wykroczenia - zatrzymywania tych dokumentów za pokwitowaniem, z tym że dokumenty te wraz z wnioskiem o ukaranie przekazuje się do sądu w terminie 7 dni od dnia ich zatrzymania;
+  4) kontrolowania liczby, masy i gatunków odłowionych ryb oraz kontrolowania przedmiotów służących do ich połowu;
+  5) zabezpieczania porzuconych ryb i przedmiotów służących do ich połowu - w przypadku niemożności ustalenia ich posiadacza;
+  6) żądania wyjaśnień i wykonywania czynności niezbędnych do przeprowadzenia kontroli, w szczególności w zakresie niezbędnym do ustalenia:
+    a) maksymalnej technicznej wydajności instalacji lub urządzeń służących do wprowadzania ścieków do wód lub ziemi przez podmiot wprowadzający ścieki do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego,
+    b) rodzaju ścieków wprowadzanych do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego;
+  7) legitymowania świadków przestępstwa lub wykroczenia w celu ustalenia ich tożsamości;
+  8) żądania niezbędnej pomocy od instytucji państwowych, a także zwracania się o taką pomoc do jednostek gospodarczych, organizacji społecznych, a w nagłych przypadkach - zwracania się do każdego obywatela o udzielenie doraźnej pomocy na zasadach określonych w przepisach o Policji określających szczegółowe zasady żądania takiej pomocy;
+  9) dokonywania czynności wyjaśniających w postępowaniach w sprawach o wykroczenia, które zostały określone w przepisach niniejszej ustawy i ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym, sporządzania wniosków o ukaranie do sądu w sprawach o wykroczenia, udziału w charakterze oskarżyciela publicznego oraz wnoszenia środków zaskarżenia od rozstrzygnięć zapadłych w tych sprawach;
+  10) wstępu i wjazdu na tereny:
+    a) lasów, zakładów przemysłowych, ośrodków turystyczno-wypoczynkowych, gospodarstw rolnych - w zakresie niezbędnym do prowadzenia kontroli na wodach przyległych do tych terenów,
+    b) elektrowni, młynów i tartaków wodnych, z wyjątkiem terenów i obiektów sił zbrojnych, Straży Granicznej i Policji oraz innych terenów i obiektów, których szczególne przeznaczenie stanowi informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne”.
+4. Inspektor regionalnej inspekcji wodnej w przypadku uzasadnionego podejrzenia popełnienia przestępstwa lub wykroczenia jest również uprawniony do:
+  1) legitymowania osób podejrzanych w celu ustalenia ich tożsamości;
+  2) odebrania za pokwitowaniem ryb i przedmiotów służących do ich połowu, z tym że ryby należy przekazać za pokwitowaniem uprawnionemu do rybactwa, a przedmioty - zabezpieczyć;
+  3) ujęcia osoby, udaremnienia jej ucieczki lub pościgu za tą osobą celem niezwłocznego przekazania jej Policji.
+5. Wstęp na tereny zamknięte, o których mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne, następuje za zgodą i pod nadzorem podmiotu zarządzającego tym terenem.
+6. Z czynności, o których mowa w ust. 3 pkt 1, 3, 6 i 8, sporządza się protokół.
+7. Do wykonywania przez inspektora regionalnej inspekcji wodnej czynności, o których mowa w ust. 3 pkt 2-10 i ust. 4, stosuje się odpowiednio przepisy o Policji.
+8. Inspektorzy regionalnej inspekcji wodnej w związku z pełnieniem obowiązków służbowych korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych w przepisach ustawy z dnia 6 czerwca 1997 r. - Kodeks karny.
+
+**Art. 251e.**
+1. Inspektorzy regionalnej inspekcji wodnej wykonujący zadania określone w art. 251d ust. 3 mogą być wyposażeni w broń palną na zasadach i w trybie przepisów ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535, 803, 1030 i 1532).
+2. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, szczegółowe zasady i warunki posiadania, przechowywania i ewidencjonowania broni palnej oraz amunicji do niej, oraz środków przymusu bezpośredniego, mając na względzie konieczność uniemożliwienia dostępu do broni, amunicji i środków przymusu bezpośredniego osobom trzecim oraz potrzebę ochrony ewidencji przed uszkodzeniem, zniszczeniem lub utratą.
+
+**Art. 251f.**
+1. W przypadkach, o których mowa w art. 11 pkt 1-3, 8, 10 i 12-14 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz. 202, 547, 1053, 1088, 1489 i 1963), inspektor regionalnej inspekcji wodnej może użyć środków przymusu bezpośredniego, o których mowa w art. 12 ust. 1 pkt 1, 2 lit. a, pkt 7, 12 lit. a i pkt 13 tej ustawy, lub wykorzystać te środki.
+2. W przypadkach, o których mowa w art. 45 pkt 1 lit. a i pkt 2 oraz w art. 47 pkt 1, 2 lit. a, pkt 3, 5 i 6 ustawy z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej, inspektor regionalnej inspekcji wodnej może użyć broni palnej lub ją wykorzystać.
+3. Użycie i wykorzystanie środków przymusu bezpośredniego i broni palnej oraz dokumentowanie tego użycia i wykorzystania odbywa się na zasadach określonych w ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej.
+
+**Art. 251g.**
+1. Krajowy Inspektor Wodny wskazuje stanowiska pracy w Inspekcji Wodnej, na których wykonuje się zadania związane z wykonywaniem czynności w terenie.
+2. Na stanowiskach, o których mowa w ust. 1, może być zatrudniona osoba, która:
+  1) ukończyła 21. rok życia;
+  2) jest obywatelem polskim;
+  3) korzysta z pełni praw publicznych;
+  4) nie była skazana prawomocnym wyrokiem za umyślne przestępstwo;
+  5) ma wykształcenie wyższe lub przez okres co najmniej 5 lat pełniła służbę w Policji, Straży Granicznej, Biurze Ochrony Rządu, Służbie Ochrony Państwa, Państwowej Straży Pożarnej, Służbie Więziennej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Służbie Kontrwywiadu Wojskowego, Urzędzie Ochrony Państwa lub pełniła zawodową służbę wojskową.
+
+**Art. 251h.**
+1. Organy administracji publicznej oraz organizacje społeczne współdziałają z Inspekcją Wodną przy wykonywaniu jej zadań.
+2. Współdziałanie, o którym mowa w ust. 1, polega w szczególności na bezpłatnym udzielaniu informacji lub udostępnianiu dokumentów lub danych niezbędnych do podjęcia czynności służbowych wynikających z posiadanych uprawnień.
+3. Inspekcja Wodna przy wykonywaniu zadań w zakresie zapobiegania wykroczeniom i przestępstwom oraz wykrywania wykroczeń i przestępstw, o których mowa w ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym, współdziała z Państwową Strażą Rybacką.
+
+**Art. 251i.**
+1. Inspekcja Wodna może przekazać dane osobowe państwu trzeciemu lub organizacjom międzynarodowym, na ich wniosek, w przypadku gdy są spełnione warunki przekazywania informacji określone w art. 18a-18d ustawy z dnia 16 września 2011 r. o wymianie informacji z organami ścigania państw członkowskich Unii Europejskiej, państw trzecich, agencjami Unii Europejskiej oraz organizacjami międzynarodowymi (Dz. U. z 2023 r. poz. 783).
+2. Wystąpienie z żądaniem, o którym mowa w art. 18 ust. 1 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), nie wstrzymuje wykonywania przez Inspekcję Wodną zadań, o których mowa w art. 251b i art. 251c.
 
 ### Rozdział 3 — Gospodarka finansowa Wód Polskich
 
@@ -4058,7 +4140,7 @@
 
 **Art. 335.**
 1. Kontrolę gospodarowania wodami wykonują:
-  1) Wody Polskie - w zakresie określonym w art. 334 pkt 1-7 oraz 9-13,
+  1) Inspekcja Wodna w imieniu Wód Polskich - w zakresie określonym w art. 334 pkt 1-7 oraz 9-13,
   2) dyrektorzy urzędów morskich - w zakresie określonym w art. 334 pkt 6 w odniesieniu do pasa technicznego
 - zwani dalej „organami wykonującymi kontrolę”.
 2. Kontrolę gospodarowania wodami w zakresie określonym w art. 334 pkt 1-7 oraz 9-13 w stosunku do Wód Polskich - wykonuje minister właściwy do spraw gospodarki wodnej.
