@@ -14,6 +14,7 @@
 **Art. 2.** Ilekroć w ustawie jest mowa o:
 1) dyrektywie 2011/16/UE - rozumie się przez to dyrektywę Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającą dyrektywę 77/799/EWG (Dz. Urz. UE L 64 z 11.03.2011, str. 1, z późn. zm.);
 2) informacjach podatkowych - rozumie się przez to informacje wymieniane z innymi państwami na podstawie ustawy, które mogą być istotne dla celów stosowania i wykonywania przepisów prawa podatkowego państw dokonujących wymiany tych informacji;
+2a) naruszeniu ochrony danych - rozumie się przez to naruszenie bezpieczeństwa danych na skutek umyślnego działania niezgodnego z prawem, zaniedbania lub zdarzenia losowego, prowadzące do zniszczenia, utraty lub zmiany informacji lub innego zdarzenia polegającego na niewłaściwym lub nieuprawnionym dostępie do informacji, ujawnieniu lub wykorzystaniu informacji, w szczególności w odniesieniu do danych osobowych przekazywanych, przechowywanych lub w inny sposób przetwarzanych, przy czym naruszenie to może dotyczyć poufności, dostępności lub integralności danych;
 3) państwie członkowskim - rozumie się przez to państwo członkowskie Unii Europejskiej;
 4) rozporządzeniu Komisji (UE) nr 2015/2378 - rozumie się przez to rozporządzenie wykonawcze Komisji (UE) nr 2015/2378 z dnia 15 grudnia 2015 r. ustanawiające szczegółowe zasady wykonywania niektórych przepisów dyrektywy Rady 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylające rozporządzenie wykonawcze (UE) nr 1156/2012 (Dz. Urz. UE L 332 z 18.12.2015, str. 19);
 5) ustawie o podatku dochodowym od osób fizycznych - rozumie się przez to ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2016 r. poz. 2032 i 2048 oraz z 2017 r. poz. 60 i 528);
@@ -26,20 +27,33 @@
 **Art. 3.** W zakresie i na zasadach wynikających z umów o unikaniu podwójnego opodatkowania, innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, informacje podatkowe mogą być udostępniane właściwemu organowi, pod warunkiem że wykorzystywanie udostępnionych informacji podatkowych nastąpi zgodnie z zasadami określonymi w tych umowach.
 
 **Art. 4.**
-1. Organy administracji publicznej oraz instytucje finansowe wymienione w art. 182 ustawy - Ordynacja podatkowa, na pisemne żądanie ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej lub jego upoważnionego przedstawiciela, są obowiązane do udzielenia informacji podatkowych w razie wystąpienia właściwego organu w zakresie i na zasadach określonych w dziale II lub wynikających z ratyfikowanych umów o unikaniu podwójnego opodatkowania i innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska.
-1a. W celu realizacji zadań związanych z wymianą informacji podatkowych instytucje obowiązane wymienione w art. 2 ust. 1 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na pisemne żądanie ministra właściwego do spraw finansów publicznych, Szefa Krajowej Administracji Skarbowej lub jego upoważnionego przedstawiciela, są obowiązane do udzielenia informacji gromadzonych na potrzeby realizacji obowiązków związanych ze stosowaniem środków bezpieczeństwa finansowego wynikających z tej ustawy.
+1. Organy administracji publicznej oraz instytucje finansowe wymienione w art. 48 ust. 1-6 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm.), na sporządzone na piśmie żądanie ministra właściwego do spraw finansów publicznych lub Szefa Krajowej Administracji Skarbowej, są obowiązane do udzielenia informacji podatkowych w razie wystąpienia właściwego organu w zakresie i na zasadach określonych odpowiednio w:
+  1) ust. 3 i 4 oraz dziale II lub ratyfikowanych umowach o unikaniu podwójnego opodatkowania i innych ratyfikowanych umowach międzynarodowych, których stroną jest Rzeczpospolita Polska;
+  2) ust. 4 i rozporządzeniu Rady (UE) nr 904/2010 z dnia 7 października 2010 r. w sprawie współpracy administracyjnej oraz zwalczania oszustw w dziedzinie podatku od wartości dodanej (Dz. Urz. UE L 268 z 12.10.2010, str. 1, z późn. zm.).
+1a. W celu realizacji zadań związanych z wymianą informacji podatkowych instytucje obowiązane wymienione w art. 2 ust. 1 ustawy o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na sporządzone na piśmie żądanie ministra właściwego do spraw finansów publicznych lub Szefa Krajowej Administracji Skarbowej, są obowiązane do udzielenia informacji gromadzonych na potrzeby realizacji obowiązków związanych ze stosowaniem środków bezpieczeństwa finansowego wynikających z tej ustawy.
 2. Żądania, o których mowa w ust. 1 i 1a, oznacza się klauzulą „Tajemnica skarbowa”, a ich przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone” w rozumieniu przepisów o ochronie informacji niejawnych.
+3. Zakres informacji podatkowych wymienianych z innymi państwami obejmuje informacje niezbędne do celów stosowania i wykonywania krajowych przepisów państwa właściwego organu, które są możliwe do pozyskania przez organy podatkowe na podstawie obowiązujących przepisów prawa i znajdują się w posiadaniu organu lub instytucji, o których mowa w ust. 1 i 1a.
+4. Żądania, o których mowa w ust. 1 i 1a, obejmują wskazanie właściwego organu, który wystąpił o udzielenie informacji podatkowych, zakres żądanych informacji podatkowych, okres, którego żądane informacje podatkowe mają dotyczyć, termin ich przekazania oraz pouczenie o treści art. 90a.
 
 **Art. 5.**
 1. Właściwym organem Rzeczypospolitej Polskiej w sprawach wymiany informacji podatkowych z innymi państwami jest Szef Krajowej Administracji Skarbowej i w tym zakresie przysługują mu uprawnienia organu podatkowego.
+1a. Od decyzji i postanowień w sprawach z zakresu wymiany informacji podatkowych z innymi państwami wydanych w pierwszej instancji przez Szefa Krajowej Administracji Skarbowej nie służy odwołanie ani zażalenie, jednakże strona niezadowolona z decyzji, od której zgodnie z odrębnymi przepisami przysługuje odwołanie, lub postanowienia, na które zgodnie z odrębnymi przepisami służy zażalenie, może zwrócić się do tego organu z wnioskiem o ponowne rozpatrzenie sprawy. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań od decyzji lub zażaleń na postanowienia.
+1b. W przypadku gdy zgodnie z odrębnymi przepisami właściwy do załatwienia sprawy z zakresu wymiany informacji podatkowych z innymi państwami w pierwszej instancji jest organ wyższego stopnia w stosunku do Szefa Krajowej Administracji Skarbowej, organem właściwym do załatwienia tej sprawy jest Szef Krajowej Administracji Skarbowej.
 2. (uchylony)
 3. Szef Krajowej Administracji Skarbowej może upoważnić osoby zatrudnione lub pełniące służbę w urzędach obsługujących organy Krajowej Administracji Skarbowej do bezpośredniej wymiany informacji podatkowych w związku z realizowaniem zadań z zakresu planowanych lub trwających jednoczesnych kontroli oraz do uczestnictwa w spotkaniach organizacyjnych dotyczących tych kontroli.
+
+**Art. 5a.**
+1. Minister właściwy do spraw finansów publicznych dąży do zapewnienia jednolitego stosowania przepisów działów III, IIIA i V:
+  1) dokonując ich interpretacji, z urzędu lub na wniosek (interpretacje ogólne);
+  2) wydając z urzędu ogólne wyjaśnienia przepisów prawa podatkowego dotyczące stosowania tych przepisów (objaśnienia podatkowe).
+2. Dyrektor Krajowej Informacji Skarbowej, na wniosek zainteresowanego, wydaje, w jego indywidualnej sprawie, interpretację przepisów działów III, IIIA i V (interpretację indywidualną).
+3. W zakresie nieuregulowanym w ust. 1 i 2 do wydawania interpretacji ogólnych, objaśnień podatkowych i interpretacji indywidualnych stosuje się odpowiednio przepisy działu II rozdziału 1a ustawy - Ordynacja podatkowa.
 
 **Art. 6.**
 1. Do ujawnienia ministrowi właściwemu do spraw finansów publicznych, upoważnionemu przez niego organowi Krajowej Administracji Skarbowej, Szefowi Krajowej Administracji Skarbowej lub jego upoważnionemu przedstawicielowi informacji podatkowych w trybie i zakresie przewidzianych ustawą nie stosuje się przepisów ograniczających udostępnianie danych objętych tajemnicą prawnie chronioną, z wyjątkiem informacji niejawnych.
 2. Dane osobowe przetwarzane w celu wykonywania zadań wynikających z ustawy podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi lub przekazywaniu polegającym co najmniej na:
   1) dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych;
-  2) pisemnym zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;
+  2) sporządzonym na piśmie zobowiązaniu osób upoważnionych do przetwarzania danych osobowych do zachowania ich w tajemnicy;
   3) regularnym testowaniu i doskonaleniu stosowanych środków technicznych i organizacyjnych;
   4) zapewnieniu bezpiecznej komunikacji w sieciach teleinformatycznych, w szczególności poprzez zagwarantowanie, by proces pozyskiwania i przekazywania danych osobowych podmiotom zewnętrznym wykorzystywał techniki kryptograficzne;
   5) zapewnieniu ochrony przed nieuprawnionym dostępem do systemów informatycznych;
@@ -47,6 +61,21 @@
   7) określeniu zasad bezpieczeństwa przetwarzanych danych osobowych.
 
 **Art. 6a.** Do udostępniania informacji otrzymanych na podstawie ustawy oraz umów o unikaniu podwójnego opodatkowania, innych ratyfikowanych umów, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska, a także porozumień zawartych na podstawie tych umów, nie stosuje się przepisów ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2019 r. poz. 125) w zakresie, w jakim jest to niezgodne z postanowieniami tych umów lub porozumień lub przepisami ustawy.
+
+**Art. 6b.**
+1. Raportująca instytucja finansowa w rozumieniu art. 24 ust. 1 pkt 44 oraz raportujący operator platformy w rozumieniu art. 75a ust. 1 pkt 14 są obowiązani do udzielenia osobie fizycznej, której informacje podatkowe dotyczą, informacji o:
+  1) gromadzeniu, przetwarzaniu i przekazywaniu informacji zgodnie z ustawą oraz
+  2) przysługującym tej osobie prawie do uzyskania od administratora danych informacji, jakie ma prawo od tego administratora danych uzyskać, w czasie wystarczającym do skorzystania z jej praw do ochrony danych osobowych, zanim informacje zostaną przekazane.
+2. Raportująca instytucja finansowa w rozumieniu art. 24 ust. 1 pkt 44 oraz raportujący operator platformy w rozumieniu art. 75a ust. 1 pkt 14 zawiadamiają niezwłocznie odpowiednio osobę raportowaną w rozumieniu art. 24 ust. 1 pkt 21 i sprzedawcę w rozumieniu art. 75a ust. 1 pkt 18 o naruszeniu ochrony danych w zakresie ich danych osobowych gromadzonych i przetwarzanych na potrzeby automatycznej wymiany informacji, w przypadku gdy istnieje prawdopodobieństwo, że to naruszenie ochrony danych wpłynie negatywnie na ochronę ich danych osobowych.
+
+**Art. 6c.**
+1. W przypadku gdy doszło do naruszenia ochrony danych w związku z ich przetwarzaniem przez Szefa Krajowej Administracji Skarbowej na potrzeby wykonywania zadań wynikających z ustawy, Szef Krajowej Administracji Skarbowej niezwłocznie zgłasza Komisji Europejskiej to naruszenie ochrony danych, a także wszelkie późniejsze działania zmierzające do usunięcia tego naruszenia ochrony danych.
+2. Szef Krajowej Administracji Skarbowej może zawiesić w trybie natychmiastowym wymianę informacji podatkowych z państwem członkowskim, w którym doszło do naruszenia ochrony danych, jeżeli to naruszenie ochrony danych nie może zostać niezwłocznie i odpowiednio powstrzymane. O zawieszeniu wymiany informacji podatkowych Szef Krajowej Administracji powiadamia na piśmie Komisję Europejską oraz państwo członkowskie, którego to naruszenie ochrony danych dotyczy.
+3. Szef Krajowej Administracji Skarbowej wyjaśnia okoliczności naruszenia ochrony danych, powstrzymuje naruszenie ochrony danych i podejmuje działania naprawcze w celu usunięcia naruszenia ochrony danych, a jeżeli naruszenie ochrony danych nie może zostać niezwłocznie i odpowiednio powstrzymane, występuje do Komisji Europejskiej z wnioskiem o zawieszenie dostępu do wspólnej platformy stworzonej przez Unię Europejską na potrzeby wszystkich transmisji dokonywanych drogą elektroniczną między właściwymi organami państw członkowskich.
+4. Po usunięciu naruszenia ochrony danych Szef Krajowej Administracji Skarbowej:
+  1) przekazuje Komisji Europejskiej informację o usunięciu tego naruszenia ochrony danych;
+  2) może wystąpić do Komisji Europejskiej z wnioskiem o wspólne sprawdzenie, czy działania naprawcze podjęte w celu usunięcia naruszenia ochrony danych były skuteczne.
+5. Szef Krajowej Administracji Skarbowej ustala procedury naprawcze na wypadek naruszenia ochrony danych, które niezwłocznie wdraża w życie w przypadku zaistnienia takiego naruszenia ochrony danych.
 
 ## Dział II — Wymiana informacji podatkowych na wniosek i z urzędu z państwami członkowskimi
 
@@ -62,19 +91,34 @@
 1. Organ podatkowy występuje z wnioskiem do właściwego organu państwa członkowskiego o udzielenie informacji podatkowych oraz udziela mu informacji podatkowych za pośrednictwem Szefa Krajowej Administracji Skarbowej.
 2. Wójt, burmistrz (prezydent miasta), starosta, marszałek województwa oraz samorządowe kolegium odwoławcze przekazują wniosek i informacje podatkowe Szefowi Krajowej Administracji Skarbowej za pośrednictwem dyrektora izby administracji skarbowej właściwego miejscowo ze względu na siedzibę wójta, burmistrza (prezydenta miasta), starosty, marszałka województwa albo samorządowego kolegium odwoławczego.
 
-**Art. 10.** Wniosek o udzielenie informacji podatkowych zawiera:
-1) dane identyfikujące podmiot, którego informacje podatkowe mają dotyczyć: imię i nazwisko lub nazwę (firmę), adres i inne posiadane dane niezbędne do identyfikacji podmiotu, którego wniosek dotyczy;
-2) wskazanie zakresu żądanych informacji podatkowych i celu ich wykorzystania;
-3) stwierdzenie, że wyczerpano możliwości uzyskania informacji podatkowych na podstawie przepisów prawa krajowego wnioskującego państwa członkowskiego;
-4) zobowiązanie do objęcia tajemnicą udzielonych informacji podatkowych zgodnie z przepisami prawa krajowego wnioskującego państwa członkowskiego.
+**Art. 10.**
+1. Wniosek o udzielenie informacji podatkowych zawiera:
+  1) dane identyfikujące podmiot, którego informacje podatkowe mają dotyczyć, w tym imię i nazwisko lub nazwę (firmę), adres lub inne posiadane dane niezbędne do identyfikacji podmiotu, którego wniosek dotyczy, jeżeli dane te są dostępne;
+  2) wskazanie zakresu żądanych informacji podatkowych;
+  3) stwierdzenie, że wyczerpano możliwości uzyskania informacji podatkowych na podstawie przepisów prawa krajowego wnioskującego państwa członkowskiego;
+  4) zobowiązanie do objęcia tajemnicą udzielonych informacji podatkowych zgodnie z przepisami prawa krajowego wnioskującego państwa członkowskiego;
+  5) wskazanie przewidywalnego związku informacji podatkowych, których dotyczy wniosek.
+2. W celu wykazania przewidywalnego związku informacji podatkowych, o którym mowa w ust. 1 pkt 5, organ podatkowy wskazuje co najmniej:
+  1) cel wykorzystania żądanych informacji podatkowych;
+  2) że zakres żądanych informacji podatkowych jest istotny do celów stosowania i wykonywania przepisów prawa podatkowego wnioskującego państwa członkowskiego.
+
+**Art. 10a.** W przypadku gdy wniosek o udzielenie informacji podatkowych dotyczy grupy podatników, których nie można zidentyfikować indywidualnie, wniosek ten zawiera co najmniej:
+1) szczegółowy opis grupy podatników;
+2) wskazanie mających zastosowanie przepisów prawa oraz faktów, na podstawie których istnieją podstawy, aby sądzić, że podatnicy nie zastosowali się do obowiązujących przepisów prawa;
+3) wyjaśnienie, w jaki sposób informacje podatkowe, których dotyczy wniosek, miałyby pomóc w ustaleniu, czy podatnicy zastosowali się do obowiązujących przepisów prawa;
+4) w stosownych przypadkach - wskazanie faktów i okoliczności wskazujących na udział osoby trzeciej, która czynnie przyczyniła się do potencjalnego, niezgodnego z obowiązującymi przepisami prawa działania podatników.
+
+**Art. 10b.**
+1. Jeżeli w ocenie organu podatkowego występującego z wnioskiem o udzielenie informacji podatkowych istnieją przesłanki przeprowadzenia postępowania, kontroli lub czynności, organ ten występuje z uzasadnionym wnioskiem o ich przeprowadzenie.
+2. Jeżeli w ocenie organu podatkowego przeprowadzenie postępowania, kontroli lub czynności, o przeprowadzenie których występuje z wnioskiem właściwy organ państwa członkowskiego, nie jest konieczne, niezwłocznie informuje się ten organ o przyczynach odmowy ich przeprowadzenia.
 
 **Art. 11.**
 1. Wniosek właściwego organu państwa członkowskiego wszczyna postępowanie w sprawie udzielenia informacji podatkowych.
 2. Otrzymanie wniosku potwierdza się niezwłocznie, nie później jednak niż w terminie 7 dni roboczych od dnia jego otrzymania. Potwierdzenia dokonuje się za pomocą środków komunikacji elektronicznej. W przypadku braku możliwości dokonania potwierdzenia w ten sposób potwierdzenia dokonuje się w postaci papierowej.
-3. Postępowanie powinno być zakończone bez zbędnej zwłoki, nie później jednak niż w terminie 6 miesięcy od dnia otrzymania wniosku. W przypadku gdy organ posiada już żądane informacje podatkowe, ich przekazanie następuje w terminie 2 miesięcy od dnia otrzymania wniosku.
+3. Postępowanie powinno być zakończone bez zbędnej zwłoki, nie później jednak niż w terminie 3 miesięcy, licząc od dnia otrzymania wniosku. W przypadku gdy organ posiada już żądane informacje podatkowe, ich przekazanie następuje w terminie 2 miesięcy od dnia otrzymania wniosku.
 3a. W toku postępowania mogą być przeprowadzane dowody w celu uzyskania informacji podatkowych objętych wnioskiem.
 4. W szczególnie uzasadnionych przypadkach można uzgodnić z właściwym organem państwa członkowskiego, że przekazanie informacji podatkowych nastąpi w terminach innych niż określone w ust. 3.
-5. W przypadku braku możliwości udzielenia informacji podatkowych we właściwym terminie zawiadamia się właściwy organ państwa członkowskiego, podając przyczyny uniemożliwiające dotrzymanie terminu udzielenia informacji podatkowych oraz wskazując przewidywany termin udzielenia tych informacji. Zawiadomienie powinno nastąpić niezwłocznie, nie później jednak niż w terminie 3 miesięcy od dnia otrzymania wniosku.
+5. W przypadku braku możliwości udzielenia informacji podatkowych we właściwym terminie zawiadamia się właściwy organ państwa członkowskiego, nie później jednak niż w terminie 3 miesięcy, licząc od dnia otrzymania wniosku, podając przyczyny uniemożliwiające dotrzymanie terminu udzielenia informacji podatkowych oraz wskazując przewidywany termin udzielenia tych informacji, nie dłuższy niż 6 miesięcy, licząc od dnia otrzymania wniosku.
 6. Odmowa udzielenia informacji podatkowych następuje bez zbędnej zwłoki, nie później jednak niż w terminie miesiąca od dnia otrzymania wniosku. Odmawiając udzielenia informacji podatkowych, podaje się przyczyny odmowy.
 
 **Art. 12.**
@@ -94,16 +138,21 @@
 **Art. 14.** Wniosek o udzielenie informacji podatkowej może być w każdym czasie wycofany.
 
 **Art. 15.**
-1. Szef Krajowej Administracji Skarbowej udziela z urzędu właściwemu organowi państwa członkowskiego dostępnych informacji podatkowych o osiągniętych w roku podatkowym przez podatników podatku dochodowego od osób fizycznych mających miejsce zamieszkania na terytorium danego państwa członkowskiego dochodach z tytułu:
-  1) stosunku pracy,
-  2) stosunku służbowego,
-  3) spółdzielczego stosunku pracy,
-  4) pracy nakładczej,
-  5) zasiłków pieniężnych wypłaconych przez zakład pracy, o którym mowa w art. 31 ustawy o podatku dochodowym od osób fizycznych, oraz przez płatników, o których mowa w art. 42e ust. 1 tej ustawy,
-  6) działalności wykonywanej osobiście, o której mowa w art. 13 pkt 7 i 9 ustawy o podatku dochodowym od osób fizycznych,
-  7) emerytur lub rent oraz innych świadczeń krajowych, o których mowa w art. 34 ust. 7 ustawy o podatku dochodowym od osób fizycznych
-- które zostały wykazane w deklaracjach składanych przez płatników podatku dochodowego od osób fizycznych.
+1. Szef Krajowej Administracji Skarbowej udziela z urzędu właściwemu organowi państwa członkowskiego dostępnych informacji podatkowych o dochodach z tytułu:
+  1) stosunku pracy;
+  2) stosunku służbowego;
+  3) spółdzielczego stosunku pracy;
+  4) pracy nakładczej;
+  5) zasiłków pieniężnych wypłaconych przez zakład pracy, o którym mowa w art. 32 ust. 1 ustawy o podatku dochodowym od osób fizycznych, oraz przez płatników, o których mowa w art. 42e ust. 1 tej ustawy;
+  6) działalności wykonywanej osobiście, o której mowa w art. 13 pkt 7 i 9 ustawy o podatku dochodowym od osób fizycznych;
+  7) emerytur lub rent oraz innych świadczeń krajowych, o których mowa w art. 34 ust. 7 ustawy o podatku dochodowym od osób fizycznych;
+  8) praw autorskich lub praw pokrewnych, praw do projektów wynalazczych, znaków towarowych i wzorów zdobniczych, w tym również sprzedaży tych praw, należności za udostępnienie tajemnicy receptury lub procesu produkcyjnego, za użytkowanie lub prawo do użytkowania urządzenia przemysłowego, handlowego lub naukowego, w tym także środka transportu, oraz za informacje związane ze zdobytym doświadczeniem w dziedzinie przemysłowej, handlowej lub naukowej (know-how).
+1a. Przepis ust. 1 ma zastosowanie do dochodów osiągniętych w roku podatkowym przez podatników:
+  1) podatku dochodowego od osób fizycznych mających miejsce zamieszkania na terytorium danego państwa członkowskiego - w przypadku dochodów z tytułów określonych w ust. 1 pkt 1-8,
+  2) podatku dochodowego od osób prawnych mających siedzibę lub zarząd na terytorium danego państwa członkowskiego - w przypadku dochodów z tytułów określonych w ust. 1 pkt 8
+- które zostały wykazane w deklaracjach składanych przez płatników podatku dochodowego od osób fizycznych i podatku dochodowego od osób prawnych.
 2. Informacji podatkowych, o których mowa w ust. 1, udziela się co najmniej raz w roku, w terminie 6 miesięcy od zakończenia roku podatkowego, w którym te informacje stały się dostępne dla organów podatkowych.
+3. Informacje podatkowe, o których mowa w ust. 1, obejmują także numer identyfikacji podatkowej podatnika nadany przez państwo członkowskie miejsca zamieszkania, siedziby lub zarządu, jeżeli jest dostępny.
 
 **Art. 16.**
 1. Szef Krajowej Administracji Skarbowej udziela z urzędu informacji podatkowych właściwemu organowi państwa członkowskiego, gdy:
@@ -118,13 +167,14 @@
 1. Organ, który otrzymał informacje podatkowe od właściwego organu państwa członkowskiego działającego z urzędu, niezwłocznie, nie później jednak niż w terminie 7 dni roboczych, potwierdza ich otrzymanie.
 2. Potwierdzenia dokonuje się za pomocą środków komunikacji elektronicznej. W przypadku braku możliwości dokonania potwierdzenia w ten sposób potwierdzenia dokonuje się w postaci papierowej.
 
-**Art. 18.** Szef Krajowej Administracji Skarbowej, w celu usprawnienia współpracy, może zawierać z właściwym organem państwa członkowskiego porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji podatkowych.
+**Art. 18.** Szef Krajowej Administracji Skarbowej, w celu usprawnienia współpracy, może zawierać z właściwym organem państwa członkowskiego lub państwa trzeciego porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji podatkowych.
 
 **Art. 19.**
-1. Szef Krajowej Administracji Skarbowej, w celu wymiany informacji podatkowych, może zawierać z właściwym organem państwa członkowskiego porozumienia w zakresie przebywania upoważnionych przedstawicieli właściwego organu państwa członkowskiego w siedzibach organów podatkowych oraz ich obecności w toku postępowań w sprawie udzielenia informacji podatkowych, postępowań podatkowych i czynności kontrolnych.
+1. Szef Krajowej Administracji Skarbowej, w celu wymiany informacji podatkowych, może zawierać z właściwym organem państwa członkowskiego lub państwa trzeciego, na jego wniosek lub z własnej inicjatywy, porozumienia w zakresie obecności upoważnionych przedstawicieli organów tych państw w urzędach oraz osobistego lub za pośrednictwem środków komunikacji elektronicznej udziału tych przedstawicieli w postępowaniach w sprawie udzielenia informacji podatkowych, postępowaniach podatkowych lub czynnościach kontrolnych, przeprowadzanych na terytorium Rzeczypospolitej Polskiej, innego państwa członkowskiego lub państwa trzeciego.
 2. Porozumienia nie mogą dotyczyć podmiotów, o których mowa w art. 13a ustawy - Ordynacja podatkowa, w przypadku nadania im uprawnień organów podatkowych.
-3. Jeżeli w aktach sprawy są zawarte informacje podatkowe, których dotyczy wniosek właściwego organu państwa członkowskiego, przedstawiciele właściwego organu państwa członkowskiego, w ramach zawartych porozumień, otrzymują kopie dokumentów zawierających te informacje.
-4. Upoważnieni przedstawiciele właściwego organu państwa członkowskiego obecni w toku postępowania w sprawie udzielenia informacji podatkowych, postępowania podatkowego lub w toku czynności kontrolnych mogą w ramach zawartego porozumienia:
+2a. Odpowiedzi na wniosek właściwego organu państwa członkowskiego udziela się w terminie 60 dni od dnia jego otrzymania. Odmowa zawarcia porozumienia wymaga uzasadnienia.
+3. Jeżeli w aktach sprawy są zawarte informacje podatkowe, których dotyczy wniosek właściwego organu państwa członkowskiego lub państwa trzeciego, przedstawiciele właściwego organu tego państwa, w ramach zawartych porozumień, otrzymują kopie dokumentów zawierających te informacje.
+4. Upoważnieni przedstawiciele właściwego organu państwa członkowskiego lub państwa trzeciego biorący udział w postępowaniu w sprawie udzielenia informacji podatkowych, postępowaniu podatkowym lub czynnościach kontrolnych mogą, osobiście lub za pośrednictwem środków komunikacji elektronicznej, w ramach zawartego porozumienia:
   1) zadawać pytania świadkowi oraz stronie w ramach przeprowadzanego dowodu z zeznań świadka lub przesłuchania strony,
   2) przeglądać i utrwalać dokumenty i inne dowody związane ze sprawą
 - w zakresie, w jakim służy to wymianie informacji podatkowych.
@@ -135,8 +185,46 @@
 
 **Art. 22.** Wymiana informacji podatkowych następuje za pomocą środków komunikacji elektronicznej, przy użyciu standardowych formularzy do wymiany informacji, o których mowa w rozporządzeniu Komisji (UE) nr 2015/2378. W przypadku braku możliwości wymiany informacji podatkowych za pomocą środków komunikacji elektronicznej wymiany dokonuje się w postaci papierowej.
 
+**Art. 22a.**
+1. Szef Krajowej Administracji Skarbowej może zwrócić się do właściwego organu państwa członkowskiego o przeprowadzenie wspólnej kontroli oraz wyrazić zgodę na przeprowadzenie wspólnej kontroli na wniosek właściwego organu państwa członkowskiego.
+2. Przez wspólną kontrolę rozumie się kontrole, postępowania wyjaśniające oraz inne działania podejmowane przez państwa członkowskie w ramach wykonywania swoich obowiązków w celu zapewnienia właściwego stosowania przepisów podatkowych, prowadzone wspólnie przez właściwe organy co najmniej dwóch państw członkowskich i dotyczące co najmniej jednej osoby ponoszącej odpowiedzialność za zobowiązania podatkowe, przy czym przez osobę tę rozumie się:
+  1) osobę fizyczną;
+  2) osobę prawną;
+  3) jednostkę organizacyjną nieposiadającą osobowości prawnej;
+  4) inną niż określona w pkt 1-3 konstrukcję prawną, będącą w posiadaniu aktywów lub zarządzającą aktywami, które, wraz z dochodem pochodzącym z tych aktywów, podlegają opodatkowaniu.
+3. Szef Krajowej Administracji Skarbowej udziela odpowiedzi na wniosek w sprawie przeprowadzenia wspólnej kontroli w terminie 60 dni od dnia jego otrzymania. Odmowa uwzględnienia wniosku wymaga uzasadnienia.
+4. Przed rozpoczęciem wspólnej kontroli Szef Krajowej Administracji Skarbowej uzgadnia z właściwym organem państwa członkowskiego sposób jej skoordynowania, w tym język komunikacji, i prowadzenia czynności w ramach wspólnej kontroli.
+
+**Art. 22b.**
+1. Czynności przeprowadzane w ramach wspólnej kontroli na terytorium Rzeczypospolitej Polskiej prowadzi się zgodnie z przepisami prawa obowiązującymi w Rzeczypospolitej Polskiej.
+2. Upoważnieni przedstawiciele właściwego organu państwa członkowskiego biorący udział we wspólnej kontroli na terytorium Rzeczypospolitej Polskiej mają prawo:
+  1) przesłuchiwać świadków oraz strony w ramach przeprowadzanego dowodu z zeznań świadka lub przesłuchania strony;
+  2) przeglądać i utrwalać dokumenty i inne dowody związane ze sprawą.
+3. W przypadku wspólnej kontroli, w ramach której czynności mają być prowadzone na terytorium Rzeczypospolitej Polskiej, Szef Krajowej Administracji Skarbowej:
+  1) wyznacza osoby zatrudnione lub funkcjonariuszy pełniących służbę w jednostkach organizacyjnych Krajowej Administracji Skarbowej, którzy będą, jako upoważnieni przedstawiciele właściwego organu Rzeczypospolitej Polskiej, odpowiedzialni za nadzorowanie i koordynowanie wspólnej kontroli, lub
+  2) występuje o wyznaczenie osób zatrudnionych w organach podatkowych innych niż organy Krajowej Administracji Skarbowej, które będą, jako upoważnieni przedstawiciele właściwego organu Rzeczypospolitej Polskiej, odpowiedzialne za nadzorowanie i koordynowanie wspólnej kontroli.
+4. Do obowiązków osób i funkcjonariuszy, o których mowa w ust. 3, należy także zapewnienie, aby upoważnieni przedstawiciele właściwego organu państwa członkowskiego, którzy uczestniczą w czynnościach prowadzonych w ramach wspólnej kontroli, dokonywali przesłuchań, analizowali dokumentację oraz dokonywali innych czynności w ramach wspólnej kontroli, wraz z osobami i funkcjonariuszami, o których mowa w ust. 3, zgodnie z uzgodnieniami, o których mowa w art. 22a ust. 4, oraz przepisami prawa obowiązującymi w Rzeczypospolitej Polskiej.
+
+**Art. 22c.**
+1. Czynności przeprowadzane w ramach wspólnej kontroli na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego prowadzi się zgodnie z przepisami prawa i wymogami proceduralnymi obowiązującymi w tym państwie członkowskim.
+2. Szef Krajowej Administracji Skarbowej:
+  1) wyznacza osoby zatrudnione lub funkcjonariuszy pełniących służbę w jednostkach organizacyjnych Krajowej Administracji Skarbowej, którzy będą, jako upoważnieni przedstawiciele właściwego organu Rzeczypospolitej Polskiej, uczestniczyć we wspólnej kontroli na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego, lub
+  2) występuje o wyznaczenie osób zatrudnionych w organach podatkowych innych niż organy Krajowej Administracji Skarbowej, które będą, jako upoważnieni przedstawiciele właściwego organu Rzeczypospolitej Polskiej, uczestniczyć we wspólnej kontroli na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego.
+3. Osoby i funkcjonariusze, o których mowa w ust. 2, nie mogą wykonywać uprawnień, które wykraczałyby poza zakres uprawnień przyznany im na mocy przepisów prawa obowiązujących w Rzeczypospolitej Polskiej.
+4. Osoby i funkcjonariusze, o których mowa w ust. 2, dążą do uzgodnienia z upoważnionymi przedstawicielami właściwego organu państwa członkowskiego faktów oraz okoliczności istotnych dla celów wspólnej kontroli oraz na podstawie wyników wspólnej kontroli dążą do osiągnięcia porozumienia w sprawie sytuacji podatkowej osoby, której dotyczy wspólna kontrola.
+
+**Art. 22d.**
+1. Osoby i funkcjonariusze, o których mowa w art. 22b ust. 3 oraz art. 22c ust. 2, we współpracy z właściwym organem państwa członkowskiego sporządzają sprawozdanie końcowe z przeprowadzenia wspólnej kontroli.
+2. Sprawozdanie końcowe zawiera opis ustaleń dokonanych w ramach wspólnej kontroli.
+3. Osoby i funkcjonariusze, o których mowa w art. 22b ust. 3 oraz art. 22c ust. 2, włączają sprawozdanie końcowe oraz dowody zgromadzone w trakcie prowadzenia wspólnej kontroli do akt sprawy objętej wspólną kontrolą.
+4. Ustalenia sprawozdania końcowego obejmujące sprawy, w zakresie których właściwe organy prowadzące wspólną kontrolę osiągnęły porozumienie, są wiążące dla organu, który uwzględnia je w rozstrzygnięciach podejmowanych w sprawie objętej wspólną kontrolą.
+5. Właściwy organ Rzeczypospolitej Polskiej uczestniczący we wspólnej kontroli, w terminie 60 dni od dnia sporządzenia sprawozdania końcowego, doręcza kopię tego sprawozdania osobie, której ona dotyczy.
+6. Osobie, której dotyczy wspólna kontrola, przysługują prawa i ciążą na niej obowiązki takie jak w ramach odpowiedniej kontroli, postępowania wyjaśniającego lub innych działań prowadzonych bez udziału upoważnionych przedstawicieli właściwego organu państwa członkowskiego.
+
 **Art. 23.**
-1. W sprawach nieuregulowanych w art. 8-14 stosuje się odpowiednio przepisy działu IV rozdziałów 1, 2 i 5, rozdziału 6, z wyłączeniem art. 156 § 2 i 3, rozdziałów 8, 9, 11 i 14 oraz art. 143 ustawy - Ordynacja podatkowa.
+1. W sprawach nieuregulowanych w art. 8-14 stosuje się odpowiednio przepisy:
+  1) działu IV rozdziałów 1, 2 i 5, rozdziału 6, z wyłączeniem art. 156 § 2 i 3, rozdziałów 8 i 9, rozdziału 11, z wyłączeniem art. 182-185, rozdziału 14 oraz art. 143 ustawy - Ordynacja podatkowa;
+  2) działu IV ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 2. Do doręczania pism w zakresie spraw, o których mowa w niniejszym dziale, stosuje się przepisy art. 154a i art. 154b ustawy - Ordynacja podatkowa.
 
 ## Dział III — Automatyczna wymiana informacji o rachunkach raportowanych
@@ -145,7 +233,7 @@
 
 **Art. 24.**
 1. Ilekroć w niniejszym dziale jest mowa o:
-  1) aktywach finansowych - rozumie się przez to:
+  1) aktywach finansowych - rozumie się przez to w szczególności:
     a) papier wartościowy,
     b) udział w spółce z ograniczoną odpowiedzialnością,
     c) ogół praw i obowiązków wspólnika spółki osobowej,
@@ -327,9 +415,7 @@
 
 **Art. 29.** Raportująca instytucja finansowa może korzystać z usług innych podmiotów w zakresie wykonywania obowiązków przewidzianych w niniejszym dziale, z wyłączeniem przekazywania informacji o rachunkach raportowanych oraz informacji o rachunkach nieudokumentowanych. Odpowiedzialność za wykonanie obowiązków ponosi raportująca instytucja finansowa.
 
-**Art. 30.**
-1. Raportująca instytucja finansowa wykonuje obowiązki, o których mowa w art. 13 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) (Dz. Urz. UE L 119 z 04.05.2016, str. 1, z późn. zm.), w terminie pozwalającym na zrealizowanie przez osobę raportowaną jej uprawnień, określonych w art. 15-20 tego rozporządzenia, przed przekazaniem informacji, o których mowa w art. 33 ust. 1 oraz art. 36 ust. 1.
-2. Raportująca instytucja finansowa zawiadamia niezwłocznie osobę raportowaną o prawdopodobieństwie naruszenia bezpieczeństwa jej danych osobowych gromadzonych i przetwarzanych na potrzeby automatycznej wymiany informacji o rachunkach raportowanych.
+**Art. 30.** (uchylony)
 
 ### Rozdział 3 — Procedury sprawozdawcze
 
@@ -371,7 +457,7 @@
 4. Nie uznaje się, że rachunek finansowy nie spełnia wymogu, o którym mowa w ust. 2 pkt 2 lit. d, tylko dlatego, że taki rachunek finansowy może otrzymywać aktywa lub środki przenoszone z rachunku finansowego spełniającego wymogi określone w ust. 2 pkt 1 lub pkt 2 lit. a-c, lub z co najmniej jednego funduszu emerytalnego lub rentowego spełniającego wymogi określone dla powszechnego funduszu emerytalnego, zamkniętego funduszu emerytalnego lub funduszu emerytalnego podmiotu rządowego, organizacji międzynarodowej lub banku centralnego.
 
 **Art. 32.**
-1. Z wykonywania obowiązków, o których mowa w art. 27, art. 28 oraz art. 30, jest wyłączona polska instytucja finansowa będąca:
+1. Z wykonywania obowiązków, o których mowa w art. 6b, art. 27 oraz art. 28, jest wyłączona polska instytucja finansowa będąca:
   1) podmiotem rządowym, organizacją międzynarodową lub bankiem centralnym, w zakresie, w jakim nie dokonuje płatności wynikającej ze zobowiązania związanego z komercyjną działalnością finansową odpowiadającą działalności prowadzonej przez zakład ubezpieczeń, instytucję powierniczą lub instytucję depozytową;
   2) powszechnym funduszem emerytalnym, zamkniętym funduszem emerytalnym, funduszem emerytalnym podmiotu rządowego, organizacji międzynarodowej lub banku centralnego, lub kwalifikowanym wystawcą kart kredytowych;
   3) podmiotem zgłoszonym przez Rzeczpospolitą Polską Komisji Europejskiej oraz ujętym w publikowanej w Dzienniku Urzędowym Unii Europejskiej liście instytucji, które należy traktować jako nieraportujące instytucje finansowe do celów załącznika I sekcja VIII część B pkt 1 lit. c dyrektywy 2011/16/UE;
@@ -436,7 +522,7 @@
 5. Starania, o których mowa w ust. 4, oznaczają rzeczywiste działania podjęte w celu uzyskania od posiadacza rachunku raportowanego informacji o jego TIN i dacie urodzenia. Działania te są podejmowane co najmniej raz w roku, od momentu zidentyfikowania istniejącego rachunku jako rachunku raportowanego, do końca roku kalendarzowego następującego po roku kalendarzowym, w którym nastąpiła identyfikacja, i obejmują w szczególności:
   1) podjęcie próby kontaktu z posiadaczem rachunku;
   2) wystąpienie z żądaniem przekazania informacji, załączanym do dokumentacji;
-  3) weryfikację informacji dostarczonych raportującej instytucji finansowej przez podmiot powiązany, w formie elektronicznej, zgodnie z zasadami dotyczącymi sumowania rachunków określonymi w art. 40 i art. 41.
+  3) weryfikację informacji dostarczonych raportującej instytucji finansowej przez podmiot powiązany, w postaci elektronicznej, zgodnie z zasadami dotyczącymi sumowania rachunków określonymi w art. 40 i art. 41.
 
 **Art. 35.**
 1. Informacja o rachunkach raportowanych wskazuje walutę, w której określone są saldo lub wartość rachunku raportowanego lub inne kwoty, o których mowa w art. 34 ust. 1.
@@ -536,8 +622,8 @@
 5. W przypadku gdy w wyniku wyszukiwania elektronicznego stwierdzono istnienie polecenia przechowywania poczty lub posiadanie adresu do doręczeń, a w odniesieniu do posiadacza rachunku o niższej wartości nie zostanie stwierdzone posiadanie innego adresu bądź występowanie przesłanki wymienionej w ust. 2 pkt 1-5, raportująca instytucja finansowa w celu ustalenia jego rezydencji do celów podatkowych jest obowiązana przeprowadzić wyszukiwanie danych w dokumentacji papierowej zgodnie z art. 51 ust. 2 i 3 lub uzyskać oświadczenie posiadacza rachunku lub dowód w postaci dokumentu.
 6. W przypadku gdy czynności podjęte na podstawie ust. 5 nie doprowadzą do ustalenia rezydencji do celów podatkowych posiadacza rachunku, raportująca instytucja finansowa zgłasza dany rachunek jako rachunek nieudokumentowany. W takim przypadku raportująca instytucja finansowa powinna stosować procedury określone w ust. 1-4 co roku do czasu, gdy taki rachunek przestanie być rachunkiem nieudokumentowanym, a także podejmować, co najmniej raz w roku, inne działania mające na celu ustalenie rezydencji posiadacza rachunku obejmujące w szczególności:
   1) podjęcie próby kontaktu z posiadaczem rachunku;
-  2) wystąpienie z formalnym żądaniem, załączanym do dokumentacji w formie papierowej lub elektronicznej;
-  3) weryfikację informacji dostarczonych w formie elektronicznej raportującej instytucji finansowej przez podmiot powiązany, zgodnie z zasadami dotyczącymi sumowania rachunków określonymi w art. 40 i art. 41.
+  2) wystąpienie z formalnym żądaniem, załączanym do dokumentacji w postaci papierowej lub elektronicznej;
+  3) weryfikację informacji dostarczonych w postaci elektronicznej raportującej instytucji finansowej przez podmiot powiązany, zgodnie z zasadami dotyczącymi sumowania rachunków określonymi w art. 40 i art. 41.
 7. Niezależnie od wystąpienia przesłanek określonych w ust. 2 raportująca instytucja finansowa nie jest obowiązana traktować posiadacza rachunku jako rezydenta państwa uczestniczącego lub państwa trzeciego, jeżeli:
   1) informacje o posiadaczu rachunku zawierają aktualny adres korespondencyjny lub adres miejsca zamieszkania w tym państwie uczestniczącym lub państwie trzecim, numer telefonu w tym państwie i nie zawierają przy tym numeru telefonu w Rzeczypospolitej Polskiej, lub stałe zlecenia - w odniesieniu do rachunków finansowych innych niż rachunki depozytowe - przelewu środków na rachunek prowadzony w państwie uczestniczącym lub państwie trzecim, a raportująca instytucja finansowa posiada:
     a) oświadczenie o rezydencji podatkowej posiadacza rachunku z państwa uczestniczącego lub państwa trzeciego miejsca rezydencji takiego posiadacza rachunku, wśród których nie ma danego państwa uczestniczącego lub państwa trzeciego, lub
@@ -580,8 +666,8 @@
 2. Jeżeli w wyniku weryfikacji, o której mowa w ust. 1, rachunek zostanie zidentyfikowany jako rachunek raportowany, raportująca instytucja finansowa przekazuje wymagane informacje o tym rachunku w odniesieniu do roku, w którym został on zidentyfikowany jako rachunek raportowany, oraz w latach kolejnych, chyba że posiadacz rachunku przestanie być osobą raportowaną.
 3. Raportująca instytucja finansowa nie jest obowiązana do ponownego stosowania w następnych latach procedur weryfikacji na podstawie art. 51 ust. 1-4 wobec tego samego rachunku o wysokiej wartości, chyba że rachunek podlega zgłoszeniu jako rachunek nieudokumentowany. W takim przypadku raportująca instytucja finansowa powinna stosować te procedury co roku do czasu, gdy taki rachunek przestanie być rachunkiem nieudokumentowanym, a także podejmować, co najmniej raz w roku, inne działania mające na celu ustalenie rezydencji posiadacza rachunku obejmujące w szczególności:
   1) podjęcie próby kontaktu z posiadaczem rachunku;
-  2) wystąpienie z formalnym żądaniem załączanym do dokumentacji w formie papierowej lub elektronicznej;
-  3) weryfikację informacji dostarczonych w formie elektronicznej raportującej instytucji finansowej przez podmiot powiązany, zgodnie z zasadami dotyczącymi sumowania rachunków określonymi w art. 40 i art. 41.
+  2) wystąpienie z formalnym żądaniem załączanym do dokumentacji w postaci papierowej lub elektronicznej;
+  3) weryfikację informacji dostarczonych w postaci elektronicznej raportującej instytucji finansowej przez podmiot powiązany, zgodnie z zasadami dotyczącymi sumowania rachunków określonymi w art. 40 i art. 41.
 4. W przypadku zmiany okoliczności dotyczących rachunku o wysokiej wartości, które powodują powiązanie z tym rachunkiem jednej lub większej liczby przesłanek, o których mowa w art. 50 ust. 2, raportująca instytucja finansowa traktuje ten rachunek jako rachunek raportowany w odniesieniu do każdego państwa uczestniczącego lub państwa trzeciego, względem którego zostanie stwierdzone wystąpienie przesłanki, chyba że postanowi zastosować przepis art. 50 ust. 7, a jeden z wyjątków wymienionych w tym przepisie ma zastosowanie do tego rachunku.
 
 **Art. 54.**
@@ -671,13 +757,18 @@
   5) opis przebiegu kontroli;
   6) końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo ich braku;
   7) wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
-  8) podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego - kwalifikowany podpis elektroniczny.
+  8) podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego - kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty.
 6. Termin, o którym mowa w ust. 5 pkt 7, nie może być krótszy niż miesiąc ani dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
 7. Kontrolowany jest obowiązany poinformować organ kontrolujący o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia bez zbędnej zwłoki, nie później jednak niż w terminie 14 dni od dnia upływu terminu wyznaczonego na ich usunięcie.
 
 **Art. 71.**
-1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, instytucja finansowa, na pisemne żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązana do udzielenia informacji niezbędnych do ich wyjaśnienia.
+1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, instytucja finansowa, na sporządzone na piśmie żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązana do udzielenia informacji niezbędnych do ich wyjaśnienia.
 2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy niż 14 dni od dnia otrzymania żądania.
+
+**Art. 71a.**
+1. Jeżeli raportująca instytucja finansowa lub inny podmiot zawiera porozumienie sprzeczne w danych okolicznościach z przedmiotem lub celem ustawy, którego głównym celem lub jednym z głównych celów jest uniknięcie obowiązków stosowania procedur należytej staranności lub procedur sprawozdawczych, a sposób działania był sztuczny, uznaje się na potrzeby obowiązków określonych w przepisach niniejszego działu, że takie porozumienie nie zostało zawarte.
+2. Sposób działania nie jest sztuczny, jeżeli na podstawie istniejących okoliczności należy przyjąć, że podmiot działający rozsądnie i kierujący się zgodnymi z prawem celami zastosowałby ten sposób działania w dominującej mierze z uzasadnionych przyczyn ekonomicznych.
+3. Przez porozumienie, o którym mowa w ust. 1, rozumie się czynność podejmowaną lub zespół czynności podejmowanych w celu uniknięcia obowiązku stosowania procedur należytej staranności lub procedur sprawozdawczych.
 
 **Art. 72.**
 1. Żądania, o których mowa w art. 71 ust. 1, oraz żądania kierowane w toku kontroli do kontrolowanego oznacza się klauzulą „Tajemnica skarbowa”, a ich przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone” w rozumieniu przepisów o ochronie informacji niejawnych.
@@ -737,11 +828,12 @@
   7) wskazanie innych państw członkowskich, których może dotyczyć interpretacja podatkowa albo decyzja w sprawie cen transakcyjnych;
   8) wskazanie osób prawnych lub jednostek organizacyjnych niemających osobowości prawnej, mających siedzibę lub zarząd w innych niż Rzeczpospolita Polska państwach członkowskich, wraz ze wskazaniem tych państw, na których obowiązki podatkowe mogą mieć wpływ transakcje, zespół transakcji lub inne zdarzenia objęte interpretacją podatkową lub decyzją w sprawie cen transakcyjnych, jeżeli takie osoby prawne lub jednostki organizacyjne mogą być zidentyfikowane na podstawie posiadanych przez organ informacji;
   9) streszczenie interpretacji podatkowej, w tym opis stanu faktycznego lub zdarzenia przyszłego albo opis czynności planowanej lub rozpoczętej, lub streszczenie decyzji w sprawie cen transakcyjnych, w szczególności wskazanie rodzaju i przedmiotu transakcji lub zespołu transakcji lub innych zdarzeń objętych decyzją;
+  9a) inne niż wskazane w pkt 9 informacje, które mogą pomóc właściwemu organowi państwa członkowskiego w ocenie potencjalnego ryzyka podatkowego;
   10) streszczenie opisu kryteriów wyboru metody ustalania cen transakcyjnych - w przypadku decyzji w sprawie cen transakcyjnych;
   11) wskazanie wybranej metody i algorytmu kalkulacji ceny transakcyjnej - w przypadku decyzji w sprawie cen transakcyjnych;
   12) wskazanie, czy źródłem przekazywanych informacji jest decyzja w sprawie cen transakcyjnych czy wniosek wszczynający postępowanie w sprawie cen transakcyjnych, o którym mowa w art. 81 ust. 3.
 4. Opis, o którym mowa w ust. 3 pkt 9, sporządza się w sposób nieprowadzący do ujawnienia tajemnicy handlowej, przemysłowej lub zawodowej lub procesu produkcyjnego, lub informacji, które byłoby sprzeczne z porządkiem publicznym.
-5. Informacje, o których mowa w ust. 1, są przekazywane w terminie:
+5. Informacje, o których mowa w ust. 1, są przekazywane niezwłocznie, nie później jednak niż w terminie:
   1) do końca trzeciego kwartału - w przypadku interpretacji podatkowych lub decyzji w sprawach cen transakcyjnych wydanych w pierwszym lub drugim kwartale tego roku;
   2) do końca pierwszego kwartału - w przypadku interpretacji podatkowych lub decyzji w sprawach cen transakcyjnych wydanych w trzecim lub czwartym kwartale poprzedniego roku.
 
@@ -841,7 +933,7 @@ w terminie 3 miesięcy od dnia zakończenia sprawozdawczego roku obrotowego grup
 3. Korekta informacji o grupie podmiotów lub powiadomienia, o którym mowa w art. 86 ust. 1, złożona w przypadku, o którym mowa w ust. 2 pkt 1, nie wywołuje skutków prawnych. Szef Krajowej Administracji Skarbowej zawiadamia składającego korektę o jej bezskuteczności.
 
 **Art. 87c.**
-1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, o której mowa w art. 87a, jednostka wchodząca w skład grupy podmiotów, która złożyła informację o grupie podmiotów lub powiadomienie, o którym mowa w art. 86 ust. 1, na pisemne żądanie Szefa Krajowej Administracji Skarbowej jest obowiązana do udzielenia informacji niezbędnych do ich wyjaśnienia.
+1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, o której mowa w art. 87a, jednostka wchodząca w skład grupy podmiotów, która złożyła informację o grupie podmiotów lub powiadomienie, o którym mowa w art. 86 ust. 1, na sporządzone na piśmie żądanie Szefa Krajowej Administracji Skarbowej jest obowiązana do udzielenia informacji niezbędnych do ich wyjaśnienia.
 2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy niż 14 dni, licząc od dnia otrzymania żądania.
 
 **Art. 87d.** Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej, o którym mowa w dziale III rozdziale 9a ustawy - Ordynacja podatkowa, obejmuje również upoważnienie do podpisywania informacji o grupie podmiotów i powiadomień, o których mowa w art. 86 ust. 1.
@@ -905,13 +997,28 @@ w terminie 3 miesięcy od dnia zakończenia sprawozdawczego roku obrotowego grup
 - lub przekazuje taką informację lub takie powiadomienie niepełne lub niezgodne z posiadanymi danymi, podlega karze pieniężnej.
 2. W przypadku, o którym mowa w ust. 1 pkt 1, karze pieniężnej podlega wyłącznie jednostka dominująca albo wyznaczona jednostka wchodząca w skład grupy podmiotów.
 
+**Art. 90a.** Instytucja finansowa i instytucja obowiązana, które nie dopełniają obowiązku udzielenia posiadanych informacji, o których mowa odpowiednio w art. 4 ust. 1 lub 1a, podlegają karze pieniężnej.
+
+**Art. 90b.**
+1. Raportujący operator platformy w rozumieniu art. 75a ust. 1 pkt 14, który nie dopełnia obowiązku:
+  1) przekazania Szefowi Krajowej Administracji Skarbowej informacji o sprzedawcach, chyba że niedopełnienie obowiązku było wynikiem nieotrzymania informacji od sprzedawcy pomimo prawidłowych wezwań oraz zastosowania środków, o których mowa w art. 75o,
+  2) przekazania sprzedawcy podlegającemu raportowaniu, o którym mowa w art. 75a ust. 1 pkt 19, informacji, o której mowa w art. 75g,
+  3) zastosowania się do ponownego wezwania, o którym mowa w art. 75i ust. 2,
+  4) stosowania procedur należytej staranności, w tym gromadzenia dokumentacji, określonych w przepisach działu IIIA rozdziału 3,
+  5) powiadomienia Szefa Krajowej Administracji Skarbowej, o którym mowa w art. 75t ust. 4,
+  6) jednorazowej rejestracji w Rzeczypospolitej Polskiej zgodnie z art. 75u ust. 1 - w przypadku braku rejestracji w innym wybranym państwie członkowskim,
+  7) przekazania Szefowi Krajowej Administracji Skarbowej informacji, o których mowa w art. 75zb ust. 8 lub art. 75zc ust. 1,
+  8) usunięcia w terminie nieprawidłowości stwierdzonych w wyniku kontroli, o którym mowa w art. 75zb ust. 4
+- podlega karze pieniężnej.
+2. Wyłączony operator platformy w rozumieniu art. 75a ust. 1 pkt 23, który nie dopełnia obowiązku, o którym mowa w art. 75b ust. 4, podlega karze pieniężnej.
+
 **Art. 91.**
-1. Karę pieniężną, o której mowa w art. 89 i art. 90, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji, w wysokości nie większej niż 1 000 000 zł.
-2. Ustalając wysokość kary pieniężnej, o której mowa w art. 89 i art. 90, Szef Krajowej Administracji Skarbowej uwzględnia rodzaj i zakres niedopełnienia obowiązku oraz dotychczasowe wykonywanie określonych ustawą obowiązków przez podmiot, na który jest nakładana kara pieniężna, a także jego możliwości finansowe.
+1. Karę pieniężną, o której mowa w art. 89-90b, nakłada Szef Krajowej Administracji Skarbowej, w drodze decyzji, w wysokości nie większej niż 1 000 000 zł.
+2. Ustalając wysokość kary pieniężnej, o której mowa w art. 89-90b, Szef Krajowej Administracji Skarbowej uwzględnia rodzaj i zakres niedopełnienia obowiązku oraz dotychczasowe wykonywanie określonych ustawą obowiązków przez podmiot, na który jest nakładana kara pieniężna, a także wysokość jego całkowitego obrotu za rok obrotowy poprzedzający rok nałożenia kary, a w przypadku podmiotu rozpoczynającego działalność - okres od rozpoczęcia prowadzenia działalności gospodarczej do dnia wszczęcia postępowania o nałożenie kary pieniężnej.
 3. W przypadku stwierdzenia w toku kontroli więcej niż jednego naruszenia, o którym mowa w art. 89, możliwe jest nałożenie tylko jednej kary pieniężnej.
-4. Kara pieniężna, o której mowa w art. 89 i art. 90, stanowi dochód budżetu państwa.
+4. Kara pieniężna, o której mowa w art. 89-90b, stanowi dochód budżetu państwa.
 5. Postępowanie w sprawie nałożenia kary pieniężnej toczy się na podstawie przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579 i 2138).
-6. Kary pieniężne, o których mowa w art. 89 i art. 90, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
+6. Kary pieniężne, o których mowa w art. 89-90b, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 7. W sprawach nieuregulowanych w niniejszym dziale do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy - Ordynacja podatkowa.
 
 ## Dział VII — Przepisy zmieniające, przejściowe i końcowe
