@@ -2906,7 +2906,7 @@
   7) stan należności i zobowiązań na początek i koniec roku;
   8) stan środków pieniężnych na początek i koniec roku.
 4. Wody Polskie sporządzają roczny plan finansowy zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-5. W rocznym planie finansowym Wód Polskich mogą być dokonywane zmiany przychodów i kosztów po uzyskaniu zgody ministra właściwego do spraw gospodarki wodnej wydanej w uzgodnieniu z ministrem właściwym do spraw budżetu.
+5. (uchylony)
 6. Wody Polskie przekazują decyzje zmieniające roczny plan finansowy ministrowi właściwemu do spraw gospodarki wodnej oraz ministrowi właściwemu do spraw budżetu.
 7. Wody Polskie, po uzyskaniu zgody ministra właściwego do spraw gospodarki wodnej oraz ministra właściwego do spraw budżetu, mogą zaciągać kredyty lub pożyczki do ujętych w planie finansowym 60% kwot przychodów lub 60% kosztów na realizację zadań tego podmiotu.
 8. W Wodach Polskich tworzy się fundusz założycielski i fundusz rezerwowy.
