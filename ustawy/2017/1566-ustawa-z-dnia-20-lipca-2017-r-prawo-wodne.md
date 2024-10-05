@@ -2462,6 +2462,8 @@
 19. Jeżeli ustalenie linii brzegu następuje w związku z trwałym zajęciem przez śródlądowe wody płynące, wody morza terytorialnego lub morskie wody wewnętrzne, w sposób naturalny, gruntu niestanowiącego własności właściciela wód, koszty projektu rozgraniczenia gruntów, o którym mowa w ust. 6, ponosi właściciel wód.
 20. Decyzja o ustaleniu linii brzegu stanowi podstawę do dokonania wpisu w ewidencji gruntów i budynków.
 21. Przepisy ust. 8-12 stosuje się odpowiednio do postępowań dotyczących ustalenia linii brzegu wszczętych na podstawie przepisów działu II rozdziału 12 i 13 ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego.
+22. W postępowaniach dotyczących udzielania zgód wodnoprawnych związanych z usuwaniem skutków powodzi nie stosuje się przepisów ust. 14, 16 i 17.
+23. W postępowaniach dotyczących udzielania zgód wodnoprawnych związanych z usuwaniem skutków powodzi, dla wskazania przebiegu granic działek ewidencyjnych między gruntami tworzącymi dna i brzegi cieków naturalnych, jezior oraz innych naturalnych zbiorników wodnych a gruntami przyległymi stosuje się procedury określone w przepisach wydanych na podstawie art. 26 ust. 2 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne.
 
 **Art. 221.**
 1. Rozgraniczenia gruntów, które były pokryte wodami przed wykonaniem urządzenia wodnego, od pozostałych gruntów dokonuje, na wniosek podmiotu mającego interes prawny lub faktyczny, w drodze decyzji, właściwy organ, o którym mowa w art. 220 ust. 5.
