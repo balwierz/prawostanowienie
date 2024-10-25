@@ -63,7 +63,7 @@
 2. W ustawie budżetowej corocznie przeznacza się na realizację koordynacji, o której mowa w art. 8 ust. 2, środki finansowe w kwocie nie większej niż 70 mln zł.
 3. Środki na realizację koordynacji, o której mowa w art. 8 ust. 2, minister właściwy do spraw rodziny przekazuje wojewodom na ich wniosek.
 4. Wojewoda przekazuje środki, o których mowa w ust. 3, wójtom, burmistrzom lub prezydentom miast na podstawie zawartej umowy.
-5. Środki Funduszu Pracy przekazane wójtom, burmistrzom lub prezydentom miast na realizację koordynacji, o której mowa w art. 8 ust. 2, stanowią dochód gminy, o którym mowa w art. 8 ust. 3 ustawy z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2017 r. poz. 1453, 2203 i 2260 oraz z 2018 r. poz. 317).
+5. Środki Funduszu Pracy przekazane wójtom, burmistrzom lub prezydentom miast na realizację koordynacji, o której mowa w art. 8 ust. 2, stanowią dochód gminy, o którym mowa w art. 10 ust. 3 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572).
 
 **Art. 10.**
 1. Z tytułu urodzenia się żywego dziecka, posiadającego zaświadczenie, o którym mowa w art. 4 ust. 3, przyznaje się, na to dziecko, jednorazowe świadczenie w wysokości 4000 zł.
