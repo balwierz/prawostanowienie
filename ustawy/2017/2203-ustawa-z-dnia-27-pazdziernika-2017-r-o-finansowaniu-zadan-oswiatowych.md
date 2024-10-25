@@ -477,7 +477,7 @@ organ dotujący wzywa dyrektora szkoły, centrum lub placówki lub organ prowadz
 
 **Art. 39.**
 1. Organ stanowiący jednostki samorządu terytorialnego, w drodze uchwały, może wyrazić zgodę na udzielenie dotacji, o której mowa w:
-  1) art. 16 ust. 1, art. 17 ust. 1, art. 18 ust. 1, art. 19 ust. 1, art. 21 ust. 1, art. 25 ust. 3 i 8 oraz art. 28 ust. 1 i 3, w odniesieniu do kwoty przewidzianej w części oświatowej subwencji ogólnej - w wysokości wyższej niż określona odpowiednio w art. 16 ust. 1, art. 17 ust. 1, art. 18 ust. 1, art. 19 ust. 1, art. 21 ust. 1, art. 25 ust. 3 i 8 oraz art. 28 ust. 1 i 3, w odniesieniu do kwoty przewidzianej w części oświatowej subwencji ogólnej;
+  1) art. 16 ust. 1, art. 17 ust. 1, art. 18 ust. 1, art. 19 ust. 1, art. 21 ust. 1, art. 25 ust. 3 i 8 oraz art. 28 ust. 1 i 3, w odniesieniu do przewidzianej kwoty potrzeb oświatowych - w wysokości wyższej niż określona odpowiednio w art. 16 ust. 1, art. 17 ust. 1, art. 18 ust. 1, art. 19 ust. 1, art. 21 ust. 1, art. 25 ust. 3 i 8 oraz art. 28 ust. 1 i 3, w odniesieniu do przewidzianej kwoty potrzeb oświatowych;
   2) art. 15, art. 16 ust. 3, art. 17 ust. 3 i 5, art. 18 ust. 3, art. 19 ust. 3 i 5, art. 20 ust. 1, art. 21 ust. 3, art. 25 ust. 1, 2, 4 i 5, art. 26 ust. 1, 2, 5 i 8, art. 29 ust. 1 i 2, art. 29a ust. 1 i 2, art. 30, art. 31 ust. 1 i 1a oraz art. 31a ust. 1 - w wysokości wyższej niż określona odpowiednio w art. 15, art. 16 ust. 3, art. 17 ust. 3 i 5, art. 18 ust. 3, art. 19 ust. 3 i 5, art. 20 ust. 1, art. 21 ust. 3, art. 25 ust. 1, 2, 4 i 5, art. 26 ust. 1, 2, 5 i 8, art. 29 ust. 1 i 2, art. 29a ust. 1 i 2, art. 30, art. 31 ust. 1 i 1a oraz art. 31a ust. 1;
   3) art. 16 ust. 1, art. 17 ust. 1 i 3, art. 18 ust. 1 oraz art. 19 ust. 1 i 3, w odniesieniu do ucznia przedszkola integracyjnego, ucznia oddziału integracyjnego w przedszkolu z oddziałami integracyjnymi lub ucznia oddziału przedszkolnego integracyjnego zorganizowanego w szkole podstawowej - w wysokości wyższej niż określona odpowiednio w art. 16 ust. 1, art. 17 ust. 1 i 3, art. 18 ust. 1 oraz art. 19 ust. 1 i 3.
 2. W szczególnie uzasadnionych przypadkach organ stanowiący jednostki samorządu terytorialnego, w drodze uchwały, może wyrazić zgodę na udzielenie dotacji, o której mowa w:
@@ -634,25 +634,7 @@ organ dotujący wzywa dyrektora szkoły, centrum lub placówki lub organ prowadz
 14. Do przedszkoli, szkół podstawowych z oddziałami przedszkolnymi lub innych form wychowania przedszkolnego prowadzonych przez organy, o których mowa w art. 8 ust. 4 i 17 ustawy - Prawo oświatowe, stosuje się odpowiednio przepisy ust. 1-7, 9, 11 i 12, z tym że kompetencje rady gminy określone w ust. 1 i 2 wykonują te organy.
 15. Opłaty za korzystanie z wychowania przedszkolnego w publicznych placówkach wychowania przedszkolnego prowadzonych przez jednostki samorządu terytorialnego oraz opłaty za korzystanie z wyżywienia w takich placówkach stanowią niepodatkowe należności budżetowe o charakterze publicznoprawnym, o których mowa w art. 60 pkt 7 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
-## Rozdział 6 — Dotacja celowa na dofinansowanie zadań w zakresie wychowania przedszkolnego
-
-**Art. 53.**
-1. Na dofinansowanie zadań w zakresie wychowania przedszkolnego uczniów objętych wychowaniem przedszkolnym do końca roku szkolnego w roku kalendarzowym, w którym kończą 6 lat, jednostka samorządu terytorialnego otrzymuje dotację celową z budżetu państwa, która może być wykorzystana wyłącznie na dofinansowanie wydatków bieżących związanych z realizacją tych zadań.
-2. Podziału środków przeznaczonych na dotację, o której mowa w ust. 1, pomiędzy poszczególne jednostki samorządu terytorialnego dokonuje minister właściwy do spraw oświaty i wychowania.
-3. Wysokość dotacji, o której mowa w ust. 1, dla danej jednostki samorządu terytorialnego jest obliczana jako iloczyn kwoty rocznej, o której mowa w ust. 4, oraz liczby uczniów, którzy w roku bazowym kończą 5 lat lub mniej, w placówkach wychowania przedszkolnego:
-  1) prowadzonych przez tę jednostkę samorządu terytorialnego,
-  2) dla których ta jednostka samorządu terytorialnego jest organem rejestrującym
-- ustalonej na podstawie danych systemu informacji oświatowej według stanu na dzień 30 września roku bazowego.
-4. Kwota roczna dotacji, o której mowa w ust. 1, na każdego ucznia, o którym mowa w ust. 3, bez względu na czas przebywania ucznia w placówce wychowania przedszkolnego, wynosi 1506 zł.
-5. Kwota roczna, o której mowa w ust. 4, podlega corocznie waloryzacji prognozowanym średniorocznym wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, określonym w ustawie budżetowej.
-6. Wysokość dotacji, o której mowa w ust. 1, obliczona zgodnie z ust. 3 dla gminy, jest pomniejszana o kwotę stanowiącą iloczyn kwoty rocznej w roku, na który jest udzielana dotacja, i liczby dzieci, które w roku bazowym kończą 5 lat lub mniej, którym gmina ma obowiązek zapewnić możliwość korzystania z wychowania przedszkolnego, nieprzyjętych w danym roku szkolnym do publicznej placówki wychowania przedszkolnego lub do niepublicznego przedszkola, o którym mowa w art. 17 ust. 1, oddziału przedszkolnego w niepublicznej szkole podstawowej, o której mowa w art. 19 ust. 1, lub niepublicznej innej formy wychowania przedszkolnego, o której mowa w art. 21 ust. 1, którym wójt (burmistrz, prezydent miasta) wbrew obowiązkowi nie wskazał miejsca korzystania z wychowania przedszkolnego, zgodnie z art. 31 ust. 10 ustawy - Prawo oświatowe.
-7. Pomniejszenie dotacji nie zwalnia gminy z obowiązku zapewnienia dzieciom warunków do realizacji prawa, o którym mowa w art. 31 ust. 6 ustawy - Prawo oświatowe.
-8. Jeżeli liczba uczniów uwzględniona do obliczenia dotacji na dany rok budżetowy dla danej jednostki samorządu terytorialnego zgodnie z ust. 3 i 6 jest większa niż średnioroczna liczba uczniów, którzy kończą 5 lat lub mniej odpowiednio w roku bazowym oraz w roku budżetowym w placówkach wychowania przedszkolnego prowadzonych przez tę jednostkę samorządu terytorialnego oraz w placówkach wychowania przedszkolnego, dla których ta jednostka samorządu terytorialnego jest organem rejestrującym, w roku budżetowym, na który została udzielona dotacja, część dotacji pobrana w nadmiernej wysokości podlega zwrotowi do budżetu państwa.
-9. Dotacji, o której mowa w ust. 1, udzielają wojewodowie. Dotację przekazuje się w 12 częściach w terminie do 15. dnia każdego miesiąca, z wyjątkiem pierwszej części, którą przekazuje się niezwłocznie po zwiększeniu wydatków w części budżetu państwa będącej w dyspozycji wojewody, z wyrównaniem za okres od początku roku budżetowego.
-10. Przez wydatki bieżące, o których mowa w ust. 1, należy rozumieć wydatki bieżące, o których mowa w art. 236 ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
-11. Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
-  1) tryb udzielania i sposób rozliczania dotacji, o której mowa w ust. 1, w tym sposób ustalania wysokości dotacji podlegającej zwrotowi, oraz sposób ustalania średniorocznej liczby uczniów, o której mowa w ust. 8, a także wzór formularza rocznego rozliczenia wykorzystania dotacji, mając na celu zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa;
-  2) sposób i terminy ustalania informacji o liczbie dzieci, o których mowa w ust. 6, biorąc pod uwagę możliwość wykorzystania środków komunikacji elektronicznej i informatycznych nośników danych.
+## Rozdział 6
 
 ## Rozdział 7 — Wyposażenie szkół oraz szkół polskich w podręczniki, materiały edukacyjne i materiały ćwiczeniowe
 
@@ -1209,9 +1191,9 @@ organ dotujący wzywa dyrektora szkoły, centrum lub placówki lub organ prowadz
   5) 2022 r. - 1630 mln zł;
   6) w 2023 r. - 1749 mln zł;
   7) w 2024 r. - 4190 mln zł;
-  8) w 2025 r. - 1785 mln zł;
-  9) w 2026 r. - 1832 mln zł;
-  10) w 2027 r. - 1856 mln zł.
+  8) (uchylony)
+  9) (uchylony)
+  10) (uchylony)
 2. Minister właściwy do spraw oświaty i wychowania monitoruje wykorzystanie limitów wydatków na zadania, o których mowa w ust. 1, oraz, w razie potrzeby, wdraża mechanizmy korygujące.
 3. W przypadku gdy łączne wydatki budżetu państwa planowane na dotację, o której mowa w ust. 1, wyliczone zgodnie z kwotą roczną określoną odpowiednio w art. 109 ust. 1 lub w art. 53 ust. 4, powodowałyby zagrożenie przekroczenia w danym roku budżetowym limitu określonego w ust. 1, do wyliczenia dotacji na ten rok ustala się skorygowaną kwotę roczną równą, zaokrąglonemu w dół do pełnych groszy, ilorazowi limitu na dany rok budżetowy określonemu w ust. 1 oraz liczby uczniów przyjętych do obliczenia wysokości dotacji.
 
