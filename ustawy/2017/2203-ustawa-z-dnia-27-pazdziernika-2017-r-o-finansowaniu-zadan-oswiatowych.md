@@ -839,7 +839,11 @@ organ dotujący wzywa dyrektora szkoły, centrum lub placówki lub organ prowadz
 **Art. 74.**
 1. Minister Obrony Narodowej może udzielić organowi prowadzącemu szkołę, w związku z realizacją zobowiązań Rzeczypospolitej Polskiej wynikających z ratyfikowanych umów międzynarodowych w dziedzinie obronności, których stroną jest Rzeczpospolita Polska, dotacji celowej na dofinansowanie zadań bieżących lub inwestycyjnych.
 2. Minister Obrony Narodowej może udzielić organowi prowadzącemu szkołę, która prowadzi działalność dydaktyczno-wychowawczą w dziedzinie obronności państwa, dotacji celowej na dofinansowanie zadań bieżących lub inwestycyjnych.
-3. Minister Obrony Narodowej określi, w drodze rozporządzenia, zakres wsparcia dla organu prowadzącego oddział przygotowania wojskowego, uwzględniając program szkolenia, organizację i formy zajęć realizowanych w ramach tego szkolenia oraz warunki realizacji zajęć praktycznych, określone w przepisach wydanych na podstawie art. 18 ust. 6 ustawy - Prawo oświatowe.
+3. Minister Obrony Narodowej określi, w drodze rozporządzenia, zakres wsparcia dla organu prowadzącego szkołę, w której utworzono oddział przygotowania wojskowego, uwzględniając program szkolenia, organizację i formy zajęć realizowanych w ramach tego szkolenia oraz warunki realizacji zajęć praktycznych, określone w przepisach wydanych na podstawie art. 18 ust. 6 ustawy - Prawo oświatowe.
+
+**Art. 74a.**
+1. Minister właściwy do spraw wewnętrznych może udzielić organowi prowadzącemu szkołę, w której utworzono oddział o profilu mundurowym, dotacji celowej na dofinansowanie zadań bieżących lub inwestycyjnych.
+2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, zakres wsparcia dla organu prowadzącego szkołę, w której utworzono oddział o profilu mundurowym, w tym udzielanego przez Komendanta Głównego Policji i Komendanta Głównego Straży Granicznej, uwzględniając program szkolenia, organizację i formy zajęć z przygotowania do podjęcia służby w Policji i Straży Granicznej realizowanych w ramach tego szkolenia oraz warunki realizacji zajęć, określone w przepisach wydanych na podstawie art. 18 ust. 7 ustawy - Prawo oświatowe.
 
 **Art. 75.** Na realizację zadań, o których mowa w art. 90v ust. 1 ustawy o systemie oświaty, minister właściwy do spraw oświaty i wychowania może udzielić jednostkom samorządu terytorialnego dotacji celowej.
 
