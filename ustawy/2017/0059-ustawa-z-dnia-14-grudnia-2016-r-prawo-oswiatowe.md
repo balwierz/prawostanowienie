@@ -32,7 +32,7 @@
 1) przedszkola, w tym: specjalne, integracyjne, z oddziałami specjalnymi lub integracyjnymi, a także inne formy wychowania przedszkolnego;
 2) szkoły:
   a) podstawowe, w tym: specjalne, integracyjne, z oddziałami przedszkolnymi, integracyjnymi, specjalnymi, przysposabiającymi do pracy, dwujęzycznymi, sportowymi i mistrzostwa sportowego, sportowe i mistrzostwa sportowego,
-  b) ponadpodstawowe, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami integracyjnymi, specjalnymi, dwujęzycznymi, przygotowania wojskowego, sportowymi i mistrzostwa sportowego, sportowe, mistrzostwa sportowego, rolnicze, leśne, morskie, żeglugi śródlądowej oraz rybołówstwa,
+  b) ponadpodstawowe, w tym: specjalne, integracyjne, dwujęzyczne, z oddziałami integracyjnymi, specjalnymi, dwujęzycznymi, przygotowania wojskowego, o profilu mundurowym, sportowymi i mistrzostwa sportowego, sportowe, mistrzostwa sportowego, rolnicze, leśne, morskie, żeglugi śródlądowej oraz rybołówstwa,
   c) artystyczne;
 3) placówki oświatowo-wychowawcze, w tym szkolne schroniska młodzieżowe, umożliwiające rozwijanie zainteresowań i uzdolnień oraz korzystanie z różnych form wypoczynku i organizacji czasu wolnego;
 4) placówki kształcenia ustawicznego, centra kształcenia zawodowego oraz branżowe centra umiejętności, umożliwiające uzyskanie i uzupełnienie wiedzy, umiejętności i kwalifikacji zawodowych lub zmianę kwalifikacji zawodowych;
@@ -63,6 +63,7 @@
 3) oddziale integracyjnym - należy przez to rozumieć oddział szkolny, w którym uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego uczą się i wychowują razem z pozostałymi uczniami, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2;
 4) oddziale dwujęzycznym - należy przez to rozumieć oddział szkolny, w którym nauczanie jest prowadzone w dwóch językach: polskim oraz obcym nowożytnym będącym drugim językiem nauczania, przy czym prowadzone w dwóch językach są co najmniej dwa zajęcia edukacyjne, z wyjątkiem zajęć obejmujących język polski, część historii dotyczącą historii Polski i część geografii dotyczącą geografii Polski, w tym co najmniej jedne zajęcia edukacyjne wybrane spośród zajęć obejmujących: biologię, chemię, fizykę, część geografii odnoszącą się do geografii ogólnej, część historii odnoszącą się do historii powszechnej lub matematykę;
 4a) oddziale przygotowania wojskowego - należy przez to rozumieć oddział szkolny, w którym nauczanie jest zorganizowane zgodnie z przepisami wydanymi na podstawie art. 18 ust. 6;
+4b) oddziale o profilu mundurowym - należy przez to rozumieć oddział szkolny, w którym w ramach nauczania uwzględnia się program szkolenia mający na celu przygotowanie do podjęcia służby w Policji i Straży Granicznej zgodnie z przepisami wydanymi na podstawie art. 18 ust. 7;
 5) szkole integracyjnej - należy przez to rozumieć szkołę, w której wszystkie oddziały są oddziałami integracyjnymi;
 6) szkole dwujęzycznej - należy przez to rozumieć szkołę, w której wszystkie oddziały są oddziałami dwujęzycznymi;
 7) szkole rolniczej - należy przez to rozumieć szkołę ponadpodstawową kształcącą wyłącznie w zawodach dla rolnictwa, dla których, zgodnie z klasyfikacją zawodów szkolnictwa branżowego, o której mowa w pkt 24a, ministrem właściwym jest minister właściwy do spraw rolnictwa, minister właściwy do spraw rozwoju wsi lub minister właściwy do spraw rynków rolnych;
@@ -360,8 +361,12 @@
   2) warunki realizacji w oddziałach i szkołach sportowych oraz oddziałach i szkołach mistrzostwa sportowego zajęć sportowych obejmujących szkolenie sportowe w oparciu o programy szkolenia opracowane przez polskie związki sportowe.
 6. Minister Obrony Narodowej w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
   1) program szkolenia realizowany w oddziale przygotowania wojskowego, mając na uwadze przygotowanie do podjęcia służby wojskowej, rozwijanie umiejętności przydatnych w służbie wojskowej oraz kształtowanie postaw patriotycznych i obronnych wśród uczniów;
-  2) organizację i formy zajęć realizowanych w ramach programu szkolenia, o którym mowa w pkt 1, uwzględniając minimalną liczbę zajęć teoretycznych i praktycznych, miejsce realizacji tych zajęć oraz liczebność oddziału;
+  2) organizację i formy zajęć z przygotowania wojskowego realizowanych w ramach programu szkolenia, minimalną liczbę zajęć teoretycznych i praktycznych, miejsce realizacji tych zajęć oraz liczebność oddziału, uwzględniając godzenie realizacji zajęć w ramach programu szkolenia z realizacją obowiązkowych zajęć dydaktycznych;
   3) warunki realizacji zajęć praktycznych, o których mowa w pkt 2, uwzględniając bezpieczeństwo uczniów, potrzebę zapewnienia niezakłóconego funkcjonowania jednostek wojskowych oraz możliwość realizacji części zajęć praktycznych przez instruktorów organizacji proobronnych, w celu nabycia przez uczniów praktycznych umiejętności wojskowych.
+7. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+  1) program szkolenia realizowany w oddziale o profilu mundurowym, mając na uwadze przygotowanie do podjęcia służby w Policji i Straży Granicznej, rozwijanie umiejętności przydatnych w służbie oraz kształtowanie postaw patriotycznych i społecznych wśród uczniów;
+  2) organizację i formy zajęć z przygotowania do podjęcia służby w Policji i Straży Granicznej realizowanych w ramach programu szkolenia, o którym mowa w pkt 1, minimalną liczbę tych zajęć, miejsce ich realizacji oraz liczebność oddziału, uwzględniając godzenie realizacji zajęć w ramach programu szkolenia z realizacją obowiązkowych zajęć dydaktycznych;
+  3) warunki realizacji zajęć z przygotowania do podjęcia służby w Policji i Straży Granicznej, uwzględniając bezpieczeństwo uczniów, potrzebę zapewnienia niezakłóconego funkcjonowania jednostek organizacyjnych Policji lub Straży Granicznej oraz możliwość realizacji części zajęć przez pracowników lub funkcjonariuszy Policji lub Straży Granicznej.
 
 **Art. 19.**
 1. W ostatniej klasie szkoły podstawowej przeprowadza się egzamin ósmoklasisty.
@@ -562,23 +567,69 @@
   2) występowanie potrzeb rekrutacyjnych Sił Zbrojnych Rzeczypospolitej Polskiej w danym regionie;
   3) możliwość zapewnienia wsparcia w prowadzeniu zajęć praktycznych, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6;
   4) pozytywna ocena dotychczasowej współpracy szkoły z jednostkami wojskowymi.
-5. Wniosek o zezwolenie na utworzenie oddziału przygotowania wojskowego składa organ prowadzący szkołę, w której ma zostać utworzony ten oddział, w terminie do dnia 31 marca roku szkolnego poprzedzającego rok szkolny, w którym oddział przygotowania wojskowego ma rozpocząć działalność.
+5. Wniosek o zezwolenie na utworzenie oddziału przygotowania wojskowego składa organ prowadzący szkołę, w której ma zostać utworzony ten oddział, w terminie od dnia 1 listopada do dnia 31 stycznia roku szkolnego poprzedzającego rok szkolny, w którym oddział przygotowania wojskowego ma rozpocząć działalność.
 6. Wniosek, o którym mowa w ust. 5, określa:
-  1) organizację kształcenia w oddziale przygotowania wojskowego w sposób umożliwiający uczniom godzenie zajęć z zakresu programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, z realizacją obowiązkowych zajęć dydaktycznych;
+  1) organizację kształcenia w oddziale przygotowania wojskowego w sposób umożliwiający uczniom godzenie zajęć z przygotowania wojskowego realizowanych w ramach programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, z realizacją obowiązkowych zajęć dydaktycznych;
   2) datę rozpoczęcia funkcjonowania oddziału.
 7. Do wniosku, o którym mowa w ust. 5, dołącza się:
   1) opinię rady pedagogicznej;
-  2) zobowiązanie organu prowadzącego szkołę do ponoszenia kosztów kształcenia w oddziale przygotowania wojskowego przekraczających wydatki bieżące ponoszone na jednego ucznia w pozostałych oddziałach szkoły.
-8. Minister Obrony Narodowej udziela zezwolenia na prowadzenie oddziału przygotowania wojskowego po zasięgnięciu opinii właściwego:
+  2) zobowiązanie organu prowadzącego szkołę do ponoszenia kosztów kształcenia w oddziale przygotowania wojskowego przekraczających wydatki bieżące ponoszone na jednego ucznia w pozostałych oddziałach szkoły;
+  3) informację o doświadczeniu szkoły w prowadzeniu działalności, o której mowa w art. 74 ust. 2 ustawy o finansowaniu zadań oświatowych, albo informację o jego braku.
+8. Minister Obrony Narodowej udziela zezwolenia na utworzenie oddziału przygotowania wojskowego po zasięgnięciu opinii właściwego:
   1) kuratora oświaty, zawierającej ocenę możliwości organizacyjnych i kadrowych pozwalających na realizowanie w szkole programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, w sposób umożliwiający uczniom godzenie realizacji tego programu z realizacją obowiązkowych zajęć dydaktycznych, oraz ocenę spełniania przez szkołę warunków, o których mowa w ust. 3;
-  2) szefa Centralnego Wojskowego Centrum Rekrutacji, zawierającej ocenę potrzeb prowadzenia przygotowania wojskowego w danym regionie, dotychczasowej współpracy szkoły z jednostkami wojskowymi oraz ocenę spełniania przez szkołę warunków, o których mowa w ust. 4, i jej przygotowanie do realizacji programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6.
-9. W zezwoleniu, o którym mowa w ust. 8, Minister Obrony Narodowej wskazuje jednostkę wojskową odpowiedzialną za prowadzenie zajęć praktycznych dla uczniów oddziału przygotowania wojskowego.
+  2) szefa wojskowego centrum rekrutacji, zawierającej ocenę potrzeb prowadzenia przygotowania wojskowego w danym regionie, dotychczasowej współpracy szkoły z jednostkami wojskowymi oraz ocenę spełniania przez szkołę warunków, o których mowa w ust. 4, i jej przygotowanie do realizacji programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6.
+8a. W przypadku gdy liczba wniosków, o których mowa w ust. 5, przekracza limit zezwoleń określony w przepisach wydanych na podstawie ust. 12, Minister Obrony Narodowej, udzielając zezwolenia na utworzenie oddziału przygotowania wojskowego, oprócz warunków, o których mowa w ust. 4, bierze pod uwagę w pierwszej kolejności udzielenie zezwolenia na utworzenie oddziału przygotowania wojskowego w szkole ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. b, oraz:
+  1) doświadczenie szkoły w prowadzeniu oddziału przygotowania wojskowego;
+  2) doświadczenie szkoły w prowadzeniu działalności, o której mowa w art. 74 ust. 2 ustawy o finansowaniu zadań oświatowych, w tym liczbę oddziałów prowadzących tę działalność oraz liczbę uczniów w tych oddziałach;
+  3) liczbę absolwentów oddziału przygotowania wojskowego, którzy zostali powołani do jednego z rodzajów czynnej służby wojskowej, wynikającą ze statystyki w zakresie powołań do tej służby.
+8b. Udzielenie zezwolenia na utworzenie oddziału przygotowania wojskowego następuje nie wcześniej niż po dniu 31 stycznia roku szkolnego poprzedzającego rok szkolny, w którym oddział przygotowania wojskowego ma rozpocząć działalność.
+9. W zezwoleniu, o którym mowa w ust. 8, Minister Obrony Narodowej wskazuje jednostkę wojskową odpowiedzialną za organizację i prowadzenie zajęć praktycznych, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6, dla uczniów oddziału przygotowania wojskowego, w szczególności zapewniającą bezpłatne zakwaterowanie i wyżywienie.
 10. Minister Obrony Narodowej może cofnąć zezwolenie na utworzenie oddziału przygotowania wojskowego w przypadku:
   1) stwierdzenia przez kuratora oświaty, że działalność oddziału przygotowania wojskowego jest sprzeczna z warunkiem, o którym mowa w ust. 3, lub realizacja programu szkolenia, określonego w przepisach wydanych na podstawie art. 18 ust. 6, przebiega w sposób uniemożliwiający realizację obowiązkowych zajęć dydaktycznych;
   2) niewykonywania przez organ prowadzący szkołę zobowiązania, o którym mowa w ust. 7 pkt 2;
-  3) negatywnej oceny szefa Centralnego Wojskowego Centrum Rekrutacji w zakresie realizacji programu oraz współpracy z jednostkami wojskowymi, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6, lub w zakresie spełniania przez szkołę warunków, o których mowa w ust. 4.
-11. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału przygotowania wojskowego. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia.
-12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na prowadzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa.
+  3) negatywnej oceny szefa wojskowego centrum rekrutacji w zakresie realizacji programu oraz współpracy z jednostkami wojskowymi, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6, lub w zakresie spełniania przez szkołę warunków, o których mowa w ust. 4.
+  4) nierozliczenia przyznanego wsparcia, o którym mowa w przepisach wydanych na podstawie art. 74 ust. 3 ustawy o finansowaniu zadań oświatowych;
+  5) nieprzeprowadzenia postępowania rekrutacyjnego do klasy I oddziału przygotowania wojskowego w dwóch następujących po sobie latach szkolnych, licząc od roku szkolnego, w którym nie przeprowadzono postępowania rekrutacyjnego;
+  6) braku powołań spośród absolwentów oddziału przygotowania wojskowego do jednego z rodzajów czynnej służby wojskowej w trzech następujących po sobie latach, licząc od dnia ostatniego powołania absolwenta tego oddziału;
+  7) nieutworzenia oddziału przygotowania wojskowego w terminie do dnia 15 września roku szkolnego, w którym oddział przygotowania wojskowego miał rozpocząć działalność.
+11. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału przygotowania wojskowego. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia, z tym że termin ten nie może być wcześniejszy niż koniec roku szkolnego, w którym uczniowie oddziału przygotowania wojskowego kończą naukę w tym oddziale.
+12. Minister Obrony Narodowej określi corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na utworzenie oddziałów przygotowania wojskowego, uwzględniając potrzeby rekrutacyjne i możliwości szkoleniowe Sił Zbrojnych Rzeczypospolitej Polskiej, oraz środki przeznaczone na ten cel w budżecie państwa.
+
+**Art. 28aa.**
+1. W szkołach publicznych i niepublicznych, o których mowa w art. 18 ust. 1 pkt 2 lit. a i b, z wyjątkiem szkół artystycznych, mogą być tworzone oddziały o profilu mundurowym.
+2. Utworzenie oddziału o profilu mundurowym wymaga zezwolenia ministra właściwego do spraw wewnętrznych, udzielonego w drodze decyzji administracyjnej.
+3. Utworzenie oddziału o profilu mundurowym nie może naruszać uprawnień ucznia do uzyskania wiadomości i umiejętności niezbędnych do ukończenia danego typu szkoły oraz warunków i sposobu przeprowadzania egzaminów, określonych w odrębnych przepisach, a w przypadku szkół publicznych nie może również naruszać uprawnień ucznia do bezpłatnej nauki, wychowania i opieki w zakresie ustalonym w niniejszej ustawie, ustawie o systemie oświaty oraz ustawie o finansowaniu zadań oświatowych.
+4. Warunkiem udzielenia zezwolenia jest:
+  1) zapewnienie warunków i odpowiednio wykwalifikowanej kadry do prowadzenia szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7;
+  2) możliwość zapewnienia przez Policję lub Straż Graniczną wsparcia w prowadzeniu zajęć, o których mowa w przepisach wydanych na podstawie art. 18 ust. 7;
+  3) pozytywna ocena dotychczasowej współpracy szkoły z jednostkami organizacyjnymi Policji lub Straży Granicznej.
+5. Wniosek o zezwolenie na utworzenie oddziału o profilu mundurowym składa organ prowadzący szkołę, w której ma zostać utworzony ten oddział, w terminie od dnia 1 listopada do dnia 31 stycznia roku szkolnego poprzedzającego rok szkolny, w którym oddział o profilu mundurowym ma rozpocząć działalność.
+6. Wniosek, o którym mowa w ust. 5, określa:
+  1) organizację kształcenia w oddziale o profilu mundurowym w sposób umożliwiający uczniom godzenie zajęć realizowanych w ramach programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7, z realizacją obowiązkowych zajęć dydaktycznych;
+  2) warunki lokalowe oraz inną infrastrukturę do prowadzenia szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7;
+  3) kwalifikacje kadry prowadzącej szkolenie, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7;
+  4) datę rozpoczęcia funkcjonowania oddziału o profilu mundurowym.
+7. Do wniosku, o którym mowa w ust. 5, dołącza się:
+  1) opinię rady pedagogicznej;
+  2) zobowiązanie organu prowadzącego szkołę do ponoszenia kosztów kształcenia w oddziale o profilu mundurowym przekraczających wydatki bieżące ponoszone na jednego ucznia w pozostałych oddziałach szkoły.
+8. Minister właściwy do spraw wewnętrznych udziela zezwolenia na utworzenie oddziału o profilu mundurowym po zasięgnięciu opinii właściwego:
+  1) kuratora oświaty, zawierającej ocenę możliwości organizacyjnych i kadrowych pozwalających na realizowanie w szkole programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7, w sposób umożliwiający uczniom godzenie realizacji tego programu z realizacją obowiązkowych zajęć dydaktycznych oraz ocenę spełniania przez szkołę warunków, o których mowa w ust. 3;
+  2) Komendanta Głównego Policji oraz Komendanta Głównego Straży Granicznej, zawierającej ocenę potrzeb utworzenia oddziału o profilu mundurowym na terenie działania jednostki organizacyjnej Policji lub Straży Granicznej, dotychczasowej współpracy szkoły z jednostkami organizacyjnymi Policji lub Straży Granicznej oraz ocenę spełniania przez szkołę warunków, o których mowa w ust. 4, i jej przygotowanie do realizacji programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7.
+9. W przypadku gdy liczba wniosków, o których mowa w ust. 5, przekracza limit zezwoleń określony w przepisach wydanych na podstawie ust. 14, minister właściwy do spraw wewnętrznych, udzielając zezwolenia na utworzenie oddziału o profilu mundurowym, oprócz warunków, o których mowa w ust. 4, bierze pod uwagę w pierwszej kolejności udzielenie zezwolenia na utworzenie oddziału o profilu mundurowym w szkole ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. b, oraz:
+  1) doświadczenie szkoły w prowadzeniu oddziału o profilu mundurowym;
+  2) liczbę absolwentów oddziału o profilu mundurowym, którzy zostali przyjęci do służby w Policji lub Straży Granicznej, wynikającą ze statystyki w zakresie zgłoszeń do tych służb.
+10. Udzielenie zezwolenia na utworzenie oddziału o profilu mundurowym następuje nie wcześniej niż po dniu 31 stycznia roku szkolnego poprzedzającego rok szkolny, w którym oddział o profilu mundurowym ma rozpocząć działalność.
+11. W zezwoleniu, o którym mowa w ust. 8, minister właściwy do spraw wewnętrznych, w uzgodnieniu z Komendantem Głównym Policji i Komendantem Głównym Straży Granicznej, wskazuje jednostkę organizacyjną Policji oraz jednostkę organizacyjną Straży Granicznej odpowiedzialne za organizację i prowadzenie zajęć, o których mowa w przepisach wydanych na podstawie art. 18 ust. 7, dla uczniów oddziału o profilu mundurowym.
+12. Minister właściwy do spraw wewnętrznych może cofnąć zezwolenie na utworzenie oddziału o profilu mundurowym w przypadku:
+  1) stwierdzenia przez kuratora oświaty, że działalność oddziału o profilu mundurowym jest sprzeczna z warunkiem, o którym mowa w ust. 3, lub realizacja programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7, przebiega w sposób uniemożliwiający realizację obowiązkowych zajęć dydaktycznych;
+  2) niewykonywania przez organ prowadzący szkołę zobowiązania, o którym mowa w ust. 7 pkt 2;
+  3) negatywnej oceny Komendanta Głównego Policji albo Komendanta Głównego Straży Granicznej w zakresie realizacji programu oraz współpracy z jednostkami organizacyjnymi Policji lub Straży Granicznej, o których mowa w przepisach wydanych na podstawie art. 18 ust. 7, lub w zakresie spełniania przez szkołę warunków, o których mowa w ust. 4;
+  4) nierozliczenia przyznanego wsparcia, o którym mowa w przepisach wydanych na podstawie art. 74a ust. 2 ustawy o finansowaniu zadań oświatowych;
+  5) nieprzeprowadzenia postępowania rekrutacyjnego do klasy I oddziału o profilu mundurowym w dwóch następujących po sobie latach szkolnych, licząc od roku szkolnego, w którym nie przeprowadzono postępowania rekrutacyjnego;
+  6) braku zgłoszeń spośród absolwentów oddziału o profilu mundurowym do służby w Policji lub Straży Granicznej w trzech następujących po sobie latach, licząc od dnia ostatniego zgłoszenia absolwenta tego oddziału;
+  7) nieutworzenia oddziału o profilu mundurowym w terminie do dnia 15 września roku szkolnego, w którym oddział o profilu mundurowym miał rozpocząć działalność.
+13. Cofnięcie zezwolenia jest równoznaczne z likwidacją oddziału o profilu mundurowym. Likwidacja następuje w terminie określonym w decyzji o cofnięciu zezwolenia, z tym że termin ten nie może być wcześniejszy niż koniec roku szkolnego, w którym uczniowie oddziału o profilu mundurowym kończą naukę w tym oddziale.
+14. Minister właściwy do spraw wewnętrznych określa corocznie, w drodze rozporządzenia, limit zezwoleń wydawanych na utworzenie oddziałów o profilu mundurowym, uwzględniając potrzeby kadrowe i możliwości szkoleniowe Policji i Straży Granicznej oraz środki przeznaczone na ten cel w budżecie państwa.
 
 **Art. 28b.**
 1. Minister właściwy do spraw oświaty i wychowania inicjuje, koordynuje i wspiera prowadzenie działalności innowacyjnej lub eksperymentalnej w systemie oświaty, a także może zlecić zadania z tego zakresu, w drodze umowy, podmiotom, o których mowa w art. 7 ust. 1 pkt 1, 2, 4-6, 7 i 8 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2020 r. poz. 85, 374, 695, 875 i 1086), stowarzyszeniom naukowym, zawodowym i innym podmiotom prowadzącym statutową działalność oświatową.
@@ -586,7 +637,7 @@
 
 **Art. 29.**
 1. W przypadku szkół i placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego, określone w:
-  1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i ust. 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 28a ust. 5, ust. 7 pkt 2 i ust. 9 pkt 2, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 2, 3 i 7 oraz art. 93 ust. 1 - wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;
+  1) art. 10 ust. 2, art. 13 ust. 1 pkt 2 i ust. 2, art. 21 ust. 4 i 6 pkt 4, art. 23 ust. 1 pkt 4, art. 24, art. 28a ust. 5 i 7 pkt 2, art. 28aa ust. 5 i 7 pkt 2, art. 88 ust. 7, art. 89 ust. 1 i 13, art. 91 ust. 1, 1a, 2, 3 i 7 oraz art. 93 ust. 1 - wykonuje odpowiednio: rada gminy, rada powiatu, sejmik województwa;
   2) art. 10 ust. 1 pkt 1-5 i 7, art. 62 ust. 2, art. 63 ust. 1, 12-14, 18 i 20, art. 66 ust. 1, art. 68 ust. 7 i 9, art. 91 ust. 8 oraz art. 128 ust. 1 i 8 - wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa;
   3) art. 10 ust. 1 pkt 6, art. 15 ust. 6, art. 56 ust. 2, art. 57, art. 64 ust. 1, art. 65 ust. 1, art. 68 ust. 8, art. 71 ust. 2 i 3, art. 88 ust. 4, art. 89 ust. 6 i 7, art. 106 ust. 3, 5 i 6, art. 107 ust. 6, 8, 9 i 9a, art. 110 ust. 3, art. 117 ust. 8, art. 125a ust. 5 oraz art. 127 ust. 6, 16a, 17 i 17a - wykonuje odpowiednio: wójt (burmistrz, prezydent miasta), starosta, marszałek województwa.
 2. W przypadku przedszkoli, szkół i placówek prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje określone w:
@@ -1119,7 +1170,7 @@
 
 **Art. 51.**
 1. Kurator oświaty, w imieniu wojewody, wykonuje zadania i kompetencje w zakresie oświaty określone w ustawie i przepisach odrębnych na obszarze województwa, a w szczególności:
-  1) sprawuje nadzór pedagogiczny nad publicznymi i niepublicznymi przedszkolami, innymi formami wychowania przedszkolnego, szkołami, placówkami oraz kolegiami pracowników służb społecznych, które znajdują się na obszarze danego województwa, z zastrzeżeniem art. 53 ust. 2a;
+  1) sprawuje nadzór pedagogiczny nad publicznymi i niepublicznymi przedszkolami, innymi formami wychowania przedszkolnego, szkołami, placówkami oraz kolegiami pracowników służb społecznych, które znajdują się na obszarze danego województwa, z zastrzeżeniem art. 53a i art. 53b;
   2) wydaje decyzje administracyjne w sprawach określonych w ustawie;
   3) współdziała z radami oświatowymi powołanymi na podstawie art. 78;
   4) wykonuje zadania organu wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego (Dz. U. z 2016 r. poz. 23, 868, 996, 1579 i 2138) w stosunku do:
@@ -1156,11 +1207,80 @@
 1e. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego określi, w drodze rozporządzenia, tryb i formy badań jakości kształcenia artystycznego, o których mowa w ust. 1b, uwzględniając wymogi sprawności, skuteczności i efektywności tych badań.
 1f. (uchylony)
 2. Minister właściwy do spraw rolnictwa sprawuje nadzór pedagogiczny nad publicznymi szkołami rolniczymi, placówkami rolniczymi, branżowymi centrami umiejętności i placówkami doskonalenia nauczycieli przedmiotów zawodowych, którzy nauczają w szkołach rolniczych, przez siebie prowadzonymi, minister właściwy do spraw środowiska - nad publicznymi szkołami leśnymi i branżowymi centrami umiejętności przez siebie prowadzonymi, a minister właściwy do spraw zdrowia - nad publiczną placówką doskonalenia nauczycieli przedmiotów zawodowych o zasięgu ogólnokrajowym przez siebie prowadzoną. W tym celu, a także w celu realizacji zadań, o których mowa w art. 10 ust. 1, w odniesieniu do szkół i placówek przez siebie prowadzonych odpowiednio minister właściwy do spraw rolnictwa, minister właściwy do spraw środowiska lub minister właściwy do spraw zdrowia mogą, w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, w drodze rozporządzenia, utworzyć specjalistyczną jednostkę nadzoru oraz określić jej organizację i zakres powierzonych zadań związanych ze sprawowaniem nadzoru pedagogicznego.
-2a. Minister Obrony Narodowej sprawuje nadzór pedagogiczny nad realizacją szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6, w szkołach ponadpodstawowych prowadzących oddziały przygotowania wojskowego.
+2a. (uchylony)
 3. Specjalistyczne jednostki nadzoru, o których mowa w ust. 1 i 2, są państwowymi jednostkami budżetowymi finansowanymi odpowiednio z budżetu ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, ministra właściwego do spraw rolnictwa, ministra właściwego do spraw środowiska lub ministra właściwego do spraw zdrowia.
 4. Przepisy ust. 1 i 2 nie naruszają uprawnień kuratora oświaty w zakresie nadzoru pedagogicznego nad nauczaniem przedmiotów ogólnokształcących w szkołach artystycznych, a także nad nauczaniem przedmiotów ogólnokształcących w szkołach rolniczych i w szkołach leśnych prowadzonych przez odpowiednio ministra właściwego do spraw rolnictwa lub ministra właściwego do spraw środowiska.
 5. W odniesieniu do publicznych szkół i placówek artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w porozumieniu z ministrem właściwym do spraw oświaty i wychowania wydaje przepisy, o których mowa w art. 47 ust. 1 pkt 6 i 7.
 6. (uchylony)
+
+**Art. 53a.**
+1. Minister Obrony Narodowej sprawuje nadzór nad realizacją programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6, w oddziałach przygotowania wojskowego.
+2. Nadzór, o którym mowa w ust. 1, polega na:
+  1) obserwowaniu, analizowaniu i ocenianiu przebiegu zajęć z przygotowania wojskowego realizowanych w ramach programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6, w oddziałach przygotowania wojskowego;
+  2) ocenianiu organizacji zajęć, o których mowa w pkt 1;
+  3) sprawdzaniu warunków realizacji zajęć praktycznych, o których mowa w przepisach wydanych na podstawie art. 18 ust. 6;
+  4) udzielaniu pomocy szkołom, w których utworzono oddziały przygotowania wojskowego, w tym pomocy dotyczącej wdrożenia nowych rozwiązań w procesie kształcenia w tych oddziałach przy zastosowaniu innowacyjnych działań programowych, organizacyjnych lub metodycznych.
+3. Nadzorowi, o którym mowa w ust. 1, podlega:
+  1) posiadanie przez szkołę odpowiednio wykwalifikowanej kadry do prowadzenia zajęć, o których mowa w ust. 2 pkt 1;
+  2) realizacja szczegółowych treści szkolenia, miejsce realizowania zajęć, o których mowa w ust. 2 pkt 1, formy i metody szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6;
+  3) zapewnienie uczniom bezpiecznych i higienicznych warunków podczas zajęć, o których mowa w ust. 2 pkt 1.
+4. Czynności z zakresu nadzoru przeprowadzają żołnierze i pracownicy resortu obrony narodowej, o których mowa w art. 2 pkt 24 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny (Dz. U. z 2024 r. poz. 248, 834, 1089, 1222 i 1248), posiadający imienne upoważnienie Ministra Obrony Narodowej. Upoważnienie zawiera:
+  1) datę wydania i numer upoważnienia;
+  2) podstawę prawną przeprowadzenia czynności z zakresu nadzoru;
+  3) imię i nazwisko osoby upoważnionej do przeprowadzenia czynności z zakresu nadzoru;
+  4) pieczęć i podpis Ministra Obrony Narodowej.
+5. Minister Obrony Narodowej, w terminie co najmniej 7 dni przed planowanym rozpoczęciem czynności z zakresu nadzoru, zawiadamia dyrektora szkoły, w której utworzono oddział przygotowania wojskowego, dowódcę jednostki wojskowej, o której mowa w art. 28a ust. 9, oraz organ prowadzący szkołę o zamiarze przeprowadzenia tych czynności i terminie ich przeprowadzenia.
+6. Osoby, o których mowa w ust. 4, przeprowadzające czynności z zakresu nadzoru mają prawo:
+  1) wstępu do szkół, w których utworzono oddziały przygotowania wojskowego, jednostek wojskowych, w których są prowadzone zajęcia, o których mowa w ust. 2 pkt 1, oraz na teren innych obiektów, w których są prowadzone te zajęcia;
+  2) wglądu do dokumentacji dotyczącej przebiegu zajęć, o których mowa w ust. 2 pkt 1;
+  3) wglądu do dokumentów dotyczących kwalifikacji kadry do prowadzenia zajęć, o których mowa w ust. 2 pkt 1;
+  4) wstępu w charakterze obserwatora na zajęcia, o których mowa w ust. 2 pkt 1;
+  5) przeprowadzania badań służących ocenie efektywności działalności dydaktycznej i wychowawczej w oddziałach przygotowania wojskowego.
+7. Z czynności przeprowadzonych w ramach nadzoru sporządza się protokół, który zawiera ocenę realizacji programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 6, w tym ocenę realizacji zajęć, o których mowa w ust. 2 pkt 1, oraz stwierdzone uchybienia i zalecenia dotyczące usunięcia tych uchybień wraz z terminem realizacji tych zaleceń. Protokół może zawierać rekomendacje wynikające z przeprowadzonych czynności z zakresu nadzoru.
+8. Osoby, o których mowa w ust. 4, mogą wydawać dyrektorowi szkoły, w której utworzono oddział przygotowania wojskowego, i dowódcy jednostki wojskowej, o której mowa w art. 28a ust. 9, zalecenia wynikające z przeprowadzonych czynności wraz z terminem ich realizacji.
+9. Dyrektor szkoły, w której utworzono oddział przygotowania wojskowego, i dowódca jednostki wojskowej, o której mowa w art. 28a ust. 9, w terminie 7 dni od dnia otrzymania zaleceń mogą zgłosić wobec nich zastrzeżenia do Ministra Obrony Narodowej.
+10. Dyrektor szkoły, w której utworzono oddział przygotowania wojskowego, i dowódca jednostki wojskowej, o której mowa w art. 28a ust. 9, w terminie 30 dni od dnia otrzymania zaleceń, a w przypadku wniesienia zastrzeżeń zgodnie z ust. 9 - w terminie 30 dni od dnia otrzymania pisemnego zawiadomienia o nieuwzględnieniu zastrzeżeń, są obowiązani powiadomić:
+  1) Ministra Obrony Narodowej o sposobie realizacji zaleceń;
+  2) organ prowadzący szkołę o otrzymanych zaleceniach oraz o sposobie ich realizacji.
+11. W razie stwierdzenia istotnych uchybień w działalności oddziału przygotowania wojskowego Minister Obrony Narodowej niezależnie od środków, o których mowa w ust. 8, zawiadamia o stwierdzonych uchybieniach organ prowadzący szkołę.
+12. Minister Obrony Narodowej może wydawać organowi prowadzącemu szkołę zalecenia wynikające z czynności nadzoru. Przepisy ust. 9 i 10 pkt 1 stosuje się odpowiednio.
+13. Minister Obrony Narodowej może przetwarzać dane osobowe osób prowadzących zajęcia, o których mowa w ust. 2 pkt 1, i uczniów w zakresie niezbędnym do wykonywania nadzoru.
+14. Przeprowadzenie w szkole, w której utworzono oddział przygotowania wojskowego, czynności z zakresu nadzoru nie może zakłócać pracy tej szkoły.
+
+**Art. 53b.**
+1. Komendant Główny Policji lub Komendant Główny Straży Granicznej, zgodnie z właściwością określoną w art. 28aa ust. 11, sprawują nadzór nad realizacją programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7, w oddziałach o profilu mundurowym.
+2. Komendant Główny Policji oraz Komendant Główny Straży Granicznej składają ministrowi właściwemu do spraw wewnętrznych raz w roku, w terminie do dnia 31 marca, sprawozdanie ze sprawowanego w poprzednim roku kalendarzowym nadzoru nad realizacją programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7, w oddziałach o profilu mundurowym.
+3. Nadzór, o którym mowa w ust. 1, polega na:
+  1) obserwowaniu, analizowaniu i ocenianiu przebiegu zajęć z przygotowania do podjęcia służby w Policji i Straży Granicznej realizowanych w ramach programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7, w oddziale o profilu mundurowym;
+  2) ocenianiu organizacji zajęć, o których mowa w pkt 1;
+  3) sprawdzaniu warunków realizacji zajęć, o których mowa w przepisach wydanych na podstawie art. 18 ust. 7;
+  4) udzielaniu pomocy szkołom, w których utworzono oddziały o profilu mundurowym, w tym pomocy dotyczącej wdrożenia nowych rozwiązań w procesie kształcenia w tych oddziałach przy zastosowaniu innowacyjnych działań programowych, organizacyjnych lub metodycznych.
+4. Nadzorowi, o którym mowa w ust. 1, podlega:
+  1) posiadanie przez szkołę odpowiednio wykwalifikowanej kadry do prowadzenia zajęć, o których mowa w ust. 3 pkt 1;
+  2) realizacja szczegółowych treści szkolenia, miejsce realizowania zajęć, o których mowa w ust. 3 pkt 1, formy i metody szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7;
+  3) zapewnienie uczniom bezpiecznych i higienicznych warunków podczas zajęć, o których mowa w ust. 3 pkt 1.
+5. Czynności z zakresu nadzoru przeprowadzają funkcjonariusze Policji lub Straży Granicznej i pracownicy jednostek organizacyjnych podległych ministrowi właściwemu do spraw wewnętrznych lub nadzorowanych przez niego, posiadający imienne upoważnienie Komendanta Głównego Policji albo Komendanta Głównego Straży Granicznej. Upoważnienie zawiera:
+  1) datę wydania i numer upoważnienia;
+  2) podstawę prawną przeprowadzenia czynności z zakresu nadzoru;
+  3) imię i nazwisko osoby upoważnionej do przeprowadzenia czynności z zakresu nadzoru;
+  4) pieczęć i podpis organu udzielającego upoważnienia.
+6. Komendant Główny Policji albo Komendant Główny Straży Granicznej, w terminie co najmniej 7 dni przed planowanym rozpoczęciem czynności z zakresu nadzoru, zawiadamiają dyrektora szkoły, w której utworzono oddział o profilu mundurowym, kierownika jednostki organizacyjnej, o której mowa w art. 28aa ust. 11, oraz organ prowadzący szkołę o zamiarze przeprowadzenia tych czynności i terminie ich przeprowadzenia.
+7. Funkcjonariusze i pracownicy, o których mowa w ust. 5, przeprowadzający czynności z zakresu nadzoru mają prawo:
+  1) wstępu do szkół, w których utworzono oddziały o profilu mundurowym, jednostek organizacyjnych Policji lub Straży Granicznej, w których są prowadzone zajęcia, o których mowa w ust. 3 pkt 1, oraz na teren innych obiektów, w których są prowadzone te zajęcia;
+  2) wglądu do dokumentacji dotyczącej przebiegu zajęć, o których mowa w ust. 3 pkt 1;
+  3) wglądu do dokumentów dotyczących kwalifikacji kadry do prowadzenia zajęć, o których mowa w ust. 3 pkt 1;
+  4) wstępu w charakterze obserwatora na zajęcia, o których mowa w ust. 3 pkt 1;
+  5) przeprowadzania badań służących ocenie efektywności działalności dydaktycznej i wychowawczej w oddziałach o profilu mundurowym.
+8. Z czynności przeprowadzonych w ramach nadzoru sporządza się protokół, który zawiera ocenę realizacji programu szkolenia, o którym mowa w przepisach wydanych na podstawie art. 18 ust. 7, w tym ocenę realizacji zajęć, o których mowa w ust. 3 pkt 1, oraz stwierdzone uchybienia i zalecenia dotyczące usunięcia tych uchybień wraz z terminem realizacji tych zaleceń. Protokół może zawierać rekomendacje wynikające z przeprowadzonych czynności z zakresu nadzoru.
+9. Funkcjonariusze i pracownicy, o których mowa w ust. 5, mogą wydawać dyrektorowi szkoły, w której utworzono oddział o profilu mundurowym, i kierownikowi jednostki organizacyjnej, o której mowa w art. 28aa ust. 11, zalecenia wynikające z przeprowadzonych czynności wraz z terminem ich realizacji.
+10. Dyrektor szkoły, w której utworzono oddział o profilu mundurowym, i kierownik jednostki organizacyjnej, o której mowa w art. 28aa ust. 11, w terminie 7 dni od dnia otrzymania zaleceń mogą zgłosić wobec nich zastrzeżenia do ministra właściwego do spraw wewnętrznych.
+11. Dyrektor szkoły, w której utworzono oddział o profilu mundurowym, i kierownik jednostki organizacyjnej, o której mowa w art. 28aa ust. 11, w terminie 30 dni od dnia otrzymania zaleceń, a w przypadku wniesienia zastrzeżeń zgodnie z ust. 10 - w terminie 30 dni od dnia otrzymania pisemnego zawiadomienia o nieuwzględnieniu zastrzeżeń, są obowiązani powiadomić:
+  1) Komendanta Głównego Policji albo Komendanta Głównego Straży Granicznej o sposobie realizacji zaleceń;
+  2) organ prowadzący szkołę o otrzymanych zaleceniach oraz o sposobie ich realizacji.
+12. W razie stwierdzenia istotnych uchybień w działalności oddziału o profilu mundurowym Komendant Główny Policji albo Komendant Główny Straży Granicznej niezależnie od środków, o których mowa w ust. 9, zawiadamiają o stwierdzonych uchybieniach organ prowadzący szkołę oraz ministra właściwego do spraw wewnętrznych.
+13. Komendant Główny Policji albo Komendant Główny Straży Granicznej mogą wydawać organowi prowadzącemu szkołę zalecenia wynikające z czynności nadzoru. Przepisy ust. 10 i 11 pkt 1 stosuje się odpowiednio.
+14. Komendant Główny Policji albo Komendant Główny Straży Granicznej mogą przetwarzać dane osobowe osób prowadzących zajęcia, o których mowa w ust. 3 pkt 1, i uczniów w zakresie niezbędnym do wykonywania nadzoru.
+15. Przeprowadzenie w szkole, w której utworzono oddział o profilu mundurowym, czynności z zakresu nadzoru nie może zakłócać pracy tej szkoły.
 
 **Art. 54.**
 1. W przypadku publicznych i niepublicznych szkół prowadzących kształcenie w zawodach dla żeglugi morskiej kurator oświaty sprawuje nadzór pedagogiczny, we współdziałaniu z ministrem właściwym do spraw gospodarki morskiej, w zakresie realizowania w procesie kształcenia w tych szkołach postanowień Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia marynarzy, wydawania im świadectw oraz pełnienia wacht, 1978, sporządzonej w Londynie dnia 7 lipca 1978 r. (Dz. U. z 1984 r. poz. 201, z 1999 r. poz. 286 oraz z 2013 r. poz. 1092).
@@ -1666,7 +1786,7 @@
 **Art. 97.**
 1. W szkole, która liczy co najmniej 12 oddziałów, tworzy się stanowisko wicedyrektora.
 2. Dyrektor szkoły, za zgodą organu prowadzącego szkołę, może tworzyć dodatkowe stanowiska wicedyrektorów lub inne stanowiska kierownicze.
-3. Przepisy ust. 1 i 2 nie dotyczą szkół artystycznych.
+3. Przepisy ust. 1 i 2 nie dotyczą szkół artystycznych oraz szkół prowadzonych przez Ministra Obrony Narodowej.
 
 **Art. 98.**
 1. Statut szkoły zawiera w szczególności:
@@ -1675,7 +1795,7 @@
   3) nazwę i siedzibę organu prowadzącego szkołę;
   4) cele i zadania szkoły wynikające z przepisów prawa oraz sposób ich wykonywania, w tym w zakresie udzielania pomocy psychologiczno-pedagogicznej, organizowania opieki nad dziećmi niepełnosprawnymi, umożliwiania uczniom podtrzymywania poczucia tożsamości narodowej, etnicznej, językowej i religijnej, z uwzględnieniem zasad bezpieczeństwa oraz zasad promocji i ochrony zdrowia;
   5) organy szkoły oraz ich szczegółowe kompetencje, a także szczegółowe warunki współdziałania organów szkoły oraz sposób rozwiązywania sporów między nimi;
-  6) organizację pracy szkoły, w tym organizację oddziałów sportowych, mistrzostwa sportowego, dwujęzycznych, przygotowania wojskowego, integracyjnych, specjalnych i klas wstępnych, o których mowa w art. 25 ust. 3, z uwzględnieniem organizacji nauczania i oceniania w tych klasach, oraz organizację nauczania języka mniejszości narodowych, mniejszości etnicznych lub języka regionalnego, jeżeli szkoła takie oddziały lub nauczanie prowadzi, organizację wczesnego wspomagania rozwoju dzieci, jeżeli szkoła takie wspomaganie prowadzi, a także zajęć rewalidacyjno-wychowawczych, jeśli szkoła takie zajęcia prowadzi;
+  6) organizację pracy szkoły, w tym organizację oddziałów sportowych, mistrzostwa sportowego, dwujęzycznych, przygotowania wojskowego, o profilu mundurowym, integracyjnych, specjalnych i klas wstępnych, o których mowa w art. 25 ust. 3, z uwzględnieniem organizacji nauczania i oceniania w tych klasach, oraz organizację nauczania języka mniejszości narodowych, mniejszości etnicznych lub języka regionalnego, jeżeli szkoła takie oddziały lub nauczanie prowadzi, organizację wczesnego wspomagania rozwoju dzieci, jeżeli szkoła takie wspomaganie prowadzi, a także zajęć rewalidacyjno-wychowawczych, jeśli szkoła takie zajęcia prowadzi;
   7) zakres zadań nauczycieli, w tym nauczyciela wychowawcy i nauczyciela bibliotekarza, oraz innych pracowników szkoły, w tym także zadania związane z zapewnieniem bezpieczeństwa uczniom w czasie zajęć organizowanych przez szkołę, a także sposób i formy wykonywania tych zadań dostosowane do wieku i potrzeb uczniów oraz warunków środowiskowych szkoły;
   8) szczegółowe warunki i sposób oceniania wewnątrzszkolnego uczniów, o którym mowa w art. 44b ustawy o systemie oświaty;
   9) nazwę zawodu lub zawodów, w których kształci szkoła - w przypadku szkoły prowadzącej kształcenie zawodowe;
@@ -1833,6 +1953,8 @@
   5) zajęcia prowadzone w ramach pomocy psychologiczno-pedagogicznej;
   6) zajęcia rozwijające zainteresowania i uzdolnienia uczniów, w szczególności w celu kształtowania ich aktywności i kreatywności;
   7) zajęcia z zakresu doradztwa zawodowego.
+  8) zajęcia z przygotowania wojskowego realizowane w ramach programu szkolenia w oddziale przygotowania wojskowego;
+  9) zajęcia z przygotowania do podjęcia służby w Policji i Straży Granicznej realizowane w ramach programu szkolenia w oddziale o profilu mundurowym.
 2. Formami działalności dydaktyczno-wychowawczej szkoły są także zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 12 ust. 2 ustawy o systemie oświaty, zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 13 ust. 3 ustawy o systemie oświaty, oraz zajęcia edukacyjne, o których mowa w przepisach wydanych na podstawie art. 4 ust. 3 ustawy z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży (Dz. U. poz. 78, z późn. zm.), organizowane w trybie określonym w tych przepisach.
 2a. W branżowej szkole II stopnia obowiązkowe zajęcia edukacyjne z zakresu kształcenia w zawodzie, w tym praktyczna nauka zawodu, są prowadzone w ramach kwalifikacyjnego kursu zawodowego.
 3. Zajęcia edukacyjne, o których mowa w ust. 1 pkt 2, organizuje dyrektor szkoły, za zgodą organu prowadzącego szkołę i po zasięgnięciu opinii rady pedagogicznej i rady rodziców.
@@ -2350,20 +2472,21 @@
 12. Do postępowania rekrutacyjnego do publicznych szkół i publicznych placówek artystycznych przepisy art. 149, art. 150 i art. 156-161 stosuje się odpowiednio.
 
 **Art. 143.**
-1. Do klasy I publicznej szkoły ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. a, prowadzonej przez Ministra Obrony Narodowej, albo oddziału przygotowania wojskowego w publicznej szkole ponadpodstawowej przyjmuje się kandydatów, którzy:
+1. Do klasy I publicznej szkoły ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. a, prowadzonej przez Ministra Obrony Narodowej, oddziału przygotowania wojskowego w publicznej szkole ponadpodstawowej albo oddziału o profilu mundurowym w publicznej szkole ponadpodstawowej przyjmuje się kandydatów, którzy:
   1) spełniają warunki, o których mowa w art. 134 ust. 1;
-  2) posiadają bardzo dobry stan zdrowia, potwierdzony orzeczeniem lekarskim wydanym przez lekarza podstawowej opieki zdrowotnej;
+  2) posiadają bardzo dobry stan zdrowia, potwierdzony orzeczeniem lub zaświadczeniem lekarskim wydanym przez lekarza podstawowej opieki zdrowotnej;
   3) posiadają pisemną zgodę rodziców na uczęszczanie kandydata do szkoły;
-  4) uzyskali pozytywne wyniki prób sprawności fizycznej przeprowadzonych na warunkach ustalonych przez radę pedagogiczną.
-2. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w szkole albo oddziale, o których mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę wyniki prób sprawności fizycznej, o których mowa w ust. 1 pkt 4.
-3. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego, na drugim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie odpowiednio następujące kryteria:
+  4) uzyskali pozytywne wyniki prób sprawności fizycznej przeprowadzonych na warunkach ustalonych przez radę pedagogiczną;
+  5) posiadają obywatelstwo polskie.
+2. W przypadku większej liczby kandydatów spełniających warunki, o których mowa w ust. 1, niż liczba wolnych miejsc w szkole albo oddziale, o których mowa w ust. 1, na pierwszym etapie postępowania rekrutacyjnego są brane pod uwagę łącznie następujące kryteria:
   1) wyniki egzaminu ósmoklasisty;
   2) wymienione na świadectwie ukończenia szkoły podstawowej oceny z języka polskiego i matematyki oraz z dwóch obowiązkowych zajęć edukacyjnych ustalonych przez dyrektora danej szkoły jako brane pod uwagę w postępowaniu rekrutacyjnym do danego oddziału tej szkoły;
   3) świadectwo ukończenia szkoły podstawowej z wyróżnieniem;
   4) szczególne osiągnięcia wymienione na świadectwie ukończenia szkoły podstawowej:
     a) uzyskanie wysokiego miejsca nagrodzonego lub uhonorowanego zwycięskim tytułem w zawodach wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty albo organizowanych co najmniej na szczeblu powiatowym przez inne podmioty działające na terenie szkoły, z wyjątkiem tytułu laureata lub finalisty ogólnopolskiej olimpiady przedmiotowej oraz tytułu laureata konkursu przedmiotowego o zasięgu wojewódzkim lub ponadwojewódzkim, o których mowa w art. 132,
     b) osiągnięcia w zakresie aktywności społecznej, w tym na rzecz środowiska szkolnego, w szczególności w formie wolontariatu.
-4. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego, na trzecim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 131 ust. 2 pkt 1 i 3-7. Przepis art. 131 ust. 3 stosuje się.
+3. W przypadku równorzędnych wyników uzyskanych na pierwszym etapie postępowania rekrutacyjnego na drugim etapie postępowania rekrutacyjnego są brane pod uwagę wyniki prób sprawności fizycznej, o których mowa w ust. 1 pkt 4.
+4. W przypadku równorzędnych wyników uzyskanych na drugim etapie postępowania rekrutacyjnego na trzecim etapie postępowania rekrutacyjnego są brane pod uwagę łącznie kryteria, o których mowa w art. 131 ust. 2 pkt 1 i 3-7. Przepis art. 131 ust. 3 stosuje się.
 
 **Art. 144.**
 1. Na zajęcia rozwijające zainteresowania lub rozwijające uzdolnienia organizowane w publicznej placówce oświatowo-wychowawczej przyjmuje się kandydatów zamieszkałych na obszarze danego powiatu.
@@ -2402,7 +2525,7 @@
 6. Organ prowadzący publiczną szkołę, publiczną placówkę lub publiczny ośrodek, o których mowa w art. 2 pkt 4, może przyjąć miejsce zamieszkania kandydata jako kryterium brane pod uwagę przed kryterium, o którym mowa w ust. 2.
 7. Przepisy ust. 1-6 nie mają zastosowania do postępowania rekrutacyjnego na kwalifikacyjne kursy zawodowe prowadzone przez publiczne szkoły, publiczne placówki i publiczne ośrodki, o których mowa w art. 2 pkt 4, na zlecenie innych podmiotów.
 
-**Art. 148.** Kurator oświaty corocznie do końca lutego podaje do publicznej wiadomości wykaz zawodów wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, które mogą być wymienione na świadectwie ukończenia szkoły podstawowej, o którym mowa w art. 134 ust. 2 pkt 4 lit. a, art. 137 ust. 6 pkt 4 lit. a, art. 140 ust. 3 pkt 5 lit. a i art. 143 ust. 3 pkt 4 lit. a, oraz określa miejsca uznane za wysokie w tych zawodach.
+**Art. 148.** Kurator oświaty corocznie do końca lutego podaje do publicznej wiadomości wykaz zawodów wiedzy, artystycznych i sportowych, organizowanych przez kuratora oświaty lub inne podmioty działające na terenie szkoły, które mogą być wymienione na świadectwie ukończenia szkoły podstawowej, o którym mowa w art. 134 ust. 2 pkt 4 lit. a, art. 137 ust. 6 pkt 4 lit. a, art. 140 ust. 3 pkt 5 lit. a i art. 143 ust. 2 pkt 4 lit. a, oraz określa miejsca uznane za wysokie w tych zawodach.
 
 **Art. 149.** Wniosek o przyjęcie do publicznego przedszkola, oddziału przedszkolnego w publicznej szkole podstawowej, publicznej innej formy wychowania przedszkolnego, publicznej szkoły, publicznej placówki, na zajęcia w publicznej placówce oświatowo-wychowawczej, na kształcenie ustawiczne w formach pozaszkolnych lub kwalifikacyjny kurs zawodowy, składa się odpowiednio do dyrektora:
 1) wybranego publicznego przedszkola lub wybranej publicznej szkoły, a w przypadku wyboru oddziału przedszkolnego w publicznej szkole podstawowej lub publicznej innej formy wychowania przedszkolnego - odpowiednio do dyrektora publicznego przedszkola lub publicznej szkoły podstawowej;
@@ -2419,7 +2542,8 @@
   3) adres miejsca zamieszkania rodziców i kandydata, a w przypadku kandydata pełnoletniego - adres miejsca zamieszkania kandydata;
   4) adres poczty elektronicznej i numery telefonów rodziców kandydata, a w przypadku kandydata pełnoletniego - adres poczty elektronicznej i numer telefonu kandydata, o ile je posiadają;
   5) wskazanie kolejności wybranych publicznych przedszkoli, oddziału przedszkolnego w publicznej szkole podstawowej, publicznych innych form wychowania przedszkolnego albo publicznych szkół w porządku od najbardziej do najmniej preferowanych;
-  6) w przypadku wniosku o przyjęcie do publicznych szkół ponadpodstawowych - wskazanie wybranego oddziału albo klasy wstępnej, o której mowa w art. 25 ust. 3, w danej szkole.
+  6) w przypadku wniosku o przyjęcie do publicznych szkół ponadpodstawowych - wskazanie wybranego oddziału albo klasy wstępnej, o której mowa w art. 25 ust. 3, w danej szkole;
+  7) w przypadku wniosku o przyjęcie do publicznej szkoły ponadpodstawowej, o której mowa w art. 18 ust. 1 pkt 2 lit. a, prowadzonej przez Ministra Obrony Narodowej, oddziału przygotowania wojskowego w publicznej szkole ponadpodstawowej albo oddziału o profilu mundurowym w publicznej szkole ponadpodstawowej - informację o obywatelstwie kandydata.
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
   1) dokumenty potwierdzające spełnianie przez kandydata kryteriów, o których mowa w art. 131 ust. 2, art. 134 ust. 4, art. 135 ust. 6, art. 136 ust. 3, art. 137 ust. 3 i 7, art. 138 ust. 3 i 4, art. 139 ust. 3, art. 140 ust. 4, art. 141 ust. 3, art. 142 ust. 5, art. 143 ust. 4, art. 144 ust. 3, art. 145 ust. 1 pkt 1 i 2, art. 146 ust. 1 i art. 147 ust. 3, odpowiednio:
     a) oświadczenie o wielodzietności rodziny kandydata,
@@ -2428,7 +2552,7 @@
     d) dokument poświadczający objęcie dziecka pieczą zastępczą zgodnie z ustawą z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2016 r. poz. 575, 1583 i 1860);
   2) dokumenty potwierdzające spełnianie przez kandydata kryteriów określonych przez organ prowadzący, o których mowa w art. 131 ust. 4, art. 133 ust. 2, art. 144 ust. 4 i art. 145 ust. 1 pkt 3;
   3) oświadczenie o dochodzie na osobę w rodzinie kandydata - jeżeli organ prowadzący określił kryterium dochodu na osobę w rodzinie kandydata;
-  4) dokumenty potwierdzające spełnianie przez kandydata warunków, o których mowa w art. 132, art. 134 ust. 1, ust. 2 pkt 1 i ust. 3, art. 135 ust. 1 i 5, art. 136 ust. 1 pkt 1 i 2, art. 137 ust. 1 pkt 1 i 2, ust. 4 i ust. 6 pkt 1, art. 138 ust. 4, art. 139 ust. 1 pkt 1, art. 140 ust. 1, 2 i ust. 3 pkt 1, art. 141 ust. 1 i 7, art. 143 ust. 1 pkt 1-3 i ust. 3 pkt 1 oraz art. 147 ust. 1 i 2, odpowiednio:
+  4) dokumenty potwierdzające spełnianie przez kandydata warunków, o których mowa w art. 132, art. 134 ust. 1, ust. 2 pkt 1 i ust. 3, art. 135 ust. 1 i 5, art. 136 ust. 1 pkt 1 i 2, art. 137 ust. 1 pkt 1 i 2, ust. 4 i ust. 6 pkt 1, art. 138 ust. 4, art. 139 ust. 1 pkt 1, art. 140 ust. 1, 2 i ust. 3 pkt 1, art. 141 ust. 1 i 7, art. 143 ust. 1 pkt 1-3 i ust. 2 pkt 1 oraz art. 147 ust. 1 i 2, odpowiednio:
     a) świadectwo ukończenia szkoły, a w przypadku, o którym mowa w art. 141 ust. 1 pkt 1 - dokument potwierdzający ukończenie klasy VI szkoły podstawowej,
     b) zaświadczenie o szczegółowych wynikach egzaminu ósmoklasisty,
     c) oświadczenie o nieposiadaniu żadnych kwalifikacji zawodowych przez kandydata,
@@ -2480,7 +2604,7 @@
 4. Dyrektor publicznej szkoły do końca lutego, a w przypadku publicznych szkół, w których zajęcia dydaktyczno-wychowawcze rozpoczynają się w pierwszym powszednim dniu lutego - do końca września, podaje do publicznej wiadomości odpowiednio informację o:
   1) języku obcym, który jest językiem nauczania albo drugim językiem nauczania w danej szkole, oddziale lub klasie, o których mowa w art. 138 ust. 1 i 4, art. 139 ust. 1 i art. 140 ust. 1 i 2;
   2) sporcie, w którym odbywa się szkolenie sportowe w danej szkole lub danym oddziale, o których mowa w art. 137 ust. 1 i 4;
-  3) obowiązkowych zajęciach edukacyjnych, o których mowa w art. 134 ust. 2 pkt 2, art. 135 ust. 4 pkt 1, art. 137 ust. 6 pkt 2, art. 139 ust. 2 pkt 2, art. 140 ust. 3 pkt 3 i art. 143 ust. 3 pkt 2, z których oceny wymienione na świadectwie ukończenia szkoły podstawowej albo branżowej szkoły I stopnia będą brane pod uwagę w postępowaniu rekrutacyjnym do szkoły ponadpodstawowej, o której mowa w art. 134 ust. 1, art. 135 ust. 1, art. 137 ust. 4, art. 138 ust. 4, art. 139 ust. 1, art. 140 ust. 1 i 2 oraz art. 143 ust. 1.
+  3) obowiązkowych zajęciach edukacyjnych, o których mowa w art. 134 ust. 2 pkt 2, art. 135 ust. 4 pkt 1, art. 137 ust. 6 pkt 2, art. 139 ust. 2 pkt 2, art. 140 ust. 3 pkt 3 i art. 143 ust. 2 pkt 2, z których oceny wymienione na świadectwie ukończenia szkoły podstawowej albo branżowej szkoły I stopnia będą brane pod uwagę w postępowaniu rekrutacyjnym do szkoły ponadpodstawowej, o której mowa w art. 134 ust. 1, art. 135 ust. 1, art. 137 ust. 4, art. 138 ust. 4, art. 139 ust. 1, art. 140 ust. 1 i 2 oraz art. 143 ust. 1.
 5. W przypadku nowo tworzonych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego i publicznych szkół terminy oraz informacje, o których mowa w ust. 2-4, należy podać do publicznej wiadomości nie później niż do dnia rozpoczęcia składania wniosków o przyjęcie odpowiednio do nowo tworzonych publicznych przedszkoli, publicznych innych form wychowania przedszkolnego lub publicznych szkół, a także oddziałów przedszkolnych w nowo tworzonych publicznych szkołach podstawowych, w postępowaniu rekrutacyjnym albo postępowaniu uzupełniającym, ustalonego zgodnie z ust. 1.
 6. W przypadku wystąpienia na danym terenie stanu nadzwyczajnego, w szczególności sytuacji zagrażającej życiu lub zdrowiu obywateli, uniemożliwiającego przeprowadzenie postępowania rekrutacyjnego lub postępowania uzupełniającego w terminach określonych w ust. 1-5, dyrektor przedszkola lub szkoły, w uzgodnieniu z organem prowadzącym, ustala terminy przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, w tym terminy składania dokumentów, oraz szczegółowe terminy, o których mowa w ust. 2 i 5, i podaje je do publicznej wiadomości poprzez umieszczenie w widocznym miejscu w siedzibie przedszkola lub szkoły oraz na jej stronie internetowej.
 7. Dyrektor publicznej szkoły, publicznej placówki lub publicznego centrum, o których mowa w art. 2 pkt 4, prowadzących kwalifikacyjne kursy zawodowe, w uzgodnieniu z organem prowadzącym, ustala i podaje do publicznej wiadomości terminy przeprowadzania postępowania rekrutacyjnego na kwalifikacyjne kursy zawodowe, w tym terminy składania dokumentów.
@@ -2535,7 +2659,7 @@
 3. Do postępowania uzupełniającego przepisy niniejszego rozdziału stosuje się odpowiednio.
 
 **Art. 162.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
-1) sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w art. 134 ust. 2 pkt 1-4, art. 135 ust. 4 pkt 1 i 2, art. 137 ust. 6, art. 138 ust. 4, art. 139 ust. 2 pkt 2 i 3, art. 140 ust. 3 pkt 1 i 3-5 i art. 143 ust. 3, uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych szkół na równych i przejrzystych zasadach oceny ich wiedzy, umiejętności i osiągnięć;
+1) sposób przeliczania na punkty poszczególnych kryteriów, o których mowa w art. 134 ust. 2 pkt 1-4, art. 135 ust. 4 pkt 1 i 2, art. 137 ust. 6, art. 138 ust. 4, art. 139 ust. 2 pkt 2 i 3, art. 140 ust. 3 pkt 1 i 3-5 i art. 143 ust. 2, uwzględniając konieczność zapewnienia przyjmowania kandydatów do wybranych szkół na równych i przejrzystych zasadach oceny ich wiedzy, umiejętności i osiągnięć;
 2) sposób ustalania punktacji w przypadku osób zwolnionych z obowiązku przystąpienia odpowiednio do egzaminu ósmoklasisty lub do danego przedmiotu objętego egzaminem ósmoklasisty, uwzględniając rodzaje obowiązkowych zajęć edukacyjnych, z których oceny są przeliczane na punkty;
 3) skład i szczegółowe zadania komisji rekrutacyjnej, o której mowa w art. 157, oraz szczegółowy tryb przeprowadzania postępowania rekrutacyjnego i postępowania uzupełniającego, uwzględniając konieczność zapewnienia bezstronnego wykonywania zadań przez komisję rekrutacyjną, dokonania weryfikacji spełniania przez kandydata warunków lub kryteriów branych pod uwagę w postępowaniu rekrutacyjnym i postępowaniu uzupełniającym oraz właściwego dokumentowania postępowania rekrutacyjnego i postępowania uzupełniającego.
 
@@ -2708,7 +2832,7 @@
   5) prawa i obowiązki pracowników oraz uczniów szkoły lub placówki, w tym przypadki, w których uczeń może zostać skreślony z listy uczniów szkoły lub placówki, a także tryb składania skarg w przypadku naruszenia praw uczniów;
   6) sposób uzyskiwania środków finansowych na działalność szkoły lub placówki;
   7) zasady przyjmowania uczniów do szkoły lub placówki - z tym że statut uwzględnia warunki, o których mowa w:
-    a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1, art. 143 ust. 1 i 2 oraz art. 150 ust. 2 pkt 4 lit. e-fc - w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej, mistrzostwa sportowego i z oddziałami przygotowania wojskowego,
+    a) art. 134 ust. 1, art. 135 ust. 1 i 2, art. 136 ust. 1, art. 143 ust. 1-3 oraz art. 150 ust. 2 pkt 4 lit. e-fd - w przypadku szkoły ponadpodstawowej, w tym dwujęzycznej, sportowej, mistrzostwa sportowego, z oddziałami przygotowania wojskowego i z oddziałami o profilu mundurowym,
     b) art. 141 ust. 1, 6 i 7 - w przypadku szkół dla dorosłych;
   7a) zasady przyjmowania słuchaczy na kwalifikacyjne kursy zawodowe - z tym że statut placówki i centrum, o których mowa w art. 2 pkt 4, oraz szkoły prowadzącej kształcenie zawodowe, z wyjątkiem szkoły artystycznej, prowadzących te kursy uwzględnia warunki, o których mowa w art. 147 ust. 1;
   8) w przypadku niepublicznej szkoły artystycznej o uprawnieniach publicznej szkoły artystycznej - także zasady przeprowadzania sprawdzianu uzdolnień, predyspozycji lub praktycznych umiejętności niezbędnych do podjęcia kształcenia w danej szkole artystycznej, danym zawodzie, specjalności lub specjalizacji, o którym mowa w art. 14 ust. 4 pkt 3;
