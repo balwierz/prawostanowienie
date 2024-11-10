@@ -455,8 +455,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 13. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, tryb gromadzenia, sposoby przetwarzania informacji, w tym danych osobowych, o których mowa w ust. 2 i 3, w zbiorach danych, wzory dokumentów obowiązujących przy przetwarzaniu danych oraz sposób oceny danych pod kątem ich przydatności w prowadzonych postępowaniach, uwzględniając potrzebę ochrony danych przed nieuprawnionym dostępem i przesłanki zaniechania zbierania określonych rodzajów informacji, a także konieczność dostosowania się do wymogów określonych przez organy innych państw w związku z pobieraniem lub uzyskiwaniem tych informacji.
 
 **Art. 57.**
-1. W celu rozpoznania, zapobiegania i wykrywania przestępstw, o których mowa w art. 42 ust. 1, SOP może uzyskiwać dane niestanowiące treści odpowiednio przekazu telekomunikacyjnego, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
-  1) art. 180c i art. 180d ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907 i 2201 oraz z 2018 r. poz. 106), zwane dalej „danymi telekomunikacyjnymi”,
+1. W celu rozpoznania, zapobiegania i wykrywania przestępstw, o których mowa w art. 42 ust. 1, SOP może uzyskiwać dane niestanowiące treści odpowiednio komunikatu elektronicznego przesyłanego w ramach świadczonej publicznie dostępnej usługi telekomunikacyjnej, przesyłki pocztowej albo przekazu w ramach usługi świadczonej drogą elektroniczną, określone w:
+  1) art. 45 ust. 1 i art. 49 ustawy z dnia 12 lipca 2024 r. - Prawo komunikacji elektronicznej (Dz. U. poz. 1221), zwane dalej „danymi telekomunikacyjnymi”,
   2) art. 82 ust. 1 pkt 1 ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106), zwane dalej „danymi pocztowymi”,
   3) art. 18 ust. 1-5 ustawy z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną (Dz. U. z 2017 r. poz. 1219), zwane dalej „danymi internetowymi”
 - oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
@@ -483,8 +483,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
 **Art. 59.**
 1. W celu realizacji zadań, o których mowa w art. 19 ust. 1 pkt 2, SOP może uzyskiwać dane:
-  1) z wykazu, o którym mowa w art. 179 ust. 9 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne,
-  2) o których mowa w art. 161 ustawy z dnia 16 lipca 2004 r. - Prawo telekomunikacyjne,
+  1) o których mowa w art. 43 ust. 1 pkt 1 lit. a tiret drugie ustawy z dnia 12 lipca 2024 r. - Prawo komunikacji elektronicznej,
+  2) o których mowa w art. 389 ustawy z dnia 12 lipca 2024 r. - Prawo komunikacji elektronicznej,
   3) w przypadku użytkownika, który nie jest osobą fizyczną, numer zakończenia sieci oraz siedzibę lub miejsce wykonywania działalności gospodarczej, firmę lub nazwę i formę organizacyjną tego użytkownika,
   4) w przypadku stacjonarnej publicznej sieci telekomunikacyjnej - także nazwę miejscowości oraz ulicy, przy której znajduje się zakończenie sieci, udostępnione użytkownikowi
 - oraz może je przetwarzać bez wiedzy i zgody osoby, której dotyczą.
