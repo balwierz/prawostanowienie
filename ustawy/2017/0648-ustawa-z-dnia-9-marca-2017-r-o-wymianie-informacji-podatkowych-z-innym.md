@@ -994,7 +994,7 @@
 4. Jeżeli operator platformy wybierze inne niż Rzeczpospolita Polska państwo członkowskie jako państwo, w którym będzie wypełniać obowiązki sprawozdawcze wynikające z sekcji III załącznika V dyrektywy 2011/16/UE, jest obowiązany powiadomić Szefa Krajowej Administracji Skarbowej o dokonanym wyborze elektronicznie, za pomocą formularza rejestracyjnego zgodnie z art. 75u ust. 5-9, przekazując następujące informacje:
   1) nazwę;
   2) główny adres;
-  3) adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), zwany dalej „adresem do doręczeń elektronicznych”;
+  3) adres elektroniczny;
   4) adresy stron internetowych;
   5) każdy TIN nadany raportującemu operatorowi platformy spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT;
   6) państwo członkowskie, w którym będzie wypełniać obowiązki sprawozdawcze.
@@ -1007,7 +1007,7 @@
   1) informacje dotyczące raportującego operatora platformy:
     a) nazwę,
     b) główny adres,
-    c) adres do doręczeń elektronicznych,
+    c) adres elektroniczny,
     d) adresy stron internetowych,
     e) każdy TIN nadany raportującemu operatorowi platformy spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT,
     f) informację o identyfikacji raportującego operatora platformy do celów podatku od towarów i usług lub podatku od wartości dodanej, zgodnie z tytułem XII rozdziałem 6 sekcją 2 i 3 dyrektywy 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1, z późn. zm.),
@@ -1019,7 +1019,7 @@
     d) państwo wydania dokumentu, o którym mowa w lit. c,
     e) dane pełnomocnika oraz dane wystawcy kwalifikowanego certyfikatu podpisu elektronicznego, zawarte w kwalifikowanym certyfikacie podpisu elektronicznego - w przypadku gdy pełnomocnik będzie opatrywał dokumenty kwalifikowanym podpisem elektronicznym,
     f) numer PESEL pełnomocnika posługującego się podpisem zaufanym - w przypadku gdy nie są przekazywane dane, o których mowa w lit. e,
-    g) adres do doręczeń elektronicznych - w przypadku gdy pełnomocnikiem jest adwokat, radca prawny lub doradca podatkowy albo osoba, o której mowa w art. 138c § 2 ustawy - Ordynacja podatkowa,
+    g) adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2024 r. poz. 1045) - w przypadku gdy pełnomocnikiem jest adwokat, radca prawny lub doradca podatkowy albo osoba, o której mowa w art. 138c § 2 ustawy - Ordynacja podatkowa,
     h) numer telefonu,
     i) adres poczty elektronicznej,
     j) oświadczenie raportującego operatora platformy o upoważnieniu pełnomocnika do podpisywania informacji o sprzedawcach oraz korekt formularza rejestracyjnego.
@@ -1054,7 +1054,7 @@
   1) raportujący operator platformy powiadomi Szefa Krajowej Administracji Skarbowej zgodnie z art. 75u ust. 5-8 o zaprzestaniu prowadzenia działalności jako operator platformy, przekazując w formularzu rejestracyjnym następujące dane:
     a) nazwę,
     b) główny adres,
-    c) adres do doręczeń elektronicznych,
+    c) adres elektroniczny,
     d) każdy TIN nadany raportującemu operatorowi platformy spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT,
     e) datę zaprzestania prowadzenia działalności jako operator platformy;
   2) mimo braku powiadomienia, o którym mowa w pkt 1, istnieje uzasadnione przypuszczenie, że działalność podmiotu jako raportującego operatora platformy została zakończona;
@@ -1417,6 +1417,8 @@ w terminie 3 miesięcy od dnia zakończenia sprawozdawczego roku obrotowego grup
 **Art. 97.** W ustawie z dnia 9 października 2015 r. o zmianie ustawy o podatku dochodowym od osób fizycznych, ustawy o podatku dochodowym od osób prawnych oraz niektórych innych ustaw (Dz. U. poz. 1932) uchyla się art. 12.
 
 ### Rozdział 2 — Przepisy przejściowe i końcowe
+
+**Art. 97a.** Listę państw i terytoriów, o której mowa w art. 75a ust. 6, obowiązującą za 2023 r., ogłasza się w terminie do dnia 31 grudnia 2024 r.
 
 **Art. 98.**
 1. W celu identyfikacji nowych rachunków, o których mowa w art. 24 ust. 1 pkt 15, otwartych w okresie między dniem 1 stycznia 2016 r. a dniem 30 kwietnia 2017 r., jako rachunków raportowanych, o których mowa w art. 24 ust. 1 pkt 43, raportująca instytucja finansowa, o której mowa w art. 24 ust. 1 pkt 44, jest obowiązana:
