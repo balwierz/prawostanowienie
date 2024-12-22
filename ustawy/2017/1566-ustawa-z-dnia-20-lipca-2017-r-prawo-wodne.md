@@ -3693,7 +3693,7 @@
   13) podsumowanie działań podjętych w celu zapobieżenia skutkom zanieczyszczeń niedających się przewidzieć lub łagodzenia tych skutków, zawierające w szczególności informacje o wynikach prowadzonych działań oraz ich wpływie na stan wód;
   14) podsumowanie działań, o których mowa w art. 325, zawierające w szczególności informacje o wynikach przeglądu pozwoleń wodnoprawnych oraz programów monitoringu wód;
   15) informacje o sposobie prowadzenia działań polegających na utrzymywaniu wód uwzględniających cele środowiskowe określone w art. 56, art. 57, art. 59 oraz w art. 61;
-  16) informacje o działaniach zastosowanych w celu niedopuszczenia do wzrostu zanieczyszczeń wód morskich;
+  16) informacje o działaniach zastosowanych w celu niedopuszczenia do wzrostu zanieczyszczeń wód morskich, w tym zanieczyszczeń zawierającymi tworzywa sztuczne narzędziami połowowymi stanowiącymi odpady w rozumieniu art. 2 pkt 4b ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej;
   17) informacje o pozostałych działaniach, innych niż wskazane w pkt 8-16, które podjęto ze względu na konieczność osiągnięcia ustalonych celów środowiskowych;
   18) wykaz szczegółowych programów i planów gospodarowania dla obszaru dorzecza dotyczących zlewni, sektorów gospodarki, problemów lub typów wód wraz z omówieniem zawartości tych programów i planów;
   19) podsumowanie działań zastosowanych w celu informowania społeczeństwa i konsultacji publicznych, opis wyników i dokonanych na tej podstawie zmian w planie;
