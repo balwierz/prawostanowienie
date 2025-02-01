@@ -3,7 +3,7 @@
 ## Rozdział 1 — Przepisy ogólne
 
 **Art. 1.**
-1. Ustawa określa zasady dotyczące ograniczenia handlu oraz wykonywania czynności związanych z handlem w placówkach handlowych w niedziele i święta oraz w dniu 24 grudnia i w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy.
+1. Ustawa określa zasady dotyczące ograniczenia handlu oraz wykonywania czynności związanych z handlem w placówkach handlowych w niedziele i święta oraz w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy.
 2. Przepisy ustawy stosuje się do przedsiębiorców w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. - Prawo przedsiębiorców (Dz. U. poz. 646) wykonujących zarobkową działalność handlową.
 
 **Art. 2.** Wzakresie nieuregulowanym w ustawie do wykonywania pracy przez pracowników w placówkach handlowych w niedziele i święta stosuje się przepisy ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz. U. z 2018 r. poz. 108, 4, 138 i 305).
@@ -18,7 +18,7 @@
 7) wykonywaniu pracy w handlu oraz wykonywaniu czynności związanych z handlem w niedziele i święta w placówkach handlowych - należy przez to rozumieć wykonywanie takiej pracy lub takich czynności przez pracownika lub zatrudnionego w okresie 24 kolejnych godzin przypadających odpowiednio między godziną 2400 w sobotę a godziną 2400 w niedzielę, i między godziną 2400 w dniu bezpośrednio poprzedzającym święto a godziną 2400 w święto;
 8) stacji paliw płynnych - należy przez to rozumieć obiekt budowlany, spełniający warunki przewidziane w obowiązujących przepisach dotyczących warunków technicznych, jakim powinny odpowiadać bazy i stacje paliw płynnych, w obrębie którego dokonywana jest sprzedaż produktów naftowych na podstawie ważnej koncesji udzielonej w oparciu o przepisy ustawy z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz. U. z 2017 r. poz. 220, z późn. zm.).
 
-**Art. 4.** Powierzanie wykonywania pracy w handlu lub wykonywania czynności związanych z handlem nieodpłatnie w placówkach handlowych w niedziele i święta, a także w dniu 24 grudnia i w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy - jest zakazane.
+**Art. 4.** Powierzanie wykonywania pracy w handlu lub wykonywania czynności związanych z handlem nieodpłatnie w placówkach handlowych w niedziele i święta, a także w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy - jest zakazane.
 
 ## Rozdział 2 — Ograniczenia handlu oraz wykonywania czynności związanych z handlem w niedziele i święta
 
@@ -70,24 +70,25 @@
 
 **Art. 7.**
 1. Zakaz, o którym mowa w art. 5, nie obowiązuje w:
-  1) kolejne dwie niedziele poprzedzające pierwszy dzień Bożego Narodzenia, z wyłączeniem niedzieli przypadającej na dzień 24 grudnia;
+  1) kolejne trzy niedziele poprzedzające Wigilię Bożego Narodzenia;
   2) niedzielę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy;
   3) ostatnią niedzielę przypadającą w styczniu, kwietniu, czerwcu i sierpniu.
-1a. Jeżeli niedziela poprzedzająca pierwszy dzień Bożego Narodzenia przypada na dzień 24 grudnia, zakaz, o którym mowa w art. 5, nie obowiązuje w kolejne dwie niedziele poprzedzające tę niedzielę.
+1a. (uchylony)
+1b. W przypadku, o którym mowa w ust. 1 pkt 1, pracownik lub zatrudniony może wykonywać pracę w handlu oraz wykonywać czynności związane z handlem nie więcej niż w dwie niedziele.
 2. Jeżeli w niedzielę, o której mowa w ust. 1 pkt 3, przypada święto, przepis art. 5 stosuje się.
 
-## Rozdział 3 — Ograniczenia handlu oraz wykonywania czynności związanych z handlem w dniu 24 grudnia i w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy
+## Rozdział 3 — Ograniczenia handlu oraz wykonywania czynności związanych z handlem w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy
 
 **Art. 8.**
-1. W dniu 24 grudnia i w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy w placówkach handlowych:
+1. W sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy w placówkach handlowych:
   1) handel oraz wykonywanie czynności związanych z handlem,
   2) powierzanie pracownikowi lub zatrudnionemu wykonywania pracy w handlu oraz wykonywania czynności związanych z handlem
-- po godzinie 1400 są zakazane, z wyjątkiem przypadków określonych w art. 6.
+- po godzinie 14.00 są zakazane, z wyjątkiem przypadków określonych w art. 6.
 2. (uchylony)
-3. Jeżeli dzień 24 grudnia przypada w niedzielę, zakaz, o którym mowa w art. 5, obowiązuje, z wyjątkiem przypadków określonych w art. 6.
+3. (uchylony)
 
 **Art. 9.**
-1. Pracownik zachowuje prawo do wynagrodzenia za czas nieprzepracowany w związku ze zmniejszeniem wymiaru jego czasu pracy z powodu wykonywania pracy w dniu 24 grudnia lub w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy do godziny 1400.
+1. Pracownik zachowuje prawo do wynagrodzenia za czas nieprzepracowany w związku ze zmniejszeniem wymiaru jego czasu pracy z powodu wykonywania pracy w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy do godziny 14.00.
 2. Wynagrodzenie, o którym mowa w ust. 1, oblicza się stosując zasady obowiązujące przy ustalaniu wynagrodzenia za czas urlopu wypoczynkowego.
 
 ## Rozdział 4 — Przepisy karne
@@ -95,7 +96,7 @@
 **Art. 10.**
 1. Kto, wbrew zakazowi handlu oraz wykonywania czynności związanych z handlem w niedziele lub święta, powierza wykonywanie pracy w handlu lub wykonywanie czynności związanych z handlem pracownikowi lub zatrudnionemu, podlega karze grzywny w wysokości od 1000 do 100 000 zł.
 2. Tej samej karze podlega, kto:
-  1) wbrew zakazowi handlu oraz wykonywania czynności związanych z handlem po godzinie 14.00 w dniu 24 grudnia lub w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy, powierza wykonywanie pracy w handlu lub wykonywanie czynności związanych z handlem pracownikowi lub zatrudnionemu;
+  1) wbrew zakazowi handlu oraz wykonywania czynności związanych z handlem po godzinie 14.00 w sobotę bezpośrednio poprzedzającą pierwszy dzień Wielkiej Nocy, powierza pracownikowi lub zatrudnionemu wykonywanie pracy w handlu lub wykonywanie czynności związanych z handlem;
   2) wbrew obowiązkowi określonemu w art. 6 ust. 3 nie prowadzi ewidencji miesięcznego przychodu placówki albo tę ewidencję prowadzi w sposób niezgodny z przepisami wydanymi na podstawie art. 6 ust. 6.
 
 **Art. 11.** Orzekanie w sprawach o czyny, o których mowa w art. 10, następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. - Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2016 r. poz. 1713, z późn. zm.).
