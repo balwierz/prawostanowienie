@@ -931,8 +931,8 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 3. Ochrona, o której mowa w ust. 1, nie przysługuje funkcjonariuszowi zwalnianemu ze służby na podstawie art. 107 ust. 1 pkt 5 oraz ust. 2 pkt 2.
 
 **Art. 112.**
-1. Funkcjonariusza nie można zwolnić ze służby w okresie ciąży, w czasie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego lub urlopu wychowawczego, z wyjątkiem przypadków określonych w art. 107 ust. 1 pkt 4, 5 i 7 oraz ust. 2 pkt 2, 3 i 5.
-2. W razie zwolnienia funkcjonariusza ze służby na podstawie art. 107 ust. 2 pkt 5 w okresie ciąży, w czasie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, urlopu ojcowskiego lub urlopu rodzicielskiego przysługuje mu uposażenie do końca okresu ciąży oraz trwania wymienionego urlopu.
+1. Funkcjonariusza nie można zwolnić ze służby w okresie ciąży, w czasie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego lub urlopu wychowawczego, z wyjątkiem przypadków określonych w art. 107 ust. 1 pkt 4, 5 i 7 oraz ust. 2 pkt 2, 3 i 5.
+2. W razie zwolnienia funkcjonariusza ze służby na podstawie art. 107 ust. 2 pkt 5 w okresie ciąży, w czasie urlopu macierzyńskiego, urlopu na warunkach urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu ojcowskiego lub urlopu rodzicielskiego przysługuje mu uposażenie do końca okresu ciąży oraz trwania wymienionego urlopu.
 
 **Art. 113.** Funkcjonariusza zwalnia ze służby Komendant SOP. Przepis art. 78 ust. 2 stosuje się odpowiednio.
 
@@ -1632,7 +1632,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 2a. Funkcjonariuszowi zwolnionemu ze służby nagrodę roczną wypłaca się w terminie 14 dni od dnia zwolnienia.
 3. Nagroda roczna przysługuje funkcjonariuszowi mianowanemu do służby w trakcie poprzedniego roku kalendarzowego, jeżeli pełnił służbę w roku mianowania przez okres co najmniej 3 miesięcy kalendarzowych, w wysokości proporcjonalnej do liczby rozpoczętych miesięcy służby w danym roku.
 4. Przepisu ust. 3 nie stosuje się przy ustalaniu uprawnień do nagrody rocznej za rok kalendarzowy, w którym funkcjonariusz korzystał:
-  1) z urlopu wychowawczego, urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego, urlopu na warunkach urlopu macierzyńskiego, dodatkowego urlopu na warunkach urlopu macierzyńskiego;
+  1) z urlopu wychowawczego, urlopu macierzyńskiego, uzupełniającego urlopu macierzyńskiego, urlopu ojcowskiego, urlopu rodzicielskiego, urlopu na warunkach urlopu macierzyńskiego;
   2) ze zwolnienia od wykonywania zajęć służbowych z przyczyn, o których mowa w art. 186 § 2 lub art. 188 Kodeksu pracy;
   3) ze zwolnienia od wykonywania zajęć służbowych w razie urodzenia się dziecka funkcjonariusza, zgodnie z przepisami wykonawczymi wydanymi na podstawie art. 2982Kodeksu pracy;
   4) ze zwolnienia od wykonywania zajęć służbowych z powodu konieczności osobistego sprawowania opieki nad dzieckiem, o którym mowa w art. 33 ust. 1 pkt 1 ustawy z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2017 r. poz. 1368).
@@ -1822,7 +1822,7 @@ Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 **Art. 192.** W okresie urlopu, zwolnienia od zajęć służbowych lub pozostawania w dyspozycji funkcjonariusz zachowuje prawo do pobieranego ostatnio uposażenia i innych należności pieniężnych, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na wysokość uposażenia zasadniczego i innych należności pieniężnych.
 
 **Art. 193.**
-1. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100% uposażenia, o którym mowa w art. 192.
+1. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu macierzyńskiego, okres urlopu na warunkach urlopu macierzyńskiego, okres uzupełniającego urlopu macierzyńskiego oraz okres urlopu ojcowskiego wynosi 100% uposażenia, o którym mowa w art. 192.
 2. Miesięczne uposażenie funkcjonariusza za okres ustalony przepisami Kodeksu pracy jako okres urlopu rodzicielskiego wynosi 70% miesięcznego uposażenia, o którym mowa w art. 192.
 3. Funkcjonariusz - kobieta, nie później niż 21 dni po porodzie, może złożyć pisemny wniosek o wypłacenie jej uposażenia za okres odpowiadający okresowi urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, z wyłączeniem okresu, o którym mowa w art. 1821a § 4 Kodeksu pracy, przysługującego ojcu dziecka, w wysokości 81,5% uposażenia, o którym mowa w art. 192.
 4. Funkcjonariusz, nie później niż 21 dni po przyjęciu dziecka na wychowanie i wystąpieniu do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka albo po przyjęciu dziecka na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej zawodowej, może złożyć pisemny wniosek o wypłacenie mu uposażenia za okres odpowiadający okresowi urlopu na warunkach urlopu macierzyńskiego i urlopu rodzicielskiego w pełnym wymiarze, z wyłączeniem okresu, o którym mowa w art. 1821a § 4 Kodeksu pracy, przysługującego drugiemu rodzicowi dziecka, w wysokości 81,5% uposażenia, o którym mowa w art. 192.
