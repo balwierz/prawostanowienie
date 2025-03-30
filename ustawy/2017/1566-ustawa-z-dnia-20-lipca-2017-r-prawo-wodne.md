@@ -1637,7 +1637,7 @@
     a) wpływające na dozwoloną intensywność działalności człowieka,
     b) wpływające na dozwolony stopień zakłóceń w ekosystemach morskich,
     c) wpływające na lokalizację oraz termin realizacji planowanych przedsięwzięć,
-    d) przyczyniające się do identyfikacji zanieczyszczeń wód morskich,
+    d) przyczyniające się do identyfikacji zanieczyszczeń wód morskich, w tym ich zanieczyszczeń zawierającymi tworzywa sztuczne narzędziami połowowymi stanowiącymi odpady, w rozumieniu art. 2 pkt 4b ustawy z dnia 11 maja 2001 r. o obowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej (Dz. U. z 2020 r. poz. 1903 oraz z 2023 r. poz. 877),
     e) które ze względu na interes gospodarczy zachęcają użytkowników ekosystemów morskich do działania w sposób pozwalający na osiągnięcie lub utrzymanie dobrego stanu środowiska wód morskich,
     f) służące przywróceniu poprzedniego stanu naruszonych elementów ekosystemów morskich,
     g) zapewniające wszystkim zainteresowanym udział w osiągnięciu dobrego stanu środowiska wód morskich oraz mające na celu wzrost świadomości społecznej w zakresie osiągnięcia lub utrzymania dobrego stanu środowiska wód morskich;
