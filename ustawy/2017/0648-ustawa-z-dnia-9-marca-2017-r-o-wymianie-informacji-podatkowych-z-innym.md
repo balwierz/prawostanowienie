@@ -789,6 +789,338 @@
 2. Wymiana informacji, o których mowa w art. 73, z państwami uczestniczącymi, o których mowa w art. 24 ust. 1 pkt 25 lit. b i c, następuje za pomocą środków komunikacji elektronicznej, według formatu określonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez Organizację Współpracy Gospodarczej i Rozwoju (OECD) w zakresie obowiązkowej automatycznej wymiany informacji o rachunkach raportowanych.
 3. Szef Krajowej Administracji Skarbowej, w celu usprawnienia współpracy, może zawierać z właściwym organem innego państwa porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji o rachunkach raportowanych.
 
+## Dział IIIA — Automatyczna wymiana informacji o sprzedawcach
+
+### Rozdział 1 — Przepisy ogólne
+
+**Art. 75a.**
+1. Ilekroć w niniejszym dziale jest mowa o:
+  1) aktywnym sprzedawcy - rozumie się przez to sprzedawcę, który wykonuje stosowną czynność w okresie sprawozdawczym albo któremu przysługuje wynagrodzenie w związku z wykonywaniem stosownej czynności w okresie sprawozdawczym;
+  2) głównym adresie - rozumie się przez to adres głównego miejsca pobytu sprzedawcy będącego osobą fizyczną albo adres siedziby sprzedawcy będącego podmiotem;
+  3) grupie obiektów - rozumie się przez to nieruchomości i ich części, w tym pomieszczenia przynależne, położone pod tym samym adresem oraz udziały w tych nieruchomościach, będące własnością tej samej osoby i oferowane na platformie przez tego samego sprzedawcę;
+  4) identyfikatorze rachunku finansowego - rozumie się przez to dostępny dla operatora platformy unikatowy identyfikator w rozumieniu art. 2 pkt 33 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych, niepowtarzalny numer identyfikacyjny lub niepowtarzalne informacje referencyjne rachunku bankowego, rachunku w spółdzielczej kasie oszczędnościowo-kredytowej lub innego rachunku służącego do wykonywania transakcji płatniczych, na który jest wpłacane lub na którym jest uznawane wynagrodzenie;
+  5) kwalifikowanej jurysdykcji spoza Unii Europejskiej - rozumie się przez to państwo lub terytorium spoza Unii Europejskiej, które zawarło z Rzecząpospolitą Polską skuteczną kwalifikującą umowę i ujęło Rzeczpospolitą Polską w prowadzonym przez siebie wykazie państw i terytoriów, które zawarły skuteczną kwalifikującą umowę;
+  6) kwalifikowanej stosownej czynności - rozumie się przez to stosowną czynność objętą automatyczną wymianą na podstawie skutecznej kwalifikującej umowy;
+  7) kwalifikowanym operatorze platformy spoza Unii Europejskiej - rozumie się przez to operatora platformy, który:
+    a) jest rezydentem do celów podatkowych w kwalifikowanej jurysdykcji spoza Unii Europejskiej lub
+    b) jest zarejestrowany lub posiada miejsce zarządu, w tym faktyczny zarząd, w kwalifikowanej jurysdykcji spoza Unii Europejskiej
+  - jeżeli wszystkie stosowne czynności, których wykonywanie umożliwia, są kwalifikowanymi stosownymi czynnościami;
+  8) numerze identyfikacji VAT - rozumie się przez to niepowtarzalny numer służący do identyfikacji podatnika lub osoby prawnej niebędącej podatnikiem zarejestrowanej na potrzeby podatku od towarów i usług lub podatku od wartości dodanej;
+  9) okresie sprawozdawczym - rozumie się przez to rok kalendarzowy, za który jest przekazywana informacja o sprzedawcach, o której mowa w art. 75b ust. 1;
+  10) operatorze platformy - rozumie się przez to podmiot, który zawiera umowy ze sprzedawcami w celu udostępnienia im platformy albo jej części;
+  11) państwie uczestniczącym - rozumie się przez to:
+    a) Rzeczpospolitą Polską oraz inne państwo członkowskie,
+    b) kwalifikowaną jurysdykcję spoza Unii Europejskiej,
+    c) państwo lub terytorium, z którym Rzeczpospolita Polska zawarła porozumienie stanowiące podstawę automatycznej wymiany informacji o sprzedawcach, niebędące kwalifikowaną jurysdykcją spoza Unii Europejskiej;
+  12) platformie - rozumie się przez to, z zastrzeżeniem ust. 2:
+    a) oprogramowanie, w tym stronę internetową albo jej część,
+    b) aplikacje, w tym aplikacje mobilne
+  - które są dostępne dla użytkowników i umożliwiają sprzedawcom łączność z innymi użytkownikami w celu wykonywania, bezpośrednio lub pośrednio, stosownej czynności na rzecz tych użytkowników, a także ustalenia dotyczące poboru i wypłaty wynagrodzenia z tytułu stosownej czynności;
+  13) podmiocie - rozumie się przez to osobę prawną, jednostkę organizacyjną nieposiadającą osobowości prawnej lub trust, a także umowę, w szczególności spółki cywilnej, na podstawie której strony, które ją zawarły, zamierzają wspólnie realizować określone w niej cele lub zadania;
+  14) raportującym operatorze platformy - rozumie się przez to raportującego operatora platformy z Unii Europejskiej i raportującego operatora platformy spoza Unii Europejskiej;
+  15) raportującym operatorze platformy spoza Unii Europejskiej - rozumie się przez to operatora platformy, z wyjątkiem wyłączonego operatora platformy, umożliwiającego wykonywanie stosownej czynności dotyczącej udostępnienia nieruchomości położonej na terytorium państwa uczestniczącego lub stosownej czynności przez sprzedawcę podlegającego raportowaniu, który nie jest raportującym operatorem platformy z Unii Europejskiej ani kwalifikowanym operatorem platformy spoza Unii Europejskiej;
+  16) raportującym operatorze platformy z Unii Europejskiej - rozumie się przez to operatora platformy, z wyjątkiem wyłączonego operatora platformy, będącego rezydentem do celów podatkowych w Rzeczypospolitej Polskiej albo innym państwie członkowskim, a w przypadku gdy operator platformy nie ma rezydencji do celów podatkowych w państwie członkowskim - operatora platformy, który:
+    a) jest zarejestrowany w państwie członkowskim, przy czym nie stanowi rejestracji dokonanie jednorazowej rejestracji zgodnie z art. 75u ust. 1, lub
+    b) posiada miejsce zarządu, w tym faktyczny zarząd, w państwie członkowskim, lub
+    c) posiada zagraniczny zakład w państwie członkowskim i nie jest kwalifikowanym operatorem platformy spoza Unii Europejskiej;
+  17) skutecznej kwalifikującej umowie - rozumie się przez to umowę między państwem członkowskim a państwem lub terytorium spoza Unii Europejskiej przewidującą automatyczną wymianę informacji równoważnych informacjom, o których mowa w art. 75c, jeżeli w akcie wykonawczym Komisji Europejskiej, o którym mowa w art. 8ac ust. 7 dyrektywy 2011/16/UE, potwierdzono równoważność tych informacji;
+  18) sprzedawcy - rozumie się przez to użytkownika platformy będącego osobą fizyczną albo podmiotem, który w dowolnym momencie okresu sprawozdawczego jest zarejestrowany na platformie i wykonuje stosowną czynność;
+  19) sprzedawcy podlegającym raportowaniu - rozumie się przez to aktywnego sprzedawcę niebędącego wyłączonym sprzedawcą, który jest rezydentem w państwie uczestniczącym lub udostępnił nieruchomość położoną w państwie uczestniczącym;
+  20) stosownej czynności - rozumie się przez to jedną z poniższych czynności wykonywaną za wynagrodzeniem:
+    a) udostępnienie nieruchomości, ich części, w tym pomieszczeń przynależnych, lub udziału w nieruchomościach,
+    b) usługę świadczoną osobiście obejmującą pracę wykonywaną w trybie zadaniowym lub czasowym przez osobę fizyczną działającą niezależnie albo na rzecz lub w imieniu podmiotu, wykonywaną na żądanie użytkownika online lub fizycznie offline po umożliwieniu jej wykonania za pośrednictwem platformy,
+    c) sprzedaż towarów,
+    d) udostępnienie środka transportu
+  - z wyjątkiem czynności wykonywanej przez sprzedawcę będącego pracownikiem raportującego operatora platformy lub podmiotu powiązanego raportującego operatora platformy;
+  21) TIN - rozumie się przez to numer identyfikacyjny podatnika, a w przypadku braku takiego numeru - jego funkcjonalny odpowiednik, stosowany przez państwo rezydencji do identyfikacji osoby fizycznej lub podmiotu w celach podatkowych, w tym NIP lub PESEL;
+  22) towarach - rozumie się przez to rzeczy w rozumieniu art. 45 ustawy z dnia 23 kwietnia 1964 r. - Kodeks cywilny;
+  23) wyłączonym operatorze platformy - rozumie się przez to operatora platformy, który wskazał właściwemu organowi, że przyjęty model biznesowy platformy nie obejmuje sprzedawców podlegających raportowaniu;
+  24) wyłączonym sprzedawcy - rozumie się przez to sprzedawcę:
+    a) będącego:
+      – rządem państwa uczestniczącego lub innego państwa lub terytorium,
+      – jednostką terytorialną niższego szczebla państwa uczestniczącego lub innego państwa lub terytorium, w tym stanem, prowincją, okręgiem lub gminą,
+      – agencją lub instytucją będącymi w całości własnością rządu lub jednostki terytorialnej, o których mowa w tiret pierwszym i drugim, lub
+    - agencją lub instytucją państwa uczestniczącego lub innego państwa lub terytorium będącymi w całości własnością danego państwa lub terytorium,
+    b) będącego podmiotem, którego akcje są przedmiotem regularnego obrotu na regulowanym rynku papierów wartościowych, lub podmiotem powiązanym podmiotu, którego akcje są przedmiotem takiego obrotu, lub
+    c) będącego podmiotem, któremu operator platformy umożliwił w okresie sprawozdawczym wykonanie ponad 2000 stosownych czynności dotyczących udostępnienia nieruchomości wchodzących w skład grupy obiektów, lub
+    d) któremu operator platformy umożliwił w okresie sprawozdawczym wykonanie mniej niż 30 stosownych czynności dotyczących sprzedaży towarów, jeżeli łączne wynagrodzenie w tym okresie na jego rzecz nie przekroczyło równowartości 2000 euro;
+  25) wynagrodzeniu - rozumie się przez to zapłatę, w dowolnej formie, pomniejszoną o składki, opłaty, prowizje lub podatki zatrzymane lub pobrane przez operatora platformy, dokonaną lub uznaną na rzecz sprzedawcy w związku z wykonywaniem stosownej czynności, jeżeli wartość pieniężna tej zapłaty jest znana operatorowi platformy albo operator platformy jest w stanie ustalić tę wartość w rozsądny sposób.
+2. Nie stanowi platformy oprogramowanie, które, nie ingerując w wykonywanie stosownej czynności, umożliwia wyłącznie:
+  1) przetwarzanie płatności w odniesieniu do stosownej czynności lub
+  2) wystawianie przez użytkowników ofert lub reklamowanie przez nich stosownej czynności, lub
+  3) przekierowywanie lub przenoszenie użytkowników na platformę.
+3. Podmiot jest podmiotem powiązanym, o którym mowa w ust. 1 pkt 20 i pkt 24 lit. b, innego podmiotu, jeżeli jeden z podmiotów kontroluje drugi podmiot lub obydwa podmioty pozostają pod wspólną kontrolą, przy czym:
+  1) kontrola obejmuje posiadanie, bezpośrednio lub pośrednio, ponad 50 % praw głosu lub 50 % udziałów w kapitale w danym podmiocie;
+  2) w przypadku udziału pośredniego wymóg posiadania ponad 50 % udziałów w kapitale lub praw głosu drugiego podmiotu ustala się, mnożąc wysokości udziałów na kolejnych poziomach;
+  3) uznaje się, że osoba posiadająca ponad 50 % praw głosu posiada 100 % tych praw.
+4. Raportujący operator platformy z Unii Europejskiej będący rezydentem do celów podatkowych w innym niż Rzeczpospolita Polska państwie członkowskim nie jest obowiązany do wypełniania obowiązków określonych w niniejszym dziale.
+5. Kwotę, o której mowa w ust. 1 pkt 24 lit. d, oraz wyrażoną w euro albo w innej walucie obcej wartość wynagrodzenia przelicza się na złote według średniego kursu tych walut ogłoszonego przez Narodowy Bank Polski na pierwszy dzień roboczy okresu sprawozdawczego.
+6. Minister właściwy do spraw finansów publicznych corocznie ogłasza, w terminie do dnia 31 grudnia, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, listę państw i terytoriów, o których mowa w ust. 1 pkt 11 lit. b i c, która obowiązuje za okres sprawozdawczy, w którym ta lista została ogłoszona.
+
+### Rozdział 2 — Procedury sprawozdawcze
+
+**Art. 75b.**
+1. Raportujący operator platformy przekazuje Szefowi Krajowej Administracji Skarbowej zbiorczą informację o sprzedawcach podlegających raportowaniu za okres sprawozdawczy, zwaną dalej „informacją o sprzedawcach”, w terminie do końca miesiąca następującego po zakończeniu okresu sprawozdawczego, w którym raportujący operator platformy zidentyfikował sprzedawcę jako sprzedawcę podlegającego raportowaniu.
+2. Informacja o sprzedawcach jest tworzona na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+3. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy - Ordynacja podatkowa obejmuje również upoważnienie do podpisywania informacji o sprzedawcach.
+4. Wyłączony operator platformy najpóźniej w dniu rozpoczęcia działalności jako operator platformy oraz w terminie do końca miesiąca następującego po zakończeniu okresu sprawozdawczego wskazuje w informacji o sprzedawcach, że przyjęty model biznesowy platformy nie obejmuje sprzedawców podlegających raportowaniu.
+5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób przesyłania za pomocą środków komunikacji elektronicznej informacji o sprzedawcach, uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w informacji o sprzedawcach oraz potrzebę jej ochrony przed nieuprawnionym dostępem.
+
+**Art. 75c.** Informacja o sprzedawcach zawiera:
+1) dane identyfikujące raportującego operatora platformy:
+  a) nazwę i główny adres,
+  b) TIN, numer identyfikacji VAT, jeżeli jest dostępny, oraz indywidualny numer operatora platformy, o którym mowa w art. 75v ust. 1, jeżeli został nadany,
+  c) nazwę platformy, w odniesieniu do której raportujący operator platformy przekazuje informację o sprzedawcach;
+2) informacje dotyczące wyłączonego operatora platformy - w przypadku, o którym mowa w art. 75b ust. 4:
+  a) nazwę,
+  b) główny adres,
+  c) adres elektroniczny oraz adresy stron internetowych,
+  d) TIN, jeżeli jest dostępny,
+  e) wskazanie, że przyjęty model biznesowy platformy nie obejmuje sprzedawców podlegających raportowaniu;
+3) dane identyfikujące sprzedawcę podlegającego raportowaniu będącego osobą fizyczną:
+  a) imię i nazwisko,
+  b) główny adres,
+  c) każdy TIN nadany sprzedawcy i państwo uczestniczące jego nadania, a w przypadku braku TIN - miejsce urodzenia sprzedawcy,
+  d) numer identyfikacji VAT, jeżeli jest dostępny,
+  e) datę urodzenia;
+4) dane identyfikujące sprzedawcę podlegającego raportowaniu będącego podmiotem:
+  a) nazwę,
+  b) główny adres,
+  c) każdy TIN nadany sprzedawcy i państwo uczestniczące jego nadania,
+  d) numer identyfikacji VAT, jeżeli jest dostępny,
+  e) numer we właściwym rejestrze podmiotów prowadzących działalność gospodarczą,
+  f) wskazanie każdego zagranicznego zakładu, za pośrednictwem którego są wykonywane na terytorium Unii Europejskiej stosowne czynności, oraz państwa członkowskiego, w którym znajduje się taki zagraniczny zakład, jeżeli takie dane są dostępne;
+5) informacje dotyczące sprzedawców podlegających raportowaniu, innych niż sprzedawcy wykonujący stosowną czynność dotyczącą udostępnienia nieruchomości:
+  a) identyfikator rachunku finansowego, jeżeli jest dostępny i jeżeli właściwy organ państwa uczestniczącego, którego rezydentem jest sprzedawca podlegający raportowaniu, nie ogłosił publicznie, że nie zamierza korzystać z identyfikatora rachunku finansowego,
+  b) imię i nazwisko albo firmę posiadacza rachunku finansowego, na który jest wpłacane wynagrodzenie lub na poczet którego jest ono uznawane, jeżeli są dostępne, a także inne informacje umożliwiające identyfikację tego posiadacza, jeżeli są dostępne - w przypadku gdy imię i nazwisko lub firma sprzedawcy są inne niż posiadacza rachunku finansowego,
+  c) państwo uczestniczące rezydencji,
+  d) wartość łącznego wynagrodzenia wypłaconego lub uznanego w każdym kwartale okresu sprawozdawczego oraz liczbę stosownych czynności, z tytułu których wynagrodzenie to zostało wypłacone lub uznane,
+  e) składki, prowizje lub podatki zatrzymane lub pobrane przez raportującego operatora platformy w każdym kwartale okresu sprawozdawczego;
+6) informacje dotyczące sprzedawców wykonujących stosowną czynność dotyczącą udostępnienia nieruchomości odrębnie dla każdej grupy obiektów:
+  a) w zakresie określonym w pkt 5:
+    – lit. a-c,
+    – lit. e,
+  b) adres grupy obiektów,
+  c) numery ksiąg wieczystych nieruchomości należących do grupy obiektów, jeżeli takie numery nadano, lub ich odpowiedniki nadane zgodnie z przepisami prawa państwa uczestniczącego, w którym są położone nieruchomości,
+  d) wartość łącznego wynagrodzenia wypłaconego lub uznanego w każdym kwartale okresu sprawozdawczego oraz liczbę stosownych czynności w odniesieniu do grupy obiektów,
+  e) liczbę dni, przez które grupa obiektów była udostępniana w okresie sprawozdawczym,
+  f) rodzaj grupy obiektów;
+7) dane pozwalające na identyfikację elektronicznej usługi identyfikacyjnej, o której mowa w art. 75l ust. 3 pkt 1 - w przypadku skorzystania z tej usługi.
+
+**Art. 75d.**
+1. Wartość łącznego wynagrodzenia wypłaconego lub uznanego w kwartale okresu sprawozdawczego jest prezentowana:
+  1) w walucie, w której wypłacono lub uznano wynagrodzenie w formie pieniężnej;
+  2) w złotych, po przeliczeniu lub wycenie wynagrodzenia wypłaconego lub uznanego w innej formie niż pieniężna, przy czym wyceny dokonuje się według jednolitych metod względem wszystkich sprzedawców w odniesieniu do wszystkich świadczeń niepieniężnych.
+2. Informacje o wynagrodzeniu są przekazywane w podziale na każdy kwartał okresu sprawozdawczego, w którym nastąpiła wypłata lub uznanie wynagrodzenia.
+
+**Art. 75e.** Raportujący operator platformy jest zwolniony z obowiązku przekazywania informacji o sprzedawcach, jeżeli posiada dowody potwierdzające, że inny raportujący operator platformy przekazał te informacje o sprzedawcach na podstawie:
+1) przepisów niniejszego działu albo
+2) przepisów prawa innego niż Rzeczpospolita Polska państwa członkowskiego wdrażających załącznik V dyrektywy 2011/16/UE, albo
+3) przepisów prawa państwa lub terytorium, z którym Rzeczpospolita Polska zawarła porozumienie stanowiące podstawę automatycznej wymiany informacji o sprzedawcach, jeżeli ten inny raportujący operator platformy nie spełnia warunków uznania go za raportującego operatora platformy spoza Unii Europejskiej.
+
+**Art. 75f.** Raportujący operator platformy spoza Unii Europejskiej jest zwolniony z obowiązku przekazywania informacji o sprzedawcach w zakresie kwalifikowanych stosownych czynności objętych skuteczną kwalifikującą umową, której stroną jest Rzeczpospolita Polska, przewidującą automatyczną wymianę informacji równoważnych informacjom o sprzedawcach podlegających raportowaniu będących rezydentami Rzeczypospolitej Polskiej i udostępniających nieruchomości położone na jej terytorium.
+
+**Art. 75g.** Raportujący operator platformy przekazuje sprzedawcy podlegającemu raportowaniu, w terminie określonym w art. 75b ust. 1, informację o sprzedawcach w zakresie, w jakim odnoszą się one do tego sprzedawcy. Przekazanie informacji o sprzedawcach następuje według jednolitego formatu określonego przez raportującego operatora platformy.
+
+**Art. 75h.**
+1. Raportujący operator platformy może skorygować przekazaną informację o sprzedawcach w terminie, o którym mowa w art. 75j.
+2. Korekta informacji o sprzedawcach obejmuje wyłącznie informacje w zakresie, w jakim przekazana informacja o sprzedawcach jest niepełna lub zawiera informacje błędne.
+3. Raportujący operator platformy przekazuje bezzwłocznie sprzedawcy podlegającemu raportowaniu korektę informacji o sprzedawcach w zakresie, w jakim odnoszą się one do tego sprzedawcy podlegającego raportowaniu. Przekazanie korekty informacji o sprzedawcach następuje według jednolitego formatu określonego przez raportującego operatora platformy.
+
+**Art. 75i.**
+1. Szef Krajowej Administracji Skarbowej wzywa operatora platformy, który nie przekazał informacji o sprzedawcach albo przekazał informację niepełną lub zawierającą informacje błędne, do jej złożenia albo skorygowania w terminie 30 dni od dnia doręczenia wezwania.
+2. W przypadku niezastosowania się operatora platformy do wezwania Szef Krajowej Administracji Skarbowej ponownie wzywa operatora platformy do złożenia informacji o sprzedawcach albo jej skorygowania w terminie 30 dni od dnia doręczenia wezwania.
+3. Do doręczania wezwań przepisy działu IV rozdziału 5 ustawy - Ordynacja podatkowa stosuje się odpowiednio.
+
+**Art. 75j.** Raportujący operator platformy jest obowiązany przechowywać informacje i dowody, o których mowa w art. 75c, art. 75g, art. 75k, art. 75l ust. 4, art. 75m i art. 75o-75q, przez okres 5 lat, licząc od końca roku, w którym upłynął termin przekazania informacji o sprzedawcach.
+
+### Rozdział 3 — Procedury należytej staranności
+
+**Art. 75k.** W celu ustalenia, czy sprzedawca jest wyłączonym sprzedawcą, o którym mowa w:
+1) art. 75a ust. 1 pkt 24 lit. a i b - raportujący operator platformy może opierać się na dostępnych publicznie informacjach lub potwierdzeniach uzyskanych od sprzedawcy będącego podmiotem;
+2) art. 75a ust. 1 pkt 24 lit. c i d - raportujący operator platformy może opierać się na dostępnej dokumentacji.
+
+**Art. 75l.**
+1. Raportujący operator platformy jest obowiązany dopełnić określonych w niniejszym dziale procedur gromadzenia i weryfikacji danych o sprzedawcach oraz uznawania sprzedawcy za rezydenta danego państwa, zwanych dalej w niniejszym dziale „procedurami należytej staranności”, w odniesieniu do aktywnych sprzedawców.
+2. Raportujący operator platformy jest obowiązany do gromadzenia informacji o aktywnych sprzedawcach w zakresie określonym w art. 75c pkt 3-6.
+3. Raportujący operator platformy jest zwolniony z obowiązku gromadzenia informacji o aktywnych sprzedawcach w zakresie określonym w:
+  1) art. 75c pkt 3 lit. b-e oraz pkt 4 lit. b-f - w przypadku gdy potwierdzenie tożsamości i rezydencji sprzedawcy jest dokonywane za pomocą elektronicznej usługi identyfikacyjnej udostępnionej przez państwo uczestniczące lub Unię Europejską w celu potwierdzenia tożsamości i rezydencji sprzedawcy;
+  2) art. 75c pkt 3 lit. c i pkt 4 lit. c oraz e - w przypadku gdy państwo uczestniczące rezydencji sprzedawcy nie wydaje sprzedawcy TIN ani numeru we właściwym rejestrze podmiotów prowadzących działalność gospodarczą lub nie wymaga gromadzenia TIN nadanego sprzedawcy.
+4. Jeżeli raportujący operator platformy umożliwił wykonanie ponad 2000 stosownych czynności poprzez udostępnienie grupy obiektów dla tego samego sprzedawcy będącego podmiotem, raportujący operator platformy jest obowiązany zgromadzić dokumenty, dane lub informacje potwierdzające, że poszczególne nieruchomości w ramach grupy obiektów stanowią własność tego samego podmiotu.
+5. Zwolnienie, o którym mowa w ust. 3 pkt 1, nie zwalnia raportującego operatora platformy z obowiązku przekazania tych informacji w informacji o sprzedawcach.
+
+**Art. 75m.**
+1. Raportujący operator platformy weryfikuje, czy zgromadzone informacje o aktywnych sprzedawcach w zakresie określonym w art. 75c pkt 3 i pkt 4 lit. a-e oraz informacje zgromadzone zgodnie z art. 75k i art. 75l ust. 4 są wiarygodne, korzystając z informacji i dokumentów dostępnych temu raportującemu operatorowi platformy w ramach prowadzonej działalności, a także z oprogramowania interfejsowego udostępnianego nieodpłatnie przez państwo uczestniczące lub Unię Europejską w celu sprawdzenia ważności TIN lub numeru identyfikacji VAT.
+2. Obowiązek weryfikacji informacji, o którym mowa w ust. 1, uznaje się za spełniony również wtedy, gdy raportujący operator platformy zweryfikował te informacje, korzystając ze swojej dokumentacji, którą może przeszukać elektronicznie.
+
+**Art. 75n.**
+1. Raportujący operator platformy uznaje sprzedawcę za rezydenta w każdym państwie uczestniczącym, w którym rezydencja sprzedawcy została potwierdzona za pomocą elektronicznej usługi identyfikacyjnej, o której mowa w art. 75l ust. 3 pkt 1.
+2. Raportujący operator platformy uznaje sprzedawcę za rezydenta również w państwie uczestniczącym, w którym sprzedawca ma główny adres.
+3. Jeżeli TIN został nadany sprzedawcy w państwie uczestniczącym innym niż państwo uczestniczące, w którym sprzedawca ma główny adres, raportujący operator platformy uznaje sprzedawcę za rezydenta również tego innego państwa uczestniczącego.
+4. Jeżeli sprzedawca przekazał informacje o istnieniu zagranicznego zakładu, o którym mowa w art. 75c pkt 4 lit. f, raportujący operator platformy uznaje sprzedawcę za rezydenta również w państwie uczestniczącym, w którym istnieje ten zagraniczny zakład.
+
+**Art. 75o.**
+1. W celu gromadzenia informacji o aktywnych sprzedawcach w zakresie określonym w art. 75c pkt 3, 4, pkt 5 lit. a-c i pkt 6 lit. a tiret pierwsze, lit. b, c i f raportujący operator platformy jest obowiązany wystąpić do sprzedawcy o te informacje dotyczące tego sprzedawcy najpóźniej w dniu spełnienia przez tego sprzedawcę warunków uznania go za aktywnego sprzedawcę.
+2. Raportujący operator platformy jest obowiązany wystąpić do sprzedawcy, o którym mowa w art. 75a ust. 1 pkt 24 lit. d, w celu zgromadzenia informacji w zakresie określonym w art. 75c pkt 3, 4, pkt 5 lit. a-c i pkt 6 lit. a tiret pierwsze, lit. b, c i f najpóźniej w dniu przekroczenia przez sprzedawcę progów określonych w art. 75a ust. 1 pkt 24 lit. d, jeżeli operator potwierdził tożsamość tego sprzedawcy najpóźniej w dniu spełnienia przez niego warunków uznania go za aktywnego sprzedawcę.
+3. W celu weryfikacji informacji o aktywnych sprzedawcach w zakresie określonym w art. 75c pkt 3, 4, pkt 5 lit. a-c i pkt 6 lit. a tiret pierwsze, lit. b, c i f raportujący operator platformy może w każdym czasie wystąpić do sprzedawcy o te informacje.
+4. Jeżeli raportujący operator platformy nie otrzyma na podstawie ust. 1-3 informacji w terminie 20 dni od dnia wystąpienia, jest obowiązany ponownie wystąpić o te informacje. W sytuacji nieotrzymania tych informacji w wyznaczonym terminie operator platformy jest obowiązany niezwłocznie wystąpić ponownie o te informacje.
+5. Jeżeli sprzedawca, pomimo dwukrotnego ponowienia wystąpienia na podstawie ust. 4, nie przekaże raportującemu operatorowi platformy informacji w terminie 60 dni od dnia pierwotnego wystąpienia, raportujący operator platformy jest obowiązany wstrzymać wypłatę wynagrodzenia na rzecz sprzedawcy do momentu przekazania tych informacji przez sprzedawcę.
+6. Raportujący operator platformy blokuje możliwość wykonania stosownej czynności do momentu przekazania informacji przez sprzedawcę, w przypadku gdy nie istnieje możliwość wstrzymania wypłaty wynagrodzenia przez tego raportującego operatora platformy na podstawie ust. 5.
+
+**Art. 75p.**
+1. Raportujący operator platformy jest obowiązany dopełnić procedur należytej staranności do dnia:
+  1) 31 grudnia okresu sprawozdawczego;
+  2) 31 grudnia drugiego okresu sprawozdawczego - w przypadku sprzedawców, którzy byli zarejestrowani na platformie na dzień, w którym podmiot stał się raportującym operatorem platformy.
+2. Raportujący operator platformy może opierać się na procedurach należytej staranności przeprowadzonych w odniesieniu do poprzednich okresów sprawozdawczych, pod warunkiem że:
+  1) informacje o aktywnych sprzedawcach w zakresie określonym w art. 75c pkt 3 i 4 zgromadzono i zweryfikowano albo potwierdzono w ciągu ostatnich 36 miesięcy oraz
+  2) raportujący operator platformy nie ma podstaw, aby sądzić, że informacje o aktywnych sprzedawcach w zakresie określonym w art. 75c pkt 3 i 4 oraz informacje, o których mowa w art. 75k i art. 75l ust. 4, są niewiarygodne lub nieprawidłowe.
+
+**Art. 75q.** W przypadku gdy na podstawie informacji przekazanych przez właściwy organ państwa uczestniczącego w skierowanym do Szefa Krajowej Administracji Skarbowej wniosku dotyczącym sprzedawcy raportujący operator platformy ma powody sądzić, że informacja o aktywnym sprzedawcy w zakresie określonym w art. 75c pkt 3 i 4 oraz informacja, o której mowa w art. 75l ust. 4, mogą być nieprawidłowe, zwraca się do sprzedawcy o skorygowanie informacji, które uznano za nieprawidłowe, oraz przekazanie dokumentów, danych lub informacji, które są wiarygodne i pochodzą z niezależnych źródeł, w tym:
+1) ważnego dokumentu identyfikacyjnego wydanego przez właściwy organ władzy publicznej;
+2) aktualnego certyfikatu rezydencji podatkowej.
+
+**Art. 75r.**
+1. Skorzystanie przez raportującego operatora platformy z usług zewnętrznego usługodawcy w celu dopełnienia procedur należytej staranności nie wyłącza odpowiedzialności tego raportującego operatora platformy za nienależyte wykonanie tych obowiązków.
+2. Jeżeli inny operator platformy dopełnia procedur należytej staranności za raportującego operatora platformy w odniesieniu do tej samej platformy, ten inny operator platformy jest obowiązany dopełnić procedur należytej staranności, przy czym nie wyłącza to odpowiedzialności raportującego operatora platformy za nienależyte wykonanie tych obowiązków przez innego operatora platformy.
+
+**Art. 75s.** Dokumentację zgromadzoną do celów realizacji procedur należytej staranności raportujący operator platformy jest obowiązany przechowywać przez okres 5 lat, licząc od końca roku, w którym upłynął termin przekazania informacji o sprzedawcach.
+
+### Rozdział 4 — Procedury rejestracji operatorów platform
+
+**Art. 75t.**
+1. Jeżeli operator platformy niebędący rezydentem do celów podatkowych w państwie członkowskim spełnia warunki uznania go za raportującego operatora platformy z Unii Europejskiej jednocześnie w Rzeczypospolitej Polskiej i innym państwie członkowskim, może wybrać Rzeczpospolitą Polską jako państwo, w którym będzie wypełniać obowiązki określone w niniejszym dziale.
+2. Operator platformy, o którym mowa w ust. 1, jest obowiązany powiadomić Szefa Krajowej Administracji Skarbowej o dokonanym wyborze elektronicznie, za pomocą formularza rejestracyjnego zgodnie z art. 75u ust. 3-9.
+3. Raportujący operator platformy powiadamia o wyborze Rzeczypospolitej Polskiej pozostałe państwa członkowskie, w których spełnia warunki uznania za raportującego operatora platformy.
+4. Jeżeli operator platformy wybierze inne niż Rzeczpospolita Polska państwo członkowskie jako państwo, w którym będzie wypełniać obowiązki sprawozdawcze wynikające z sekcji III załącznika V dyrektywy 2011/16/UE, jest obowiązany powiadomić Szefa Krajowej Administracji Skarbowej o dokonanym wyborze elektronicznie, za pomocą formularza rejestracyjnego zgodnie z art. 75u ust. 5-9, przekazując następujące informacje:
+  1) nazwę;
+  2) główny adres;
+  3) adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), zwany dalej „adresem do doręczeń elektronicznych”;
+  4) adresy stron internetowych;
+  5) każdy TIN nadany raportującemu operatorowi platformy spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT;
+  6) państwo członkowskie, w którym będzie wypełniać obowiązki sprawozdawcze.
+5. Powiadomienia, o którym mowa w ust. 4, operator platformy dokonuje w terminie do dnia 31 stycznia roku następującego po zakończeniu okresu sprawozdawczego, w którym spełnił jeden z warunków uznania go za raportującego operatora platformy z Unii Europejskiej.
+
+**Art. 75u.**
+1. Jeżeli operator platformy spełnia warunki uznania go za raportującego operatora platformy spoza Unii Europejskiej jednocześnie w Rzeczypospolitej Polskiej i innym państwie członkowskim, może wybrać Rzeczpospolitą Polską jako państwo, w którym będzie wypełniać obowiązki określone w niniejszym dziale. W takim przypadku raportujący operator platformy spoza Unii Europejskiej dokonuje elektronicznie jednorazowej rejestracji za pomocą formularza rejestracyjnego, najpóźniej w dniu rozpoczęcia działalności jako operator platformy.
+2. Jeżeli raportujący operator platformy spoza Unii Europejskiej wybierze inne niż Rzeczpospolita Polska państwo członkowskie, jest obowiązany powiadomić Szefa Krajowej Administracji Skarbowej o dokonanym wyborze elektronicznie, za pomocą formularza rejestracyjnego, najpóźniej w dniu rozpoczęcia działalności jako operator platformy. Raportujący operator platformy spoza Unii Europejskiej, który dokonał powiadomienia, nie wykonuje pozostałych obowiązków określonych w niniejszym dziale.
+3. Formularz rejestracyjny zawiera:
+  1) informacje dotyczące raportującego operatora platformy:
+    a) nazwę,
+    b) główny adres,
+    c) adres do doręczeń elektronicznych,
+    d) adresy stron internetowych,
+    e) każdy TIN nadany raportującemu operatorowi platformy spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT,
+    f) informację o identyfikacji raportującego operatora platformy do celów podatku od towarów i usług lub podatku od wartości dodanej, zgodnie z tytułem XII rozdziałem 6 sekcją 2 i 3 dyrektywy 2006/112/WE Rady z dnia 28 listopada 2006 r. w sprawie wspólnego systemu podatku od wartości dodanej (Dz. Urz. UE L 347 z 11.12.2006, str. 1, z późn. zm.),
+    g) wskazanie państw członkowskich, których rezydentami są sprzedawcy podlegający raportowaniu;
+  2) informacje dotyczące pełnomocnika upoważnionego do podpisywania informacji o sprzedawcach oraz korekt formularza rejestracyjnego:
+    a) imię, nazwisko i datę urodzenia,
+    b) TIN, jeżeli jest dostępny,
+    c) w przypadku braku TIN - numer i serię paszportu lub innego dokumentu potwierdzającego tożsamość albo inny numer identyfikacyjny,
+    d) państwo wydania dokumentu, o którym mowa w lit. c,
+    e) dane pełnomocnika oraz dane wystawcy kwalifikowanego certyfikatu podpisu elektronicznego, zawarte w kwalifikowanym certyfikacie podpisu elektronicznego - w przypadku gdy pełnomocnik będzie opatrywał dokumenty kwalifikowanym podpisem elektronicznym,
+    f) numer PESEL pełnomocnika posługującego się podpisem zaufanym - w przypadku gdy nie są przekazywane dane, o których mowa w lit. e,
+    g) adres do doręczeń elektronicznych - w przypadku gdy pełnomocnikiem jest adwokat, radca prawny lub doradca podatkowy albo osoba, o której mowa w art. 138c § 2 ustawy - Ordynacja podatkowa,
+    h) numer telefonu,
+    i) adres poczty elektronicznej,
+    j) oświadczenie raportującego operatora platformy o upoważnieniu pełnomocnika do podpisywania informacji o sprzedawcach oraz korekt formularza rejestracyjnego.
+4. Do doręczania potwierdzenia nadania indywidualnego numeru operatora platformy, o którym mowa w art. 75v ust. 1, oraz innych pism w zakresie związanym ze stosowaniem przepisów art. 75w-75y oraz rozdziału 5 przepisy działu IV rozdziału 5 ustawy - Ordynacja podatkowa stosuje się odpowiednio.
+5. Formularz rejestracyjny jest sporządzany na podstawie wzoru dokumentu elektronicznego zamieszczonego w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+6. Raportujący operator platformy powiadamia niezwłocznie Szefa Krajowej Administracji Skarbowej o korekcie informacji zawartych w formularzu rejestracyjnym. Powiadomienia dokonuje się elektronicznie, za pomocą formularza rejestracyjnego, podając kompletne i aktualne dane.
+7. Pełnomocnictwo do podpisywania deklaracji składanej za pomocą środków komunikacji elektronicznej udzielone na podstawie przepisów działu III rozdziału 9a ustawy - Ordynacja podatkowa, obejmuje również upoważnienie do podpisywania formularza rejestracyjnego.
+8. Formularz rejestracyjny może być podpisany przez osobę uprawnioną do reprezentacji, przy czym w takim przypadku nie jest dopuszczalne podpisanie tego formularza przez pełnomocnika.
+9. Korekta formularza rejestracyjnego w zakresie ustanowienia pełnomocnika, o którym mowa w ust. 3 pkt 2, może być podpisana zgodnie z ust. 7 i 8.
+10. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób przesyłania za pomocą środków komunikacji elektronicznej formularza rejestracyjnego, uwzględniając potrzebę zapewnienia bezpieczeństwa, wiarygodności i niezaprzeczalności danych zawartych w tym formularzu oraz potrzebę jego ochrony przed nieuprawnionym dostępem.
+
+**Art. 75v.**
+1. Szef Krajowej Administracji Skarbowej w terminie 30 dni od dnia otrzymania formularza rejestracyjnego nadaje raportującemu operatorowi platformy indywidualny numer identyfikacyjny do celów sprawozdawczych, zwany dalej „indywidualnym numerem operatora platformy”.
+2. Szef Krajowej Administracji Skarbowej wydaje potwierdzenie nadania indywidualnego numeru operatora platformy niezwłocznie po jego nadaniu.
+
+**Art. 75w.** Szef Krajowej Administracji Skarbowej wydaje postanowienie o pozostawieniu formularza rejestracyjnego bez rozpatrzenia, w przypadku gdy:
+1) brak jest możliwości potwierdzenia tożsamości lub istnienia raportującego operatora platformy;
+2) stwierdzono, że przekazany formularz rejestracyjny nie spełnia wymogów określonych dla tego formularza;
+3) istnieje uzasadnione przypuszczenie, że dane przekazane na formularzu rejestracyjnym są fałszywe lub fikcyjne;
+4) raportującemu operatorowi platformy został już nadany indywidualny numer operatora platformy albo nadano numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE w innym państwie członkowskim;
+5) raportujący operator platformy nie spełnia warunków uznania go za raportującego operatora platformy spoza Unii Europejskiej;
+6) raportującemu operatorowi platformy cofnięto indywidualny numer operatora platformy na podstawie art. 75y ust. 1 pkt 4 i nie złożył on kaucji gwarancyjnej zgodnie z art. 75y ust. 3 lub inne państwo członkowskie cofnęło raportującemu operatorowi platformy numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE.
+
+**Art. 75x.**
+1. Szef Krajowej Administracji Skarbowej unieważnia z urzędu, w drodze decyzji, indywidualny numer operatora platformy, w przypadku gdy:
+  1) raportującemu operatorowi platformy został uprzednio nadany indywidualny numer operatora platformy albo numer identyfikacyjny do celów sprawozdawczych zgodnie z dyrektywą 2011/16/UE w innym państwie członkowskim;
+  2) indywidualny numer operatora platformy nadano na podstawie fałszywych lub fikcyjnych danych.
+2. Nie można posługiwać się unieważnionym indywidualnym numerem operatora platformy, a unieważniony indywidualny numer operatora platformy nie może zostać ponownie nadany.
+
+**Art. 75y.**
+1. Szef Krajowej Administracji Skarbowej cofa, w drodze decyzji, indywidualny numer operatora platformy, w przypadku gdy:
+  1) raportujący operator platformy powiadomi Szefa Krajowej Administracji Skarbowej zgodnie z art. 75u ust. 5-8 o zaprzestaniu prowadzenia działalności jako operator platformy, przekazując w formularzu rejestracyjnym następujące dane:
+    a) nazwę,
+    b) główny adres,
+    c) adres do doręczeń elektronicznych,
+    d) każdy TIN nadany raportującemu operatorowi platformy spoza Unii Europejskiej oraz, jeżeli jest dostępny, numer identyfikacji VAT,
+    e) datę zaprzestania prowadzenia działalności jako operator platformy;
+  2) mimo braku powiadomienia, o którym mowa w pkt 1, istnieje uzasadnione przypuszczenie, że działalność podmiotu jako raportującego operatora platformy została zakończona;
+  3) podmiot przestał spełniać warunki uznania go za raportującego operatora platformy spoza Unii Europejskiej;
+  4) raportujący operator platformy nie zrealizował obowiązku, o którym mowa w art. 75b ust. 1, pomimo wezwania, o którym mowa w art. 75i.
+2. Nie można posługiwać się cofniętym indywidualnym numerem operatora platformy, a cofnięty indywidualny numer operatora platformy nie może zostać ponownie nadany.
+3. Ponowne nadanie indywidualnego numeru operatora platformy operatorowi platformy, któremu cofnięto taki numer na podstawie ust. 1 pkt 4, jest dopuszczalne po złożeniu Szefowi Krajowej Administracji Skarbowej kaucji gwarancyjnej w wysokości 1 000 000 zł.
+4. Kaucję gwarancyjną składa się w formie:
+  1) depozytu pieniężnego lub
+  2) gwarancji bankowych, lub
+  3) obligacji Skarbu Państwa co najmniej o trzyletnim terminie wykupu.
+5. Kaucja gwarancyjna jest utrzymywana do momentu:
+  1) wykonania przez operatora platformy obowiązku, o którym mowa w art. 75b ust. 1 lub 4;
+  2) zakończenia prowadzenia działalności, z którą wiąże się nadanie indywidualnego numeru operatora platformy.
+6. Od złożonej kaucji gwarancyjnej nie są naliczane odsetki.
+7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób i tryb przyjmowania i zwrotu kaucji gwarancyjnej, uwzględniając konieczność zapewnienia prawidłowego udokumentowania przyjęcia i zwrotu kaucji.
+
+**Art. 75z.**
+1. W zakresie nieuregulowanym w niniejszym rozdziale do postępowań w sprawie pozostawienia formularza rejestracyjnego bez rozpatrzenia, unieważnienia i cofnięcia indywidualnego numeru operatora platformy stosuje się odpowiednio przepisy działu IV ustawy - Ordynacja podatkowa.
+2. W zakresie wydawania potwierdzeń nadania indywidualnego numeru operatora platformy stosuje się odpowiednio przepisy działu VIIIA ustawy - Ordynacja podatkowa.
+3. Decyzja o unieważnieniu indywidualnego numeru operatora platformy oraz decyzja o cofnięciu indywidualnego numeru operatora platformy są natychmiast wykonalne.
+
+### Rozdział 5 — Kontrola raportujących operatorów platform
+
+**Art. 75za.** Szef Krajowej Administracji Skarbowej przeprowadza kontrolę wykonywania przez raportującego operatora platformy obowiązków w zakresie stosowania procedur należytej staranności oraz obowiązków sprawozdawczych określonych w niniejszym dziale, zwaną dalej w niniejszym dziale „kontrolą”.
+
+**Art. 75zb.**
+1. Z czynności kontrolnych sporządza się protokół kontroli. Kontrolowany, który nie zgadza się z ustaleniami kontroli zawartymi w protokole, może w terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne dowody.
+2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w ust. 1, i w terminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego o sposobie ich załatwienia, wskazując w szczególności, które zastrzeżenia nie zostały uwzględnione, wraz z uzasadnieniem faktycznym i prawnym.
+3. W przypadku niezłożenia zastrzeżeń lub wyjaśnień w terminie określonym w ust. 1, przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli.
+4. Kontrola kończy się wraz z doręczeniem kontrolowanemu wyniku kontroli.
+5. Wynik kontroli sporządza się na podstawie protokołu kontroli, zastrzeżeń lub wyjaśnień oraz zawiadomienia o sposobie ich załatwienia.
+6. Wynik kontroli zawiera:
+  1) oznaczenie kontrolującego;
+  2) oznaczenie kontrolowanego;
+  3) datę wydania;
+  4) podstawę prawną;
+  5) opis przebiegu kontroli;
+  6) końcowe ustalenia i wnioski zawierające informację o stwierdzeniu nieprawidłowości albo ich braku;
+  7) wskazanie terminu usunięcia nieprawidłowości, jeżeli zostały stwierdzone;
+  8) podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego, a jeżeli wynik kontroli został wydany w formie dokumentu elektronicznego - kwalifikowany podpis elektroniczny, podpis zaufany albo podpis osobisty tej osoby.
+7. Termin, o którym mowa w ust. 6 pkt 7, nie może być krótszy niż miesiąc ani dłuższy niż 6 miesięcy, licząc od dnia doręczenia wyniku kontroli.
+8. Kontrolowany jest obowiązany poinformować Szefa Krajowej Administracji Skarbowej o sposobie usunięcia stwierdzonych nieprawidłowości lub przyczynach ich nieusunięcia bez zbędnej zwłoki, nie później jednak niż w terminie 14 dni, licząc od dnia upływu wyznaczonego terminu ich usunięcia.
+
+**Art. 75zc.**
+1. W przypadku wystąpienia uchybień lub nieprawidłowości, których wyjaśnienie nie wymaga przeprowadzenia kontroli, raportujący operator platformy, na pisemne żądanie Szefa Krajowej Administracji Skarbowej, jest obowiązany do udzielenia informacji niezbędnych do ich wyjaśnienia.
+2. W żądaniu, o którym mowa w ust. 1, określa się zakres żądanych informacji oraz termin ich przekazania, nie krótszy jednak niż 14 dni, licząc od dnia doręczenia żądania.
+
+**Art. 75zd.** W zakresie nieuregulowanym w niniejszym rozdziale do kontroli stosuje się odpowiednio przepisy działu IV rozdziału 1, z wyłączeniem art. 127 i art. 128, rozdziału 2, rozdziału 3, z wyłączeniem art. 133 i art. 133a, rozdziału 3a, rozdziału 4, z wyłączeniem art. 139, rozdziałów 5, 6, 9-11, 14, 16, 22 i 23 oraz działu VI, z wyłączeniem art. 281, art. 282a, art. 291 i art. 292, ustawy - Ordynacja podatkowa.
+
+### Rozdział 6 — Obowiązki organu
+
+**Art. 75ze.**
+1. Szef Krajowej Administracji Skarbowej przekazuje, w terminie 2 miesięcy od zakończenia okresu sprawozdawczego, w drodze automatycznej wymiany, informacje odnoszące się do sprzedawcy podlegającego raportowaniu określone w art. 75c właściwemu organowi państwa uczestniczącego, którego rezydentem jest sprzedawca podlegający raportowaniu, a w przypadku sprzedawcy podlegającego raportowaniu, który świadczy usługi udostępnienia nieruchomości - także właściwemu organowi państwa uczestniczącego, w którym położona jest nieruchomość.
+2. Szef Krajowej Administracji Skarbowej przekazuje do centralnego rejestru, o którym mowa w art. 75zf ust. 2, informacje, o których mowa w art. 75c pkt 2.
+3. Automatyczna wymiana informacji, o których mowa w ust. 1, odbywa się:
+  1) w przypadku państw członkowskich - za pomocą środków komunikacji elektronicznej, według formatu określonego w rozporządzeniu Komisji (UE) nr 2015/2378;
+  2) w przypadku państw uczestniczących innych niż państwa członkowskie - za pomocą środków komunikacji elektronicznej, według formatu ustalonego przez ministra właściwego do spraw finansów publicznych na podstawie wymagań oraz standardów określonych przez OECD w zakresie obowiązkowej automatycznej wymiany informacji o sprzedawcach.
+4. Szef Krajowej Administracji Skarbowej, w celu usprawnienia współpracy, może zawierać z właściwym organem innego państwa uczestniczącego porozumienia dwustronne lub wielostronne w zakresie szczegółowego sposobu i trybu wymiany informacji o sprzedawcach.
+
+**Art. 75zf.**
+1. Szef Krajowej Administracji Skarbowej powiadamia właściwe organy państw członkowskich oraz Komisję Europejską o indywidualnym numerze operatora platformy.
+2. Szef Krajowej Administracji Skarbowej zwraca się do Komisji Europejskiej o skreślenie raportującego operatora platformy z prowadzonego przez nią centralnego rejestru w przypadku unieważnienia indywidualnego numeru operatora platformy, o którym mowa w art. 75x ust. 1, albo cofnięcia indywidualnego numeru operatora platformy, o którym mowa w art. 75y ust. 1.
+3. Szef Krajowej Administracji Skarbowej powiadamia Komisję Europejską o raportującym operatorze platformy, który nie dopełnił obowiązku jednorazowej rejestracji zgodnie z art. 75u ust. 1.
+4. Powiadomienia dokonuje się niezwłocznie po powzięciu uzasadnionego przypuszczenia o prowadzeniu przez podmiot działalności jako raportujący operator platformy.
+
 ## Dział IV — Automatyczna wymiana informacji o interpretacjach podatkowych i decyzjach w sprawach cen transakcyjnych
 
 **Art. 76.** Ilekroć w niniejszym dziale jest mowa o:
